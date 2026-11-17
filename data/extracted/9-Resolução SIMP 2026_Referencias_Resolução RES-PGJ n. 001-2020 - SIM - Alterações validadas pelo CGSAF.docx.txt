@@ -1,0 +1,317 @@
+DOCUMENTO: 9-Resolução SIMP 2026\Referencias\Resolução RES-PGJ n. 001-2020 - SIM - Alterações validadas pelo CGSAF.docx
+PASTA: 9-Resolução SIMP 2026
+TAMANHO: 0.03 MB
+
+RESOLUÇÃO PGJ Nº 01/2020 (Republicada por incorreção)
+
+Ementa: Dispõe sobre o funcionamento e a utilização do Sistema de Informações do Ministério Público - SIM no âmbito do Ministério Público do Estado de Pernambuco.
+
+O PROCURADOR-GERAL DE JUSTIÇA, no uso das suas atribuições legais que lhe são conferidas pelo artigo 9º, inciso V, da Lei Complementar nº 12/94, e alterações posteriores.
+
+CONSIDERANDO o disposto no inciso LXXVIII do art. 5º da Constituição da República Federativa do Brasil, que assegura a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação;
+
+CONSIDERANDO os benefícios advindos da substituição da tramitação de autos em meio físico pelo eletrônico, como instrumento de celeridade e qualidade da prestação dos serviços;
+
+CONSIDERANDO a necessidade de modernizar a gestão e a tramitação eletrônica de processos extrajudiciais, bem como agilizar os processos de trabalho no âmbito do MPPE;
+
+CONSIDERANDO a busca permanente pela racionalização dos recursos orçamentários; 
+
+RESOLVE:
+
+CAPÍTULO I – DAS DISPOSIÇÕES GERAIS
+
+Art. 1º Fica instituído o Sistema de Informações do Ministério Público - SIM como plataforma eletrônica para prática de atos dos procedimentos extrajudiciais eletrônicos no âmbito do Ministério Público do Estado de Pernambuco.
+
+Parágrafo único. A implantação do SIM nas unidades ministeriais dar-se-á de forma gradativa, conforme cronograma específico a ser disponibilizado todo início de mês.
+
+Art. 2º O SIM observará o conteúdo da tabela taxonômica e terminológica de classes, assuntos e movimentações processuais de que trata a Resolução CNMP nº 63, de 1º de dezembro de 2010 e suas alterações.
+
+Art. 3° As notícias de fato registradas e os procedimentos extrajudiciais instaurados até a data da implantação do SIM em cada órgão ministerial continuarão tramitando em formato físico, por meio do sistema Arquimedes, inclusive os respectivos incidentes e procedimentos conexos, até ulterior migração para o sistema SIM.
+
+Art. 4° O registro, a distribuição, o trâmite e o movimento de todos os procedimentos extrajudiciais iniciados a partir da implantação do SIM em cada unidade ministerial, incluindo Notícia de Fato, Procedimento Preparatório, Procedimento Administrativo e Inquérito Civil, previstos na Resolução CSMP n° 003/2019, e Procedimento Investigatório Criminal, previsto na Resolução CPJ n° 002/2018, deverão ser realizados por meio do SIM imediatamente após a conclusão da implantação do sistema em cada unidade ministerial.
+
+Parágrafo único. Após a implantação do SIM em cada unidade ministerial, não será mais permitida a criação de procedimentos extrajudiciais no sistema Arquimedes.
+
+Art. 5º Todos os documentos protocolados devem ser analisados e submetidos à triagem antes da primeira tramitação no sistema, de modo a evitar duplicidade de instauração, devendo o servidor competente verificar se o documento corresponde a um procedimento já existente.
+
+Art. 6° Todo documento protocolado no sistema SIM receberá número de registro constituído por três partes, a primeira será composta por cinco dígitos correspondentes à unidade ministerial, a segunda será um sequencial de dígitos e a terceira corresponderá ao ano vigente, gerando a sequência numérica xxxx.xxx.xxx/AAAA.
+
+Parágrafo único. Os documentos subsequentes gerados em razão de procedimentos já instaurados no SIM não geram novos números, devendo ser apenas vinculados ao número originário.
+
+Art. 7º Todos os campos do SIM são de preenchimento obrigatório no momento do registro de documento.
+
+Art. 8º A distribuição será realizada automaticamente pelo SIM.
+
+Parágrafo único. Tratando-se de Promotoria com atribuição única, a distribuição será vinculada.
+
+Art. 9° O acesso ao sistema SIM pelos membros e servidores do Ministério Público do Estado de Pernambuco se efetiva mediante login e senha funcionais.
+
+§ 1° O login e senha funcionais são pessoais e intransferíveis, cabendo aos usuários tê-los sob sua guarda e responsabilidade.
+
+§ 2° O acesso a funcionários terceirizados e estagiários somente será concedido mediante solicitação expressa do membro titular da unidade ministerial correspondente. 
+
+§ 3° A Secretaria de Tecnologia e Inovação (STI) manterá́ registro de auditoria quanto às informações lançadas no sistema SIM.
+
+Art. 10. É vedada a exclusão de qualquer processo ou tramitação do sistema SIM diretamente na base de dados.
+
+Parágrafo único. Em caso da necessidade da exclusão de qualquer documento inserido, o usuário deverá abrir um chamado junto à Central de Serviços.
+
+Art. 11. Após a conclusão da etapa de implantação na unidade ministerial, a equipe da Comissão do Processo Eletrônico (CPE) ficará responsável por elucidar dúvidas relativas à utilização das funcionalidades do SIM, dando suporte ao usuário até que seja concluída a implantação do SIM para todo o Ministério Público do Estado de Pernambuco.
+
+Art. 12. Competirá ao Comitê Gestor da área Fim (CGSAF), com apoio técnico da STI:
+
+I – zelar pela contínua adequação do SIM à legislação de gestão documental e aos padrões de uso e evolução do sistema;
+
+II – acompanhar a adequação do SIM, zelando pela qualidade das informações nele contidas;
+
+III – gerenciar as demandas referentes à criação, alteração e exclusão de assuntos, modelos, tipos de processos, documentos e afins;
+
+IV – definir ou redefinir, a partir das demandas recebidas, os níveis de acessos permitidos e sugeridos para cada tipo de processo, bem como assegurar a adequação do sistema às hipóteses legais de sigilo;
+
+V – realizar atualizações nas ferramentas em função de mudanças regulatórias junto ao Conselho Nacional do Ministério Público, sempre que pertinente;
+
+VI – realizar as demais ações inerentes à gestão negocial do sistema.
+
+Parágrafo único. Após a conclusão da etapa de implantação do sistema, caberá ao CGSAF a aprovação de modificações propostas pelos envolvidos na gestão do sistema SIM. 
+
+Art. 13. Competirá à STI:
+
+I – prover as condições necessárias de utilização do sistema, incluindo a sua manutenção e sustentação técnica, a disponibilização de hardware, software, redes de comunicação e profissionais especializados, bem como os aspectos relacionados à segurança de Tecnologia da Informação;
+
+II – assegurar a infraestrutura necessária à preservação dos documentos em suporte digital pelo prazo previsto na Tabela de Temporalidade de Documentos;
+
+III – prover as condições técnicas para que os usuários possam eventualmente realizar assinaturas com certificação digital emitida no âmbito da Infraestrutura de Chaves Públicas Brasileira – ICP Brasil;
+
+IV – viabilizar a instalação das atualizações lançadas pelo Conselho Nacional do Ministério Público;
+
+V – gerenciar demais configurações técnicas que se façam necessárias;
+
+VI – publicar relatório mensal e de indisponibilidade do sistema até o quinto dia útil do mês subsequente.
+
+Art. 14. Em caso de indisponibilidade do sistema ou situações excepcionais, devidamente justificadas por meio de relatório mensal a ser disponibilizado pela STI, poderão ser praticados atos urgentes, prioritariamente através de documentos produzidos manualmente, os quais deverão obrigatoriamente ser incluídos no sistema, imediatamente após o seu restabelecimento, certificando nos autos a devida ocorrência.
+
+CAPÍTULO II – DOS DOCUMENTOS
+
+Art. 15. O procedimento eletrônico é composto por:
+
+I - documentos nato-digitais, quando criado originariamente em meio eletrônico;
+
+II - documentos digitalizados, quando obtido a partir da conversão de um documento não digital em código digital;
+
+III - referências a documentos que não possibilitem conversão em formato digital e que devam ficar sob a guarda física do Ministério Público do Estado de Pernambuco.
+
+§ 1º Os documentos nato-digitais são considerados originais.
+
+§ 2º Os documentos digitalizados são considerados cópias simples.
+
+§ 3º Ressalvada a hipótese de alegação fundamentada de adulteração de documento original - antes ou durante o processo de digitalização - os extratos digitais e quaisquer documentos digitalizados juntados ao procedimento eletrônico têm idêntica força probante dos originais, conforme disposto no art. 11, § 1º, da Lei nº 11.419/2006.
+
+Art. 16. É responsabilidade daquele que realizar a juntada de documento digitalizado:
+
+I - conferir se o documento digitalizado está legível e se é a imagem fiel do original; e
+
+II - guardar seus originais, quando for o caso, com a referência do número do procedimento a que se refere, observando os prazos estabelecidos na Tabela de Temporalidade de Documentos do Ministério Público de Pernambuco.
+
+Parágrafo único. Na conferência, o responsável deverá registrar se foi apresentado documento original, documento original acompanhado de cópias, cópia autenticada em cartório ou administrativamente ou cópia não autenticada.
+
+Art. 17. Os documentos que ficarem ilegíveis ou cuja digitalização seja inviável, em razão do volume ou do formato, ficarão sob guarda física do Ministério Público de Pernambuco, mantendo referência no procedimento eletrônico.
+
+§ 1º A referência deverá conter a descrição completa do documento e a localização correspondente.
+
+§ 2º Os documentos que ficarem sob a guarda física do Ministério Público de Pernambuco serão mantidos em pasta própria, de cada procedimento, com a referência do número do procedimento eletrônico, observando os prazos estabelecidos na Tabela de Temporalidade de Documentos do Ministério Público de Pernambuco.
+
+Art. 18. Na impossibilidade de as partes assinarem digitalmente Termo de Declaração, Termo de Ajustamento de Conduta ou qualquer outro documento produzido no Ministério Público, o documento deverá ser impresso, assinado pelas partes no suporte físico (papel) e digitalizado em seguida.
+
+Parágrafo único. Os documentos citados no caput deverão ser digitalizados e arquivados na Promotoria de Justiça, em conjunto com os demais documentos originais ou autenticados do procedimento a que se referem, segundo Tabela de Temporalidade de Documentos do Ministério Público.
+
+Art. 19. As informações sobre os procedimentos eletrônicos estarão disponíveis para consulta pública na página do Ministério Público do Estado de Pernambuco, salvo o disposto em legislação para situações de sigilo.
+
+Parágrafo único. A disponibilização de documentos digitais a terceiros será feita, preferencialmente, por transmissão eletrônica.
+
+		CAPÍTULO III – DO ENVIO DE OFÍCIOS E NOTIFICAÇÕES
+
+Art. 20. O envio de ofícios e notificações deverá ser realizado preferencialmente por via eletrônica, por meio de correio eletrônico (e-mail) ou por meio do Sistema Eletrônico de Informações (SEI).
+
+§ 1º Antes de enviar ofício ou notificação por correio eletrônico, o servidor responsável deverá marcar a opção “solicitar comprovação de leitura”.
+
+§ 2º O registro do cumprimento da diligência pelo servidor deverá ser realizado logo após o envio do ofício ou da notificação.
+
+Art. 21. Considerar-se-á entregue o ofício e realizada a notificação no momento em que retornar a mensagem automática de confirmação de leitura.
+
+§ 1º Quando for determinado prazo para resposta no ofício ou notificação, ele deverá ser contado a partir da confirmação da leitura.
+
+§ 2º O prazo de confirmação da leitura deverá acontecer no máximo em dez dias corridos, sob pena de considerar-se a entrega do ofício ou a notificação automaticamente realizada na data do término desse prazo.
+
+§ 3º Em caráter informativo, poderá ser efetivada, ao término do prazo do parágrafo anterior, remessa de correspondência por outro meio idôneo, comunicando o envio da intimação e a abertura automática do prazo para resposta do ofício ou notificação.
+
+§ 4º O cartório deverá certificar a confirmação de leitura ou o transcurso do prazo para confirmação, que poderá ser feita mediante a juntada de captura das telas (print screen) dos e-mails, ou por meio de certidões circunstanciadas.
+
+Art. 22. A adesão, por parte das pessoas físicas ou jurídicas, ao procedimento de recebimento de ofícios e notificações por correio é voluntária.
+
+§ 1º Os interessados em aderir à modalidade descrita no caput deverão preencher o Termo de Adesão contido no Anexo I, informando o endereço de correio no qual deseja receber os ofícios e notificações.
+
+§ 2º O Termo de Adesão deverá ser disponibilizado na realização de atendimento pessoal.
+
+§ 3º Se houver mudança do endereço de correio eletrônico o aderente deverá informá-lo de imediato à Promotoria de Justiça, que deverá anexar tal informação ao termo já existente.
+
+§ 4º Ao aderir ao procedimento descrito no caput, o aderente declarará que:
+
+I - concorda com o recebimento de ofícios e notificações por meio de correio eletrônico;
+
+II – está ciente de que deverá confirmar o recebimento dos documentos, de forma que a Promotoria de Justiça tenha ciência;
+
+III – está ciente de que a forma preferencial de envio de respostas de diligências é pelo e-mail oficial da Promotoria de Justiça;
+
+IV – está ciente de que poderá receber ofícios e notificações referentes a procedimentos sigilosos;
+
+V – está ciente de que o Ministério Público, em nenhuma hipótese, solicita dados bancários, como conta corrente, cartão de crédito e senhas;
+
+VI – informará de imediato à Promotoria de Justiça se houver mudança do endereço de correio eletrônico.
+
+§ 5º No cadastro de sujeitos no SIM, deve ser informado se a pessoa aderiu ao Termo de Adesão para recebimento de notificações e ofícios por correio eletrônico.
+
+§6º Ao receber o Termo de Adesão assinado, a Promotoria de Justiça deverá armazená-lo, em ordem alfabética, em pasta física específica para tal fim.
+
+§ 7º Deverá ser enviada uma mensagem de confirmação de cadastramento por e-mail com a cópia ou fotografia do Termo de Adesão.
+
+Art. 23. As Promotorias de Justiça poderão implementar Termos de Cooperação no âmbito das suas Comarcas para troca de correspondências oficiais por meio eletrônico com:
+
+I - as chefias locais dos órgãos estaduais;
+
+II - as Prefeituras e suas Secretarias e os demais órgãos municipais.
+
+Parágrafo único. O Termo de Cooperação deverá ser elaborado conforme modelo constante no Anexo II.
+
+Art. 24. Os que não aderirem ao procedimento de envio de ofício e notificação por intermédio de correio eletrônico receberão os ofícios e/ou notificações pelos demais meios previstos em lei.
+
+Parágrafo único. Após digitalização e inserção no SIM, a contrafé deverá permanecer nos arquivos da Promotoria, em conjunto com os demais documentos originais ou autenticados do procedimento a que se refere, segundo Tabela de Temporalidade de Documentos do Ministério Público.
+
+Art. 25. Caso haja documentos que devam ser encaminhados em anexo ao ofício ou à notificação e que, pelo volume ou tamanho de arquivo, seja inviável o envio por meio de correio eletrônico, a Promotoria de Justiça deverá providenciar o envio por meio físico, com o devido registro no SIM.
+
+Art. 26. Caso o interessado não possua recursos próprios para enviar documentos eletronicamente, estes poderão ser entregues na secretaria da Promotoria de Justiça respectiva, para digitalização e inserção no sistema. 
+
+Parágrafo único. Os documentos entregues em suporte papel (meio físico) deverão ser digitalizados no prazo máximo de 5 (cinco) dias úteis e, se originais ou autenticados, deverão permanecer nos arquivos do setor responsável segundo Tabela de Temporalidade de Documentos do Ministério Público de Pernambuco.
+
+CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS
+
+Art. 27. A STI fornecerá à Corregedoria-Geral do Ministério Público relatórios de autos SIM para o exercício de sua atividade correcional.
+
+Art. 28. Compete ao Procurador-Geral de Justiça editar normas complementares ao disposto nesta Resolução.
+
+Art. 29 Os casos omissos serão dirimidos pela Procuradoria Geral de Justiça, com orientação do Comitê Gestor de Sistemas da Área Fim (CGSAF).
+
+Art. 30. Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+FRANCISCO DIRCEU BARROS
+
+Procurador Geral de Justiça
+
+ANEXO I
+
+TERMO DE ADESÃO A RECEBIMENTO DE OFÍCIOS E NOTIFICAÇÕES 
+
+POR CORREIO ELETRÔNICO (E-MAIL)
+
+Eu,_________________________________________________________(nome completo), RG/CPF nº_______________________, por este Termo, DECLARO:
+
+I – concordar em receber ofícios e notificações pelo e-mail___________________________________, e que confirmarei, em e-mail de resposta, a leitura das mensagens recebidas da Promotoria de Justiça; 
+
+II – estar ciente de que o prazo de confirmação da leitura deverá acontecer no máximo em dez dias corridos, sob pena de considerar-se a entrega do ofício ou a notificação automaticamente realizada na data do término desse prazo;
+
+III – estar ciente de que a forma preferencial de envio de respostas de diligências é por e-mail oficial da Promotoria de Justiça ou pelo Sistema Eletrônico de Informações-SEI, disponível no site oficial o Ministério Público do Estado de Pernambuco (http://www.mppe.mp.br/sei/);
+
+IV – estar ciente de que poderá receber ofícios e notificações referentes a procedimentos sigilosos;
+
+V – estar ciente de que o Ministério Público do Estado de Pernambuco, em nenhuma hipótese, solicita dados bancários, como conta corrente, cartão de crédito e senhas; e
+
+VI – que, se houver mudança do endereço de correio eletrônico ou do número de telefone, informarei de imediato à Promotoria de Justiça.
+
+O presente Termo poderá ser rescindido de pleno direito e a qualquer tempo, mediante comunicação à Promotoria de Justiça.
+
+___________________________________,
+
+Local e Data.
+
+___________________________________.
+
+Assinatura.
+
+* Você receberá uma cópia deste Termo pelo e-mail.
+
+ANEXO II
+
+TERMO DE COOPERAÇÃO
+
+Termo de Cooperação entre o MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, por intermédio da PROMOTORIA DE JUSTIÇA XXXX, e os órgãos públicos nominados no presente documento e os que a ele vierem a aderir, tendo por objeto a troca de correspondências oficiais por meio eletrônico. 
+
+O MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, por meio da XXXX PROMOTORIA DE JUSTIÇA XXXX, neste ato representada pelo(a) Promotor(a) de Justiça XXXX, celebram o presente Termo de Cooperação mediante as seguintes cláusulas e condições: 
+
+CONSIDERANDO a importância na racionalização de tarefas dos órgãos públicos, economia de gastos e tempo com deslocamentos de servidores, papel, eletricidade, recursos humanos e materiais; 
+
+CONSIDERANDO a necessidade de conferir maior eficácia na troca de correspondências entre entidades públicas, órgãos e Poderes, com a emissão rápida de informações e adoção de medidas céleres; 
+
+CONSIDERANDO, por fim, a necessidade de diminuir a emissão de resíduos sólidos ao meio ambiente, 
+
+FIRMAM o presente TERMO DE COOPERAÇÃO, mediante as seguintes cláusulas:
+
+CLÁUSULA PRIMEIRA – DO OBJETO
+
+O presente TERMO DE COOPERAÇÃO tem por objetivo emitir e receber correspondências oficiais, entre os partícipes, por meio eletrônico (e-mail ou Sistema Eletrônico de Informações-SEI).
+
+Parágrafo único.  São considerados endereços eletrônicos, para fins de realização do objetivo do Termo de Cooperação: 
+
+I – Promotoria de Justiça de XXXXX: XXXXXXXXXXX@mppe.mp.br
+
+II - Órgão XXX: xxxx@xxxx
+
+CLÁUSULA SEGUNDA – DAS RESPONSABILIDADES DOS PARTÍCIPES
+
+Os partícipes concordam com as seguintes condições: 
+
+I - expedir e receber, entre si, correspondências oficiais por meio eletrônico (e-mail ou Sistema Eletrônico de Informações-SEI);
+
+II - as mensagens deverão obedecer ao caráter oficial quanto aos conteúdos; 
+
+III – as mensagens encaminhadas em resposta a solicitações do MPPE deverão, preferencialmente, ser direcionadas ao e-mail oficial da Promotoria de Justiça ou protocoladas por meio do Sistema Eletrônico de Informações-SEI, disponível na internet (http://www.mppe.mp.br/sei/);
+
+IV - a emissão de correspondência por meio eletrônico pressupõe a anuência da autoridade encarregada da assinatura do documento; 
+
+V - o prazo de confirmação da leitura deverá acontecer no máximo em dez dias corridos, sob pena de considerar-se a entrega do ofício ou a notificação automaticamente realizada na data do término desse prazo;
+
+VI - (outras cláusulas acordadas localmente). 
+
+Parágrafo único.  Poderá a autoridade emissora, se assim entender ou nos casos de ausência de resposta no prazo estipulado, enviar o documento por meio físico. 
+
+CLÁUSULA TERCEIRA – DO EVENTUAL ENVIO EM MEIO FÍSICO
+
+Os partícipes manterão o sistema de envio físico para volumes documentais cujas características os tornem inapropriados para o envio por meio eletrônico e para as correspondências que, por sua natureza, as autoridades entendam deverem ser assim enviadas. 
+
+CLÁUSULA QUARTA – DOS RECURSOS
+
+O presente Termo de Cooperação não envolve transferência de recursos financeiros e eventuais ajustes tecnológicos correrão por conta de cada partícipe. 
+
+CLÁUSULA QUINTA – DO PRAZO DE VIGÊNCIA
+
+O presente Termo de Cooperação vigerá por prazo indeterminado, contado a partir da data de sua assinatura. 
+
+CLÁUSULA SEXTA – DAS ALTERAÇÕES
+
+A qualquer tempo, de comum acordo, os partícipes poderão alterar as condições estabelecidas no presente Termo de Cooperação ou mesmo acrescentar novas condições, celebrando, para tanto, Termo Aditivo. 
+
+CLÁUSULA SÉTIMA – DA RESCISÃO
+
+O presente Termo de Cooperação poderá ser rescindido de pleno direito e a qualquer tempo por consenso, ou no caso de infração de qualquer das cláusulas e condições nele estipuladas, mediante prévia notificação escrita, em meio eletrônico, com antecedência mínima de 30 (trinta) dias, ou, ainda, face à superveniência de impedimento legal que o torne inexequível. 
+
+CLÁUSULA OITAVA – DAS DISPOSIÇÕES FINAIS
+
+E por estarem de acordo, os partícipes firmam o presente instrumento em 03 (três) vias de igual teor e forma, para que produza os efeitos legais. 
+
+XXXXXX, XX de XXXXX de 20XX.
+
+________________________________
+
+PROMOTOR DE JUSTIÇA
+
+________________________________
+
+ÓRGÃO PÚBLICO

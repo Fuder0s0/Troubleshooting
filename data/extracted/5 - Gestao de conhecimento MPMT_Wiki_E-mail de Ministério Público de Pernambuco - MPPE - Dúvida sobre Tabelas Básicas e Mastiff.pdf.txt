@@ -1,0 +1,178 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.48 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+9 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 16 de setembro de 2025 às 12:41
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+Prezado Daniel, como vai?
+Cumprimentando-o inicialmente, gostaríamos de verificar alguns pontos identificados na análise dos sistemas Mastiff e Tabelas Básicas.
+Poderia nos ajudar com essas informações, por gentileza?
+1. O lotacionograma do MPMT está integralmente replicado no SIMP4?
+https://www.mpmt.mp.br/transparencia/uploads/127/4159/2024/01/202401_estrutura_organizacional.pdf
+2. O serviço de consulta a Promotorias e Procuradorias, disponível no link abaixo, está conectado ao sistema Tabelas Básicas?
+https://mpmt.mp.br/transparencia/include.php?id=293&tipo=3
+3. Seria possível obtermos um dump parcial da base de testes do Tabelas Básicas? 
+Esse dump nos ajudaria muito a entender o modelo de dados e planejar com realizaremos os cadastros dos dados
+4. Seria possível obtermos um dump parcial da base de testes do Mastiff 
+Esse dump nos ajudaria muito a entender o modelo de dados e planejar com realizaremos os cadastros dos dados
+Não sendo possível este envio, seria viável, para a tabela dos perfis do SIMP4 em anexo enviada pra gente recentemente, informar também a lista de Permissões associadas a cada perfil.
+Tabela de perfis do SIMP4 em anexo.
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 1/6
+
+--- [Página 2] ---
+Ficamos mais uma vez gratos pela atenção!
+Atenciosamente
+MPMT - Lista de Perfis do SIMP4.xlsx
+10K
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 17 de setembro de 2025 às 17:15
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>
+Olá Lucio.
+Seguem as respostas:
+1- Não. No Simp o detalhamento é ligeiramente menor.
+2- Não. Essas informações são conectadas ao Athenas.
+3- Sobre os dumps, não há schema separado para Mastiff e Tabelas Básicas. Todo o conteúdo está no schema Simp.
+Se puder me dizer o que exatamente precisa, que então pegaríamos apenas essas tabelas.
+Aproveito e já envio a relação de Perfis e Permissões na tabela anexa.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: terça-feira, 16 de setembro de 2025 11:41
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 2/6
+
+--- [Página 3] ---
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+Assunto: MPPE - Dúvida sobre Tabelas Básicas e Mastiﬀ
+ 
+[Texto das mensagens anteriores oculto]
+PerfilPermissãoSimp.xlsx
+14K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 17 de setembro de 2025 às 22:00
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Felipe Maciel Ramos Vieira
+<felipe.ramos@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+@Lamartine Almeida Teixeira 
+Segue resposta do MPMT sobre a questão do dump.
+Seria possível formular o pedido para eles com o que a gente precisa exatamente? Tabelas, schemas específicos e afins.
+Na sequência, eu respondo para o MT.
+[Texto das mensagens anteriores oculto]
+PerfilPermissãoSimp.xlsx
+14K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 17 de setembro de 2025 às 22:01
+Para: Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Danielle Maria Lopes <danielle.maria@mppe.mp.br>, Mario Vieira da Silva Neto
+<mario.silva@mppe.mp.br>, "Nathália Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>, Simony Oliveira <msimony@mppe.mp.br>, Carlos Dias <carlos.dias@netra.global>, Haglay Alice Nunes Da
+Silva <haglay@mppe.mp.br>
+PSC
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Date: qua., 17 de set. de 2025 às 17:15
+Subject: RE: MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+To: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+PerfilPermissãoSimp.xlsx
+14K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 09:58
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 3/6
+
+--- [Página 4] ---
+Prezado Daniel, 
+Nesse caso, seria possível enviar um dump do schema Simp do ambiente de testes?
+Não precisaria ser um dump de todos os dados, mas de um conjunto de dados que contemple todo o schema, removendo-se eventuais informações sigilosas ou referências a tabelas externas.
+Atenciosamente
+Em qua., 17 de set. de 2025 às 17:15, Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> escreveu:
+Olá Lucio.
+Seguem as respostas:
+1- Não. No Simp o detalhamento é ligeiramente menor.
+2- Não. Essas informações são conectadas ao Athenas.
+3- Sobre os dumps, não há schema separado para Mastiff e Tabelas Básicas. Todo o conteúdo está no schema Simp.
+Se puder me dizer o que exatamente precisa, que então pegaríamos apenas essas tabelas.
+Aproveito e já envio a relação de Perfis e Permissões na tabela anexa.
+Grato pelo envio! Vai ajudar muito!
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 18 de setembro de 2025 às 11:55
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+Bom dia, Lucio.
+Nesse sentido, acredito que seja interessante uma call junto com nosso DBA.
+Ontem ele me informou que seriam em torno de 7TB de informação (já excluindo documentos PDF).
+Atenciosamente,
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 4/6
+
+--- [Página 5] ---
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 18 de setembro de 2025 08:58
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>; Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>; Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>; Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+Assunto: Re: MPPE - Dúvida sobre Tabelas Básicas e Mastiﬀ
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 12:23
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+Podemos agendar um call nesta próxima semana? 
+No dia e horário que for mais conveniente para vocês.
+Grato desde já.
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 18 de setembro de 2025 às 17:22
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+Seguem duas sugestões no horário de Brasília:
+- 23/09 às 16h
+- 24/09 às 16h
+Atenciosamente,
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 5/6
+
+--- [Página 6] ---
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 18 de setembro de 2025 11:23
+[Texto das mensagens anteriores oculto]
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 22:06
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+Dia 23/09 às 16h (horário de Brasília) está ótimo.
+Enviei um convite na agenda.
+Atenciosamente
+MPMT & MPPE - SIMP4
+Terça-feira, 23 de setembro · 16:00 – 16:45
+Fuso horário: America/Brasilia
+Como participar do Google Meet
+Link da videochamada: https://meet.google.com/myx-hjkh-vvg
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:22 E-mail de Ministério Público de Pernambuco - MPPE - Dúvida sobre Tabelas Básicas e Mastiff
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r753643181829360278&simpl=msg-a:r755295665046044407&simpl=msg-f:1843543555421952786&simpl=msg-a:r-847987… 6/6

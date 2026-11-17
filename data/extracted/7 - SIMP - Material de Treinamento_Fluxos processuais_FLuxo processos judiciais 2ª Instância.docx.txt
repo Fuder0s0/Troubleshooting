@@ -1,0 +1,99 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\FLuxo processos judiciais 2ª Instância.docx
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.54 MB
+
+Análise da Figura 1
+
+O fluxograma é intitulado "FLUXO DE TRABALHO PJe - 2º Grau e SIMP4" e tem como subtítulo "Interposição de recursos por Promotores de Justiça". Ele descreve o caminho de um processo no Ministério Público, envolvendo os sistemas PJe e SIMP4, focado na atuação de Promotores de Justiça.
+
+O fluxo se divide em duas áreas de trabalho:
+
+Coordenação / Centro Administrativo (Setor Administrativo): Este é o ponto de entrada do processo. As etapas são:
+
+Verificação diária: Uma ação de rotina onde o setor administrativo verifica se existem novos processos no sistema PJe;
+
+Consulta ao SIMP: Se um processo é encontrado no PJe, o setor consulta o sistema interno (SIMP) para saber se ele já foi cadastrado;
+
+Registro no SIMP: Caso o processo não exista no SIMP, ele é registrado eletronicamente, garantindo que o controle interno seja feito;
+
+Tramitação e distribuição: Após a verificação ou registro, o processo é tramitado e distribuído para o Promotor de Justiça correspondente.
+
+Gabinete do Promotor: Esta é a área de atuação do Promotor de Justiça. As etapas são:
+
+Recebimento do processo: O Promotor recebe o processo através do sistema SIMP4;
+
+Lançamento da manifestação no PJe: O Promotor elabora e insere sua manifestação jurídica diretamente no sistema PJe;
+
+Lançamento da manifestação no SIMP: Após a manifestação no PJe, ele repete a ação no SIMP, garantindo o registro interno do seu parecer;
+
+Tramitação para local externo: Finalmente, o processo é tramitado para fora do Ministério Público.
+
+*** Fim***
+
+Análise da Figura 2
+
+O fluxograma é intitulado "FLUXO DE ACESSO AO PJe" e tem como subtítulo "Ministério Público do Estado de Mato Grosso - PROCURADORIA GERAL DE JUSTIÇA". Ele detalha o fluxo de um processo focado na atuação de um Procurador de Justiça.
+
+O fluxo também se divide em duas áreas de trabalho:
+
+GAEXP (Setor Administrativo): Este é o setor administrativo responsável pelo acesso inicial. As etapas são:
+
+Verificação diária: O GAEXP verifica se há processos no PJe diariamente;
+
+Consulta ao SIMP: Se um processo é encontrado, o GAEXP consulta o SIMP para verificar se ele já está cadastrado;
+
+Registro no SIMP: Caso o processo não esteja cadastrado, o GAEXP o registra no SIMP;
+
+Tramitação e distribuição: O processo é então tramitado e distribuído para o Procurador(a) de Justiça.
+
+Gabinete do(a) Procurador(a): Esta é a área de atuação do Procurador(a) de Justiça. As etapas são:
+
+Recebimento do processo: O Procurador(a) recebe o processo no sistema SIMP;
+
+Lançamento da manifestação no PJe: O Procurador(a) elabora e insere sua manifestação jurídica no PJe;
+
+Encaminhamento ao GAEXP: Em um passo adicional, o processo é encaminhado de volta ao GAEXP para que seja remetido ao NARE (Núcleo de Assessoramento e Remessa);
+
+Lançamento da manifestação no SIMP: A manifestação também é registrada no SIMP;
+
+Tramitação para local externo: Por fim, o processo é encaminhado para um local externo.
+
+Diferenças entre os fluxos 1 e 2:
+
+O fluxograma 1 descreve o trabalho de Promotores de Justiça e é focado na "interposição de recursos".
+
+O fluxograma 2 descreve o fluxo de acesso ao PJe para Procuradores de Justiça e envolve a "Procuradoria Geral de Justiça".
+
+As principais diferenças entre os dois fluxos são:
+
+1. Nomenclatura dos Setores e Agentes
+
+Fluxo 1: O setor administrativo é chamado de "Coordenação / Centro Administrativo", e o agente jurídico é o "Promotor de Justiça".
+
+Fluxo 2: O setor administrativo é chamado de "GAEXP", e o agente jurídico é o "Procurador(a) de Justiça".
+
+2. Fluxo de Tramitação de Processos
+
+Fluxo 1: O processo flui do "Centro Administrativo" para o "Gabinete do Promotor" e, depois da manifestação, é tramitado para um "local externo" sem um retorno explícito ao setor administrativo.
+
+Fluxo 2: O processo flui do "GAEXP" para o "Gabinete do Procurador(a)". Após a manifestação, o processo é encaminhado de volta ao GAEXP, com a finalidade de ser remetido ao NARE (Núcleo de Assessoramento e Remessa). Esse passo adicional não existe no primeiro fluxograma.
+
+3. Foco da Atividade
+
+Fluxo 1: O foco principal é a "Interposição de recursos" pelo Promotor de Justiça.
+
+Fluxo 2: O foco é o "Acesso ao PJe" de uma maneira mais geral, indicando o fluxo que se segue a partir do momento em que um Procurador(a) de Justiça acessa um processo.
+
+Em resumo, o segundo fluxograma (2ª instância) apresenta uma estrutura de trabalho mais complexa, com um ciclo de retorno ao setor administrativo para um encaminhamento especializado (ao NARE), enquanto o primeiro fluxograma (1ª instância) é mais direto, sem esse passo intermediário.
+
+***Fim***
+
+Observamos que a tramitação de procedimentos na 2ª instância na Procuradoria de Caruaru tem o mesmo fluxo que os procedimentos de 1ª instância. - Simony
+
+Legendas (e comparativo com o que temos no MPPE):
+
+*GAEXP: local (ambiente) onde ocorre a distribuição para Procurador de ustiça, realizada em processos de 2ª instância pelo GAEXP;
+
+*NARE: é o "Núcleo de Assessoramento e Remessa";
+
+*CAAD: ambiente onde ocorre a distribuição dos procedimentos no SIMP4. CAAD: O CAAD (Módulo Administrativo) refere-se ao Centro de Apoio Administrativo. No SIMP, a tela "Gabinete Virtual" se transforma em "CAAD Virtual" para usuários desses centros, com ajustes e funcionalidades específicas. Existem perfis de usuário no CAAD, como o "Distribuidor" e o "Auxiliar".Perfil Distribuidor: Um usuário com perfil de supervisor ou coordenador do local, responsável por distribuir o serviço entre os servidores auxiliares do local. Perfil Auxiliar: Um usuário que trabalha nos cadastros, retornos externos e encaminhamento de protocolos/expedientes para os gabinetes.

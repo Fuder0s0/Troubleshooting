@@ -1,0 +1,103 @@
+DOCUMENTO: z_outrosDocumentos\4 - Integração Eleitoral\E_mail_de_Ministerio_Publico_de_Pernambuco___Integracao_PJe__TRE_PE__e_Sistema_de_Processos_Finalisticos__MPPE____Manuais_e_Orientacoes_Tecnicas.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 0.26 MB
+
+--- [Página 1] ---
+Eugênio José Batista Antunes <eantunes@mppe.mp.br>
+Integração PJe (TRE-PE) e Sistema de Processos Finalísticos (MPPE) - Manuais e Orientações
+Técnicas
+2 mensagens
+Marcos Cerqueira de Araujo Junior <marcos.cerqueira@tre-pe.jus.br> 5 de fevereiro de 2026 às 10:42
+Para: eantunes@mppe.mp.br
+Cc: Seção de Inteligência de Dados e de Processos Eletrônicos <seipe@tre-pe.jus.br>, Coordenadoria de Serviços de Tecnologia da
+Informação e Comunicação <coservtic@tre-pe.jus.br>, Assessoria de Ciência de Dados e Modernização de Tecnologia da Informação e
+Comunicação <ascitic@tre-pe.jus.br>, "aspje@tre-pe.jus.br" <aspje@tre-pe.jus.br>
+Prezado Eugênio Antunes,
+Bom dia.
+Em continuidade às tratativas referentes ao Ofício GPG nº 0029/2026, informamos que formalizamos ontem (04/02) a
+abertura de chamado junto à equipe técnica do Tribunal Superior Eleitoral (TSE).
+Em resposta recebida hoje (05/02), o TSE disponibilizou os manuais necessários para dar início ao processo de integração.
+Seguem anexos para análise de sua equipe técnica:
+1. Guia Inicial de Integração de Sistemas Externos: Apresenta o passo a passo inicial para a integração de sistemas
+judiciais externos com o PJe da Justiça Eleitoral;
+2. Livro Integração Órgãos Externos (Nativo): Documento técnico com detalhamento sobre conceitos, chaves de acesso
+e protocolos de comunicação.
+Conforme as orientações do TSE, as comunicações oficiais e solicitações de suporte — desde a criação do usuário de
+integração até eventuais ajustes pós-implementação — devem ser realizadas via ferramenta GSTI/TSE, pelo e-mail:
+8800@tse.jus.br.
+Ressaltamos que a STIC/TRE-PE permanece à disposição para acompanhar o processo. Pedimos a gentileza de nos manter
+em cópia nas comunicações com o TSE ou nos reportar qualquer dificuldade técnica, para que possamos atuar como
+interlocutores junto ao Tribunal Superior, se necessário.
+Atenciosamente,
+De: "ServiceDesk" <no-reply@tse.jus.br>
+Para: "Seção de Inteligência de Dados e de Processos Eletrônicos" <seipe@tre-pe.jus.br>
+Enviadas: Quinta-feira, 5 de fevereiro de 2026 9:14:17
+Assunto: TSE | GSTI - chamado 531213 respondido
+Texto alinhado à esquerda -->
+Prezado(a) sr.(a) SEIPE TRE-PE
+16/03/2026, 16:07 E-mail de Ministério Público de Pernambuco - Integração PJe (TRE-PE) e Sistema de Processos Finalísticos (MPPE) - Manu…
+https://mail.google.com/mail/u/0/?ik=4ba939b54a&view=pt&search=all&permthid=thread-f:1856293090595597789&simpl=msg-f:1856293090595… 1/3
+
+--- [Página 2] ---
+Informamos que o chamado 531213 foi respondido no GSTI. .
+AVALIE ESTE ATENDIMENTO e ajude o Service Desk a melhorar a prestação de serviços.
+Serviço: PJE.Esclarecer dúvida
+Descrição: Prezados, segue solicitação:
+Para abertura de chamado referente ao Ofício GPG/MPPE nº 0029/2026 (vide anexo), enviado pelo Procurador-Geral de Justiça do Estado de
+Pernambuco, Sr. José Paulo Cavalcanti Xavier Filho.
+A demanda trata da proposta de integração entre o Sistema de Processos Finalísticos do MPPE e o Processo Judicial Eletrônico (PJe) utilizado na
+Justiça Eleitoral. O objetivo é a utilização de interfaces de programação de aplicações (APIs) baseadas no Modelo Nacional de Interoperabilidade
+(MNI) do CNJ para automatizar o envio de peças, recebimento de intimações e consulta processual direta, eliminando etapas manuais e otimizando a
+atuação dos Promotores e Procuradores de Justiça Eleitorais.
+Conforme ressaltado no ofício, o MPPE solicita que este TRE-PE formalize as tratativas necessárias junto ao TSE para viabilizar os aspectos técnicos
+e normativos da referida integração.
+Pelo MPPE, o ponto focal de interlocução técnica será:
+UNIDADE: Coordenadoria Ministerial de Tecnologia da Informação – CMTI
+RESPONSÁVEL: Eugênio Antunes
+E-MAIL: eantunes@mppe.mp.br
+Do exposto, solicitamos a apreciação desta Secretaria para autorização do início dos trabalhos e encaminhamento dos procedimentos para realizar a
+referida integração, precedida de testes de integração em ambiente de homologação. Os procedimentos podem ser enviados para os e-mails
+eantunes@mppe.mp.br, com cópia para seipe@tre-pe.jus.br, ascitic@tre-pe.jus.br e aspje@tre-pe.jus.br.
+Resposta: Bom dia!! Em anexo, seguem guia inicial para realizar a integração, e um guia com todos os detalhes.
+Qualquer dúvida, estamos à disposição.
+Sua opinião é muito importante para nós.  Lembre-se sempre de avaliar seu atendimento!
+"A qualidade no atendimento é nosso compromisso!"
+Aviso Legal | Disclaimer
+As informações existentes nessa mensagem e nos arquivos anexados são para uso restrito, sendo seu sigilo protegido por lei. Caso
+não seja o destinatário desta, saiba que a leitura, a divulgação ou a cópia são proibidas. Favor apagar as informações e notificar o
+remetente. O uso impróprio será tratado conforme a legislação em vigor.
+This message and the files attached contain confidential information and their confidentiality is protected by law. They are intended
+solely for the use of the individual or entity to whom they are addressed. If you are not the intended recipient, you are not authorized to
+disclose, distribute or copy this information. Please notify the sender immediately by e-mail if you have received this message by
+mistake and delete it from your system. Improper use of this information will be treated acc ording to applicable legislation.
+2 anexos
+Guia Inicial de Integração de Sistemas Externos.pdf
+262K
+Livro Integração Órgãos Externos nativo.pdf
+3276K
+Eugênio José Batista Antunes <eantunes@mppe.mp.br> 6 de fevereiro de 2026 às 15:31
+Para: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Cc: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Luiz Guilherme
+Da Fonseca Lapenda <llapenda@mppe.mp.br>
+Haglay, 
+16/03/2026, 16:07 E-mail de Ministério Público de Pernambuco - Integração PJe (TRE-PE) e Sistema de Processos Finalísticos (MPPE) - Manu…
+https://mail.google.com/mail/u/0/?ik=4ba939b54a&view=pt&search=all&permthid=thread-f:1856293090595597789&simpl=msg-f:1856293090595… 2/3
+
+--- [Página 3] ---
+Por solicitação da PGJ ao TRE-PE recebemos as orientações iniciais contidas nos documentos anexos para efeito de integração do
+SIMP4 com os sistemas Eleitorais.  
+Segue para análise.  
+Atenciosamente. 
+Eugênio Antunes
+Coordenador de TI 
+[Texto das mensagens anteriores oculto]
+--
+Eugênio Antunes
+Coordenador de TI
+2 anexos
+Guia Inicial de Integração de Sistemas Externos.pdf
+262K
+Livro Integração Órgãos Externos nativo.pdf
+3276K
+16/03/2026, 16:07 E-mail de Ministério Público de Pernambuco - Integração PJe (TRE-PE) e Sistema de Processos Finalísticos (MPPE) - Manu…
+https://mail.google.com/mail/u/0/?ik=4ba939b54a&view=pt&search=all&permthid=thread-f:1856293090595597789&simpl=msg-f:1856293090595… 3/3

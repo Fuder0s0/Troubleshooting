@@ -1,0 +1,39 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\simp.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.03 MB
+
+--- [Página 1] ---
+Frontend SIMP 
+Angular 15.2.9
+Backend SIMP 
+SpringBoot
+Assinatura Digital Interface MNI
+Interface PJC
+Hermes
+Relatorio API
+RabbitMQ
+Escriba
+Oracle Redis
+BapreSISPLAN Integração
+Minio
+Promotoria 
+Virtual
+Rotinas de processamento em lote
+Integrações SIMP
+batch-mni
+monitoramento-mni
+Solr
+jurisdicao-mni
+simp-controle-prazo
+simp-monitoramento-movimento
+cnmp-violencia-domestica
+cnmp-direitos-coletivos
+simp-monitoramento-cadastro-protocolo
+simp-solr-atualiza-protocolo
+simp-solr-atualiza-documento
+Gemini Interface MNI
+Eleitoral
+batch-mni-eleitoral
+batch-pjc
+Mastiff
+Tabelas Básicas

@@ -1,0 +1,171 @@
+DOCUMENTO: 2 - Analise do SIMP\Comparativos\Sistema E-Control.docx
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.76 MB
+
+Relatório Unificado de Sistemas (SIMP4, E-Control, SIM, Arquimedes, Consensus)
+
+O presente relatório visa contextualizar o sistema SIMP4, que se apresenta como modelo unificador, como também consolidar todas informações relativas ao Sistema E-Control (Corregedoria Digital), utilizado pela Corregedoria do MPMT, e compará-lo com os sistemas utilizados no Ministério Público de Pernambuco (MPPE), quais sejam: Sistema SIM, Sistema Arquimedes, Sistema Consensus e Sistema PJe.
+
+No MPPE, a Corregedoria acessa diferentes sistemas para extrair dados de correições e inspeções, o que fragmenta a rotina de fiscalização, já no modelo do MPMT, o Sistema E-Control concentra as informações em uma única plataforma, fortalecendo a gestão correcional e otimizando processos.
+
+Projeto de Unificação – SIMP4
+
+O SIMP4 integra dados judiciais e extrajudiciais em 1ª e 2ª instâncias, permitindo:
+
+Integração direta com o Judiciário (PJe, Eleitoral e Execução Penal);
+
+
+Peticionamento eletrônico direto na plataforma;
+
+
+Elaboração de minutas e uso de modelos pré-existentes;
+
+
+Atuação em lote, otimizando o fluxo de trabalho;
+
+
+Cadastros múltiplos (usuários, promotorias, grupos de ofício, projetos e instituições).
+
+Sistema ECONTROL
+
+No Sistema E-Control, todas as tabelas e relatórios são automaticamente extraídos a partir do SIMP4, unificando as informações em um único fluxo de fiscalização.
+
+A experiência do MPMT com o Sistema E-Control mostra-se relevante como referência para avaliar a adoção de práticas semelhantes no MPPE, quanto à extração de relatórios, painéis de desempenho e monitoramento de produtividade. 
+
+O Sistema E-Control apresenta funcionalidades que permitem centralizar e modernizar as atividades da Corregedoria, além de tornar a rotina correicional mais eficiente:
+
+Correições e Inspeções Eletrônicas:  todo o procedimento é realizado digitalmente dentro do sistema. Os formulários são gerados diretamente na plataforma, preenchidos e avaliados, sendo as respectivas avaliações encaminhadas ao membro correicionado sem necessidade de tramitação via SEI. Isso garante maior celeridade, padronização e segurança das informações.
+
+Análise de Peças e Autos:  no modelo adotado pelo MPMT, o sistema realiza a avaliação de 10 peças no total – sendo 5 peças escolhidas pelo próprio membro e 5 peças selecionadas aleatoriamente pelo sistema. Para cada peça, são atribuídas notas e conceitos objetivos em critérios previamente definidos. O E-Control, de forma automatizada, marca as peças como avaliadas e invalida o seu novo envio para análise, evitando duplicidade de avaliação e garantindo rastreabilidade no processo de correição.
+
+Relatórios Correcionais: consolidação de dados em relatórios trimestrais de vitaliciamento e produtividade.
+
+Painéis de Controle: dashboards semelhantes ao Power BI, integrando inspeções, produtividade, resultados e monitoramento individual de promotores.
+
+Agendamento Integrado: vinculado ao sistema Athenas (RH), o agendamento de correições bloqueia automaticamente a marcação de férias do membro. Da mesma forma, se o membro registra férias previamente no Athenas, a Corregedoria fica impedida de agendar correição durante o período.
+
+Unificação de Dados: todas as informações consolidadas vêm do SIMP4, permitindo geração de tabelas automáticas, com redução de duplicidades e inconsistências.
+
+Esse conjunto de funcionalidades coloca o Sistema E-Control como modelo avançado de gestão correcional, capaz de reduzir a dispersão de dados e otimizar o trabalho fiscalizatório.
+
+Atualmente no MPPE, fazemos usos de diversos sistemas, dos quais a Corregedoria faz a extração de dados para realizar suas correições, dentre eles:
+
+Sistema SIM (Procedimento Extrajudicial Cível/Criminal/Eleitoral)
+
+Funcionalidades: distribuições, acompanhamento de prazos, arquivamentos e análise de produtividade por unidade ministerial.
+
+Relatórios: distribuição, acervo, prazos vencidos, movimentações e produtividade.
+
+Limitações: o sistema não disponibiliza painéis de acompanhamento integrados, de modo que a extração de relatórios deve ser feita manualmente. Além disso, os relatórios gerados apresentam lacunas relevantes: os documentos cadastrados na categoria “Documentos Protocolados” não são exibidos em sua integralidade, o que compromete a visão completa dos procedimentos. Há ainda a necessidade de conferência manual dos procedimentos com prazos vencidos, a fim de identificar se se trata, de fato, de atraso processual ou apenas de pendência decorrente de prazo recursal em curso.
+
+Sistema Arquimedes (Registro de Movimentações do Promotor)
+
+Funcionalidades: o sistema é estruturado com base na lógica de Grupo Ofício (GO), permitindo acesso integral a todos os procedimentos vinculados ao respectivo grupo. É utilizado para o registro da atividade-fim do membro ministerial, funcionando como um verdadeiro repositório de peças e movimentos. No âmbito correcional, serve como fonte de dados para controle e fiscalização da atuação funcional. 
+
+Relatórios: possibilita a geração de diversos relatórios gerenciais, como: síntese de atividades funcionais, quantitativo de movimentos por membro e relatórios específicos sobre membros em estágio probatório, fornecendo informações relevantes para acompanhamento da produtividade e regularidade do serviço.
+
+Limitações: apesar de sua relevância histórica, o Arquimedes apresenta restrições consideráveis para a Corregedoria. O sistema não oferece painéis consolidados nem mecanismos de automação, o que obriga a realização de extrações manuais e cruzamento de informações para fins correcionais. Ademais, sua estrutura engessada torna o acompanhamento mais burocrático e pouco flexível, especialmente quando comparado a ferramentas modernas de gestão integrada.
+
+Sistema Consensus (Processo Judicial Criminal/Infracional)
+
+Funcionalidades:  o sistema é estruturado em cards, abrangendo as etapas de triagem, pesquisa, distribuição, tramitação, intimação, audiências/acordos, análise e cumprimento de termos. 
+
+Relatórios: Para fins específicos de correição, o Consensus dispõe de um módulo próprio de correição.  que possibilita à Corregedoria: 1. visualizar todos os movimentos realizados no período correicionado; 2. marcar os arquivos como analisados, evitando duplicidade de verificação; 3. registrar observações sobre as peças examinadas; 4. indicar o responsável pela análise (analisador) e a data em que esta foi realizada. Além dessas funcionalidades, o sistema também permite a geração de relatórios de acervo, em lógica semelhante à dos demais sistemas utilizados pelo MPPE, oferecendo visão quantitativa e qualitativa da atuação em procedimentos extrajudiciais criminais.
+
+Limitações: apesar de ser uma ferramenta moderna, o Consensus apresenta restrições para fins correcionais. Os relatórios gerados são ainda limitados em profundidade, carecendo de integração com dados de outros sistemas, o que obriga a Corregedoria a realizar cruzamentos manuais para obter um panorama completo. O módulo de correição, embora útil, não gera painéis dinâmicos nem indicadores consolidados em tempo real, restringindo-se a relatórios estáticos. Ademais, a ausência de integração direta com sistemas de gestão administrativa reduz a efetividade na consolidação de informações, dificultando a visão global da atuação do membro ministerial.
+
+Sistema PJe (Processo Judicial Cível/Criminal/Eleitoral)
+
+Funcionalidades: o sistema PJe é utilizado para a consulta e tramitação de processos judiciais em 1ª e 2ª instâncias, sendo o ambiente oficial onde o Ministério Público recebe, acompanha e movimenta as ações judiciais. Para fins de controle interno, toda movimentação processual realizada no PJe deve ser posteriormente registrada no sistema Arquimedes, garantindo que as atividades judiciais também sejam contabilizadas nos relatórios de produtividade funcional e de acompanhamento correcional.
+
+Relatórios:  o PJe não disponibiliza relatórios gerenciais consolidados. Contudo, a Corregedoria o utiliza como fonte para verificação direta da situação processual, especialmente em dois aspectos relevantes para fins correcionais: processos cujo prazo se encerrou nos últimos 10 dias sem qualquer resposta do membro ministerial, caracterizando possível perda de prazo e processos que tramitam há longo período sem manifestação do membro, indicando possível inércia funcional.
+
+Limitações: embora seja o sistema oficial de tramitação judicial, o PJe apresenta restrições significativas para uso correcional. Não dispõe de relatórios automáticos ou painéis de acompanhamento que permitam à Corregedoria extrair informações de forma consolidada. A análise da produtividade e da regularidade processual depende de consultas manuais e da verificação individualizada de cada processo, o que consome tempo e aumenta o risco de inconsistências. Além disso, não há integração nativa com os sistemas internos do MPPE (como Arquimedes, SIM ou Consensus), o que obriga o registro manual posterior no Arquimedes para fins de contabilização da atividade funcional.
+
+Quadro Comparativo das Principais Funcionalidades
+
+A análise comparativa demonstra que os sistemas atualmente em uso no MPPE (SIM, Arquimedes, Consensus e PJe) cumprem funções relevantes, mas de forma fragmentada, manual e pouco integrada, o que acarreta retrabalho, risco de inconsistências e lentidão na consolidação dos dados para correições e inspeções.
+
+O Sistema E-Control (Corregedoria Digital), adotado pelo MPMT, apresenta-se como uma solução moderna e robusta, que centraliza em uma única plataforma todas as etapas do acompanhamento correcional: desde a geração de formulários e análises automáticas de peças, passando por relatórios dinâmicos de produtividade e inspeções, até a integração com o sistema Athenas (RH) para evitar conflitos entre férias e correições.
+
+Um diferencial essencial é que o Sistema E-Control permite tanto o acompanhamento direto dos promotores em vitaliciamento, com relatórios específicos e rastreáveis, quanto a realização de comparativos entre todas as Promotorias de Justiça do Estado, recurso que fortalece a visão estratégica da Corregedoria. Ressalta-se, porém, que não é possível afirmar se, no âmbito do MPPE, tais comparativos já são disponibilizados de forma consolidada, considerando os acessos atualmente conferidos à Corregedoria.
+
+Além disso, por se estruturar sobre o SIMP4, o Sistema E-Control elimina a necessidade de consultas paralelas em múltiplos sistemas, unificando as informações em painéis e relatórios automáticos, reduzindo significativamente o tempo gasto pela Corregedoria na fiscalização e aumentando a transparência, a padronização e a eficiência institucional.
+
+Assim, a adoção do Sistema E-Control no MPPE representa um passo estratégico para alinhar a Corregedoria a padrões modernos de governança digital, permitindo melhor gestão de riscos funcionais, fortalecimento da accountability institucional e, sobretudo, garantindo que os membros ministeriais tenham sua atuação acompanhada de forma célere, objetiva e uniforme, comparável em todo o Estado.
+
+ANEXOS
+
+Relatório do Sistema ECONTROL
+
+1) Formulário Prévio - similar ao sistema SEI 
+
+2) Análise - realiza Avaliação de Desempenho
+
+2.1) Peças escolhidas pelo Membro (INOVAÇÃO)
+
+2.2) Peças escolhidas pela Corregedoria (INOVAÇÃO)
+
+3) Painéis de Controle - similar ao sistema POWER BI
+
+(Quadro comparativo de todas as unidades ministeriais) 
+
+3.1) Inspeção Eletrônica de Rotina - similar ao sistema SIM, Consensus e Arquimedes
+
+3.2) Correição e Análise de Produtividade - similar ao sistema SIM, Consensus e Arquimedes
+
+3.3) Correição Eletrônica de Rotina - similar aos sistemas SIM, Consensus e Arquimedes
+
+3.4) Painel de Resultados (INOVAÇÃO)
+
+3.5) Monitoramento de Promotor (INOVAÇÃO)
+
+Relatório do Sistema SIM
+
+(Quadro comparativo de apenas uma unidade ministerial)
+
+SEM PERÍODO ESTABELECIDO
+
+Acervo
+
+Quantidade de procedimentos em acompanhamento na PJ
+
+Prazos 
+
+Situação de vencidos há mais de 30 dias, vencidos há menos de 30 dias, no prazo, em trâmite há mais de 3 anos, paralisados há mais de 90 dias	
+
+COM PERÍODO ESTABELECIDO
+
+Distribuição 
+
+Recebimento de procedimentos atribuídos na PJ
+
+Movimentos 
+
+Atos comuns de secretaria
+
+Atos finalísticos de gabinete
+
+Produtividade
+
+Instaurados e registrados como NF/PA/PP/IC 
+
+Quantidade de arquivamentos 
+
+Relatório do Sistema Consensus
+
+Módulo Corregedoria: Permite a análise de movimentos dos membros em determinado período com a geração de informações quantitativas e qualitativas, sendo possível realizar a análise dos movimentos realizados 
+
+Geração de diversos relatórios de acompanhamento, dentre eles, acervo do Grupo Ofício, Performance, Requisitórios Fora do Prazo, Distribuições, Movimentações e Pendentes, Mensal de Produtividade
+
+[Tabela] Sistema | Funcionalidades Principais | Relatórios Disponíveis | Limitações Correcionais
+
+[Tabela] E-Control (MPMT) | Correições eletrônicas com formulários internos; análise de peças (5 do membro + 5 automáticas); relatórios trimestrais; painéis integrados (BI); agendamento vinculado ao Athenas (RH); unificação de dados via SIMP4. | Relatórios de vitaliciamento, produtividade, inspeções e painéis dinâmicos. | Não utilizado ainda pelo MPPE, exigindo adaptação e capacitação.
+
+[Tabela] SIM (Extrajudicial) | Distribuições, prazos, arquivamentos, produtividade. | Distribuição, acervo, prazos vencidos, produtividade. | Relatórios manuais, incompletos (Documentos Protocolados), exigência de conferência manual de prazos.
+
+[Tabela] Arquimedes (Movimentações) | Registro da atividade-fim; repositório de peças e movimentos; relatórios de atividades funcionais, quantitativo por membro e estágio probatório. | Síntese funcional, quantitativo de movimentos, relatórios de probatório. | Estrutura engessada, sem painéis; exige extração manual e cruzamento de dados.
+
+[Tabela] Consensus (Judicial Criminal/ Infracional) | Estruturado em cards (triagem, tramitação, intimação, acordos, análise, cumprimento). Possui módulo de correição com marcação de peças analisadas, observações, responsável e data. | Relatórios de acervo e de correição por período. | Relatórios pouco profundos, estáticos e sem integração; ausência de painéis dinâmicos; necessidade de cruzamento manual.
+
+[Tabela] PJe (Judicial Cível/Criminal/Eleitoral) | Tramitação oficial de processos judiciais (1ª e 2ª instâncias); movimentação deve ser replicada no Arquimedes para registro de produtividade. | Não gera relatórios; usado para identificar prazos vencidos (últimos 10 dias sem resposta) e processos sem manifestação por longo tempo. | Ausência de relatórios e dashboards; análises apenas manuais; sem integração nativa com sistemas internos.

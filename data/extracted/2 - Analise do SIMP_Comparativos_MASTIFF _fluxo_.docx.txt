@@ -1,0 +1,49 @@
+DOCUMENTO: 2 - Analise do SIMP\Comparativos\MASTIFF (fluxo).docx
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.88 MB
+
+MASTIFF
+
+Definição: É um sistema de gerenciamento de usuários (SGU. É utilizado como uma ferramenta ou processo para administrar contas de usuários, permissões de acesso e identidades digitais em um sistema ou organização. Ele permite criar, modificar e excluir contas, atribuir direitos e permissões específicas a diferentes funções ou grupos, gerenciar, autenticação e monitorar as atividades de acesso. Isso é fundamental para garantir a segurança dos dados, manter a conformidade e controlar o acesso a recursos de TI, como aplicativos, sistemas e serviços. 
+
+Funcionamento: O processo de gerenciamento de usuários envolve, de regra, as seguintes etapas:
+
+Criação de Contas: quando um novo usuário entra no MPPE, um administrador cria uma conta para ele.
+
+A conta é criada, clicando-se em “usuário” e, em seguida, na opção “+”. Abrir-se-á a janela para inserção de dados básicos como nome, CPF, login, email, etc. Dá-se atenção especial ao tipo de funcionário e ao “status” (se ativo ou não), conforme figura abaixo:
+
+Atribuição de Funções e Permissões: o administrador define o papel do usuário e concede permissões de acesso a recursos específicos (como arquivos ou aplicações) com base na sua função. 
+
+Clicando na opção “Sistema”, abrir-se-á janela, permitindo-se a visualização de todos os sistemas de gestão disponíveis.
+
+	Quanto a permissões, estas controlam o que um usuário pode ver ou fazer, garantindo a segurança e o controle do fluxo de trabalho ao restringir o acesso a informações e funcionalidades. Para definir essas permissões, é necessário acessar a seção de "Permissão". Serão listadas as informações dos usuários, quais sistemas possui acesso e sua situação (status ativo ou inativo). Como administrador do sistema, é possível efetuar o cadastro de um novo usuário ou edição daqueles existentes.
+
+Para editar um perfil de usuário já existente, escolhendo-se um específico, abrir-se-á janela com as informações existentes. Já para adicionar um novo usuário, basta clicar na opção “+”. 
+
+	 Ao clicar na referida opção, uma janela se abrirá para preenchimento das informações necessárias ao cadastro do novo perfil.
+
+Autenticação: o sistema deve verificar a identidade do usuário, garantindo que apenas pessoas autorizadas tenham acesso aos recursos.
+
+Gerenciamento de Acessos: os administradores devem poder conceder ou revogar acessos, desativar ou excluir contas, ou gerenciar grupos de usuários com permissões similares. 
+
+Monitoramento: atividades de acesso são monitoradas para garantir a segurança e a conformidade. É um processo de avaliação e exame dos sistemas de informação e da infraestrutura de TI para garantir a segurança, integridade, eficiência e conformidade com políticas e regulamentos.
+
+Benefícios
+
+Segurança: protege dados confidenciais, garantindo que apenas pessoal autorizado tenha acesso.
+
+Controle de Acesso: assegura que os usuários tenham o acesso necessário para desempenhar suas funções, mas nada além disso.
+
+Conformidade: ajuda a organização a cumprir regulamentos de segurança e privacidade de dados.
+
+Eficiência: agiliza o processo de concessão e gerenciamento de acesso, liberando a equipe de TI.
+
+Segurança de Identidade: um sistema de gerenciamento de usuários é uma parte essencial do gerenciamento de identidade e acesso (IAM). 
+
+Componentes e exemplos
+
+Contas e Grupos: os SGUs gerenciam contas individuais e grupos de usuários com permissões compartilhadas.
+
+Catálogos de Serviços: podem ser usados para oferecer serviços específicos aos usuários com base em suas funções e necessidades.
+
+Sistemas Específicos: existem sistemas de gerenciamento de usuários para diferentes ambientes, como sistemas operacionais (ex: Windows) e softwares específicos (ex: o SGU da Senior).

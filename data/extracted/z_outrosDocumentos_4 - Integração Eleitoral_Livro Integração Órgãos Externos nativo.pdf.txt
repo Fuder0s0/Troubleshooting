@@ -1,0 +1,2257 @@
+DOCUMENTO: z_outrosDocumentos\4 - Integração Eleitoral\Livro Integração Órgãos Externos nativo.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 3.2 MB
+
+--- [Página 2] ---
+Sumário 
+ 
+Agradecimentos ............................................................................ 5 
+1. Introdução ................................................................................ 6 
+2. Diagrama de Novas Integrações Externas ............................. 9 
+3. Fase de Preparação Para a Integração ................................. 10 
+3.1. Implementar as Operações do MNI .................................... 10 
+3.2. Entender o Usuário de Integração ..................................... 10 
+3.3. Reunir os Dados do Usuário de Integração ...................... 11 
+3.4. Solicitar a Criação do Usuário de Integração no Ambiente 
+de TREINAMENTO do PJe .......................................................... 11 
+4. Fase de Teste ......................................................................... 13 
+5. Fase de Produção .................................................................. 15 
+6. Tipos de Dados Negociais .................................................... 16 
+6.1. Tipos de Eleição .................................................................. 16 
+6.2. Tipos de Sigilo Processual ................................................. 16 
+6.3. Tipos de Pólo Processual ................................................... 21 
+6.4. Tipos de Relacionamento Processual ............................... 21 
+6.5. Tipos de Pessoa .................................................................. 21 
+6.6. Tipos de Documento de Identificação ............................... 22 
+6.7. Tipos de Relacionamento Pessoal ..................................... 22 
+6.8. Tipos de Representante Processual .................................. 23 
+6.9. Tipos de Vinculação Processual ........................................ 23 
+6.10. Tipos de Prioridade Processual ...................................... 24 
+6.11. Localidade x Competência x Classe x Assunto ............. 24 
+6.12. Formatos de Arquivos Aceitos no Peticionamento ....... 26 
+7. Preenchendo as Requisições XML das Operações MNI ..... 27 
+7.1. Operação Entregar Manifestação Processual ................... 27 
+
+--- [Página 3] ---
+7.1.1. Petição Inicial ................................................................... 28 
+7.1.2. Entrega Avulsa ................................................................. 32 
+7.1.3. Resposta de Expediente .................................................. 33 
+7.2. Operação Consultar Processo ........................................... 34 
+7.3. Operação Consultar Avisos Pendentes ............................ 35 
+7.4. Operação Consultar Teor Comunicação ........................... 36 
+8. Mini-Tutoriais ......................................................................... 37 
+8.1. Como Acessar o PJe........................................................... 37 
+8.2. Como Fazer Assinatura Digital de Documentos ............... 38 
+8.3. Como Criar Expedientes Para o Ministério Público ......... 39 
+9. Suporte Técnico ..................................................................... 56 
+9.1. Gerenciamento de Chamados de Suporte ........................ 56 
+9.2. Solicitação de Suporte Técnico ......................................... 58 
+9.2.1. Quais Informações Enviar ao Suporte ............................ 58 
+9.3. Como Solicitar o Suporte Técnico ..................................... 60 
+9.3.1. Canal de Suporte Técnico ............................................... 60 
+9.4. Questionamentos ao Usuário do Órgão externo .............. 61 
+10. Anexos ................................................................................. 62 
+10.1. Ferramenta SoapUI .......................................................... 62 
+10.2. Documentação do CNJ .................................................... 62 
+10.3. Modelo de Solicitação de Criação de Usuário ............... 62 
+10.4. Modelo de Solicitação de Suporte Técnico .................... 63 
+10.5. Endereços de Máquinas .................................................. 64 
+10.5.1. Ambientes do PJe ............................................................ 64 
+10.5.1.1. Treinamento ................................................................... 64 
+10.5.1.2. Produção ........................................................................ 64 
+10.5.2. Endpoints do MNI ............................................................. 68 
+10.5.2.1. Treinamento ................................................................... 68 
+10.5.2.1.1.Intercomunicação ....................................................... 68 
+10.5.2.1.2.ConsultaPJe ................................................................ 68 
+
+--- [Página 4] ---
+10.5.2.2. Produção ........................................................................ 69 
+10.5.2.2.1.Intercomunicação ....................................................... 69 
+10.5.2.2.2.ConsultaPJe ................................................................ 72  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 5] ---
+Agradecimento 
+ 
+ 
+Gratidão a Deus em primeiro lugar. 
+ 
+Este livro não é o resultado do trabalho de apenas uma pessoa ou 
+unidade de trabalho. Ele representa o trabalho de muitas pessoas e unidades 
+de trabalho que, atuando cada uma dentro do seu nicho de responsabilidade, 
+produziram as ideias e o conhecimento que mais tarde serviram de insumos 
+para compor o conjunto deste livro. 
+ 
+ O objetivo deste livro é servir de guia para os órgãos externos que 
+almejam integrar seus sistemas processuais com o sistema de Processo 
+Judicial Eletrônico da Justiça Eleitoral, bem como, como material de consulta 
+para o esclarecimento de dúvidas ou consolidação de aprendizado das equipes 
+técnicas e negociais dos órgãos externos que já encontram-se integrados ao 
+PJe. 
+  
+Para não incorrer no esquecimento, ao citar nominalmente pessoas ou 
+unidades de trabalho, opto por agradecer de forma conjunta a todas as 
+pessoas e unidades de trabalho do TSE, do CNJ e dos próprios órgãos 
+externos que, com o seu trabalho, dedicação e boa vontade, contribuíram com 
+ideias, conhecimentos, sugestões e críticas para que esse livro pudesse ser 
+produzido. 
+ 
+Gratidão aos gestores, equipes negociais, analistas de sistemas, 
+programadores, testadores, documentadores, equipes de infraestrutura, 
+equipes de banco de dados, e para não incorrer também no pensamento 
+puramente tecnicista, o qual enxerga a tecnologia como sendo mais importante 
+que as pessoas, ignorando que a tecnologia ainda que importante, é apenas 
+uma gota de tinta a compor um quadro maior de uma tela de Van Gogh, 
+reconheço em primeiro lugar o valor do ser humano por trás da profissão. 
+ 
+A todos e a todas, a minha mais sincera e profunda GRATIDÃO. 
+
+--- [Página 6] ---
+1. Introdução 
+ 
+Com o grande fluxo de troca de informações via internet, o diálogo entre os 
+diferentes sistemas deve ocorrer de forma integrada e segura. Nesse sentido, 
+nasce a interoperabilidade, que diz respeito à capacidade de dois ou mais 
+sistemas comunicarem- se de forma eficaz, garantindo a integridade dos dados 
+e os resultados almejados pela empresa. Para que isso de fato ocorra, é 
+necessário que os padrões dos sistemas em questão sejam abertos e flexíveis. 
+Resumidamente, pode-se dizer que a interoperabilidade ocorre quando dois 
+ou mais sistemas conseguem transmitir informações entre si com eficiência e 
+eficácia, mesmo com as suas diferenças. Pode-se dizer também que é a 
+capacidade de diversos sistemas trabalharem em conjunto (interoperarem), de 
+modo a garantir que pessoas, organizações e sistemas computacionais 
+interajam para trocar informações de maneira eficiente e eficaz. Naturalmente, 
+isso oferece diversos benefícios às organizações, melhorando a comunicação 
+e a cooperação entre as instituições. 
+Os quatro conceitos apresentados a seguir explicitam um panorama geral a 
+respeito do assunto. 
+ "Intercâmbio coerente de informações e serviços entre sistemas. Deve 
+possibilitar a substituição de qualquer componente ou produto usado nos 
+pontos de interligação por outro de especificação similar, sem 
+comprometimento das funcionalidades do sistema" (governo do Reino 
+Unido). 
+ "Habilidade de transferir e utilizar informações de maneira uniforme e 
+eficiente entre várias organizações e sistemas de informação" (governo 
+da Austrália). 
+ "Habilidade de dois ou mais sistemas (computadores, meios de 
+comunicação, redes, software e outros componentes de tecnologia da 
+informação) interagir e intercambiar dados de acordo com um método 
+definido, de forma a obter os resultados esperados". (ISO) 
+ "Interoperabilidade define se dois componentes de um sistema, 
+desenvolvidos com ferramentas diferentes, de fornecedores diferentes, 
+
+--- [Página 7] ---
+podem ou não atuar em conjunto". (Lichun Wang, Instituto Europeu de 
+Informática - CORBA Workshops). 
+Interoperabilidade não é somente integração de sistemas, nem somente 
+integração de redes. Não referencia unicamente troca de dados entre sistemas 
+e não contempla simplesmente definição de tecnologia. 
+É, na verdade, a soma de todos esses fatores, considerando, também, a 
+existência de um legado de sistemas, de plataformas de hardware e software 
+instaladas. Parte de princípios que tratam da diversidade de componentes, com 
+a utilização de produtos diversos de fornecedores distintos. Têm por meta a 
+consideração de todos os fatores para que os sistemas possam atuar 
+cooperativamente, fixando as normas, as políticas e os padrões necessários 
+para consecução desses objetivos. 
+Para que se conquiste a interoperabilidade, as pessoas devem estar 
+engajadas num esforço contínuo para assegurar que sistemas, processos e 
+culturas de uma organização sejam gerenciados e direcionados para maximizar 
+oportunidades de troca e reuso de informações, interna e externamente à 
+organização. 
+A interoperabilidade entre sistemas, por meio da tecnologia "WebService", 
+garante a integridade, inviolabilidade e segurança dos processos judiciais, 
+inclusive quanto ao sigilo processual, quando houver. O intercâmbio de dados 
+é independente de implementações existentes em cada órgão ou instituições 
+públicas ou privadas, podendo ser acessado por pessoas físicas, jurídicas ou 
+entidades. 
+O Modelo Nacional de Interoperabilidade (MNI) é um protocolo de 
+comunicação (que no âmbito da computação é uma convenção que controla e 
+possibilita uma conexão, comunicação ou transferência de dados entre dois 
+sistemas computacionais) para intercâmbio de informações de processos 
+judiciais e assemelhados entre os diversos órgãos de administração de justiça, 
+além de servir de base para a implementação das funcionalidades pertinentes 
+no âmbito do sistema processual. 
+O MNI foi implementado e é mantido pelo Conselho Nacional de Justiça. 
+
+--- [Página 8] ---
+Aos interessados em utilizar o MNI do PJe, cabem realizar as seguintes 
+etapas: 
+ Implementar as operações detalhadas do MNI em seus respectivos 
+sistemas; 
+ Solicitar ao TSE a criação, no PJe, do usuário de integração MNI; 
+ Consumir os serviços do webservice da instalação do PJe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 9] ---
+2. Diagrama de Novas Integrações Externas 
+ 
+ 
+O fluxo de solicitação de novas integrações externas é muito simples.  
+Tem como ponto de partida, o órgão externo solicitar ao TSE o desejo de 
+integrar seus sistemas ao PJe. 
+A partir daí, um conjunto de breves e bem definidos passos são 
+necessários, conforme demonstra a imagem a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- [Página 10] ---
+3. Fase de Preparação Para a Integração 
+ 
+3.1. Implementar as Operações do MNI 
+ 
+Para integrar seu sistema a outros sistemas que utilizam o Modelo 
+Nacional de Interoperabilidade, o órgão externo deve implementar em seu 
+sistema as operações do MNI que efetivam o intercâmbio de informações. 
+Essas operações são: 
+ Entregar Manifestação Processual 
+ Consultar Processo 
+ Consultar Avisos Pendentes 
+ Consultar Teor Comunicação 
+ 
+3.2. Entender o Usuário de Integração 
+ 
+O usuário de integração MNI é o usuário utilizado para a efetiva 
+integração entre os sistemas do Órgão externo e o PJe da Justiça Eleitoral. 
+O usuário de integração MNI é criado numa instância do PJe 
+cadastrando-se um usuário do tipo Procurador/Gestor, devendo-se utilizar 
+obrigatoriamente um CPF válido e existente na base da Receita Federal de 
+Servidor/Advogado/Procurador/Defensor/Promotor/Policial do Órgão 
+externo.  
+Este CPF e sua senha serão inseridos, pela equipe de desenvolvimento 
+de sistemas do Órgão externo, no código fonte do sistema que integrará 
+com o PJe. 
+A principal particularidade do usuário de integração MNI é que sua 
+senha será de conhecimento da equipe de desenvolvimento de sistemas do 
+Órgão externo. 
+
+--- [Página 11] ---
+Em função disso recomenda-se que esse CPF não seja de pessoa que 
+utilize o PJe para a prática de atos processuais. Entretanto tal 
+recomendação não impede a pessoa de realizar tais práticas, somente que 
+deve-se ter em mente que sua senha será de conhecimento de mais 
+pessoas. A decisão fica a critério do Órgão externo. 
+3.3. Reunir os Dados do Usuário de Integração 
+ 
+Uma vez compreendido o papel do usuário de integração MNI, o Órgão 
+externo deve reunir os dados necessários para a criação desse usuário 
+numa instalação do PJe. Os dados necessários para a criação do usuário 
+de integração MNI são: 
+a) CPF válido existente na base da Receita Federal de 
+Servidor/Advogado/Procurador/Defensor/Promotor/Policial do Órgão 
+externo (somente um CPF); 
+ 
+b) E-mail (recomenda-se que esse e-mail seja de pessoa ou grupo de 
+email ligado a área de desenvolvimento de sistemas do Órgão externo, 
+uma vez que é para esse endereço de email que o PJe envia o email 
+contendo o link para definição ou redefinição da senha do usuário de 
+integração). 
+ 
+3.4. Solicitar a Criação do Usuário de Integração no 
+Ambiente de TREINAMENTO do PJe 
+ 
+A primeira fase do processo de integração é a fase de testes. Nesta fase 
+o Órgão externo testará a implementação das operações do MNI de seu 
+sistema em um ambiente de testes do PJe. 
+Para criar o usuário de integração no ambiente de testes do PJe, o 
+órgão externo deve abrir um chamado técnico no Service Desk do TSE, 
+utilizando o seguinte canal de atendimento: 
+ 
+
+--- [Página 12] ---
+Central de Atendimento do TSE: 
+Enviar email para: 
+8800@tse.jus.br 
+ 
+No corpo do e-mail preencher as informações com base no Modelo de 
+Solicitação de Criação de Usuário abaixo: 
+ 
+Modelo de Solicitação de Criação de Usuário 
+Assunto Solicitação de Criação de Usuário de Integração MNI 
+Descrição da 
+Solicitação 
+   O <NOME DO ÓRGÃO EXTERNO> solicita a criação do 
+usuário de integração MNI no ambiente de testes do PJe, 
+conforme dados abaixo: 
+Instância do PJe 
+ 1º grau - (Informar a UF) 
+ 2º grau - (Informar a UF) 
+ 3º grau 
+Nome do Usuário <NOME DO USUÁRIO DE INTEGRAÇÃO> 
+CPF do Usuário <CPF DO USUÁRIO DE INTEGRAÇÃO> 
+E-mail do Usuário <EMAIL DO USUÁRIO DE INTEGRAÇÃO> 
+ 
+ 
+OBSERVAÇÃO: Escolher a instância do PJe e editar  SOMENTE os 
+campos em letras maiúsculas. 
+ 
+Uma vez criado o usuário de integração MNI no ambiente do PJe de 
+treinamento (1º, 2º ou 3º grau), a equipe de desenvolvimento de sistema do 
+órgão externo poderá dar início aos testes de integração entre seu sistema 
+e o PJe. 
+ 
+ 
+ 
+ 
+
+--- [Página 13] ---
+4. Fase de Teste 
+ 
+Tendo implementado as operações do MNI em seu sistema e solicitado 
+ao TSE à criação do usuário de integração no ambiente de treinamento, 
+informando CPF válido constante na base da Receita Federal mais email, o 
+órgão externo já pode proceder à fase dos testes de integração. 
+O teste de integração consiste, basicamente, em que o sistema do órgão 
+externo preencha com os dados corretos, os campos das requisições XML 
+de cada operação, e receba como resposta os dados corretos pertinentes a 
+cada uma delas. 
+Na fase de teste, os endpoints a serem utilizados para o envio das 
+requisições MNI são aqueles relacionados na seção Anexos, item 10.5.2.1, 
+endpoints de treinamento (página 67). 
+A seção 6 deste manual contém uma descrição detalhada e os valores 
+possíveis para os tipos de dados que compõem uma operação desde um 
+ponto de vista mais negocial e é de leitura obrigatória para um melhor 
+entendimento e visão geral negocial. 
+A seção 7 deste manual contém uma visão mais técnica acerca do 
+preenchimento de cada campo das requisições xml, descrevendo o nome 
+do campo e seus valores possíveis. É também de leitura obrigatória para 
+um entendimento mais técnico da integração. 
+As seções 6 e 7 são mutuamente complementares. 
+Uma terceira opção para obtenção de dados para o preenchimento das 
+requisições XML é utilizar as operações do webservice ConsultaPJe, cujo 
+endereço é enviado pela equipe técnica do TSE após o cadastro do usuário 
+de integração. São elas: 
+ consultarAssuntosJudiciais 
+ consultarClassesJudiciais 
+ consultarCompetencias 
+
+--- [Página 14] ---
+ consultarJurisdicoes 
+ consultarOrgaosJulgadores 
+ consultarOrgaosJulgadoresColegiados 
+ consultarPapeis 
+ consultarPrioridadeProcesso 
+ consultarProcessoReferencia 
+ consultarProcessoPorProcessoReferencia 
+ consultarSalasAudiencia 
+ consultarTiposAudiencia 
+ consultarTodosTiposDocumentoProcessual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 15] ---
+5. Fase de Produção 
+ 
+Após um período de testes de integração entre os sistemas no ambiente de 
+treinamento do PJe, cuja durabilidade fica a critério do órgão externo, finda 
+essa, pode passar-se a fase de PRODUÇÃO. 
+Na fase de produção, os endpoints a serem utilizados para o envio das 
+requisições MNI são aqueles relacionados na seção Anexos, item 10.5.2.2, 
+endpoints de produção (página 68). 
+Na fase de produção, o órgão externo deve repetir os mesmos passos 
+realizados na fase de treinamento, ou seja, fazer nova solicitação de criação de 
+usuário de integração para o ambiente de produção do PJe, devendo portanto: 
+a) Preencher novo Modelo de Solicitação de Criação de Usuário, ainda que 
+o usuário de integração seja o mesmo cadastrado no ambiente de 
+treinamento. O modelo está na seção Anexos, item 10.3, página 61. 
+b) Abrir um novo chamado técnico na Central de Atendimento do TSE para 
+solicitar a criação do usuário de integração MNI no ambiente de 
+produção do PJe; 
+c) Configurar o sistema externo com o endereço dos endpoints de 
+produção. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 16] ---
+6. Tipos de Dados Negociais 
+ 
+Para uma melhor compreensão da natureza dos dados negociais, quando 
+do preenchimento das requisições que fazem parte das operações do MNI, 
+apresentamos a seguir uma lista detalhada do significado e dos valores 
+possíveis para cada um desses tipos de dados. 
+Não será mostrado aqui qual campo relaciona-se com qual tipo de dado. 
+Isso será melhor explanado na seção onde explica-se o preenchimento das 
+requisições MNI. 
+6.1. Tipos de Eleição 
+ 
+Na Justiça Eleitoral podem ser realizadas os tipos de eleições listadas 
+na tabela a seguir, cujo código é utilizado na operação 
+entregarManifestaçãoProcessual(), preenchendo a tag JETipoEleição: 
+Código Descrição 
+1 Eleições Gerais 
+2 Eleições Municipais 
+3 Eleições Complementares 
+4 Referendo 
+5 Plebiscito 
+ 
+6.2. Tipos de Sigilo Processual 
+ 
+Consideram-se sigilosos, os processos: 
+ 
+a) Que, por lei, tramitem em segredo de justiça; 
+b) Que, em razão de decisão fundamentada da autoridade judicial 
+competente, devam tramitar em segredo de justiça. 
+ 
+
+--- [Página 17] ---
+Os tipos de sigilo processual são definidos em termos de níveis. Cada 
+instância do PJe possui seus próprios níveis de sigilo processual. Cada 
+nível possui seus visualizadores. 
+ 
+Níveis de Sigilo Processual 
+ 
+I. Zona Eleitoral 
+ 
+a. Nível 1 (Segredo de Justiça) 
+ 
+Visualização restrita aos serventuários da Zona Eleitoral, 
+ao juiz eleitoral, ao polo ativo e seus representantes e aos 
+membros do Ministério Público, como fiscal da lei. Nesse 
+nível, tanto o serventuário que possui perfil de "servidor" 
+quanto o serventuário que possui perfil de "servidor 
+processamento" conseguirão visualizar o processo sigiloso. A 
+expressão "representantes" contempla tanto os advogados 
+quanto os defensores e/ou procuradores. 
+Visualizadores do nível 1: 
+ Juiz eleitoral; 
+ Servidor e servidor de processamento; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+ Membros do Ministério Público, como fiscal da lei. 
+  
+b. Nível 3 (Sigilo Médio) 
+ 
+Visualização restrita aos serventuários da Zona Eleitoral 
+que possuem perfil de "servidor", ao juiz eleitoral, ao polo ativo 
+e seus representantes. Mais uma vez, a expressão 
+
+--- [Página 18] ---
+"representantes" contempla tanto os advogados quanto os 
+defensores e/ou procuradores. 
+Visualizadores do nível 3: 
+ Juiz eleitoral; 
+ Servidor; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+No nível 3, caso necessário, o magistrado poderá atribuir 
+visualização no processo ao polo passivo e aos membros do 
+Ministério Público. 
+ 
+c. Nível 5 (Sigilo Absoluto) 
+ 
+Visualização restrita ao magistrado, polo ativo e seus 
+representantes. 
+Visualizadores do nível 5: 
+ Juiz eleitoral; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+No nível 5, caso necessário, o magistrado poderá atribuir 
+visualização no processo ao polo passivo e aos membros do 
+Ministério Público. 
+II. TREs e TSE 
+ 
+a. Nível 1 (Segredo de Justiça) 
+ 
+Visualização restrita aos serventuários da Zona Eleitoral, 
+ao juiz eleitoral, ao polo ativo e seus representantes e aos 
+membros do Ministério Público, como fiscal da lei. Nesse 
+
+--- [Página 19] ---
+nível, tanto o serventuário que possui perfil de "servidor" 
+quanto o serventuário que possui perfil de "servidor 
+processamento" conseguirão visualizar o processo sigiloso. A 
+expressão "representantes" contempla tanto os advogados 
+quanto os defensores e/ou procuradores. 
+ 
+Visualizadores do nível 1: 
+ Juiz eleitoral; 
+ Servidor e servidor de processamento; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+ Membros do Ministério Público, como fiscal da lei. 
+ 
+b. Nível 3 (Sigilo Médio) 
+ 
+Visualização restrita aos serventuários da Zona Eleitoral 
+que possuem perfil de "servidor", ao juiz eleitoral, ao polo ativo 
+e seus representantes. Mais uma vez, a expressão 
+"representantes" contempla tanto os advogados quanto os 
+defensores e/ou procuradores. 
+ 
+Visualizadores do nível 3: 
+ Juiz eleitoral; 
+ Servidor; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+Observação: No nível 3, caso necessário, o magistrado 
+poderá atribuir visualização no processo ao polo passivo e aos 
+membros do Ministério Público. 
+
+--- [Página 20] ---
+ 
+c. Nível 4 (Sigilo Intenso) 
+ 
+Visualização restrita ao Magistrado, Secretário Judiciário, 
+ao Secretário da Corregedoria, aos Assessores-Chefes dos 
+Gabinetes e ao Assessor-Chefe de Plenário. 
+ 
+Visualizadores do nível 4: 
+ Magistrado; 
+ Secretário Judiciário; 
+ Secretário da Corregedoria 
+ Assessores-Chefes dos Gabinetes 
+ Assessor-Chefe de Plenário 
+ 
+d. Nível 5 (Sigilo Absoluto) 
+ 
+Visualização restrita ao magistrado, polo ativo e seus 
+representantes. 
+ 
+Visualizadores do nível 5: 
+ Juiz eleitoral; 
+ Polo ativo e seus representantes (advogados, defensores, 
+procuradores); 
+Observação: No nível 5, caso necessário, o magistrado 
+poderá atribuir visualização no processo a servidores, ao polo 
+passivo e aos membros do Ministério Público. 
+ 
+
+--- [Página 21] ---
+6.3. Tipos de Pólo Processual 
+ 
+Permite a identificação do tipo de pólo processual. Deve ser definido 
+usando um dos seguintes códigos: 
+ 
+AT : pólo ativo 
+PA : pólo passivo 
+TC : terceiro 
+FL : fiscal da lei diverso 
+TJ : testemunha do juízo 
+AD : assistente simples desinteressado 
+VI : vítima 
+ 
+6.4. Tipos de Relacionamento Processual 
+ 
+Permite que se indique a modalidade de relacionamento existente entre 
+esta parte e outra parte que a ela está ligada, quando não se trata de um 
+relacionamento de representação de advogado. Pode ser: 
+ 
+CP : curador processual 
+RP : representante processual 
+TF : testemunha de fato 
+AT : assistente técnico 
+AS : assistente 
+ 
+6.5. Tipos de Pessoa 
+ 
+Permite a individualização de uma pessoa física ou jurídica. 
+ 
+ física 
+ juridica 
+ autoridade 
+
+--- [Página 22] ---
+ orgaorepresentacao 
+ 
+6.6. Tipos de Documento de Identificação 
+ 
+Permite a identificação dos diversos tipos de documentos de 
+identificação existentes. Trata-se de enumeração dos seguintes tipos: 
+ 
+CI   : carteira de identidade 
+CNH  : carteira nacional de habilitação 
+TE   : título de eleitor 
+CN   : certidão de nascimento 
+CC   : certidão de casamento 
+PAS  : passaporte 
+CT   : carteira de trabalho 
+RIC  : registro individual do cidadão 
+CMF  : cadastro no Ministério da Fazenda Brasileiro 
+PIS_PASEP : número no programa de integração social 
+CEI  : cadastro específico do INSS 
+NIT  : número de identificação do trabalho 
+CP   : cadastro em conselhos profissionais 
+IF   : identidade funcional 
+OAB  : número de cadastro na Ordem dos Advogados do Brasil 
+RJC  : número de inscrição empresarial 
+RGE  : registro de identificação 
+ 
+6.7. Tipos de Relacionamento Pessoal 
+ 
+Permite identificar qual o relacionamento existente entre uma parte 
+processual (pessoa) e outra pessoa. Por meio disso é que se permite 
+conhecer se é caso de: 
+ 
+P  : Representação legal de ascendente (pais) 
+
+--- [Página 23] ---
+AP  : Assistência dos pais 
+SP  : Substituição ou representação processual nos casos de ações 
+  coletivas 
+T  : Tutoria 
+C  : Curadoria 
+ 
+6.8. Tipos de Representante Processual 
+ 
+Permite a identificação de um advogado inscrito na Ordem dos 
+Advogados do Brasil, de um escritório de advocacia inscrito ou de um órgão 
+de representação processual (advocacia pública, MP e defensoria pública). 
+ 
+A: Advogado 
+E: Escritório de advocacia 
+M: Ministério público 
+D: Defensoria pública 
+P: Outros órgãos de representação processual pública (advocacia pública 
+em geral) 
+ 
+6.9. Tipos de Vinculação Processual 
+ 
+Permite informar o tipo de vinculação entre um processo judicial e outro. 
+ 
+CX: Conexão 
+CT: Continência 
+DP: Dependência 
+AR: Ação rescisória 
+CD: Competência delegada 
+RR: Recurso repetitivo 
+RG: Repercussão geral 
+OR: Outro tipo de associação que não os anteriores 
+ 
+
+--- [Página 24] ---
+6.10. Tipos de Prioridade Processual 
+ 
+Permite a identificação da existência de priopridades processuais não 
+óbvias, ou seja, aquelas que não são resultado direto da identificação da 
+classe processual (ex.: habeas corpus ou mandado de segurança). A partir 
+da versão 2.0 é texto livre, mas é recomendável utilizar os seguintes textos 
+identificadores: 
+ 
+ IDOSO 
+ RÉU PRESO 
+ PERECIMENTO 
+ MENOR 
+ 
+6.11. Localidade x Competência x Classe x Assunto 
+ 
+Um processo judicial possui muitas características. Para melhor 
+compreensão da operação entregarManifestacaoProcessual, quatro dessas 
+características precisam ser bem conhecidas para que se consiga peticionar 
+processos via MNI. São elas: localidade, competência, classe e assunto. 
+ 
+Segue uma definição conceitual de cada uma dessas características: 
+ 
+Localidade: É a jurisdição ou município de atuação do órgão judiciário. 
+É uma subdivisão administrativa do Poder Judiciário a qual tem uma sede e 
+uma abrangência definida. Uma localidade pode ter uma ou mais 
+competências. 
+ 
+Competência: É o conjunto de limites dentro dos quais cada órgão do 
+judiciário pode exercer legitimamente a função jurisdicional. É um 
+fracionamento da jurisdição (localidade). As normas ou regras de 
+competência definem as ações que competem a uma jurisdição 
+(localidade), levando em consideração: a matéria, as partes, natureza 
+
+--- [Página 25] ---
+jurídica, o funcionalismo e o território. Uma competência pode ter uma ou 
+mais classes judiciais. 
+ 
+Classe: Refere-se aos procedimentos adotados na esfera judicial ou 
+administrativa para atender ao pedido que se faz via processo. Uma classe 
+pode ter um ou mais assuntos. 
+ 
+Assunto: Refere-se às matérias ou aos temas discutidos nos processos. 
+ 
+Para que a operação entregarManifestacaoProcessual seja realizada 
+com sucesso, é preciso que haja o perfeito relacionamento entre uma 
+localidade, as competências dessa localidade, as classes dessa 
+competência e os assuntos dessa classe. 
+ 
+Localidade → Competência → Classe → Assunto 
+ 
+Há um relacionamento entre essas quatro características do processo 
+que necessita ser satisfeito para que a operação tenha sucesso. A tabela a 
+seguir exemplifica esse relacionamento: 
+ 
+Exemplo: 
+ 
+UF Localidade Competência Classe Assunto 
+RN 1643 5 375 14203 
+RN 1643 5 375 11778 
+RN 1643 5 264 12754 
+RN 1643 5 264 12612 
+RN 1643 12 1717 11508 
+RN 1643 12 1717 11503 
+RN 1643 12 330 11470 
+RN 1643 12 330 12364 
+ 
+Somente quando se preenche os campos correspondentes a cada 
+uma dessas características de acordo com os valores de uma linha, é 
+que se consegue peticionar um processo via MNI através da operação 
+entregarManifestacaoProcessual. 
+
+--- [Página 26] ---
+Os campos na requisição da operação entregarManifestacaoProcessual 
+e suas características correspondentes são: 
+ 
+Campo Característica 
+codigoLocalidade Localidade 
+competencia Competência 
+classeProcessual Classe 
+codigoNacional Assunto 
+ 
+6.12. Formatos de Arquivos Aceitos no Peticionamento 
+ 
+O sistema PJe aceita uma variedade de formatos de arquivos válidos 
+para serem peticionados como anexos. 
+ 
+É permitido o envio de até 40 arquivos por vez.  
+ 
+A tabela a seguir lista quais os tipos de arquivos aceitos, suas extensões 
+e os tamanhos máximos permitidos em Megabytes. 
+ 
+Os formatos informados valem tanto para protocolo via sistema PJe 
+quanto via serviço MNI. 
+ 
+Tipo de Arquivo Extensão Tamanho Máximo (Mb)  
+application/pdf .pdf 10 
+audio/mp4 .m4a 5 
+audio/mpeg .mp3 5 
+audio/mpeg .mpga 5 
+audio/ogg .oga 5 
+audio/vorbis .ogg 5 
+image/jpeg .jpg 5 
+image/png .png 5 
+video/ogg .ogv 10 
+video/mp4 .mp4 30 
+video/mpeg .mpeg 10 
+video/quicktime .mov 10 
+text/html .html 1,5 
+audio/mpeg3 .mpeg3 5 
+audio/mp3 .mp3 5 
+
+--- [Página 27] ---
+7. Preenchendo as Requisições XML das 
+Operações MNI 
+ 
+As operações do Modelo Nacional de Interoperabilidade, uma vez 
+implementadas nos sistemas dos Órgãos Externos, são os serviços que 
+efetivamente irão realizar o intercâmbio de informações entre os sistemas, 
+tecnicamente falando. 
+ 
+Para cada operação há um conjunto de campos que necessitam ser 
+preenchidos com valores possíveis para que a operação retorne sucesso. 
+ 
+Nos itens a seguir, será mostrada uma breve descrição da operação, para 
+cada operação a descrição de cada campo, seus valores possíveis pré-
+definidos (domínios fechados) ou onde encontrar os valores possíveis não pré-
+definidos (domínios abertos). 
+ 
+7.1. Operação Entregar Manifestação Processual 
+ 
+A operação entregarManifestacaoProcessual pode ser utilizada para três 
+finalidades: 
+ 
+a) Petição Inicial: Criar um processo na base de dados do PJe; 
+b) Entrega Avulsa: Anexar documentos a um processo já criado;  
+c) Resposta de Expediente: Responder a expediente em aberto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 28] ---
+7.1.1. Petição Inicial 
+ 
+Campo Obri
+gató
+rio 
+Descrição Domínio 
+idManifestante Sim Identificador 
+do usuário 
+CPF cadastrado no PJe 
+senhaManifestante Sim Senha do 
+usuário 
+Senha cadastrada no PJe 
+codigoLocalidade Sim Código do 
+município 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarJurisdicoes” 
+classeProcessual Sim Classe 
+processual 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarClassesJudiciais” 
+codigoNacional Sim Código do 
+assunto 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarAssuntosJudiciais
+” 
+competencia Sim Código da 
+competência 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarCompetencias” 
+nivelSigilo Sim Sigilo do 
+processo 
+ZE → 0: sem sigilo; 1: 
+segredo de justiça; 3: sigilo 
+médio; 5: sigilo absoluto 
+ 
+TRE → 0: sem sigilo; 1: 
+segredo de justiça; 3: sigilo 
+médio; 4: sigilo intenso; 5: 
+sigilo absoluto 
+ 
+TSE → 0: sem sigilo; 1: 
+segredo de justiça; 3: sigilo 
+médio; 4: sigilo intenso; 5: 
+sigilo absoluto 
+
+--- [Página 29] ---
+polo Sim Polo 
+processual 
+AT: polo ativo 
+PA: polo passivo 
+TC: terceiro 
+FL: fiscal da lei diverso 
+TJ: testemunha do juízo 
+AD: assistente simples 
+desinteressado 
+VI: vítima 
+assistenciaJudiciaria Não Assistência 
+judiciária a 
+pessoas 
+true 
+false 
+intimacaoPendente Não Intimações 
+pendentes 
+para esta 
+parte. Se 
+mais de 
+uma, 
+separar por 
+ponto e 
+vírgula. 
+código da intimação 
+(consultar no PJe) 
+relacionamentoProce
+ssual 
+Não Relacionam
+ento entre 
+essa parte e 
+outras 
+CP: curador processual 
+RP: representante 
+processual 
+TF: testemunha de fato 
+AT: assistente técnico 
+AS: assistente 
+tipoPessoa Sim Tipo de 
+pessoa 
+fisica 
+juridica 
+autoridade 
+orgaorepresentacao 
+tipoDocumento Sim Documento 
+de 
+identificação 
+(parte) 
+CI: carteira de identidade 
+CNH: carteira nacional de 
+habilitação 
+TE: título de eleitor 
+CN: certidão de nascimento 
+CC: certidão de casamento 
+PAS: passaporte 
+CT: carteira de trabalho 
+RIC: registro individual do 
+cidadão 
+CMF: cadastro no Ministério 
+da Fazenda Brasileiro 
+PIS_PASEP: número no 
+
+--- [Página 30] ---
+programa de integração 
+social 
+CEI: cadastro específico do 
+INSS 
+NIT: número de 
+identificação do trabalho 
+CP: cadastro em conselhos 
+profissionais 
+IF: identidade funcional 
+OAB: número de cadastro 
+na Ordem dos Advogados 
+do Brasil 
+RJC: número de inscrição 
+empresarial 
+RGE: registro de 
+identificação do estrangeiro 
+pessoaRelacionada Não Tipo de 
+relacioname
+nto pessoal 
+independent
+e de uma 
+relação 
+processual 
+P: Representação legal de 
+ascendente (pais) 
+AP: Assistência dos pais 
+SP: Substituição ou 
+representação processual 
+nos casos de ações 
+coletivas 
+T: Tutoria 
+C: Curadoria 
+tipoRepresentante Não Tipo de 
+representant
+e processual 
+A: Advogado 
+E: Escritório de advocacia 
+M: Ministério público 
+D: Defensoria pública 
+P: Outros órgãos de 
+representação processual 
+pública (advocacia pública 
+em geral) 
+vinculo Não Tipo de 
+vinculação 
+entre 
+processos 
+judiciais 
+CX: Conexão 
+CT: Continência 
+DP: Dependência 
+AR: Ação rescisória 
+CD: Competência delegada 
+RR: Recurso repetitivo 
+RG: Repercussão geral 
+OR: Outro tipo de 
+associação que não os 
+anteriores 
+
+--- [Página 31] ---
+prioridade Não Tipos de 
+prioridades 
+processuais 
+Ob.: Texto 
+livre. O 
+domínio 
+descrito é 
+apenas uma 
+recomendaç
+ão 
+IDOSO 
+RÉU PRESO 
+PERECIMENTO 
+MENOR 
+codigoOrgao Não Código do 
+órgão 
+julgador 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarOrgaosJulgadores
+” 
+nomeOrgao Não Nome do 
+órgão 
+julgador 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarOrgaosJulgadores
+” 
+instancia Não Instância do 
+órgão 
+julgador 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarOrgaosJulgadores
+” 
+codigoMunicipioIBGE Não Município do 
+órgão 
+julgador 
+https://www.ibge.gov.br/expl
+ica/codigos-dos-
+municipios.php 
+mimetype Sim Conteúdo 
+do 
+documento 
+application/pdf 
+nivelSigilo Sim Sigilo do 
+documento 
+0: público 
+1: segredo de justiça 
+2: sigilo mínimo 
+3: sigilo médio 
+4: sigilo intenso 
+5: sigilo absoluto 
+tipoDocumento Sim ID 
+documento 
+do processo 
+(binário) 
+1) Webservice 
+ConsultaPJe, operação 
+“consultarTodosTiposDocu
+mentoProcessual” 
+
+--- [Página 32] ---
+JEEstado Sim Sigla dos 
+estados da 
+federação 
+UFs 
+JETipoEleicao Não Tipos de 
+eleição 
+1: Eleições Gerais 
+2: Eleições Municipais 
+3: Eleições 
+Complementares 
+4: Referendo 
+5: Plebiscito 
+JEMunicipio Sim Código do 
+município 
+IBGE 
+https://www.ibge.gov.br/expl
+ica/codigos-dos-
+municipios.php 
+ 
+7.1.2. Entrega Avulsa 
+ 
+Campo Obrigatório Descrição Domínio 
+idManifestante Sim Identificador 
+do usuário 
+CPF cadastrado no 
+PJe 
+senhaManifestan
+te 
+Sim Senha do 
+usuário 
+Senha cadastrada no 
+PJe 
+numeroProcesso Sim Número do 
+processo 
+Número do processo 
+mimetype Sim Conteúdo do 
+documento 
+application/pdf 
+nivelSigilo Não Sigilo do 
+documento 
+0: público 
+1: segredo de justiça 
+2: sigilo mínimo 
+3: sigilo médio 
+4: sigilo intenso 
+5: sigilo absoluto 
+tipoDocumento Sim ID documento 
+do processo 
+(binário) 
+1) Webservice 
+ConsultaPJe, 
+operação 
+“consultarTodosTipos
+DocumentoProcessu
+al” 
+ 
+
+--- [Página 33] ---
+7.1.3. Resposta de Expediente 
+ 
+Campo Obriga
+tório 
+Descrição Domínio 
+idManifestante Sim Identificador do 
+usuário 
+CPF cadastrado no 
+PJe 
+senhaManifestante Sim Senha do 
+usuário 
+Senha cadastrada no 
+PJe 
+numeroProcesso Sim Número do 
+processo 
+Número do processo 
+mimetype Sim Conteúdo do 
+documento 
+application/pdf 
+nivelSigilo Não Sigilo do 
+documento 
+0: público 
+1: segredo de justiça 
+2: sigilo mínimo 
+3: sigilo médio 
+4: sigilo intenso 
+5: sigilo absoluto 
+tipoDocumento Sim ID documento 
+do processo 
+(binário) 
+1) Webservice 
+ 
+ConsultaPJe, 
+operação 
+“consultarTodosTipos
+DocumentoProcessual
+” 
+nome Sim Define 
+resposta de 
+expediente 
+“idsProcessoParteExp
+ediente” 
+valor Sim ID’s dos 
+expedientes 
+separados por 
+ponto e vírgula 
+caso haja mais 
+de um 
+1) Webservice  
+ 
+intercomunicacao, 
+operação 
+consultarAvisosPende
+ntes() ou 
+ 
+2) Consultar os 
+expedientes 
+manualmente no PJe 
+ 
+
+--- [Página 34] ---
+7.2. Operação Consultar Processo 
+ 
+Campo Obrigatório Descrição Domínio 
+idConsultante Sim Identificador do 
+usuário 
+CPF cadastrado no 
+PJe 
+senhaConsultante Sim Senha do usuário Senha cadastrada no 
+PJe 
+numeroProcesso Sim Número do 
+processo 
+Número do processo 
+dataReferencia Não Data para 
+restringir a 
+pesquisa 
+Data 
+movimentos Não Mostra ou não os 
+movimentos do 
+processo 
+true 
+false 
+incluirCabecalho Não Mostra ou não o 
+cabeçalho com os 
+dados básicos do 
+processo 
+true 
+false 
+incluirDocumentos Não Mostra ou não 
+todos 
+os documentos do 
+processo 
+true 
+false 
+documento Não Mostra documento 
+específico do 
+processo. Quando 
+mais de um, 
+separar por ponto 
+e vírgula 
+IdDocumento;IdDocu
+mento;IdDocumento 
+(Pesquisar 
+diretamente no PJe) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 35] ---
+7.3. Operação Consultar Avisos Pendentes 
+ 
+Campo Obrigatório Descrição Domínio 
+idRepresentado Não Identificador da 
+pessoa parte a 
+quem se 
+destina a 
+comunicação 
+processual 
+CPF cadastrado no 
+PJe 
+idConsultante Sim Identificador do 
+usuário 
+consultante 
+CPF cadastrado no 
+PJe 
+senhaConsultante Sim Senha do 
+usuário 
+consultante 
+Senha cadastrada no 
+PJe 
+dataReferencia Não Data para 
+restringir a 
+pesquisa 
+DDMMAAAA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 36] ---
+7.4. Operação Consultar Teor Comunicação 
+ 
+Campo Obrigató
+rio 
+Descrição Domínio 
+idConsultante Sim Identificador 
+do usuário 
+consultante 
+CPF cadastrado no PJe 
+senhaConsultante Sim Senha do 
+usuário 
+consultante 
+Senha cadastrada no PJe 
+numeroProcesso Sim Se 
+preenchido, 
+retorna os 
+documentos 
+de 
+comunicaçã
+o do 
+processo e 
+registra 
+ciência em 
+todos 
+Número do processo 
+identificadorAviso Sim Id do aviso 
+pendente de 
+ciência. Dá 
+ciência 
+somente no 
+documento 
+especificado
+. 
+Consultar a operação 
+consultarAvisosPendentes() 
+ 
+ATENÇÃO: No ato desta consulta, se o 
+expediente em questão está pendente de 
+ciência, o sistema registra automaticamente 
+a ciência desse expediente e começa a 
+contagem de prazos. (NÃO USAR ESTA 
+OPERAÇÃO NOS TESTES VIA SoapUI em 
+ambiente de PRODUÇÃO. 
+
+--- [Página 37] ---
+8. Mini-Tutoriais 
+ 
+ 
+8.1. Como Acessar o PJe 
+ 
+a) Acesso manual 
+ 
+O acesso manual ao PJe dá-se através de login e senha ou certificado 
+digital A3 com token USB; 
+ 
+O acesso manual ao PJe, via certificado digital A3 com token USB, não 
+exige senha previamente cadastrada no sistema, exige-se apenas a senha 
+do certificado digital do usuário. 
+ 
+b) Acesso via MNI 
+ 
+As operações do MNI, via sistema do Órgão externo, realizam-se APENAS 
+através de login e senha (sistema externo → PJe). A senha do usuário de 
+integração a ser inserida no código-fonte do sistema da Órgão externo deve 
+ter sido previamente cadastrada no PJe; 
+ 
+c) Definição e/ou alteração de senha 
+ 
+Quando uma senha está prestes a expirar, já expirou ou deseja-se alterá-la, 
+deve-se redefiní-la por meio do botão "Esqueci minha senha" na tela de 
+login do PJe. Ao clicar nesse botão e preencher os dados solicitados, o PJe 
+encaminha para o e-mail do usuário cadastrado, um link para a definição / 
+redefinição de senha. 
+ 
+ 
+ 
+ 
+
+--- [Página 38] ---
+8.2. Como Fazer Assinatura Digital de Documentos 
+ 
+Na operação entregarManifestaçãoProcessual() é necessário anexar 
+documentos. Esses documentos necessitam estar assinados digitalmente 
+para que a operação ocorra com sucesso. Os procedimentos necessários 
+para assinar digitalmente documentos para que sejam peticionados via MNI 
+são: 
+ 
+ Converter os documentos para a codificação Base64, a qual é um 
+método para codificação de dados para transferência na Internet. É 
+utilizado frequentemente para transmitir dados binários por meios de 
+transmissões que lidam apenas com texto, como por exemplo para 
+enviar arquivos anexos por e-mail; 
+ Assinar os documentos convertidos para a codificação Base64 utilizando 
+um algoritmo de hash SHA256withRSA; 
+ Para assinatura dos documentos em Base64, utilizar um certificado com 
+uma cadeia de certificado A1 ou A3 da ICP Brasil; 
+ A cadeia de certificado deve estar por padrão no formato PEM; 
+ Cada documento a ser peticionado deve conter sua assinatura digital 
+individual; 
+ É permitido o envio de até 40 documentos por vez; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 39] ---
+8.3. Como Criar Expedientes Para o Ministério Público 
+ 
+PRÓLOGO 
+ 
+Para que o Ministério Público possa, por meio do Modelo Nacional de 
+Interoperabilidade (MNI), verificar avisos de comunicação ou expedientes 
+pendentes de ciência, consultar o conteúdo da comunicação (expediente) e, 
+principalmente, responder a expedientes em aberto, é necessário que existam no 
+sistema PJe comunicações (expedientes) encaminhadas para o Ministério Público. 
+Este tópico apresenta instruções para, no ambiente de treinamento do sistema do 
+PJE, enviar comunicações (expedientes) para o Ministério Público Eleitoral de 
+forma que este possa realizar testes de integração de seus sistemas com o PJe 
+por meio do uso do MNI. 
+ 
+SOBRE ESTE MINI TUTORIAL 
+ 
+Apesar de ser um mini tutorial confeccionado visando o ambiente 3g e o perfil 
+de usuário "Secretário Judiciário", ele pode ser utilizado como um guia para o 
+ambiente 1g e 2g devendo o usuário logado ter o perfil de Servidor de Cartório (1g) 
+ou Secretário Judiciário (2g e 3g); 
+Este mini tutorial pode ser utilizado por todas as áreas que trabalham com o 
+PJe mas destina-se principalmente as equipes negociais dos órgãos externos, as 
+quais detêm o conhecimento negocial acerca da criação de expedientes de 
+comunicação. 
+ 
+PERFIS DE USUÁRIO  
+ 
+ Para que expedientes de comunicação possam ser criados no PJe de 
+treinamento, é necessário ter um usuário cadastrado que possua um dos perfis a 
+seguir: 
+ 
+Instância Perfil 
+1º grau Servidor de Cartório 
+2º grau Secretário Judiciário 
+3º grau Secretário Judiciário 
+ 
+
+--- [Página 40] ---
+ Caso o órgão externo não tenha usuário com alguns desses perfis cadastrados 
+no PJe de treinamento, poderá fazer a solicitação do cadastro através da Central 
+de Atendimento do TSE enviando email para o endereço 8800@tse.jus.br,  
+informando que deseja cadastrar usuário para criar expedientes de comunicação e 
+informando também: 
+ 
+a) Instância 
+b) CPF (pode ser o mesmo do usuário de integração) 
+c) 02 (duas) zonas eleitorais da unidade da federação (somente se for 1º grau) 
+ 
+ 
+LOGIN NO PJE  
+ 
+De posse do usuário com o perfil adequado, faça login no sistema de treinamento 
+da instância desejada do PJe: 
+ 
+ 
+Figura – Tela de Login do PJe 
+ 
+COMUNICAÇÕES VIA SISTEMA  
+ 
+Por meio da tarefa “preparar ato de comunicação”, as comunicações via 
+sistema para (Ministério Público, Defensoria Pública, Advocacia-Geral da União, 
+Fazenda Pública, Polícia Federal, Polícia Civil e outros órgãos externos 
+cadastrados junto à Justiça Eleitoral) são realizadas. Também é por meio dessa 
+
+
+--- [Página 41] ---
+tarefa que encaminham-se os expedientes de comunicação para a publicação no 
+Diário da Justiça Eletrônico (DJe). Seguem os procedimentos a serem realizados 
+no PJe: 
+ 
+ 
+ 
+Figura – Painel do Usuário 
+ 
+ 
+Figura – Painel do Usuário – Lista de Tarefas 
+ 
+
+
+--- [Página 42] ---
+Se não existir processos na tarefa “Preparar comunicação”, clique na tarefa 
+“Analisar Processos”.  
+ 
+Figura – Painel do Usuário – Tarefa Analisar Processos 
+ 
+Caso existam processos na tarefa, clique na tarefa “Preparar comunicação”, 
+selecione um processo e siga a partir do passo 6 deste procedimento. 
+Clique em um processo listado no lado esquerdo da tela: 
+ 
+ 
+Figura – Painel do Usuário – Tarefa Analisar Processos - Processo 
+ 
+
+
+--- [Página 43] ---
+ 
+ 
+ 
+Clique no ícone no canto superior esquerdo da tela  
+ 
+ 
+Figura – Painel do Usuário – Botão “Tramitar Para” 
+ 
+ 
+ 
+Figura – Painel do Usuário – Opções de Tramitação 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- [Página 44] ---
+ 
+ 
+ 
+Clique na opção “Atos de Comunicação”  
+ 
+ 
+Figura – Painel do Usuário – Opção “Atos de Comunicação” 
+ 
+
+
+--- [Página 45] ---
+Figura – Painel do Usuário – Tarefa ”Preparar Comunicação” 
+ 
+Em “Outros Destinatários”, digite no campo “Digite o nome, o CPF ou o CNPJ do 
+destinatário” o nome ou CNPJ do Ministério Público destinatário da comunicação e 
+clique no resultado da consulta. 
+ 
+ 
+Figura – Painel do Usuário – Outros destinatários 
+ 
+ 
+Figura – Painel do Usuário – Outros destinatários – Pesquisa 
+ 
+ 
+
+
+--- [Página 46] ---
+ 
+Figura – Painel do Usuário – Destinatário – Ministério Público 
+ 
+Selecione o tipo de documento da comunicação. 
+ 
+ 
+Figura – Painel do Usuário – Destinatário – Tipo de Documento da Comunicação 
+ 
+
+
+--- [Página 47] ---
+ 
+Figura – Painel do Usuário – Destinatário – Tipo de Documento da Comunicação 
+ 
+ 
+Figura – Painel do Usuário – Destinatário – Tipo de Documento da Comunicação 
+ 
+Figura – Painel do Usuário – Destinatário – Tipo de Documento da Comunicação - 
+Intimação 
+
+
+--- [Página 48] ---
+Clique no botão “Próximo ” 
+ 
+Figura – Painel do Usuário – Botão Próximo 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 – Preparar Ato 
+ 
+ 
+Clique no ícone de edição do ato 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 - Ícone de edição do ato 
+ 
+ 
+
+
+--- [Página 49] ---
+ 
+Figura – Painel do Usuário – Passo 2 - Edição do ato de comunicação 
+Selecione a opção “Documento novo” e clique no botão “CONFIRMAR”. 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 – Documento Novo 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 – Edição de documento novo 
+
+
+--- [Página 50] ---
+Preencha um conteúdo para o documento novo e clique no botão “CONFIRMAR”. 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 – Documento novo 
+ 
+ 
+ 
+Figura – Painel do Usuário – Passo 2 – Documento novo confirmado 
+ 
+ 
+ 
+ 
+
+
+--- [Página 51] ---
+Clique no botão “Próximo ”. 
+ 
+ 
+Figura – Painel do Usuário – Passo 3 – Escolher documentos e finalizar 
+ 
+Clique no botão “ASSINAR DIGITALMENTE”. 
+ 
+ 
+Figura – Painel do Usuário – Passo 3 – Botão Assinar Digitalmente 
+ 
+É necessário que o aplicativo PJeOffice tenha sido instalado no computador do 
+usuário. 
+ O instalador do aplicativo está disponível em 
+http://www.pje.jus.br/wiki/index.php/PJeOffice 
+ 
+Para fins de testes, para simular a assinatura digital de um documento, é possível 
+utilizar o PJeOffice sem a necessidade de certificado digital do usuário. 
+Para habilitar o modo desenvolvedor, siga os passos abaixo: Passo 1: Encontrar o 
+ícone do PJe Office que, no sistema operacional Windows, estará localizado no 
+SystemTray (Fica no canto inferior direito ao lado do Relógio, conforme a imagem 
+abaixo) 
+ 
+
+
+--- [Página 52] ---
+ 
+Passo 2: Clicar no ícone do PJeOffice e selecionar a opção Sistema. 
+ 
+ 
+ 
+Passo 3: Na tela PJeOffice - Sistema, clicar 5 vezes seguida no número da versão 
+que aparece na frente do nome PJeOffice (à medida que os cliques for realizado, 
+irá aparecer um texto informando quantos cliques faltam para habilitar o modo 
+desenvolvedor). Após clicar 5 vezes aparecerá a mensagem: "Modo 
+Desenvolvedor Habilitado". 
+ 
+ 
+ 
+
+
+--- [Página 53] ---
+A Comunicação (expediente) foi encaminhada para o destinatário, no caso, o 
+Ministério Público. 
+ 
+Caso queira verificar se a comunicação (expediente) foi encaminhada para o 
+Ministério Público, sem o uso do MNI, segue os seguintes procedimentos: 
+ 
+Clique no canto superior direito da tela no nome do usuário e clique no botão 
+SAIR. 
+ 
+ 
+Figura – Botão Sair do PJe 
+ 
+ 
+ 
+Figura – Tela de Login do PJe 
+ 
+ 
+ 
+
+
+--- [Página 54] ---
+Acesse o PJe com as credenciais de um Procurador/Gestor. 
+ 
+ 
+Figura – Tela de Login do PJe – Credenciais de Procurador 
+ 
+ 
+ 
+Figura – Painel do Procurador 
+ 
+ 
+ 
+
+
+--- [Página 55] ---
+No Painel do Procurador, na aba “EXPEDIENTES”, em Caixas, clique no texto 
+“TSE” 
+ 
+ 
+Figura – Painel do Procurador – Caixas - TSE 
+ 
+ 
+ 
+Figura – Painel do Procurador – Caixas – TSE – Expedientes 
+ 
+Observe no lado direto da tela, a Comunicação (expediente) foi encaminhada 
+anteriormente para o Ministério Público: 
+ 
+ 
+Figura – Painel do Procurador – Caixas – TSE – Expedientes 
+ 
+
+
+--- [Página 56] ---
+9. Suporte Técnico 
+ 
+9.1. Gerenciamento de Chamados de Suporte 
+ 
+Atualmente, o atendimento das solicitações de suporte realizado pelo 
+Núcleo de Apoio as Integrações com o PJe compreende um total de 2.637 
+(duas mil seiscentas e trinta e sete) Zonas Eleitorais, 27 (vinte e sete) Tribunais 
+Regionais Eleitorais, diversas unidades internas do próprio Tribunal Superior 
+Eleitoral, acrescidos de outros 21 (vinte e um) órgãos externos integrados ao 
+PJe até janeiro de 2024, alguns deles com abrangência nacional, como o 
+Ministério Público Federal, a Advocacia Geral de União e a Polícia Federal. 
+  
+Todos os atendimentos de solicitações de suporte técnico, negocial ou 
+gerencial por parte dos clientes internos e externos do Tribunal Superior 
+Eleitoral são realizados utilizando-se a plataforma GSTI de gerenciamento de 
+chamados de suporte, a qual encontra-se consoante com as boas práticas da 
+metodologia ITIL (Information Technology Infrastructure Library) de 
+gerenciamento de projetos e infraestrutura de TI para geração de valor, 
+conhecimento, colaboração entre equipes, gerenciamento, controle, visão e 
+pensamento holísticos, simplicidade, visibilidade e melhoria contínua dos 
+atendimentos; 
+  
+A plataforma GSTI é a ferramenta de atendimento das solicitações de 
+suporte largamente utilizada por todas as áreas técnicas, negociais e 
+gerenciais do TSE em seus respectivos nichos de atuação e na qual é possível 
+realizar o registro, a numeração única, a distribuição, o gerenciamento, o 
+controle e o acompanhamento das solicitações de suporte de forma organizada 
+e eficaz. 
+  
+Um chamado pode necessitar ser atendido por uma ou mais áreas de 
+trabalho como infraestrutura, banco de dados, negocial, desenvolvimento, 
+sustentação e dessa forma a plataforma GSTI permite o encaminhamento dos 
+chamados, quando é o caso, com seus respectivos documentos anexos, 
+
+--- [Página 57] ---
+históricos de atendimento, andamentos e comentários, para as unidades da TI 
+ou fora dela as quais realmente detenham o conhecimento e as competências 
+necessárias para resolvê-los, tornando dessa forma o chamado mais 
+compreensível, gerenciável e rastreável; 
+  
+Por meio da plataforma GSTI é possível o acompanhamento de um 
+chamado por parte de toda a equipe técnica de uma unidade ou mesmo de 
+várias unidades, inclusive por parte dos gestores, não ficando assim o 
+chamado associado de forma pessoal e restrito a um único técnico; 
+  
+Um chamado associado e restrito a um único técnico, sem que os demais 
+membros da equipe dele tenham conhecimento, estará sujeito aos diversos 
+contratempos e ciclos de vida do ambiente corporativo, tais como: imprevistos, 
+férias, licenças, afastamentos, motivos de saúde, defeitos em equipamentos, 
+dentre outros e todas as consequências que daí podem resultar, com possíveis 
+efeitos colaterais negativos para a unidade do técnico e obviamente para os 
+próprios clientes internos ou externos que se utilizarem de canais dessa 
+natureza; 
+  
+Quando solicitamos aos nossos clientes que, aos chamados de suporte 
+sejam anexadas imagens das telas dos sistemas nas quais contenham 
+mensagens de erros, tal solicitação procura seguir o ditado popular que diz que 
+“uma imagem vale por mil palavras”. Contudo, tal solicitação apesar de muito 
+contribuir a investigação da solicitação de suporte, não constitui uma 
+obrigatoriedade por parte de quem abre um chamado de suporte, apenas que 
+se o fizer em muito contribuirá para a solução de sua solicitação.  
+ 
+Especificamente no caso dos sistemas que se integram ao PJe via 
+protocolo de interoperabilidade MNI, solicitamos sim que, no momento da 
+abertura do chamado de suporte sejam anexadas as requisições XML das 
+operações MNI que vieram a apresentar comportamento anômalo em seu 
+funcionamento, pois a análise dessas requisições XML muitíssimo contribui 
+para a investigação, testes e solução do chamado; 
+  
+
+--- [Página 58] ---
+Em razão do exposto acima, não é possível ofertar um canal de 
+atendimento exclusivo para um órgão externo, pois cedo ou tarde teríamos 
+também que fazê-lo para todos os demais clientes internos e externos da 
+Justiça Eleitoral, o que em pouco tempo faria a plataforma GSTI perder sua 
+razão de existir. Além do que, o atendimento individualizado de tantos clientes 
+internos e externos levaria os membros das equipes técnicas a serem 
+demandados quase que diuturnamente e eventualmente serem compelidos a 
+trabalhar fora de suas respectivas jornadas normais de trabalho 
+sobrecarregando os profissionais, o que claro, seria inviável do ponto de vista 
+humano. 
+ 
+Sendo assim, o canal de atendimento que melhor atende aos clientes 
+internos e externos do TSE, pois como já explanado no item anterior, permite 
+um melhor planejamento, gerenciamento, controle, rastreabilidade, 
+acompanhamento e visibilidade das solicitações de suporte, bem como 
+colaboração entre as equipes técnicas, contribuindo assim para facilitar a 
+busca da solução de forma rápida, eficiente e qualitativa, é unicamente a 
+plataforma institucional GSTI de gerenciamento de chamados. 
+ 
+Entendemos e compreendemos as necessidades dos nossos clientes 
+internos e externos, motivo pelo qual procuramos dar respostas a todas as 
+solicitações de suporte de forma célere, eficaz e com qualidade, obviamente 
+respeitando nossas capacidades humanas internas. 
+  
+9.2. Solicitação de Suporte Técnico 
+ 
+9.2.1. Quais Informações Enviar ao Suporte 
+ 
+A solicitação de suporte técnico se dá com o envio de email para a Central de 
+Atendimento do TSE, devendo o usuário do órgão externo preencher no corpo 
+do email as informações constantes do modelo abaixo: 
+ 
+ 
+
+--- [Página 59] ---
+ 
+ 
+Modelo de Solicitação de Suporte Técnico 
+ 
+CPF <CPF DO USUÁRIO MNI> 
+URL do PJe <ENDEREÇO DO SISTEMA> 
+URL 
+do endpoint Intercomunicação <ENDEREÇO DO ENDPOINT > 
+Natureza da Solicitação 
+ Gerencial 
+ Técnica 
+ Negocial 
+Tipo da Solicitação 
+ Erro 
+ Dúvida 
+ Sugestão De Melhoria 
+Tipo de Operação MNI 
+ entregarManifestacaoProcessual 
+ consultarProcesso 
+ consultarAvisosPendentes 
+ consultarTeorComunicacao 
+Descrição da Solicitação 
+Descrever a solicitação e se for o caso 
+informar mensagens de erro, números de 
+processos, prints de telas, requisições XML 
+etc. 
+Anexar ao Chamado 
+Anexar a REQUISIÇÃO XML cuja operação 
+MNI está com problema. 
+ 
+As requisições XMLs utilizadas na 
+integração entre os sistemas serão usadas 
+para fins de testes por parte da equipe do 
+TSE, sendo necessário editá-las em algum 
+momento, portanto, pede-se NÃO anexar 
+imagens das requisições XML e SIM os 
+arquivos XMLs em texto puro. 
+ 
+Visualizar a requisição XML numa 
+
+--- [Página 60] ---
+ferramenta de texto como o Notepad++ para 
+verificar se o arquivo está indentado. Se 
+não estiver, identar o arquivo para facilitar a 
+visualização. 
+ 
+É importante o fornecimento da maior quantidade de informações possíveis 
+na abertura da solicitação de suporte, para que as equipes técnicas ou 
+negociais disponham de subsídios para a investigação da solicitação. 
+ 
+Por exemplo, há chamados que são abertos sem que sejam informados o 
+CPF do usuário de integração, a URL do endpoint Intercomunicação, a 
+requisição XML utilizada, vindo as vezes somente com a mensagem de erro. 
+Em casos assim as equipes ficam impossibilitadas de atuar na solicitação. 
+ 
+Uma vez registrada a solicitação de suporte, esta tornar-se-á num chamado 
+de suporte na Central de Atendimento do TSE, o qual será designado para a 
+área capacitada a resolvê-lo: Gerencial, Infraestrutura, Desenvolvimento, 
+Banco de Dados, Negocial etc. 
+ 
+9.3. Como Solicitar o Suporte Técnico 
+ 
+Reunidas e preenchidas as informações do Modelo de Solicitação de 
+Suporte Técnico, enviar um email para a Central de Atendimento do TSE. 
+ 
+9.3.1. Canal de Suporte Técnico 
+ 
+Central de Atendimento do TSE 
+ 
+8800@tse.jus.br 
+ 
+
+--- [Página 61] ---
+9.4. Questionamentos ao Usuário do Órgão externo 
+ 
+Por vezes, as equipes de suporte necessitam solicitar ao usuário do 
+Órgão externo, informações, documentos ou arquivos relevantes que 
+auxiliem nas linhas de investigação de um chamado, o que pode auxiliar em 
+sua solução. 
+ 
+As equipes de suporte fazem então um questionamento no sistema de 
+gerenciamento de chamados e um e-mail com tal questionamento é enviado 
+ao usuário, contendo nesse email um link para a resposta. 
+ 
+Nem sempre o usuário consegue responder o questionamento ou enviar 
+arquivos por esse link e nesse caso o usuário deverá abrir um novo 
+chamado, utilizando-se do mesmo canal mencionado no item anterior, 
+informando o número do chamado do qual originou o questionamento e 
+anexando as informações, documentos ou arquivos solicitados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 62] ---
+10.  Anexos 
+ 
+10.1. Ferramenta SoapUI 
+ 
+Para fins de testes de integração, recomenda-se o uso da ferramenta 
+SoapUI para a simulação de requisições MNI. 
+ 
+ A ferramenta é gratuita. 
+ 
+10.2. Documentação do CNJ 
+ 
+O MNI é um protocolo de comunicação desenvolvido e mantido pelo 
+Conselho Nacional de Justiça, cuja documentação, por ele confeccionada, 
+pode ser encontrada no endereço 
+http://www.pje.jus.br/wiki/index.php/Tutorial_MNI 
+ 
+OBSERVAÇÃO: É a única documentação sobre o MNI disponibilizada pelo 
+CNJ para consulta. 
+ 
+10.3. Modelo de Solicitação de Criação de Usuário 
+ 
+Assunto Solicitação de Criação de Usuário de Integração MNI 
+Descrição da 
+Solicitação 
+O <NOME DO ÓRGÃO EXTERNO>  solicita a 
+criação do usuário de integração MNI no ambiente 
+de treinamento/produção do PJe para fins de 
+integração de sistemas, conforme dados abaixo: 
+Instância do PJe 
+ 1º grau - (Informar a UF) 
+ 2º grau - (Informar a UF) 
+ 3º grau 
+Nome <NOME DO USUÁRIO DE INTEGRAÇÃO> 
+CPF <CPF DO USUÁRIO DE INTEGRAÇÃO> 
+E-mail <EMAIL DO USUÁRIO DE INTEGRAÇÃO> 
+ 
+ 
+
+--- [Página 63] ---
+10.4. Modelo de Solicitação de Suporte Técnico 
+ 
+CPF <CPF DO USUÁRIO MNI> 
+URL do PJe <ENDEREÇO DO SISTEMA PJE> 
+URL 
+Endpoint Intercomunicação <ENDEREÇO DO ENDPOINT > 
+Natureza da Solicitação 
+ Gerencial 
+ Técnica 
+ Negocial 
+Tipo da Solicitação 
+ Erro 
+ Dúvida 
+ Sugestão De Melhoria 
+Tipo de Operação MNI 
+ entregarManifestacaoProcessual 
+ consultarProcesso 
+ consultarAvisosPendentes 
+ consultarTeorComunicacao 
+Descrição da Solicitação 
+Descrever a solicitação e se for o caso 
+informar mensagens de erro, números de 
+processos, prints de telas, requisições XML 
+etc. 
+Anexar ao Chamado Anexar a REQUISIÇÃO XML cuja operação MNI está com problema. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 64] ---
+10.5. Endereços das Máquinas do PJe 
+ 
+10.5.1. Aplicação PJe 
+ 
+10.5.1.1. Treinamento  
+ 
+Instância Endereço 
+ZE https://pje1g-ead.tse.jus.br/pje/login.seam  
+TRE https://pje2g-ead.tse.jus.br/pje/login.seam  
+TSE https://pje3g-ead.tse.jus.br/pje/login.seam  
+ 
+10.5.1.2. Produção 
+ 
+1ª 
+Instância Endereço 
+TRE-AC https://pje1g-ac.tse.jus.br/pje/login.seam  
+TRE-AL https://pje1g-al.tse.jus.br/pje/login.seam  
+TRE-AM https://pje1g-am.tse.jus.br/pje/login.seam  
+TRE-AP https://pje1g-ap.tse.jus.br/pje/login.seam  
+TRE-BA https://pje1g-ba.tse.jus.br/pje/login.seam  
+TRE-CE https://pje1g-ce.tse.jus.br/pje/login.seam  
+TRE-DF https://pje1g-df.tse.jus.br/pje/login.seam  
+TRE-ES https://pje1g-es.tse.jus.br/pje/login.seam  
+
+--- [Página 65] ---
+TRE-GO https://pje1g-go.tse.jus.br/pje/login.seam  
+TRE-MA https://pje1g-ma.tse.jus.br/pje/login.seam  
+TRE-MG https://pje1g-mg.tse.jus.br/pje/login.seam  
+TRE-MS https://pje1g-ms.tse.jus.br/pje/login.seam  
+TRE-MT https://pje1g-mt.tse.jus.br/pje/login.seam  
+TRE-PA https://pje1g-pa.tse.jus.br/pje/login.seam  
+TRE-PB https://pje1g-pb.tse.jus.br/pje/login.seam  
+TRE-PE https://pje1g-pe.tse.jus.br/pje/login.seam  
+TRE-PI https://pje1g-pi.tse.jus.br/pje/login.seam  
+TRE-PR https://pje1g-pr.tse.jus.br/pje/login.seam  
+TRE-RJ https://pje1g-rj.tse.jus.br/pje/login.seam  
+TRE-RN https://pje1g-rn.tse.jus.br/pje/login.seam  
+TRE-RO https://pje1g-ro.tse.jus.br/pje/login.seam  
+TRE-RR https://pje1g-rr.tse.jus.br/pje/login.seam  
+TRE-RS https://pje1g-rs.tse.jus.br/pje/login.seam  
+TRE-SC https://pje1g-sc.tse.jus.br/pje/login.seam  
+TRE-SE https://pje1g-se.tse.jus.br/pje/login.seam  
+TRE-SP https://pje1g-sp.tse.jus.br/pje/login.seam  
+TRE-TO https://pje1g-to.tse.jus.br/pje/login.seam  
+ 
+
+--- [Página 66] ---
+ 
+2ª 
+Instância Endereço 
+TRE-AC https://pje.tre-ac.jus.br/pje/login.seam  
+TRE-AL https://pje.tre-al.jus.br/pje/login.seam  
+TRE-AM https://pje.tre-am.jus.br/pje/login.seam  
+TRE-AP https://pje.tre-ap.jus.br/pje/login.seam  
+TRE-BA https://pje.tre-ba.jus.br/pje/login.seam  
+TRE-CE https://pje.tre-ce.jus.br/pje/login.seam  
+TRE-DF https://pje.tre-df.jus.br/pje/login.seam  
+TRE-ES https://pje.tre-es.jus.br/pje/login.seam  
+TRE-GO https://pje.tre-go.jus.br/pje/login.seam  
+TRE-MA https://pje.tre-ma.jus.br/pje/login.seam  
+TRE-MG https://pje.tre-mg.jus.br/pje/login.seam  
+TRE-MS https://pje.tre-ms.jus.br/pje/login.seam  
+TRE-MT https://pje.tre-mt.jus.br/pje/login.seam  
+TRE-PA https://pje.tre-pa.jus.br/pje/login.seam  
+TRE-PB https://pje.tre-pb.jus.br/pje/login.seam  
+TRE-PE https://pje.tre-pe.jus.br/pje/login.seam  
+TRE-PI https://pje.tre-pi.jus.br/pje/login.seam  
+
+--- [Página 67] ---
+TRE-PR https://pje.tre-pr.jus.br/pje/login.seam  
+TRE-RJ https://pje.tre-rj.jus.br/pje/login.seam  
+TRE-RN https://pje.tre-rn.jus.br/pje/login.seam  
+TRE-RO https://pje.tre-ro.jus.br/pje/login.seam  
+TRE-RR https://pje.tre-rr.jus.br/pje/login.seam  
+TRE-RS https://pje.tre-rs.jus.br/pje/login.seam  
+TRE-SC https://pje.tre-sc.jus.br/pje/login.seam  
+TRE-SE https://pje.tre-se.jus.br/pje/login.seam  
+TRE-SP https://pje.tre-sp.jus.br/pje/login.seam  
+TRE-TO https://pje.tre-to.jus.br/pje/login.seam  
+ 
+3ª 
+Instância Endereço 
+TSE https://pje.tse.jus.br/pje/login.seam  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 68] ---
+10.5.2. Endereços dos Endpoints de Webservice 
+ 
+10.5.2.1. Treinamento 
+ 
+10.5.2.1.1. Intercomunicação 
+ 
+Instância Endereço 
+ZE https://pje1g-ead.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE https://pje2g-ead.tse.jus.br/pje/intercomunicacao?wsdl  
+TSE https://pje3g-ead.tse.jus.br/pje/intercomunicacao?wsdl  
+ 
+10.5.2.1.2. ConsultaPJe 
+ 
+Instância Endereço 
+ZE https://pje1g-ead.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE https://pje2g-ead.tse.jus.br/pje/ConsultaPJe?wsdl  
+TSE https://pje3g-ead.tse.jus.br/pje/ConsultaPJe?wsdl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- [Página 69] ---
+10.5.2.2. Produção 
+ 
+10.5.2.2.1. Intercomunicação 
+ 
+1ª 
+Instância Endereço 
+TRE-AC https://pje1g-ac.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-AL https://pje1g-al.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-AM https://pje1g-am.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-AP https://pje1g-ap.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-BA https://pje1g-ba.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-CE https://pje1g-ce.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-DF https://pje1g-df.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-ES https://pje1g-es.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-GO https://pje1g-go.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-MA https://pje1g-ma.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-MG https://pje1g-mg.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-MS https://pje1g-ms.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-MT https://pje1g-mt.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-PA https://pje1g-pa.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-PB https://pje1g-pb.tse.jus.br/pje/intercomunicacao?wsdl  
+
+--- [Página 70] ---
+TRE-PE https://pje1g-pe.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-PI https://pje1g-pi.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-PR https://pje1g-pr.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-RJ https://pje1g-rj.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-RN https://pje1g-rn.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-RO https://pje1g-ro.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-RR https://pje1g-rr.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-RS https://pje1g-rs.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-SC https://pje1g-sc.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-SE https://pje1g-se.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-SP https://pje1g-sp.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-TO https://pje1g-to.tse.jus.br/pje/intercomunicacao?wsdl  
+ 
+ 
+2ª 
+Instância Endereço 
+ZE https://pje1g.tse.jus.br/pje/intercomunicacao?wsdl  
+TRE-AC https://pje.tre-ac.jus.br/pje/intercomunicacao?wsdl  
+TRE-AL https://pje.tre-al.jus.br/pje/intercomunicacao?wsdl  
+TRE-AM https://pje.tre-am.jus.br/pje/intercomunicacao?wsdl  
+TRE-AP https://pje.tre-ap.jus.br/pje/intercomunicacao?wsdl  
+
+--- [Página 71] ---
+2ª 
+Instância Endereço 
+TRE-BA https://pje.tre-ba.jus.br/pje/intercomunicacao?wsdl  
+TRE-CE https://pje.tre-ce.jus.br/pje/intercomunicacao?wsdl  
+TRE-DF https://pje.tre-df.jus.br/pje/intercomunicacao?wsdl  
+TRE-ES https://pje.tre-es.jus.br/pje/intercomunicacao?wsdl  
+TRE-GO https://pje.tre-go.jus.br/pje/intercomunicacao?wsdl  
+TRE-MA https://pje.tre-ma.jus.br/pje/intercomunicacao?wsdl  
+TRE-MG https://pje.tre-mg.jus.br/pje/intercomunicacao?wsdl  
+TRE-MS https://pje.tre-ms.jus.br/pje/intercomunicacao?wsdl  
+TRE-MT https://pje.tre-mt.jus.br/pje/intercomunicacao?wsdl  
+TRE-PA https://pje.tre-pa.jus.br/pje/intercomunicacao?wsdl  
+TRE-PB https://pje.tre-pb.jus.br/pje/intercomunicacao?wsdl  
+TRE-PE https://pje.tre-pe.jus.br/pje/intercomunicacao?wsdl  
+TRE-PI https://pje.tre-pi.jus.br/pje/intercomunicacao?wsdl  
+TRE-PR https://pje.tre-pr.jus.br/pje/intercomunicacao?wsdl  
+TRE-RJ https://pje.tre-rj.jus.br/pje/intercomunicacao?wsdl  
+TRE-RN https://pje.tre-rn.jus.br/pje/intercomunicacao?wsdl  
+TRE-RO https://pje.tre-ro.jus.br/pje/intercomunicacao?wsdl  
+TRE-RR https://pje.tre-rr.jus.br/pje/intercomunicacao?wsdl  
+
+--- [Página 72] ---
+2ª 
+Instância Endereço 
+TRE-RS https://pje.tre-rs.jus.br/pje/intercomunicacao?wsdl  
+TRE-SC https://pje.tre-sc.jus.br/pje/intercomunicacao?wsdl  
+TRE-SE https://pje.tre-se.jus.br/pje/intercomunicacao?wsdl  
+TRE-SP https://pje.tre-sp.jus.br/pje/intercomunicacao?wsdl  
+TRE-TO https://pje.tre-to.jus.br/pje/intercomunicacao?wsdl  
+ 
+3ª 
+Instância Endereço 
+TSE https://pje.tse.jus.br/pje/intercomunicacao?wsdl  
+ 
+ 
+10.5.2.2.2. ConsultaPJe 
+ 
+ 
+1ª 
+Instância Endereço 
+TRE-AC https://pje1g-ac.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AL https://pje1g-al.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AM https://pje1g-am.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AP https://pje1g-ap.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-BA https://pje1g-ba.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-CE https://pje1g-ce.tse.jus.br/pje/ConsultaPJe?wsdl  
+
+--- [Página 73] ---
+TRE-DF https://pje1g-df.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-ES https://pje1g-es.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-GO https://pje1g-go.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MA https://pje1g-ma.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MG https://pje1g-mg.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MS https://pje1g-ms.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MT https://pje1g-mt.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PA https://pje1g-pa.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PB https://pje1g-pb.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PE https://pje1g-pe.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PI https://pje1g-pi.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PR https://pje1g-pr.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RJ https://pje1g-rj.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RN https://pje1g-rn.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RO https://pje1g-ro.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RR https://pje1g-rr.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RS https://pje1g-rs.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-SC https://pje1g-sc.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-SE https://pje1g-se.tse.jus.br/pje/ConsultaPJe?wsdl  
+
+--- [Página 74] ---
+TRE-SP https://pje1g-sp.tse.jus.br/pje/ConsultaPJe?wsdl  
+TRE-TO https://pje1g-to.tse.jus.br/pje/ConsultaPJe?wsdl  
+ 
+2ª 
+Instância Endereço 
+TRE-AC https://pje.tre-ac.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AL https://pje.tre-al.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AM https://pje.tre-am.jus.br/pje/ConsultaPJe?wsdl  
+TRE-AP https://pje.tre-ap.jus.br/pje/ConsultaPJe?wsdl  
+TRE-BA https://pje.tre-ba.jus.br/pje/ConsultaPJe?wsdl  
+TRE-CE https://pje.tre-ce.jus.br/pje/ConsultaPJe?wsdl  
+TRE-DF https://pje.tre-df.jus.br/pje/ConsultaPJe?wsdl  
+TRE-ES https://pje.tre-es.jus.br/pje/ConsultaPJe?wsdl  
+TRE-GO https://pje.tre-go.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MA https://pje.tre-ma.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MG https://pje.tre-mg.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MS https://pje.tre-ms.jus.br/pje/ConsultaPJe?wsdl  
+TRE-MT https://pje.tre-mt.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PA https://pje.tre-pa.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PB https://pje.tre-pb.jus.br/pje/ConsultaPJe?wsdl  
+
+--- [Página 75] ---
+TRE-PE https://pje.tre-pe.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PI https://pje.tre-pi.jus.br/pje/ConsultaPJe?wsdl  
+TRE-PR https://pje.tre-pr.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RJ https://pje.tre-rj.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RN https://pje.tre-rn.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RO https://pje.tre-ro.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RR https://pje.tre-rr.jus.br/pje/ConsultaPJe?wsdl  
+TRE-RS https://pje.tre-rs.jus.br/pje/ConsultaPJe?wsdl  
+TRE-SC https://pje.tre-sc.jus.br/pje/ConsultaPJe?wsdl  
+TRE-SE https://pje.tre-se.jus.br/pje/ConsultaPJe?wsdl  
+TRE-SP https://pje.tre-sp.jus.br/pje/ConsultaPJe?wsdl  
+TRE-TO https://pje.tre-to.jus.br/pje/ConsultaPJe?wsdl  
+ 
+3ª 
+Instância Endereço 
+TSE https://pje.tse.jus.br/pje/ConsultaPJe?wsdl  
+ 

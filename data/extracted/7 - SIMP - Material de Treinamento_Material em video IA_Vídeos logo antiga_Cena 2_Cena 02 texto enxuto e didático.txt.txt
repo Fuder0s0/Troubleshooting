@@ -1,0 +1,23 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 2\Cena 02 texto enxuto e didático.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Cena 02A — Baixar Expediente no PJe
+Após solicitar o download do expediente no PJe, o usuário pode localizar o documento no menu "Meus downloads". Para isso, acessa a área principal do SIMP, entra em "Ferramentas de apoio" e, em seguida, em "Meus downloads". Nessa tela, são exibidos os arquivos recebidos do PJe. Basta clicar no ícone de download para salvar o documento na pasta de downloads da máquina.
+
+Cena 02B — Painel do Expediente e Botões Superiores
+Na parte superior do protocolo, o botão "Exibir painel" apresenta um resumo das principais informações do processo no SIMP. Também é possível visualizar o histórico de movimentos nas abas do SIMP4 e do PJe. 
+
+O botão "Alterar sigilo" permite modificar a restrição de acesso ao processo, conforme o perfil do usuário. Já a opção "Incluir alerta" serve para registrar lembretes e avisos internos, auxiliando no controle e na organização do trabalho.
+
+Cena 02C — Criação e Salvamento da Minuta
+Para elaborar uma peça, o usuário acessa o detalhe do protocolo e clica em "Criar minuta". Na tela de edição, informa o título, seleciona o movimento de referência e redige o conteúdo no editor. Ao salvar, a minuta permanece como rascunho com status pendente, até que seja revisada e aprovada pelo membro responsável.
+
+Cena 02D — Assinatura da Minuta
+Depois de revisada, a minuta pode ser aprovada e encaminhada para assinatura. Esse procedimento garante a validação formal da peça antes de sua utilização no protocolo.
+
+Cena 02E — Movimentação e Peticionamento ao PJe
+Na tela de detalhes do protocolo, o usuário clica em "Movimentar", seleciona o movimento adequado e preenche o conteúdo da manifestação, ou utiliza uma minuta aprovada. Ao optar por movimentar com assinatura digital, o sistema solicita a senha PIN do certificado para autenticar a operação e realizar a transmissão ao tribunal. O acompanhamento do envio pode ser feito nas abas do SIMP4 e do PJe, sem necessidade de acesso externo ao sistema do tribunal.
+
+Cena 02F — Arquivamento do Protocolo
+Após o peticionamento e a eventual conclusão do processo no Judiciário, o protocolo pode ser arquivado internamente. Esse procedimento realiza a baixa interna e move o protocolo para o arquivo, encerrando sua tramitação no âmbito da unidade.

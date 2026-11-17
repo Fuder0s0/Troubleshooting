@@ -1,0 +1,22 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena Configurações e considerações finais\LOcal de lotação.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Locução: Cena 02 - Local de Lotação
+(00:00 - 00:04)
+"Para selecionar ou alterar o seu local de lotação, clique sobre o seu nome no canto superior direito da tela."
+
+(00:04 - 00:09)
+"O sistema exibirá uma lista com todas as unidades e secretarias vinculadas ao seu perfil de usuário."
+
+(00:10 - 00:13)
+"Escolha a unidade desejada para realizar o acesso, como, por exemplo, a Vigésima Terceira Promotoria da Capital."
+
+(00:14 - 00:17)
+"Aguarde o processamento. O SIMP atualizará o contexto de trabalho para a unidade selecionada." 
+
+(00:18 - 00:22)
+"Caso precise alternar entre diferentes comarcas, basta repetir o processo, selecionando a nova localidade na lista..."
+
+(00:23 - 00:26)
+"...e o ambiente de trabalho será reconfigurado instantaneamente para a nova lotação."

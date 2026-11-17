@@ -1,0 +1,14 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 1\cena 01_02_texto_bruto.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+O usuário irá clicar no botão "baixar processo Pje".e aguardar o download. O usuário pode escolher entre efetuar o doanload em ordem crescente ou decrescente. Aparecerá uma caixa de diálogo informando ao usuário que a requisição está "Em processamento" e indicará que o documento poderá ser visualizado no menu "Meus downloads".
+
+Em seguida, o usuário preencherá os campos obrigatórios, caso seja solicitado pelo SIMP e clicará no botão "próximo". Abir-se-á nova tela, com informações carregadas do PJe. O usuário conferirá os dados e preencherá, caso a aplicação solicite. Uma vez conferidos, o usuário clicará no botão "próximo" que o levará a tela derradeira de cadastro. Uma vez conferidos os dados, o usuário clicará no botão "salvar".
+
+Uma nova tela aparecerá (popup) para, caso o usuário deseje, registrar a ciência no PJe, marcando os avisos pendentes. O usuário pode optar por confirmar a tomada de ciência (o que refletirá no PJe) ou fechar o expediente sem tomar ciência naquele momento até que haja a distribuição efetiva ao membro que, por fim, tomará ciência do aviso.
+
+Uma vez tomada ciência, o referido registro é encaminhado ao PJe indicando data, hora e membro responsável.
+
+Ah, uma observação, após a ciência, não esquecer de clicar no ícone indicativo de mensagem (canto superior direito) para retirar o processo da pendência da área de trabalho.
+Pronto, a parti daí o membro já poderá analisar e trabalhar no processo.

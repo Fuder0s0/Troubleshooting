@@ -1,0 +1,43 @@
+{
+  "total_files": 556,
+  "total_size_mb": 25367.98,
+  "by_extension": {
+    ".xlsx": 37,
+    ".zip": 8,
+    ".gsheet": 40,
+    ".ini": 6,
+    ".docx": 22,
+    ".pdf": 126,
+    ".png": 25,
+    ".mp4": 144,
+    ".txt": 22,
+    ".gdoc": 16,
+    ".jpg": 4,
+    "": 9,
+    ".csv": 43,
+    ".xlsm": 2,
+    ".md": 1,
+    ".jpeg": 35,
+    ".log": 1,
+    ".dmp": 1,
+    ".xls": 2,
+    ".odt": 1,
+    ".ogg": 4,
+    ".pptx": 7
+  },
+  "by_top_folder": {
+    "RAIZ": 5,
+    "7 - SIMP - Material de Treinamento": 136,
+    "___Codigos_Jurisdição": 12,
+    "5 - Gestao de conhecimento MPMT": 94,
+    "1-Planejamento": 14,
+    "2 - Analise do SIMP": 171,
+    "8 - PARAMETRIZACAO": 11,
+    "9-Resolução SIMP 2026": 24,
+    "3 - Dados de Processos e Testes": 58,
+    "z_outrosDocumentos": 6,
+    "6 - Documentação gerada no MPPE": 21,
+    "4 - Projeto Piloto": 3,
+    "Codigos": 1
+  }
+}

@@ -1,0 +1,830 @@
+DOCUMENTO: 2 - Analise do SIMP\esquema-movimentacoes-possiveis-protocolo.md
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.04 MB
+
+# Esquema de Movimentações Possíveis no Protocolo (SIMP)
+
+> **Versão**: 2.0 — Revisada e enriquecida a partir de análise crítica do código-fonte.  
+> **Última atualização**: Abril 2026
+
+## Objetivo
+
+Documentar, de ponta a ponta, como o SIMP define quais movimentos aparecem (ou não) na tela de movimentação de um protocolo.
+
+Este material cobre:
+
+- visão não técnica (regra de negócio em linguagem simples);
+- visão técnica (front, GraphQL, backend e cache);
+- detalhamento completo de cada camada de regra com referência ao código;
+- SQLs de validação para diagnóstico em banco;
+- diagramas Mermaid para facilitar análise de fluxo e decisão;
+- cenários comuns de falha e troubleshooting.
+
+## Público-alvo
+
+- negócio/analistas funcionais;
+- suporte/QA;
+- desenvolvedores front e backend;
+- DBAs e sustentação.
+
+---
+
+## Visão Não Técnica (Resumo Executivo)
+
+O sistema decide os movimentos possíveis passando por quatro "porteiras":
+
+1. **Pode movimentar este protocolo?**  
+   Se não puder, o botão "Movimentar" nem aparece na tela.  
+   Depende de: permissões do usuário, situação do protocolo (arquivado/migrado bloqueia), reclassificação, vínculo de detentor/membro, e compatibilidade de instância.
+
+2. **Qual catálogo de movimentos vale para este contexto?**  
+   Dependendo da situação do protocolo e do papel do usuário, o sistema escolhe uma dentre 5 árvores pré-montadas. A escolha errada (ou árvore vazia) é a causa mais comum de "não aparece nenhum movimento".
+
+3. **O movimento selecionado é permitido neste caso?**  
+   Mesmo aparecendo na árvore, um movimento pode ser negado ao selecionar (ex: "Incluir Voto" exige promotor E procurador simultaneamente).
+
+4. **Na hora de registrar, os requisitos finais foram atendidos?**  
+   Tramitação válida, documento/complemento obrigatório, prazo obrigatório, regras de fluxo, protocolo não reclassificado, etc.
+
+Se qualquer porteira falhar, o usuário pode perceber "não aparece movimento" ou "não deixa registrar".
+
+---
+
+## Arquitetura do Fluxo (Visão Técnica)
+
+### Front-end
+
+- Tela: `/consultas/protocolo/movimentar`
+- Componente principal: `movimentar.component.ts` (decide normal vs. lote vs. edição vs. peticionamento)
+- Componente de seleção da árvore: `selecao-movimento.component.ts`
+- Serviço: `movimentar.service.ts` (encapsula todas as queries GraphQL; decide automaticamente normal vs. lote com base em `listaNumeroRegistro.length`)
+
+### API GraphQL
+
+- Query de árvore (normal): `consultarArvoreMovimentos` — parâmetros: `numeroRegistro`, `idPromotorTemporario`, `idProcuradorTemporario`, `listaProtocoloMovimentoTramitacao`, `alteracao`, `situacaoVisualizacao`
+- Query de árvore (lote): `consultarArvoreMovimentosLote` — parâmetros: `listaNumeroRegistroProtocolo`, `idMovimentoLote`
+- Query de validação do item: `selecionarMovimento` / `selecionarMovimentoLote`
+- Mutation de registro: `registrarProtocoloMovimento` / `registrarProtocoloMovimentoLote`
+- Schema: `protocolomovimentoschema.graphqls`
+
+### Backend
+
+- Resolver: `ProtocoloMovimentoQL` (delega diretamente para os services)
+- Regra central (normal): `ProtocoloMovimentoService.getArvoreMovimentos(ProtocoloMovimentoDTO)` (linha ~1477)
+- Regra central (lote): `ProtocoloMovimentoLoteService.getArvoreMovimentos(ProtocoloMovimentoLoteDTO)` (linha ~675)
+- Fonte das árvores: `FabricaService` — cache Redis (`FabricaRepositoryImpl` usa `RedisTemplate` com hash key `"fabrica"`)
+- Montagem das árvores: `FabricaService.updateMovimentos()` consulta `MovimentoService.consultarMovimentosAtivos(...)` com filtros diferentes e gera JSON via `ArvoreTaxonomia`
+- Filtros de movimentos: `MovimentoRepository` (Spring Data JPA derived queries)
+
+---
+
+## Diagrama de Sequência (Front -> Back -> Árvore)
+
+```mermaid
+sequenceDiagram
+    participant U as Usuário
+    participant FC as Front (movimentar.component)
+    participant SS as selecao-movimento.component
+    participant FS as MovimentarService (Front)
+    participant GQ as GraphQL API
+    participant PMS as ProtocoloMovimentoService
+    participant PS as ProtocoloService
+    participant FAB as FabricaService
+    participant MS as MovimentoService/Repo
+
+    U->>FC: Abre /movimentar
+    FC->>FS: consultarDados(...)
+    FS->>GQ: consultarProtocoloPorNumeroRegistro + protocoloAcesso
+    GQ->>PS: calcula exibirMovimentar/promotorDiferenteObrigatorio
+    PS-->>GQ: dados de acesso
+    GQ-->>FS: dados
+    FS-->>FC: dados
+
+    FC->>SS: consultarArvoreMovimentos(...)
+    SS->>FS: consultarArvoreMovimentos(...)
+    FS->>GQ: query consultarArvoreMovimentos
+    GQ->>PMS: getArvoreMovimentos(dto)
+    PMS->>PS: valida contexto (detentor, promotor/procurador, distribuicao)
+    PMS->>FAB: getArvore... (tipo escolhido)
+    FAB->>MS: consulta movimentos filtrados (se cache ausente/expirado)
+    MS-->>FAB: lista de movimentos
+    FAB-->>PMS: JSON da árvore
+    PMS-->>GQ: ArvoreItensDTO
+    GQ-->>FS: árvore
+    FS-->>SS: árvore
+    SS-->>FC: renderiza opções
+```
+
+---
+
+## Regra Central de Escolha da Árvore
+
+A escolha ocorre em `ProtocoloMovimentoService.getArvoreMovimentos(...)` (linha ~1477).
+
+### Condição `isPromotorProcuradorProtocolo` (detalhe crucial)
+
+O primeiro `if` do método verifica se o usuário logado é "promotor/procurador do protocolo mas NÃO detentor". Esta verificação **exige TODAS** as condições:
+
+1. `protocolo.situacao == CORRENTE` (valor 1) — **NÃO se aplica a LOCAL_EXTERNO, ARQUIVADO, etc.**
+2. Usuário **NÃO** é detentor atual do protocolo (verificado via `protocoloDetentorService.isDetentorAtual`).
+3. Usuário é o promotor direto do protocolo, OU o substituto ativo do promotor (`DelegacaoSubst` com `situacao=1` e data vigente), OU o procurador direto do protocolo.
+
+Se esta condição é `true`, **E** não há tramitação informada OU não é alteração (`alteracao ≠ SIM`), o sistema usa `ARVORE_NAO_DETENTOR`.
+
+> **Atenção**: se o protocolo está em `LOCAL_EXTERNO` (situação 4), esta condição é **sempre `false`** — pois exige `situacao == CORRENTE`. Isso é uma distinção que o diagrama abaixo captura.
+
+### Condição de tramitação/alteração
+
+O teste `(!listaValida(listaTramitacao) || alteracao != SIM)` aparece em vários pontos. Significa: "não há tramitação informada, **OU** não estamos em modo alteração". Na prática, a combinação tramitação + alteração (`SIM`) é o único cenário que "pula" a restrição e vai para o caminho seguinte.
+
+### Diagrama de Decisão da Árvore (Normal)
+
+```mermaid
+flowchart TD
+    A[Início getArvoreMovimentos] --> B{protocolo.situacao == CORRENTE<br/>E usuário NÃO é detentor<br/>E usuário é promotor/procurador/substituto<br/>E sem tramitação OU não-alteração?}
+    B -- Sim --> C[ARVORE_MOVIMENTOS_NAO_DETENTOR]
+    B -- Não --> D{Tem idPromotorTemporario<br/>ou idProcuradorTemporario?}
+    D -- Sim --> E{protocolo.situacao == LOCAL_EXTERNO<br/>E sem tramitação OU não-alteração?}
+    E -- Sim --> F[ARVORE_MOVIMENTOS_EXTERNOS]
+    E -- Não --> G[MOVIMENTOS_SCRIPTS por IDAREA]
+    D -- Não --> H[getArvoreMovimentosContinuacao]
+    H --> I{LOCAL_EXTERNO<br/>E sem tramitação OU não-alteração?}
+    I -- Sim --> J{Distribuído válido?<br/>isProtocoloDistribuido-<br/>PromotorOuProcurador}
+    J -- Sim --> F
+    J -- Não --> K["Árvore vazia: '{}'"]
+    I -- Não --> L{Distribuído válido?}
+    L -- Não --> M[ARVORE_MOVIMENTOS_NAO_AREA_FIM]
+    L -- Sim --> G
+```
+
+> **Importante**: "Distribuído válido" (`isProtocoloDistribuidoPromotorOuProcurador`) verifica: (tem promotor OU procurador) E (distribuição NÃO inválida, OU tem temporário na instância correspondente). No sub-fluxo `continuacao`, como já sabemos que NÃO tem temporário (entrou no `else`), o temporário não salva aqui.
+
+### Árvores possíveis (5 variantes + vazia)
+
+| Árvore                           | Cache Key                        | Critério de inclusão                                                                 | Quando é usada                                                                    |
+| -------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| `MOVIMENTOS_SCRIPTS[idArea]`     | `MOVIMENTOS_SCRIPTS`             | `situacao=ATIVO`, `situacaoMP=ATIVO`, `tipoAndamento≠INTERNO`. Mapa `idArea → JSON`. | Caso geral: protocolo distribuído válido, situação normal.                        |
+| `ARVORE_MOVIMENTOS`              | `ARVORE_MOVIMENTOS`              | Mesmos filtros, single tree (sem separar por área).                                  | Movimentação em **lote** quando há pelo menos um distribuído.                     |
+| `ARVORE_MOVIMENTOS_NAO_AREA_FIM` | `ARVORE_MOVIMENTOS_NAO_AREA_FIM` | Idem + `areaFim ≠ SIM`                                                               | Protocolos **não distribuídos** em situação normal; ou lote 100% não distribuído. |
+| `ARVORE_MOVIMENTOS_EXTERNOS`     | `ARVORE_MOVIMENTOS_EXTERNOS`     | Idem + `exibeProtLocalExterno = SIM`                                                 | Protocolos em `LOCAL_EXTERNO` com distribuição válida.                            |
+| `ARVORE_MOVIMENTOS_NAO_DETENTOR` | `ARVORE_MOVIMENTOS_NAO_DETENTOR` | Idem + `MovimentoConfigPrazo.permiteMovExtraDetentor = SIM`                          | Membro que é promotor/procurador do protocolo mas **NÃO** é detentor.             |
+| `{}` (vazia)                     | —                                | —                                                                                    | `LOCAL_EXTERNO` sem distribuição válida e sem temporário.                         |
+
+> **Ponto-chave**: A árvore `NAO_DETENTOR` é a mais restritiva. Ela inclui **apenas** os movimentos que possuem ao menos uma linha em `MOVIMENTOCONFIGPRAZO` com `permiteMovExtraDetentor = SIM`. Se nenhum movimento da área tiver essa configuração, a árvore fica vazia — e o membro não consegue movimentar.
+
+---
+
+## O que Alimenta Cada Árvore (FabricaService)
+
+As árvores são pré-montadas em cache Redis no `FabricaService.updateMovimentos()` (linha ~546).
+
+O método chama `MovimentoService.consultarMovimentosAtivos(areaFim, externo, naoDetentor, interno)` com combinações de flags:
+
+| Chamada                         | areaFim | externo | naoDetentor | interno | Resultado                                                                                |
+| ------------------------------- | ------- | ------- | ----------- | ------- | ---------------------------------------------------------------------------------------- |
+| Árvore geral + scripts por área | false   | false   | false       | false   | Todos não-INTERNO → `MOVIMENTOS_SCRIPTS` (mapa) + `ARVORE_MOVIMENTOS` (single)           |
+| NAO_AREA_FIM                    | true    | false   | false       | false   | Não-INTERNO e `areaFim ≠ SIM`                                                            |
+| EXTERNOS                        | false   | true    | false       | false   | Não-INTERNO e `exibeProtLocalExterno = SIM` + pais                                       |
+| NAO_DETENTOR                    | false   | false   | true        | false   | Não-INTERNO e `permiteMovExtraDetentor = SIM` via join com `MovimentoConfigPrazo` + pais |
+| INTERNOS                        | false   | false   | false       | true    | Apenas `tipoAndamento = INTERNO`                                                         |
+
+> **Atenção sobre EXTERNOS e NAO_DETENTOR**: essas árvores fazem uma montagem adicional: buscam os movimentos-folha e depois percorrem a hierarquia para cima (`consultarMovimentoPai`), adicionando os nós-pai necessários para manter a estrutura taxonômica.
+
+---
+
+## Distribuição Válida vs. Inválida
+
+### Conceito
+
+A "distribuição" é o ato de atribuir um promotor (1ª instância) ou procurador (2ª instância) a um protocolo.
+
+A distribuição é **inválida** quando o membro distribuído **não possui vínculo ativo** com o local (promotoria/procuradoria) registrado no protocolo.
+
+### Lógica exata (`ProtocoloRepository.verificaDistribuicaoInvalida`)
+
+```
+SE (COUNT de procurador com vínculo ativo no local da procuradoria) = 0 ENTÃO
+    SE (COUNT de promotor ativo com vínculo ativo e local ativo na promotoria) = 0 ENTÃO
+        RETORNA 2 (SIM, inválida)
+    SENÃO
+        RETORNA 1 (NÃO, válida)
+SENÃO
+    RETORNA 1 (NÃO, válida)
+```
+
+### Impacto na árvore
+
+- Distribuição **inválida** pode ser "salva" pelo promotor/procurador temporário (ver próximo item).
+- Sem temporário, a árvore cai para `NAO_AREA_FIM` (mais restritiva) ou fica vazia (se LOCAL_EXTERNO).
+
+### Promotor/Procurador Temporário
+
+A definição de "distribuído válido" no contexto de `isProtocoloDistribuidoPromotorOuProcurador` é:
+
+```
+(protocolo tem promotor OU procurador)
+E (
+    distribuição NÃO é inválida
+    OU (1ª instância E idPromotorTemporario preenchido)
+    OU (2ª instância E idProcuradorTemporario preenchido)
+)
+```
+
+Ou seja: informar um temporário na instância correta recupera a distribuição quando o vínculo está quebrado.
+
+### Efeito do Vínculo Promotor x Local/Comarca
+
+**Ponto crítico**: a validação usa o **vínculo exato** com `IDPROMOTORIA`/`IDPROCURADORIA` (local específico), **não** proximidade de comarca.
+
+- Promotor na mesma comarca mas em outro local → distribuição **inválida**.
+- Local inativo (situacao ≠ 1) → distribuição **inválida**.
+- Promotor com situacao inativa → distribuição **inválida**.
+
+Isso é uma causa frequente de problemas: o membro "parece" vinculado por estar na mesma cidade, mas o cadastro em `PROMOTORLOCAL` não reflete o local correto do protocolo.
+
+---
+
+## Camadas de Bloqueio do Processo (Detalhe Completo)
+
+```mermaid
+flowchart LR
+    A[Camada 1<br/>Pode movimentar?<br/>isPodeMovimentarProtocolo] --> B[Camada 2<br/>Qual árvore?<br/>getArvoreMovimentos]
+    B --> C[Camada 3<br/>Movimento permitido?<br/>selecionarMovimento]
+    C --> D[Camada 4<br/>Validação final<br/>registrarProtocoloMovimento]
+    D --> E[Movimento efetivado]
+```
+
+### Camada 1: Pode Movimentar? (`isPodeMovimentarProtocolo` — ProtocoloService:1180)
+
+O flag `protocoloAcesso.exibirMovimentar` é calculado no `tratarProtocoloAcesso` (linha ~884). Se `false`, o botão nem aparece.
+
+**Bypass**: Se o usuário se enquadra em `isPromotorDiferenteObrigatorio` (`true` quando: protocolo é 2ª instância, tem procurador/procuradoria, local do usuário é classificado como "PROMOTORIAS_DE_JUSTICA" e o usuário é promotor ativo), o acesso é garantido direto e `idPromotorTemporario` é preenchido automaticamente.
+
+**Regra principal** (requer TODOS):
+
+1. Usuário tem role `MOVIMENTAR`.
+2. Protocolo NÃO está em ARQUIVADO, AUTUADO ou MIGRADO.
+3. Lógica de reclassificação:
+
+| `flagClassificado`         | Condição                                                                                                                                                                                                                                                                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `SIM` (reclassificado)     | **(a)** role `MOVIMENTAR_NAO_DISTRIBUIDOS` E (é detentor OU role `MOVIMENTAR_PROTOCOLO_NAO_DETENTOR`); **OU** **(b)** distribuído válido E (local externo OU detentor OU `MOVIMENTAR_PROTOCOLO_NAO_DETENTOR` OU é promotor/procurador do protocolo OU é lote); **OU** **(c)** 1ª instância não-distribuído E local externo. |
+| `NAO` (não reclassificado) | role `ADMINISTRADOR` OU local externo.                                                                                                                                                                                                                                                                                      |
+
+4. Instância compatível: `isMesmaInstanciaPermitidaNoCadastro` verifica se o local do usuário é compatível com a instância do protocolo.
+
+### Camada 2: Qual Árvore? (detalhado acima nos diagramas)
+
+### Camada 3: Validação na Seleção (`selecionarMovimento` — ProtocoloMovimentoService:2238)
+
+Quando o usuário clica em um movimento, o frontend chama `selecionarMovimento`. O backend:
+
+1. **Valida permissão específica** (`validarMovimentoPermitido`):
+   - Atualmente, única regra: se o movimento é "Incluir Voto" (ID configurável via `TipoConfiguracao.MOVIMENTO_INCLUIR_VOTO`), exige que o protocolo tenha promotor **E** procurador. Se não tiver, retorna `movimentoNaoPermitido = SIM`.
+
+2. **Calcula metadados** que o front precisa para renderizar o formulário:
+   - `listaComplementoMovimento` — se houver complementos cadastrados para esse movimento+área, obriga seleção.
+   - `possuiControlePrazo` / `exigeControlePrazo` — flags da config `MovimentoConfigPrazoArea`.
+   - `exigeDocumento` — se é obrigatório anexar documento.
+   - `exibePeticionarPje` — role `PETICIONAR_PJE` + `permitirPeticionamentoPje = SIM` + `codigoCnj` preenchido + `tipoIntegracaoMni` configurado.
+   - `exibeSalvarParaPeticionarPjeEmLote` — role `tx-salvar-peticionar-pje-lote` (sem role `PETICIONAR_PJE`).
+   - `exibeSalvarParaPeticionarPjeEmLoteMembro` — role `tx-peticionar-pje-lote`.
+   - `urlBapreCadastrarAcordo` — integração BAPRE (se movimento está na lista configurável).
+   - `mensagemEncerramentoPrazo` — aviso de prazos que serão fechados automaticamente.
+   - `mensagemCriacaoPrazoProtocolo` — aviso de prazo que será recriado (Conselho/Colégio).
+   - `areaFim` — flag do movimento.
+
+### Camada 4: Validação Final (`registrarProtocoloMovimento` — ProtocoloMovimentoService:940)
+
+É a camada mais extensa. Encadeia 4 métodos de validação:
+
+**4a. Campos obrigatórios** (`validarCamposObrigatorios`):
+
+- `alteracao` não informado → erro.
+- Não é alteração e `isPodeMovimentarProtocolo = false` → "operação não permitida".
+- É alteração sem `idProtocoloMovimento` → erro.
+- Tramitação para local externo sem `repassarMultitramitacao` → erro.
+- Tramitação interna sem `manterDetentor` → erro.
+- `idMovimento` não informado → erro.
+- Documentos sem flag de sigilo → erro.
+- `situacaoVisualizacao` não informada → erro.
+
+**4b. Consistência** (`validarMovimento`):
+
+- Protocolo mudou de CORRENTE para outra situação desde a visualização → "protocolo desatualizado".
+- Protocolo mudou de LOCAL_EXTERNO desde a visualização → "protocolo desatualizado".
+- Usuário não é detentor / promotor / procurador / admin e não é alteração → "protocolo desatualizado".
+- `isPromotorDiferenteObrigatorio` e sem `idPromotorTemporario` → "campo obrigatório: promotor temporário".
+- Movimento exige documento e nem descrição nem documentos foram preenchidos → "documento html obrigatório".
+
+**4c. Complemento e distribuição** (`validarMovimentoContinuacao`):
+
+- Complemento exige documento e não há → erro.
+- Existem complementos para movimento+área e nenhum foi selecionado → erro.
+- Protocolo não distribuído + movimento `areaFim` + LOCAL_EXTERNO sem temporário → "protocolo não distribuído local externo".
+- Protocolo não distribuído + sem role `MOVIMENTAR_NAO_DISTRIBUIDOS` + é detentor → "protocolo não distribuído".
+- Peticionamento em lote exige tramitação para local externo → erro.
+
+**4d. Tramitação** (`validarMovimentoTramitacao`):
+
+- LOCAL_EXTERNO não permite tramitação → erro.
+- Não distribuído com multitramitação (>1 destino) → erro.
+- Avaliação de membro aberta ao tramitar para local diferente da procuradoria → erro.
+- Local externo + multitramitação → erro.
+- Destino não-externo sem responsável → "campo obrigatório: responsável".
+- Destino = origem (mesmo usuário + mesmo local) → erro.
+- Não distribuído tramitando para local externo → erro.
+- Protocolo não eletrônico com multitramitação → erro.
+
+**4e. Fluxo** (`validarMovimentoFluxo`):
+
+- Movimento exige controle de prazo e nenhum prazo informado → erro.
+- Fluxo ativo (`aplicarFluxo = SIM`) rejeita o movimento → mensagem dinâmica.
+- Protocolo não reclassificado (exceto admin ou cenário LOCAL_EXTERNO com temporário) → "protocolo não reclassificado".
+
+---
+
+## SQL de Diagnóstico (Oracle)
+
+## Parâmetros sugeridos
+
+```sql
+-- :p_id_protocolo
+-- :p_id_usuario_logado
+-- :p_id_local_logado
+-- :p_id_promotor_temp       (nullable)
+-- :p_id_procurador_temp     (nullable)
+-- :p_alteracao              (1=NAO, 2=SIM)
+-- :p_tem_tramitacao         (0=NAO, 1=SIM)
+```
+
+### 1) Snapshot do protocolo
+
+```sql
+SELECT
+    p.idprotocolo,
+    p.numeroregistro,
+    p.idarea,
+    a.descricao area_desc,
+    p.situacao,
+    p.instancia,
+    p.flagclassificado,
+    p.idpromotor,
+    p.idpromotoria,
+    p.idprocurador,
+    p.idprocuradoria
+FROM simp.protocolo p
+LEFT JOIN simp.area a ON a.idarea = p.idarea
+WHERE p.idprotocolo = :p_id_protocolo;
+```
+
+### 2) Distribuição inválida (mesma regra do backend)
+
+```sql
+SELECT DECODE(
+    (SELECT COUNT(pc.idprocurador)
+       FROM simp.procurador pc
+       JOIN simp.procuradorlocal pl ON pl.idprocurador = pc.idprocurador
+       JOIN simp.local l ON l.idlocal = pl.idlocal
+      WHERE l.situacao = 1
+        AND pc.idprocurador = p.idprocurador
+        AND pl.idlocal = p.idprocuradoria), 0,
+    (DECODE(
+        (SELECT COUNT(pm.idpromotor)
+           FROM simp.promotor pm
+           JOIN simp.promotorlocal pl ON pl.idpromotor = pm.idpromotor
+           JOIN simp.local l ON l.idlocal = pl.idlocal
+          WHERE pm.situacao = 1
+            AND l.situacao = 1
+            AND pm.idpromotor = p.idpromotor
+            AND pl.idlocal = p.idpromotoria), 0, 2, 1
+    )), 1
+) AS distribuicao_invalida
+FROM simp.protocolo p
+WHERE p.idprotocolo = :p_id_protocolo;
+```
+
+### 3) Contexto do usuário (detentor/promotor/procurador/substituto)
+
+```sql
+WITH p AS (
+    SELECT *
+    FROM simp.protocolo
+    WHERE idprotocolo = :p_id_protocolo
+)
+SELECT
+    CASE WHEN EXISTS (
+        SELECT 1
+        FROM simp.protocolodetentor pd
+        WHERE pd.idprotocolo = p.idprotocolo
+          AND pd.iddetentoratual = :p_id_usuario_logado
+          AND pd.idlocalatual = :p_id_local_logado
+    ) THEN 'SIM' ELSE 'NAO' END AS is_detentor_atual,
+
+    CASE WHEN EXISTS (
+        SELECT 1
+        FROM simp.promotor pr
+        WHERE pr.idpromotor = p.idpromotor
+          AND pr.idusuarionome = :p_id_usuario_logado
+    ) THEN 'SIM' ELSE 'NAO' END AS is_promotor_direto,
+
+    CASE WHEN EXISTS (
+        SELECT 1
+        FROM simp.delegacaosubst ds
+        JOIN simp.promotor ps ON ps.idpromotor = ds.idpromotorsubstituto
+        WHERE ds.idpromotortitular = p.idpromotor
+          AND ds.situacao = 1
+          AND ps.idusuarionome = :p_id_usuario_logado
+          AND TRUNC(SYSDATE) BETWEEN TRUNC(ds.dataini) AND TRUNC(ds.datafim)
+    ) THEN 'SIM' ELSE 'NAO' END AS is_promotor_substituto_ativo,
+
+    CASE WHEN EXISTS (
+        SELECT 1
+        FROM simp.procurador pg
+        WHERE pg.idprocurador = p.idprocurador
+          AND pg.idusuarionome = :p_id_usuario_logado
+    ) THEN 'SIM' ELSE 'NAO' END AS is_procurador_direto
+FROM p;
+```
+
+### 4) Simulação da árvore escolhida
+
+```sql
+WITH p AS (
+    SELECT *
+    FROM simp.protocolo
+    WHERE idprotocolo = :p_id_protocolo
+),
+ctx AS (
+    SELECT
+        p.*,
+        DECODE(
+            (SELECT COUNT(pc.idprocurador)
+               FROM simp.procurador pc
+               JOIN simp.procuradorlocal pl ON pl.idprocurador = pc.idprocurador
+               JOIN simp.local l ON l.idlocal = pl.idlocal
+              WHERE l.situacao = 1
+                AND pc.idprocurador = p.idprocurador
+                AND pl.idlocal = p.idprocuradoria), 0,
+            (DECODE(
+                (SELECT COUNT(pm.idpromotor)
+                   FROM simp.promotor pm
+                   JOIN simp.promotorlocal pl ON pl.idpromotor = pm.idpromotor
+                   JOIN simp.local l ON l.idlocal = pl.idlocal
+                  WHERE pm.situacao = 1
+                    AND l.situacao = 1
+                    AND pm.idpromotor = p.idpromotor
+                    AND pl.idlocal = p.idpromotoria), 0, 2, 1
+            )), 1
+        ) AS distribuicao_invalida,
+        CASE WHEN EXISTS (
+            SELECT 1
+            FROM simp.protocolodetentor pd
+            WHERE pd.idprotocolo = p.idprotocolo
+              AND pd.iddetentoratual = :p_id_usuario_logado
+              AND pd.idlocalatual = :p_id_local_logado
+        ) THEN 1 ELSE 0 END AS is_detentor_atual,
+        CASE WHEN EXISTS (SELECT 1 FROM simp.promotor pr WHERE pr.idpromotor = p.idpromotor AND pr.idusuarionome = :p_id_usuario_logado)
+               OR EXISTS (
+                    SELECT 1
+                    FROM simp.delegacaosubst ds
+                    JOIN simp.promotor ps ON ps.idpromotor = ds.idpromotorsubstituto
+                    WHERE ds.idpromotortitular = p.idpromotor
+                      AND ds.situacao = 1
+                      AND ps.idusuarionome = :p_id_usuario_logado
+                      AND TRUNC(SYSDATE) BETWEEN TRUNC(ds.dataini) AND TRUNC(ds.datafim)
+               )
+             THEN 1 ELSE 0 END AS is_promotor,
+        CASE WHEN EXISTS (SELECT 1 FROM simp.procurador pg WHERE pg.idprocurador = p.idprocurador AND pg.idusuarionome = :p_id_usuario_logado)
+             THEN 1 ELSE 0 END AS is_procurador
+    FROM p
+)
+SELECT
+    idprotocolo,
+    numeroregistro,
+    situacao,
+    instancia,
+    distribuicao_invalida,
+    CASE
+        WHEN situacao = 1
+             AND is_detentor_atual = 0
+             AND (is_promotor = 1 OR is_procurador = 1)
+             AND (:p_tem_tramitacao = 0 OR :p_alteracao <> 2)
+        THEN 'ARVORE_MOVIMENTOS_NAO_DETENTOR'
+
+        WHEN (:p_id_promotor_temp IS NOT NULL OR :p_id_procurador_temp IS NOT NULL)
+             AND situacao = 4
+             AND (:p_tem_tramitacao = 0 OR :p_alteracao <> 2)
+        THEN 'ARVORE_MOVIMENTOS_EXTERNOS'
+
+        WHEN (:p_id_promotor_temp IS NOT NULL OR :p_id_procurador_temp IS NOT NULL)
+        THEN 'MOVIMENTOS_SCRIPTS_DA_AREA'
+
+        WHEN situacao = 4
+             AND (:p_tem_tramitacao = 0 OR :p_alteracao <> 2)
+             AND ((idpromotor IS NOT NULL OR idprocurador IS NOT NULL)
+                  AND (distribuicao_invalida <> 2
+                       OR (instancia = 1 AND :p_id_promotor_temp IS NOT NULL)
+                       OR (instancia = 2 AND :p_id_procurador_temp IS NOT NULL)))
+        THEN 'ARVORE_MOVIMENTOS_EXTERNOS'
+
+        WHEN situacao = 4
+             AND (:p_tem_tramitacao = 0 OR :p_alteracao <> 2)
+        THEN 'ARVORE_VAZIA'
+
+        WHEN NOT ((idpromotor IS NOT NULL OR idprocurador IS NOT NULL)
+                  AND (distribuicao_invalida <> 2
+                       OR (instancia = 1 AND :p_id_promotor_temp IS NOT NULL)
+                       OR (instancia = 2 AND :p_id_procurador_temp IS NOT NULL)))
+        THEN 'ARVORE_MOVIMENTOS_NAO_AREA_FIM'
+
+        ELSE 'MOVIMENTOS_SCRIPTS_DA_AREA'
+    END AS arvore_prevista
+FROM ctx;
+```
+
+### 5) Contagem de itens por árvore
+
+```sql
+WITH p AS (
+    SELECT idarea
+    FROM simp.protocolo
+    WHERE idprotocolo = :p_id_protocolo
+)
+SELECT 'MOVIMENTOS_SCRIPTS_DA_AREA' arvore, COUNT(DISTINCT i.cod_item) qtd
+FROM simp.itens i
+JOIN simp.movimentos m ON m.cod_movimento = i.cod_item AND m.tipo_item = i.tipo_item
+JOIN simp.itemarea ia ON ia.cod_item = i.cod_item AND ia.tipo_item = i.tipo_item
+JOIN p ON p.idarea = ia.idarea
+WHERE i.tipo_item = 'M' AND i.situacao = 1 AND i.situacaomp = 1 AND NVL(m.tipoandamento, 0) <> 3
+
+UNION ALL
+SELECT 'ARVORE_MOVIMENTOS_NAO_AREA_FIM', COUNT(DISTINCT i.cod_item)
+FROM simp.itens i
+JOIN simp.movimentos m ON m.cod_movimento = i.cod_item AND m.tipo_item = i.tipo_item
+WHERE i.tipo_item = 'M' AND i.situacao = 1 AND i.situacaomp = 1
+  AND NVL(m.tipoandamento, 0) <> 3 AND NVL(m.areafim, 1) <> 2
+
+UNION ALL
+SELECT 'ARVORE_MOVIMENTOS_EXTERNOS', COUNT(DISTINCT i.cod_item)
+FROM simp.itens i
+JOIN simp.movimentos m ON m.cod_movimento = i.cod_item AND m.tipo_item = i.tipo_item
+WHERE i.tipo_item = 'M' AND i.situacao = 1 AND i.situacaomp = 1
+  AND NVL(m.tipoandamento, 0) <> 3 AND m.exibeprotlocalexterno = 2
+
+UNION ALL
+SELECT 'ARVORE_MOVIMENTOS_NAO_DETENTOR', COUNT(DISTINCT i.cod_item)
+FROM simp.itens i
+JOIN simp.movimentos m ON m.cod_movimento = i.cod_item AND m.tipo_item = i.tipo_item
+JOIN simp.movimentoconfigprazo mcp
+  ON mcp.idmovimento = m.cod_movimento
+ AND mcp.tipo_item_movimento = m.tipo_item
+WHERE i.tipo_item = 'M' AND i.situacao = 1 AND i.situacaomp = 1
+  AND NVL(m.tipoandamento, 0) <> 3
+  AND mcp.permitemovextradetentor = 2;
+```
+
+### 6) Diagnóstico detalhado para árvore não-detentor
+
+```sql
+WITH p AS (
+    SELECT idarea
+    FROM simp.protocolo
+    WHERE idprotocolo = :p_id_protocolo
+)
+SELECT
+    i.cod_item AS id_movimento,
+    i.nome,
+    CASE
+        WHEN EXISTS (
+            SELECT 1
+            FROM simp.movimentoconfigprazo mcp
+            WHERE mcp.idmovimento = i.cod_item
+              AND mcp.tipo_item_movimento = i.tipo_item
+              AND mcp.permitemovextradetentor = 2
+        ) THEN 'SIM'
+        WHEN EXISTS (
+            SELECT 1
+            FROM simp.movimentoconfigprazo mcp
+            WHERE mcp.idmovimento = i.cod_item
+              AND mcp.tipo_item_movimento = i.tipo_item
+        ) THEN 'NAO (CONFIGURADO, MAS NAO=SIM)'
+        ELSE 'NAO (SEM LINHA EM MOVIMENTOCONFIGPRAZO)'
+    END AS permite_mov_extra_detentor
+FROM simp.itens i
+JOIN simp.movimentos m ON m.cod_movimento = i.cod_item AND m.tipo_item = i.tipo_item
+JOIN simp.itemarea ia ON ia.cod_item = i.cod_item AND ia.tipo_item = i.tipo_item
+JOIN p ON p.idarea = ia.idarea
+WHERE i.tipo_item = 'M'
+  AND i.situacao = 1
+  AND i.situacaomp = 1
+  AND NVL(m.tipoandamento, 0) <> 3
+ORDER BY i.cod_item;
+```
+
+### 7) Vínculo promotor x local/comarca (ponto de distribuição)
+
+```sql
+SELECT
+    p.idprotocolo,
+    p.idpromotor,
+    p.idpromotoria,
+    lp.idcomarca AS comarca_da_promotoria,
+    CASE WHEN EXISTS (
+        SELECT 1
+        FROM simp.promotorlocal pl
+        JOIN simp.local l ON l.idlocal = pl.idlocal
+        WHERE pl.idpromotor = p.idpromotor
+          AND pl.idlocal = p.idpromotoria
+          AND l.situacao = 1
+    ) THEN 'SIM' ELSE 'NAO' END AS vinculo_exato_no_local_do_protocolo,
+    (
+      SELECT COUNT(*)
+      FROM simp.promotorlocal pl
+      WHERE pl.idpromotor = p.idpromotor
+        AND pl.idcomarca = lp.idcomarca
+    ) AS qtd_vinculos_mesma_comarca
+FROM simp.protocolo p
+LEFT JOIN simp.local lp ON lp.idlocal = p.idpromotoria
+WHERE p.idprotocolo = :p_id_protocolo;
+```
+
+---
+
+---
+
+## Movimentação em Lote (regra diferente)
+
+Quando o front envia `listaNumeroRegistro.length > 1`, a chamada é roteada para `consultarArvoreMovimentosLote` → `ProtocoloMovimentoLoteService.getArvoreMovimentos()`.
+
+### Regra do Lote
+
+```mermaid
+flowchart TD
+    A[getArvoreMovimentos - Lote] --> B[Para cada protocolo:]
+    B --> C{Protocolo não reclassificado<br/>e usuário não é ADMIN?}
+    C -- Sim --> D[ERRO: protocolos não reclassificados]
+    C -- Não --> E{Protocolo distribuído válido?}
+    E -- Não --> F[Adiciona à lista 'naoDistribuidos']
+    F --> G{Usuário tem role<br/>MOVIMENTAR_NAO_DISTRIBUIDOS?}
+    G -- Não --> H[ERRO: protocolo não distribuído]
+    G -- Sim --> I[Continua]
+    E -- Sim --> I
+    I --> J{TODOS os protocolos<br/>são não-distribuídos?}
+    J -- Sim --> K[ARVORE_NAO_AREA_FIM]
+    J -- Não --> L[ARVORE_MOVIMENTOS geral]
+```
+
+> **Diferenças importantes do lote vs. normal**:
+>
+> - Lote **não** tem árvore EXTERNOS nem NAO_DETENTOR.
+> - Lote usa `ARVORE_MOVIMENTOS` (single tree com todos os movimentos) ao invés de `MOVIMENTOS_SCRIPTS[idArea]`.
+> - Lote **não** aceita promotor/procurador temporário na seleção de árvore.
+> - A validação do `isProtocoloDistribuidoPromotorOuProcurador` no lote é a versão simplificada (sem considerar temporário).
+
+---
+
+## Efeitos Colaterais do Registro de Movimento
+
+Após passar todas as camadas, o registro gera efeitos:
+
+| Efeito                                | Condição                                                      | Detalhe                                                |
+| ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
+| **Tramitação → LOCAL_EXTERNO**        | Destino é local externo                                       | `protocolo.situacao` muda para `LOCAL_EXTERNO`         |
+| **Remoção de detentor**               | Tramitação com `manterDetentor = NAO`                         | Detentor atual é excluído                              |
+| **Novos detentores**                  | Tramitação                                                    | Criados a partir dos dados de destino                  |
+| **Encerramento automático de prazos** | Movimento com `MovimentoConfigPrazoEncerramento`              | Prazos pendentes fechados (cumpridos ou não)           |
+| **Fechamento de prazo por área**      | Config `verificaMovimentoFechaPrazoProtocolo`                 | Prazo global do protocolo encerrado                    |
+| **Reabertura de prazo**               | Conselho/Colégio + config de reabertura                       | Prazo fechado e reaberto com novo vencimento           |
+| **Decremento de contador**            | `decrementaContador = SIM` (2ª instância)                     | Contador do procurador decrementado                    |
+| **Remove procurador/procuradoria**    | Conselho/Colégio tramitando para fora da PJ com `areaFim`     | Campos zerados no protocolo                            |
+| **Replica em apensos**                | Protocolo tem apensos E tipo ≠ ATIVIDADE_COMUM_SEM_TRAMITACAO | Movimento duplicado nos apensos                        |
+| **Peticionamento PJe**                | `salvarParaPeticionarPjeEmLote = SIM`                         | Salvo como pendente; senão, pendente anterior excluído |
+| **Fluxo**                             | Sempre                                                        | `protocolo.aplicarFluxo = SIM` (reativa cadeia)        |
+
+---
+
+## Playbook de Diagnóstico (Passo a Passo)
+
+### Caso: "Nenhum movimento aparece"
+
+1. Rode SQL #1 → confirme situação, área, distribuição.
+2. Rode SQL #2 → distribuição inválida?
+3. Rode SQL #3 → qual o papel do usuário logado?
+4. Rode SQL #4 → qual árvore o backend tende a escolher?
+5. Rode SQL #5 → a árvore escolhida tem movimentos?
+6. Se caiu em `NAO_DETENTOR`, rode SQL #6 → movimentos da área têm `permiteMovExtraDetentor`?
+7. Se suspeita de vínculo, rode SQL #7 → vínculo exato no local?
+8. Se tudo ok no banco → **cache Redis desatualizado** (ver seção abaixo).
+
+### Caso: "Botão Movimentar não aparece"
+
+- Protocolo ARQUIVADO/AUTUADO/MIGRADO → esperado.
+- Sem role `MOVIMENTAR` → verificar no Mastiff.
+- Protocolo não reclassificado + sem ADMIN + sem local externo → bloqueio por reclassificação.
+- Instância incompatível (ex: local de 1ª tentando protocolo de 2ª) → bloqueio.
+
+### Caso: "Movimento aparece mas dá erro ao selecionar"
+
+- "Incluir Voto" → protocolo precisa ter promotor E procurador simultaneamente.
+
+### Caso: "Erro ao registrar"
+
+- "protocolo desatualizado" → situação mudou entre visualização e registro.
+- "protocolo não distribuído" → falta distribuição + sem role `MOVIMENTAR_NAO_DISTRIBUIDOS`.
+- "campo obrigatório: do complemento" → existem complementos para movimento+área.
+- "protocolo não reclassificado" → `flagClassificado = NAO`.
+- "não permite multitramitação" → protocolo não-eletrônico ou não-distribuído.
+
+---
+
+## Observações Importantes de Operação
+
+### Cache Redis
+
+- As árvores são armazenadas em Redis (hash `"fabrica"`) pelo `FabricaRepositoryImpl`.
+- `FabricaService.updateMovimentos()` recria todas as árvores quando invocado.
+- O cache é recriado por lazy-loading: se a key não existe, o getter chama `updateMovimentos()` antes de retornar.
+- **Alterações de cadastro** (ex: novo movimento, mudança de `permiteMovExtraDetentor`, alteração de `itemarea`) **NÃO se refletem imediatamente**. É necessário invalidar o cache ou reiniciar o serviço.
+- Para invalidar manualmente, é possível deletar a key `fabrica` no Redis, ou aguardar o próximo restart.
+
+### Duas versões de `isProtocoloDistribuidoPromotorOuProcurador`
+
+- `ProtocoloMovimentoService` (normal): considera temporário na avaliação de distribuição válida.
+- `ProtocoloMovimentoLoteService` (lote): versão **simplificada** que **NÃO** considera temporário.
+- `ProtocoloService`: versão **ainda mais diferente** que verifica apenas se (promotor OU promotoria) e (procurador OU procuradoria) existem, sem validar vínculo.
+
+Isso significa que o mesmo protocolo pode ser considerado "distribuído" em um contexto e "não distribuído" em outro.
+
+### Diferença entre `isProtocoloDistribuido` e `isProtocoloDistribuidoPromotorOuProcurador`
+
+- `isProtocoloDistribuido`: trata protocolo OUVIDORIA como sempre distribuído. Não considera temporário.
+- `isProtocoloDistribuidoPromotorOuProcurador`: não trata OUVIDORIA. No service normal, considera temporário; no lote, não.
+
+---
+
+## Roles (Permissões Mastiff) Relevantes
+
+| Role                                | Efeito na Movimentação                                              |
+| ----------------------------------- | ------------------------------------------------------------------- |
+| `MOVIMENTAR`                        | Permissão base obrigatória para qualquer movimentação.              |
+| `MOVIMENTAR_NAO_DISTRIBUIDOS`       | Permite movimentar protocolos sem distribuição válida.              |
+| `MOVIMENTAR_PROTOCOLO_NAO_DETENTOR` | Permite movimentar protocolo do qual não é detentor.                |
+| `ADMINISTRADOR`                     | Bypass de reclassificação e outras restrições.                      |
+| `DISTRIBUIR`                        | Afeta mensagens de aviso de distribuição inválida.                  |
+| `DISTRIBUIR_CONSELHO_SUPERIOR`      | Fluxos de 2ª instância, reabertura de prazo, remoção de procurador. |
+| `DISTRIBUIR_COLEGIO_PROCURADORES`   | Idem ao anterior.                                                   |
+| `PETICIONAR_PJE`                    | Habilita checkbox de peticionamento PJe individual.                 |
+| `tx-salvar-peticionar-pje-lote`     | Peticionamento em lote (servidor/assessor).                         |
+| `tx-peticionar-pje-lote`            | Peticionamento em lote (membro).                                    |
+| `EDITAR_CABECALHO_LOCAL`            | Permite editar cabeçalho/rodapé no formulário de movimentação.      |
+
+---
+
+## Referências de Código
+
+### Front
+
+| Arquivo                                | Responsabilidade                                                                          |
+| -------------------------------------- | ----------------------------------------------------------------------------------------- |
+| `movimentar.component.ts`              | Componente principal — decide normal vs. lote vs. edição vs. peticionamento               |
+| `movimentar.service.ts`                | Todas as queries/mutations GraphQL; decide normal vs. lote                                |
+| `selecao-movimento.component.ts`       | Seleção do movimento na árvore; chama `consultarArvoreMovimentos` e `selecionarMovimento` |
+| `selecao-item-taxonomico.component.ts` | Componente genérico de seleção em árvore taxonômica                                       |
+| `movimentar.component.html`            | Template com `<selecao-movimento>` e demais campos                                        |
+
+### Backend — Fluxo principal
+
+| Arquivo                          | Método/Área                                         | Linha         |
+| -------------------------------- | --------------------------------------------------- | ------------- |
+| `ProtocoloMovimentoQL.java`      | Resolver GraphQL                                    | ~46           |
+| `ProtocoloMovimentoService.java` | `getArvoreMovimentos`                               | ~1477         |
+| `ProtocoloMovimentoService.java` | `getArvoreMovimentosContinuacao`                    | ~1498         |
+| `ProtocoloMovimentoService.java` | `isProtocoloDistribuidoPromotorOuProcurador`        | ~1512         |
+| `ProtocoloMovimentoService.java` | `selecionarMovimento` / `validarMovimentoPermitido` | ~2238 / ~2307 |
+| `ProtocoloMovimentoService.java` | `registrarProtocoloMovimento`                       | ~940          |
+| `ProtocoloMovimentoService.java` | `validarMovimento` / `validarMovimentoContinuacao`  | ~1571 / ~1605 |
+| `ProtocoloMovimentoService.java` | `validarMovimentoTramitacao`                        | ~1660         |
+| `ProtocoloMovimentoService.java` | `validarMovimentoFluxo`                             | ~1640         |
+
+### Backend — Suporte
+
+| Arquivo                                  | Método/Área                                            |
+| ---------------------------------------- | ------------------------------------------------------ |
+| `ProtocoloService.java:1180`             | `isPodeMovimentarProtocolo` (Camada 1)                 |
+| `ProtocoloService.java:1211`             | `isPromotorProcuradorProtocolo`                        |
+| `ProtocoloService.java:1168`             | `isPromotorDiferenteObrigatorio`                       |
+| `ProtocoloService.java:884`              | `tratarProtocoloAcesso` → seta `exibirMovimentar`      |
+| `ProtocoloRepository.java:24`            | `verificaDistribuicaoInvalida` (native query Oracle)   |
+| `FabricaService.java:546`                | `updateMovimentos` (geração de cache)                  |
+| `FabricaRepositoryImpl.java`             | Operações Redis (hash `"fabrica"`)                     |
+| `MovimentoService.java:51`               | `consultarMovimentosAtivos` (filtros para cada árvore) |
+| `MovimentoRepository.java`               | Spring Data JPA derived queries                        |
+| `ArvoreTaxonomia.java:200`               | `gerarJson` / `gerarJsonSingleTree` (montagem do JSON) |
+| `ProtocoloMovimentoLoteService.java:675` | `getArvoreMovimentos` (lote)                           |
+
+### GraphQL Schema
+
+| Arquivo                             |
+| ----------------------------------- |
+| `protocolomovimentoschema.graphqls` |

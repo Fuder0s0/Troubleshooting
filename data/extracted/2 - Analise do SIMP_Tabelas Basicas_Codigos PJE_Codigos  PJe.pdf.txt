@@ -1,0 +1,218 @@
+DOCUMENTO: 2 - Analise do SIMP\Tabelas Basicas\Codigos PJE\Codigos  PJe.pdf
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.42 MB
+
+--- [Página 1] ---
+Jurisdição Código
+Abreu e Lima - Varas 2100
+Afogados da Ingazeira - Plantão Judiciário 4110
+Afogados da Ingazeira - Polo de Audiência de Custódia 5110
+Afogados da Ingazeira - Varas 2110
+Afrânio - Varas 2120
+Agrestina - Varas 2130
+Água Preta - Varas 2140
+Águas Belas - Varas 2150
+Alagoinha - Varas 2160
+Aliança - Varas 2170
+Altinho - Varas 2180
+Amaraji - Varas 2190
+Angelim - Varas 2200
+Araripina - Varas 2210
+Arcoverde - Plantão Judiciário 4220
+Arcoverde - Polo de Audiência de Custódia 5220
+Arcoverde - Varas 2220
+Barreiros - Varas 2230
+Belém do São Francisco - Varas 2250
+Belo Jardim - Varas 2260
+Betânia - Varas 2270
+Bezerros - Varas 2280
+Bodocó - Varas 2290
+Bom Conselho - Varas 2300
+Bom Jardim - Varas 2310
+Bonito - Varas 2320
+Brejo da Madre de Deus - Varas 2340
+Buíque - Varas 2360
+Cabo de Santo Agostinho - Juizados 8221
+Cabo de Santo Agostinho - Plantão Judiciário 4370
+Cabo de Santo Agostinho - Varas 2370
+Cabrobó - Varas 2380
+Cachoeirinha - Varas 2390
+Caetés - Varas 2400
+Camaragibe - Juizados 8228
+Camaragibe - Varas 2420
+Camocim de São Félix - Varas 2430
+Canhotinho - Varas 2440
+Capoeiras - Varas 2450
+Carnaíba - Varas 2460
+Carpina - Varas 2470
+Caruaru - Juizados 8230
+Caruaru - Plantão Judiciário 4480
+Caruaru - Polo de Audiência de Custódia 5480
+Caruaru - Varas 2480
+Catende - Varas 2490
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+
+--- [Página 2] ---
+Jurisdição Código
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+Condado - Varas 2510
+Correntes - Varas 2520
+Cortês - Varas 2530
+Cumaru - Varas 2540
+Cupira - Varas 2550
+Custódia - Varas 2560
+Escada - Varas 2570
+Exu - Varas 2580
+Feira Nova - Varas 2590
+Fernando de Noronha - Varas 3600
+Ferreiros - Varas 2600
+Flores - Varas 2610
+Floresta - Polo de Audiência de Custódia 5620
+Floresta - Varas 2620
+Gameleira - Varas 2630
+Garanhuns - Juizados 8231
+Garanhuns - Plantão Judiciário 4640
+Garanhuns - Polo de Audiência de Custódia 5640
+Garanhuns - Varas 2640
+Glória do Goitá - Varas 2650
+Goiana - Juizados 8233
+Goiana - Varas 2218
+Gravatá - Juizados 8224
+Gravatá - Varas 2670
+Iati - Varas 2680
+Ibimirim - Varas 2690
+Igarassu - Varas 2710
+Inajá - Varas 2720
+Ipojuca - Varas 2730
+Ipubi - Varas 2740
+Itaiba - Varas 2750
+Itamaracá - Varas 2760
+Itambé - Varas 2770
+Itapetim - Varas 2780
+Itapissuma - Varas 2790
+Itaquitinga - Varas 2800
+Jaboatão dos Guararapes - Juizados 8227
+Jaboatão dos Guararapes - Plantão Judiciário 4810
+Jaboatão dos Guararapes - Polo de Audiência de Custódia 5810
+Jaboatão dos Guararapes - Varas 2810
+João Alfredo - Varas 2830
+Jupi - Varas 2850
+Jurema - Varas 2860
+Lagoa de Itaenga - Varas 2870
+Lagoa dos Gatos - Varas 2890
+Lagoa Grande - Varas 2900
+
+--- [Página 3] ---
+Jurisdição Código
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+Lajedo - Varas 2910
+Limoeiro - Juizados 8234
+Limoeiro - Plantão Judiciário 4920
+Limoeiro - Polo de Audiência de Custódia 5920
+Limoeiro - Varas 2920
+Macaparana - Varas 2930
+Maraial - Varas 2940
+Mirandiba - Varas 2950
+Moreno - Varas 2970
+Nazaré da Mata - Plantão Judiciário 4980
+Nazaré Da Mata - Polo de Audiência de Custódia 5980
+Nazaré da Mata - Varas 2980
+Núcleos de Justiça 4.0 2021
+Olinda - Juizados 8223
+Olinda - Plantão Judiciário 4990
+Olinda - Polo de Audiência de Custódia 5990
+Olinda - Varas 2990
+Orobó - Varas 3000
+Orocó - Varas 3010
+Ouricuri - Plantão Judiciário 6020
+Ouricuri - Polo de Audiência de Custódia 5020
+Ouricuri - Varas 3020
+Palmares - Juizados 8229
+Palmares - Plantão Judiciário 6030
+Palmares - Polo de Audiência de Custódia 5030
+Palmares - Varas 3030
+Panelas - Varas 3050
+Parnamirim - Varas 3060
+Passira - Varas 3070
+Paudalho - Varas 3080
+Paulista - Juizados 8222
+Paulista - Varas 3090
+Pedra - Varas 3100
+Pesqueira - Juizados 8235
+Pesqueira - Polo de Audiência de Custódia 7110
+Pesqueira - Varas 3110
+Petrolândia - Varas 3120
+Petrolina - Juizados 8226
+Petrolina - Plantão Judiciário 6130
+Petrolina - Polo de Audiência de Custódia 5130
+Petrolina - Varas 3130
+Poção - Varas 3140
+Pombos - Varas 3150
+Quipapá - Varas 3170
+Recife - Central de Flagrantes 5001
+Recife - Juizados 8201
+
+--- [Página 4] ---
+Jurisdição Código
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+Recife - Plantão Judiciário 4001
+Recife - Varas 2001
+Riacho das Almas - Varas 3180
+Ribeirão - Varas 3190
+Rio Formoso - Varas 3200
+Sairé - Varas 3210
+Salgueiro - Polo de Audiência de Custódia 7220
+Salgueiro - Varas 3220
+Saloá - Varas 3230
+Sanharó - Varas 3240
+Santa Cruz do Capibaribe - Juizado Civeis 8225
+Santa Cruz do Capibaribe - Polo de Audiência de Custódia 5250
+Santa Cruz do Capibaribe - Varas 3250
+Santa Maria da Boa Vista - Polo de Audiência de Custódia 5260
+Santa Maria da Boa Vista - Varas 3260
+Santa Maria do Cambucá - Varas 3270
+São Bento do Una - Varas 3280
+São Caetano - Varas 3290
+São João - Varas 3300
+São Joaquim do Monte - Varas 3310
+São José da Coroa Grande - Varas 3320
+São José do Belmonte - Varas 3330
+São José do Egito - Varas 3340
+São Lourenço da Mata - Varas 3350
+Serra Talhada - Plantão Judiciário 3370
+Serra Talhada - Polo de Audiência de Custódia 5370
+Serra Talhada - Varas 3370
+Serrita - Varas 3380
+Sertânia - Varas 3390
+Sirinhaém - Varas 3400
+Surubim - Juizados 8236
+Surubim - Varas 3410
+Tabira - Varas 3420
+Tacaimbó - Varas 3430
+Tacaratu - Varas 3440
+Tamandaré - Varas 3450
+Taquaritinga do Norte - Varas 3460
+Terra Nova - Varas 3470
+Timbaúba - Varas 3480
+Toritama - Varas 3490
+Tracunhaém - Varas 3500
+Trindade - Varas 3510
+Triunfo - Varas 3520
+Tuparetama - Varas 3540
+Venturosa - Varas 3550
+Verdejante - Varas 3560
+
+--- [Página 5] ---
+Jurisdição Código
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+Vertentes - Varas 3570
+Vicência - Varas 3580
+Vitória de Santo Antão - Juizados 8232
+Vitória de Santo Antão - Plantão Judiciário 3590
+Vitória de Santo Antão - Polo de Audiência de Custódia 5590
+Vitória de Santo Antão - Varas 3590

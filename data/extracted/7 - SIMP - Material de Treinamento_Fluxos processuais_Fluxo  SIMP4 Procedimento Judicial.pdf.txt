@@ -1,0 +1,369 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\Fluxo  SIMP4 Procedimento Judicial.pdf
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.76 MB
+
+--- [Página 1] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+1 
+ 
+História de usuário: Fluxo de Procedimento Judicial (Envio e recebimento via PJe) 
+ 
+Etapa 1: Início do Fluxo (Entrada do Processo) 
+O fluxo se inicia quando um processo judicial precisa ser registrado no SIMP. Isso ocorre 
+majoritariamente por uma integração com o PJe ou, em casos de exceção (como processos 
+físicos, caso ainda existam), por cadastro manual. 
+ 
+Opção A (Majoritária): Recebimento via Integração PJe 
+Esta é a forma principal de entrada de expedientes judiciais eletrônicos. 
+Quem Atua: Servidor ou Assessor do Gabinete (ou CAAD). 
+Ação (Acessar Tela): O usuário faz login e acessa a Aba Expedientes PJe e IPs na Área de Trabalho. 
+O que Acontece (Tela): O sistema exibe uma tela que lista todos os expedientes e intimações que o 
+Poder Judiciário (PJe) remeteu ao Ministério Público para aquela comarca. 
+Detalhe da Tela: A lista exibe colunas como "SIMP associado", "Nº Único", "Aviso PJe", "Classe", "Data 
+Limite ciência" e "Data Limite resposta". 
+Ação (Clicar Botão): O usuário localiza a intimação que precisa ser processada. Se o campo "SIMP 
+associado" estiver vazio, o usuário clica no botão "SIMP: Cadastrar". 
+O que Acontece (Nova Tela): O sistema abre a tela de cadastro de protocolo, já aproveitando as 
+informações do PJe. 
+Ação (Completar Cadastro): O usuário preenche ou valida as etapas de cadastro (como Classificação 
+Taxonômica, Dados Gerais e Vínculo de Partes). 
+Resultado: Ao confirmar, o protocolo é oficialmente cadastrado no SIMP, vinculado à intimação do PJe, 
+e tramitado para o local de destino (a Promotoria). O fluxo segue para a Etapa 2. 
+ 
+Opção B: Cadastro via Protocolo 
+O fluxo se inicia quando um novo protocolo judicial (ex: um Inquérito Policial que chega físico, uma 
+Ação Penal, etc.) precisa ser registrado no sistema. 
+Quem Atua: Geralmente um servidor de uma unidade de cadastro ou um Centro de Apoio 
+Administrativo (CAAD). 
+Ação (Clicar): O usuário clica na opção de menu "Cadastrando Protocolo ou Atividade não 
+procedimental". 
+O que Acontece (Nova Tela): O sistema abre a tela de cadastro, que é um fluxo guiado dividido em 
+quatro etapas sequenciais: 
+Tela "Etapa Tipo de cadastro": O usuário seleciona "Protocolo". 
+Tela "Etapa Classificação Taxonômica": O usuário define a Área (ex: Criminal) e a Classe (ex: Inquérito 
+Policial). 
+Tela "Etapa Dados Gerais": O usuário preenche informações essenciais como data de instauração, 
+resumo, e número único (se houver). 
+Tela "Etapa vínculo de Partes e Vítimas": O usuário pesquisa e vincula as partes envolvidas. 
+Resultado: Ao clicar em "Confirmar" na última etapa, o protocolo é oficialmente cadastrado e tramitado 
+para o local de destino (a Promotoria). 
+ 
+Etapa 2: Recebimento no Gabinete Virtual 
+ 
+
+--- [Página 2] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+2 
+ 
+O protocolo foi tramitado para a Promotoria e agora precisa ser formalmente recebido pela equipe do 
+gabinete (servidor/assessor). 
+Quem Atua: Servidor ou Assessor do Gabinete. 
+Ação (Login): O usuário faz login. A tela principal exibida é a Área de Trabalho > Gabinete Virtual. 
+Ação (Clicar Pasta): Na barra superior de pastas, o usuário clica na pasta "A Receber". 
+O que Acontece (Atualização da Tela): A grid (lista) na parte inferior da tela é atualizada, exibindo todos 
+os protocolos que estão em trânsito para o usuário logado . 
+Ação (Clicar Checkbox): O usuário clica na caixa de seleção (checkbox) ao lado de um ou mais 
+protocolos que deseja receber. 
+Ação (Clicar Menu Lote): O usuário clica no ícone "Ações em lote" (representado por três pontos 
+verticais), localizado na barra de ferramentas da grid. 
+O que Acontece (Menu Dropdown): Um menu suspenso é exibido. 
+Ação (Clicar Receber): O usuário clica na opção "Receber protocolo". 
+Resultado: O sistema processa o recebimento. O(s) protocolo(s) desaparece(m) da lista da pasta "A 
+Receber" e agora podem ser visualizados na pasta "Recebidos". 
+ 
+Etapa 3: Distribuição ao Membro (Promotor) 
+ 
+O protocolo recebido precisa ser formalmente distribuído (atribuído) ao Promotor responsável. 
+Quem Atua: Servidor ou Assessor. 
+Ação (Clicar Pasta): O usuário está na Área de Trabalho > Gabinete Virtual e clica na pasta 
+"Recebidos". 
+O que Acontece (Atualização da Tela): A grid é atualizada, mostrando os protocolos que estão 
+fisicamente com o usuário logado . 
+Ação (Clicar Checkbox): O usuário clica na caixa de seleção (checkbox) de um ou mais protocolos que 
+deseja distribuir. 
+Ação (Clicar Menu Lote): O usuário clica no ícone "Ações em lote" (três pontos) na barra de 
+ferramentas. 
+O que Acontece (Menu Dropdown): Um menu suspenso aparece. 
+Ação (Clicar Distribuição): O usuário clica na opção "Distribuição". 
+O que Acontece (Nova Janela): Uma nova janela (popup) é aberta sobre a tela atual, chamada "Área 
+de Trabalho > Distribuição em Lote". 
+Detalhe da Nova Janela: A janela informa o número de processos selecionados. Exibe "Opções", onde 
+o usuário deve clicar em "Promotor", e "Tipo", onde o usuário escolhe "Automática", "Manual" ou 
+"Impedimento". 
+Ação (Clicar Botão): O usuário seleciona as opções e clica em "Distribuir com Tramitação" ou "Distribuir 
+sem Tramitação". 
+Resultado: O sistema processa a distribuição. O protocolo é atribuído ao Membro e (se tramitado) sai 
+da pasta "Recebidos" do usuário. 
+ 
+Etapa 4: Criação da Minuta (Rascunho da Peça Judicial) 
+ 
+Com o protocolo distribuído, a equipe (assessor/servidor) prepara a manifestação (peça processual, 
+ex: denúncia, alegações finais) em forma de "Minuta" (rascunho). 
+Quem Atua: "Qualquer pessoa pode criar uma Minuta" (geralmente Assessor ou Servidor). 
+
+--- [Página 3] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+3 
+ 
+Ação (Acessar Protocolo): O usuário localiza o protocolo (pela busca ou no Gabinete Virtual) e clica no 
+número SIMP4, que é um link. 
+O que Acontece (Nova Tela): O sistema abre a tela de "Detalhe do Protocolo". 
+Ação (Clicar Botão): O usuário clica no botão "Criar minuta", localizado na barra de ferramentas do 
+protocolo. 
+O que Acontece (Fluxo): O sistema cria a minuta. Esta minuta é automaticamente definida com a 
+situação "Pendente", aguardando a revisão do Membro. 
+Resultado: A minuta agora aparece na lista da tela Minutas > Pendentes. 
+ 
+Etapa 5: Revisão da Minuta pelo Membro 
+ 
+O Membro (Promotor) deve agora analisar, corrigir e aprovar ou devolver a minuta pendente. 
+Quem Atua: O Membro (Promotor Titular ou Substituto). 
+Ação (Acessar Tela): O Membro (Promotor) clica no item de menu Minutas > Pendentes (localizado no 
+menu lateral esquerdo do SIMP). 
+O que Acontece (Nova Tela): O sistema exibe a tela Minutas > Pendentes. 
+Detalhe da Tela: Esta tela é uma grid (lista) de minutas aguardando aprovação. Possui as colunas: 
+"Aprovar minuta", "Minuta" (título), ícones (visualizar, membro distribuído), "SIMP / Nº Único", "Usuário 
+responsável", "Data", "Descartar". 
+Ação (Clicar Link): O Membro localiza a minuta que deseja revisar e clica no link de texto na coluna 
+"Aprovar minuta". 
+O que Acontece (Nova Aba): Uma nova aba é aberta no navegador. Esta aba exibe a tela "Edição da 
+minuta". 
+Detalhe da Nova Aba: à esquerda: Campos "Protocolo", "Dados Minuta" (Título), "Movimento" (tipo de 
+movimento associado). 
+À direita: Um editor HTML (editor de texto) com o conteúdo da minuta para edição. 
+Na parte inferior: Botões de decisão: "Salvar e Aprovar", "Salvar e Devolver para correção", "Descartar" 
+e "Cancelar e Voltar". 
+ 
+Etapa 5.1: Decisão do Membro (Opção A: Devolver para Correção) 
+ 
+Se a minuta não estiver pronta, o Membro a devolve. 
+Quem Atua: Membro. 
+Ação (Clicar Botão): Na tela (aba) "Edição da minuta", o Membro clica no botão "Salvar e Devolver 
+para correção". 
+O que Acontece: A aba de edição é fechada. O sistema altera a situação da minuta para "Devolvida 
+para correção". 
+Resultado: A minuta desaparece da lista Minutas > Pendentes e agora aparece na lista Minutas > 
+Devolvidas. 
+(O fluxo de correção recomeça: O Assessor clica em Minutas > Devolvidas, localiza a minuta e clica 
+em "Corrigir minuta". Uma nova aba de "Edição da minuta" é aberta. O Assessor corrige e clica em 
+"Salvar", e a minuta retorna à situação "pendente de aprovação", voltando para a Etapa 5). 
+ 
+Etapa 5.2: Decisão do Membro (Opção B: Aprovar) 
+ 
+
+--- [Página 4] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+4 
+ 
+O Membro concorda com a minuta e a aprova. 
+Quem Atua: Membro. 
+Ação (Clicar Botão): Na tela (aba) "Edição da minuta", o Membro clica no botão "Salvar e Aprovar". 
+O que Acontece (Popup): O sistema salva a aprovação. Imediatamente, uma janela (popup) 
+"Confirmar" surge sobre a tela de edição. 
+Detalhe do Popup: Exibe o texto "Deseja cadastrar um Movimento no protocolo com a minuta 
+aprovada?". 
+Exibe o Botão 1: "Criar movimento agora". 
+Exibe o Botão 2: "Assinar e retornar ao criador". 
+Resultado: O Membro deve clicar em um dos dois botões para prosseguir. 
+ 
+Etapa 6: Movimentação (Uso da Minuta Aprovada) 
+ 
+A minuta aprovada (Etapa 5.2) agora é usada para registrar o movimento oficial no protocolo. 
+ 
+Opção A: Clicar em "Criar movimento agora" 
+Quem Atua: Membro. 
+Ação (Clicar Botão Popup): O Membro clica no botão "Criar movimento agora" no popup. 
+O que Acontece (Verificação): O sistema verifica se o Membro é o "detentor atual" do protocolo. 
+Se NÃO for o detentor: Uma nova janela (popup) "Aviso de repasse do protocolo" é exibida . O Membro 
+clica no botão "Repassar protocolo". O sistema repassa o protocolo para o Membro e prossegue. 
+Se for o detentor: O sistema prossegue direto. 
+Resultado (Nova Tela): O sistema abre a tela de "Movimentar". A tela já vem com todos os dados da 
+minuta aprovada preenchidos (tipo de movimento, texto no editor, etc.) . O fluxo segue para a Etapa 7. 
+ 
+Opção B: Clicar em "Assinar e retornar ao criador" 
+Quem Atua: Membro (para assinar) e depois o Assessor (para movimentar). 
+Ação (Clicar Botão Popup): O Membro clica no botão "Assinar e retornar ao criador". 
+O que Acontece (Assinatura): O sistema abre a tela de assinatura de documentos. O Membro assina . 
+A aba de edição da minuta é fechada. 
+Resultado (Membro): A minuta agora é listada na tela Minutas > Aprovadas. 
+Ação (Assessor): O Assessor (Usuário criador) clica no item de menu Minutas > Aprovadas. 
+O que Acontece (Tela Assessor): O sistema exibe a tela Minutas > Aprovadas . 
+Ação (Clicar Link Assessor): O Assessor localiza a minuta (agora assinada) e clica no link de texto na 
+coluna "Criar movimento". 
+O que Acontece (Nova Aba): Uma nova aba é aberta no navegador exibindo a tela de "Movimentar". 
+Detalhe da Tela: A tela já vem com todos os dados da minuta preenchidos. O fluxo segue para a Etapa 
+7. 
+ 
+Etapa 7: Preparação para Peticionamento (PJe) 
+ 
+Na tela "Movimentar" (seja via Membro ou Assessor), o protocolo é preparado para envio ao PJe. 
+Quem Atua: Membro ou Assessor (quem estiver na tela "Movimentar"). 
+Ação (Clicar Opção): Na tela de "Movimentar", o usuário utiliza a opção de "salvar o movimento para 
+peticionar em lote". 
+
+--- [Página 5] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+5 
+ 
+Ação (Clicar Botão): O usuário clica no botão principal para confirmar a movimentação (ex: "Salvar" ou 
+"Movimentar"). 
+Resultado: O movimento é registrado no SIMP, e o protocolo é automaticamente adicionado a uma 
+"fila" de envio. 
+Esta fila é visível na tela Área de Trabalho > Peticionamento em lote PJe . 
+ 
+Etapa 8: Peticionamento em Lote (Envio ao PJe) 
+ 
+Este é o ato final de envio dos protocolos judiciais para o sistema do Tribunal (PJe). 
+Quem Atua: Apenas o Membro (Promotor). 
+Ação (Acessar Tela): O Membro clica no item de menu Área de Trabalho > Peticionamento em lote 
+PJe. 
+O que Acontece (Nova Tela): O sistema exibe a tela Peticionamento em lote PJe. 
+Detalhe da Tela: É uma grid (lista) que mostra os protocolos pendentes de envio. Possui colunas: 
+"SIMP/Nº Único", "Área", "Classe", "Partes", "Data", "Movimento", "Descrição", "Arquivo". 
+Ação (Clicar Checkbox): O Membro clica na caixa de seleção (checkbox) dos protocolos que deseja 
+enviar ao PJe. 
+Ação (Clicar Menu Lote): O Membro clica no botão/menu "Ações em lote". 
+Ação (Clicar Peticionar): No menu suspenso, o Membro seleciona a opção "Peticionar em lote". 
+O que Acontece (Nova Tela): O sistema abre uma nova tela chamada Peticionar no PJe em lote. 
+Detalhe da Nova Tela: Exibe uma lista de "cards", um para cada protocolo selecionado. O usuário deve 
+conferir e, se necessário, selecionar o "tipo de documento" para o PJe em cada card. 
+Ação (Clicar Botão Confirmar): Após a conferência de todos os cards, o Membro clica no botão 
+"Confirmar" (ou "Peticionar") na parte inferior da tela. 
+O que Acontece (Tela Carregando): A tela exibe um indicador de processamento enquanto o SIMP 
+envia os dados ao PJe. 
+O que Acontece (Popup Resultado): Ao finalizar o envio, uma janela (popup) "Informações do 
+peticionamento em lote" é exibida. 
+Detalhe do Popup: Lista os protocolos que foram enviados. Indica o status: sucesso (em verde) ou 
+falha (em vermelho) para cada um. Se houver falha, exibe o motivo. 
+Ação (Clicar Botão Fechar): O Membro clica no botão "Fechar e voltar para Área de Trabalho". 
+Resultado: Os protocolos enviados com sucesso são removidos da lista de peticionamento pendente, 
+finalizando o fluxo judicial dentro do SIMP4. 
+*** 
+ 
+ 
+Etapa Ação 
+Principal 
+Quem Atua Detalhes e Diferença do Fluxo 
+
+--- [Página 6] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+6 
+ 
+1 Início do 
+Fluxo 
+(Entrada do 
+Processo) 
+Servidor/Assessor (ou 
+CAAD) 
+Diferenciação Principal:  Inicia-se majoritariamente via 
+Integração PJe (acessa Aba Expedientes PJe e IPs, clica 
+em SIMP: Cadastrar , aproveitando dados do PJe) ou, em 
+casos de exceção, via Cadastro manual  ( Cadastrando 
+Protocolo ou Atividade não procedimental  e 
+seleciona Protocolo). 
+2 Recebimento 
+no Gabinete 
+Virtual 
+Servidor/Assessor Usuário acessa Área de Trabalho > Gabinete Virtual, 
+clica na pasta A Receber , seleciona o(s) protocolo(s) e clica 
+em Ações em lote > Receber protocolo. 
+3 Distribuição 
+ao Membro 
+(Promotor) 
+Servidor/Assessor Acessa a pasta Recebidos, seleciona, clica em Ações em 
+lote > Distribuição , escolhe Promotor e Tipo de 
+distribuição. 
+4 Criação da 
+Minuta (Peça 
+Judicial) 
+Assessor/Servidor Acessa o Detalhe do Protocolo  e clica em Criar 
+minuta. A minuta fica com situação Pendente. 
+5 Revisão da 
+Minuta 
+Membro (Promotor) Acessa Minutas > Pendentes. Pode Salvar e Devolver 
+para correção  (volta para o Assessor) ou Salvar e 
+Aprovar (segue para a próxima etapa). 
+6 Movimentaçã
+o (Uso da 
+Minuta 
+Aprovada) 
+Membro ou Assessor Após aprovação, o Membro escolhe entre: Opção A  (Criar 
+movimento agora - leva direto à tela Movimentar) ou Opção 
+B (Assinar e retornar ao criador  - Assessor cria o 
+movimento depois). 
+7 Preparação 
+para 
+Peticionamen
+to 
+Membro ou Assessor Na tela Movimentar, usa a opção de "salvar o movimento para 
+peticionar em lote"  e salva. O protocolo é adicionado à fila de 
+envio. 
+
+--- [Página 7] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+7 
+ 
+8 Peticionamen
+to em Lote 
+(Envio ao 
+PJe) 
+Apenas Membro 
+(Promotor) 
+Diferenciação Principal:  O Membro acessa Área de 
+Trabalho > Peticionamento em lote PJe , seleciona 
+os protocolos, clica em Ações em lote > Peticionar em 
+lote, confere e clica em Confirmar (ou Peticionar). O 
+protocolo é enviado ao PJe e removido da lista de pendentes, 
+finalizando o fluxo judicial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

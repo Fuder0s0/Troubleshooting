@@ -1,0 +1,5 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 1\cena 01_02_texto_curto.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Na recepção do protocolo judicial, o usuário acessa o ícone “Área de Trabalho”, clica na opção “Expedientes PJe” e inicia o cadastro no SIMP4. Uma vez iniciado o cadastro, o usuário algumas informações iniciais da tela, classificação taxonômica e dados gerais. Em seguida, o usuário irá clicar na opção “Baixar processo PJe”.

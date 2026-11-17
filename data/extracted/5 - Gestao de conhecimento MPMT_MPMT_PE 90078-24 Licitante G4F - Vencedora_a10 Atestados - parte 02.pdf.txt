@@ -1,0 +1,2674 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\MPMT\PE 90078-24 Licitante G4F - Vencedora\a10 Atestados - parte 02.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 4.78 MB
+
+--- [Página 1] ---
+'.' ... : .~. : 
+; ; ,. !' ! .. i ,. 
+Verificação da conformidade dos Relatórios de Controle de Impactos 
+Ambientais; . 
+• · Realizou a ·-verificação. da conformidade .dos .Projetos de Recuperação de 
+AreasDegradadas; ;; .· .. ,- . 
+• · -Realizou a verificação' da conformidade oas Análises de Hisco Ambiental do 
+Projeto de Sistema de Apoio à Decisão do SISFRON; . 
+• Realizou :a Interação com fornecedores no âmbito de cumprimento das 
+normas, regras e conformidades ambientais; 
+• Realizou a Fiscalização do cumprimento ·das normas e leis na Elaboração de 
+. Projetos para concessão de licenciamento Ambiental.· 
+SERVIÇÕS DE APOIO A ENGENHARIA DE. SISTEMAS · ,. 
+• Realii:01;1:· a -fisca_lização da execução .dQ,, Plano·- de.. ,(-;,erenciamento de 
+,Ennenhar.ia de-Sistemas, dos Planos .. de· trabal_hoi çlo .P.ipno de lnt~gração,. 
+dos Projetos Executivos e dos Planos de Testes de Verificação e Validação; 
+• ·_Realizou'o acompanhamento e verificação:.da_. Ç(!íl_for.rriidade da arquitetura .e 
+·dos. requisitos de integração aplic_ados n~ ,i1J1plan,tç1çij9 .qo .Sist~ma; 
+• • · Realizou o :ac0mpanhamento e verificação .da ·colífbrli'Jidade· Ela integração 
+dos subsistemas, identificando lacunas que possam comprometer a referida 
+integração. ,. -;· .··: , . . 
+• • Realizou a · elaboração de laudos técnicos que atestem a conformidade 
+relativa a cada Etapa de Integração prevista no Cronograma Físico­
+Financeiro; 
+· • · Realizou a verificação da confonnidàde ·· db' prdcessó: de•·certificação dos 
+sensores e sistemas previstos no Projeto Piloto. 
+• Realizc)U, a·· validação ·dos requisitos rg$freádós" no :desenvolvimento do · 
+projeto,. garantindo que eles atendem e respondem às ·necessidades do 
+usuário final, comprovando os mesmos a partir de gráficos e/ou matrizes de 
+decisão; 
+• Realizou a verificação da conformidade da configuração do sistema durante 
+a implantação e integração dos subsistemas; 
+• Realizou o acompanhamento dos riscos, mapeados pelo Consórcio Tepro, 
+que afetem à integração do Projeto Piloto; 
+• Identificou riscos, não mapeados pelo Consórcio Tepro, que afetem à 
+integração do Projeto Piloto, e apresentar propostas de mitigação; 
+• Realizou a colaboração na coordenação das revisões técnicas do 
+projeto/contrato; 
+• Realizou o mapeamento e acompanhamento das melhorias nos sistemas, 
+equipamentos e serviços implementados. 
+• Realizou a elaboração de relatório mensal sobre o status da implantação do 
+Projeto Piloto; 
+• Auxiliou na elaboração de indicadores para medição dos resultados e 
+desempenho na implantação do Projeto Piloto; 
+• Realizou o mapeamento e acompanhamento das subcontratações para a 
+implantação do sistema; 
+• Realizou a verificação da conformidade das propostas de cadernos de testes ~ 
+a serem entregues pelo Consórcio Tepro, destinados aos Testes de \\ 
+Verificação e Validação da implantação e integração do Projeto Piloto; 
+,,'. l ,.. ,•• • 
+··,., ·. : • ,'. ' 
+, , . . . :: ' . . 
+.. . ,;·,, i -.. · _:-, 
+
+--- [Página 2] ---
+. . . '•: .. . ' ··: 
+.. ·. 
+• Realizou o acompanhamento do ciclo de vida do sistema , apresentando 
+relatórios mensais sobre gargalos e estimativas de efetividade. 
+-• , ·'.Realizoú -a .verificação . da conformidade do geremci~me·nto·: dà .transferência 
+de tecnologia prevista nos contratos de offset; ·:·. -
+• · Auxiliou, quando necessário, na verificação da confórmidade do Suporte 
+·Logístico Integrado (SLI) contratado; _.;, ;, .. , · 
+• Ministrou treinamento à equipe do projeto : · • ·-: .-. 
+SERVIÇÕS DE APOIO AO GERENCIAMENTO DE PROJETOS 
+• Analisou, desenvolveu e executou das ações referet1tés'a'Norma NEGAPEB, 
+PtvlBol<.e PRINCE2, elabora, analisa e acompan ha relatórios, políticas, guia 
+de boas práticas, planos, atas e normas do Exército--Brasileiro. 
+• Reaüzou·•a ,manutenção de quaisquer informações· no·repositório e/ou base 
+de dados de projetos; 
+• Realízo.u:o apoio aos fiscais de contratoS'-no cumprirhénto:da fiscalização, -no 
+que .. diz respeito tanto aos recursos orçamentários,:: gerenciais, requisitos 
+técnicos como às metas físicas estabelecidas:, · -:, · .. :1, ··: 
+• Realizou o apoio na distribuição e disponibilização de informações e 
+. relatórios · gerenciais dos projetos de sua área de atuação na sua função, de 
+forma a Apoio os militares na tomada de decisões.; 
+• Realizou participação ativa de assessorando o planejamento de projetos, 
+desenvolvimento de métodos, modelos e p lanos dos projetos de defesa, 
+·adicionadas as atribuições do CBO. · .. · · · 
+• .. ·· ;:• .... • .. :. 
+SERVIÇ ÕS DE APOIO A ANÁLISE DOS PROJETOS ·. 
+• Realizou o apoio técnico em Teste de Software; 
+• Realizou o apoio técnico em Qualidade de Software; 
+• Realizou o apoio técnico em Arquitetura de Desenvolvimento de Sistemas de 
+Informações Geográficas; 
+• Realizou a verificação da Conformidade do Desenvolvimento dos Softwares; 
+• Realizou a análise, desenvolvimento e execução das ações referentes aos 
+processos, analisa e acompanha relatórios, políticas, guia de boas práticas, 
+planos, atas e normas do Exército Brasileiro; 
+• Realizou a manutenção e atualização de quaisquer informações no 
+repositório e/ou base de dados de processos; 
+• Realizou o apoio aos fiscais de contratos no cumprimento da fisca lização, no 
+que diz respeito tanto aos recursos orçamentários, gerenciais, requisitos 
+técnicos como às metas físicas estabelecidas; 
+• Realizou a análise de causa raiz, BPM Cbok, 8PM, BPMN, Business Process 
+Modeling; 
+• Realizou a elaboração do Ciclo POSA/ PDCL / PDCA; 
+• Realizou a elaboração de diagrama de causa e efeito; 
+• Realizou o mapeamento do fluxo das atividades e i dentifica falhas nos 
+processos; /\ 
+• Realizou a elaboração dos manuais da qualidade, de organização, políticas, 
+padronização visual e operacional de normas e procedimentos; 
+• Realizou o estabelecimento de estratégia para resolução de problemas; 
+•·. · ... ,: 
+..... ' .·-. 
+· .. 1· . , ... .. •, :,,. , .. · -
+. . . . . . 
+.... •• ,· . ·. ' 
+, . .. ·· . 
+
+--- [Página 3] ---
+. . . · . . . . . . 
+• Realizou o apoio a melhoria contínua dos processos; 
+• Realizou a participação assessorando o desenvolvimento de processos, 
+modelos e planos dos projetos de defesa, adicionadas as atribuições do CBO 
+APOIO TÉCNICO EM QUALIDADE DE SOFTWARE 
+• Realizou-o controle da-qualidade dos artefatos-de sof~ware em conformidade 
+com modelo de Qualidade da Norma NBR ISO/IEC 9126 - Modelo de 
+Qualidade de Software; 
+·• Verificação da implantação das metodologias estipuladcls, descritas nos 
+documentos de referência dos Subsistemas e Avaliação do Software no 
+Exército Brasileiro. 
+• · Realizou a aprovação da adequação, controle, publicação. e.arquivamento de 
+documentos técnicos e de sistemas/projetos; -·., ·. 
+, o Reali:z.oLl-:0. acompanhamento e verificação do -refinamento,. da melhoria das 
+etapas e das atividades existentes no Processo· de Análise, Codificação e 
+Testes de Sistemas; .·• ,· .. = • • ·1 ; ~ •. • ·: ... 
+• . Realizou '.O acompanhamento e verificaçãe> da refinamento e melhoria dos 
+processos· de .desenvolvimento de software; pr-omovend0..:i..1m maior controle · 
+sobre as atividades de análise, codificação, testes e manutenção. 
+• Realizou·a verificação da conformidade d~s.propostas:de cadernos de testes, 
+destinadas aos Testes de Aceitação na Fábrica; 
+• Realizou a verificação da conformidade dos recebimentos e testes em 
+fábrica, bem como a integração dos pacotes dos subsistemas; 
+• Realizou a verificação da conformidade "in loco" do recebimento e instalação 
+dos softwares nas Organizações -Militares, de acordo com o E?stabelecido nos 
+: respectivos documentos de referêi1cias; · · · · · · · · · · · ·· ' 
+• Realizou a verificação da conformidade da capacitação dos operadores nos 
+softwares em questão, conduzida nas Organizações Militares do Comando 
+Militar do Oeste, de acordo com os objetivos estabelecidos nos respectivos 
+apêndices; 
+• Realizou a verificação da conformidade do acervo técnico documental dos 
+softwares; Verificação da conformidade "in loco" do cumprimento do Projeto 
+Executivo e do Plano de Trabalho relativos ao desenvolvimento dos 
+softwares dos subsistemas abrangidos, emitindo relatórios de 
+acompanhamento; 
+• Realizou a verificação da conformidade dos softwares e firmwares cujos 
+desenvolvimentos, adaptações e customizações estejam abrangidos nos 
+projetos; e Acompanhamento de testes e experimentos para avaliação de 
+desempenho e verificação da conformidade dos requisitos dos softwares 
+cujos desenvolvimentos, montagens, adaptações e customizações estejam 
+abrangidos nos projetos. 
+• Realizou a elaboração de relatórios mensais de verificação de conformidade 
+dos testes de fábrica e de integração dos pacotes aos sistemas relacionados, 
+de acordo com o descrito nos respectivos documentos de referências dos 
+Subsistemas; 
+.. : ....... . . 
+·: ·. ,', 
+• Realizou a elaboração de relatório de verificação de conformidade do '\ 
+recebimento e instalação dos softwares nas Organizações Militares do~,\ 
+Comando Militar do Oeste; 
+• Realizou a elaboração de relatório de verificação de conformidade da 
+capacitação dos operadores; _. 
+
+--- [Página 4] ---
+.... : . 
+~... • ,, 1 
+.. ·:·. 
+• ' .. " .:: 
+• Realizou a elaboração de relatório de verificação da conformidade do acervo 
+documental dos softwares em questão; 
+• ReaJizou:.a .. elabnraçã'0 de rolatórios técnicos sobr.e-qua)i.dade de software; 
+Relatório · , técniGO·•· .. referente à proposição de interfaces, leiaute, 
+·naveg abilidade··e-acessibilidade ela Interface Gráfica de Usuário - Graphical 
+User Interface (GUI) dos softwares; 
+G Realizúu participação · na homo logação e certificação · de qualidade de 
+software; 
+• Realizou participação na homologação e certificação de conformidade dos 
+requisitos da conformidade com os requisitos do contrato. 
+APOIO TÉCNICO EM MÉTRICA E MENS URAÇÃO DE SOFTYIJARE 
+• .. Re8fü!Cbi'p:=-i.rticipa~:ão na audito ría e homologação da metodologia inerente à 
+área ,~ tecnLilogia; 
+1 ' • • 
+'.· :-·. 
+• Realizou a elaboração · de Relatórios técnicos de verificação e homologação 
+do Sistema de Informação Geográfica utilizado nos.softwares; 
+,• . . 
+• Realizou a-verificação da Conformidade do Desenvolvimento dos Softwares 
+Verificação da conformidade das pr.opostas de ·cadernos -de. testes a serem 
+entregues pelo fornecedor de software, destinadas aos Testes de Aceitação 
+na Fábrica; · · .-.. ,, . , 
+• Realizou a verificação da conformidade dos recebimentos e testes em 
+fábrica, bem como a integração dos pacotes dos subsistemas; 
+• Realizou a verificação da conformidade "in loco" do recel;>imento e instalação 
+· dos softwares ' na·s Organizações Militares, de acordo com o estabelecido nos 
+respectivos documentos de referências; . . . , 
+• Realizou ··a-verificação da conformidade ·da eapa~itação dos operadores nos 
+softwares em questão, conduzida nas Organizações Militares do Comando 
+Militar do Oeste, de acordo com os objetivos estabelecidos nos respectivos 
+apêndices; 
+• Realizou a verificação da conformidade do acervo técnico documental dos 
+softwares; Verificação da conformidade "in loco" do cumprimento do Projeto 
+Executivo e do Plano de Trabalho relativos ao desenvolvimento dos 
+softwares dos subsistemas abrangidos, emitindo relatórios de 
+acompanha mento; 
+• Realizou a verificação da conformidade dos softwares e firmwares cujos 
+desenvolv imentos, adaptações e customizações estejam abrangidos nos 
+projetos; 
+• Realizou o acompanhamento de testes e experimentos para avaliação de 
+desempenho e verificação da conformidade dos requisitos dos softwares 
+cujos desenvolvimentos, montagens, adaptações e customizações estejam 
+abrangidos nos projetos; 
+• Realizou a elaboração de relatór ios mensais de verificação de conformidade 
+dos testes de fábrica e de integração dos pacotes aos sistemas relacionados, 
+de acordo com o descrito nos respectivos documentos de referências dos 
+Subs istemas; 
+• Realizou a elaboração de relatório de verificação de conformidade do \ 
+recebimento e instalação dos softwares nas Organizações Militares do~ 
+Comando Militar do Oeste; Relatório de verificação de conformidade da 
+capacitação dos operadores; .J 
+
+--- [Página 5] ---
+:, · ' 
+.. .:t 
+• Realizou a elaboração de relatório de verificação da conformidade do acervo 
+documental dos softwares em questão. Necessário possuir experiência em 
+análise ·de negócios, especificação . de projetoS".e,-Anális.eJde:pontos de função 
+(APF). . . ,_._- ,·':•"•.-"··· 
+APOIO TÉCNICO EM QUALIDADE DE SOFTWARE . . : .. 
+• Realizou o controle da qualidade dos artefatç,s de s_oftwarEl ~m conformidade 
+com . modelo -de Qualidade da Norma NBR 1$0/IEC_ 91.26 - Modelo de 
+Qualidade de Software; 
+• Reali:z.ou·: a verificação da irnplantaç~o .. ~é!~ . !11eto_dolo_9.ias estipuladas, 
+descritas: nos. documentos de referência dos Subsistemas e Avaliação do 
+Softwçire-· ·no Exército Brasileiro, Aprovação -- ,da . adequação, controle, 
+• ' " • ' < 1 • . • • • ' ' 
+. :· .. . :-.· publicação e::arquivarnent o de do~µmentos-. t.éGnjcos e de sistemas/projetos; 
+. . . ., ~. . .,,. 
+.... , . .. 
+.. .. ·.-
+. ' .· ~··.: . . 
+: .-. Realizou ·-o acompanhamento e verificação ,çlo· refina.mente,. da melhoria das 
+. . . , : : . · .. : . etap~s .. El das. atividades existent~s no P.r..o;çes$o-.. de. Ar:ié.U_se, Codificação e 
+Testes de Sistemas; · 
+•. • ..... _- ·: t • • 
+' ' . 1: •. 
+• Reaiizou ·o acbmpan'hamento e verificaçã~; qo_ f~fir:Í13ment.o e melhoria dos 
+processos de desenvolvimento de software, promovendo um maior controle 
+sobre .as.ç1tividades de análise, codificaç~o, testes e manutenção . 
+. . ... '· .. -
+• Realizou a-verificação da conformidade das propostas de cadernos de testes 
+a serem entregues pelo fornecedor de software, destinadas aos Testes de 
+Aceitação na Fábricà; 
+• ·. · Realizou : a· verificação da conformidade dos-.. recebimentos e testes em 
+. fábrica, bem como a integração dos pac<?t~s ~foê ~ubsjste!Tias; 
+: ·.• ... ·· ··• , -Reáliz:ouia:verHicaçâo:da conforrnidi:!de "_in-loc~:: .dç,.receb imento e instalação 
+dos softwares nas Organizações Militares, de acordo com o estabelecido nos 
+respectivos documentos de referências; 
+• Realizou a verificação da conformidade da capacitação dos operadores nos 
+softwares em questão, conduzida nas Organizações Militares do Comando 
+Militar do Oeste, de acordo com os objetivos estabe lecidos nos respectivos 
+apêndices; 
+• Realizou a verificação da conformidade do acervo técnico documental dos 
+softwares; 
+• Realizou a verificação da conformidade "in loco" do cumprimento do Projeto 
+Executivo e do Plano de Trabalho relativos ao desenvolvimento dos 
+softwares dos subsistemas abrangidos, emitindo relatórios de 
+acompanhamento; 
+• Realizou a verificação da conformidade dos softwares e firmwares cujos 
+desenvolvimentos , adaptações e customizações estejam abrangidos nos 
+projetos; 
+• Realizou o acompanhamento de testes e experimentos para avaliação de 
+desempenho e verificação da conformidade dos requisitos dos softwares 
+cujos desenvolvimentos, montagens, adaptações e customizações estejam 
+abrangidos nos projetos. 
+• Realizou a elaboração de relatórios mensais de verificação de conformidade r 
+dos testes de fábrica e de integração dos pacotes aos sistemas relacionados~ 
+de acordo com o descrito nos respectivos documentos de referências dos 
+Subsistemas; 
+... -... -
+
+--- [Página 6] ---
+.. t.:~_· .... , 
+,· ' ' 
+• Realizou a elaboração de relatório de verificação de conformidade do 
+recebimento e instalação dos softwares nas Organizações Militares do 
+Comando Militar do Oeste; · - , . · · -.. r . . _ .-, 
+, · • Elaborou o · relé;itório de verificação de conformidade da capacitação dos 
+operadores 
+• Realizou ·a elaboração de relatório de verificação da conformidade do acervo 
+documental -dos softwares em questão. Relatórios téénicos: sobre qualidade 
+de soflware; 
+• Realizou . a elaboração de relatório técnico referente '' á proposição de 
+interfaces, leiaute, navegabilidad e e acessibilidade· da lr1terface Gráfica de 
+Usuário - Graphical ·User Interface (GUI) dos softwares; 
+· • Realizou homologação e certificação de qÚalid°ade de ·software. 
+• Homologação e.certificaçao de conformidade d.bs requis.itÓ·s·da conformidade 
+CQ~ os requisitos do contrato. :-:· · · _ .. _ · · : · ·· · · · · 
+~ l,.: { ' . . . . . • , . . . 
+APÓIO TÉCNICO EM MÉTRICA E MENSURAÇÃo :·oE SOF=TWAR·e 
+• . • • ' ·• • ., . . • .. : _ .. \ ' • •. •. • ::; • • :' : ... : ~ 1. • 
+'. \ . 
+·.· ... ·. 
+-~ Realizou o apoio na realização de contágens · de P'ontos de Função; . 
+,.· • -Partidpação na auditoria e homologaçãó'·dá:m·~todbidgia ihetente ·à área e .:"•;·;.-__ : __ : 
+tecnologia; · 
+• . Realizou a elaboração-de Relatórios técnicos· de verificáçãó e homologação 
+do Sistema de Informação Geográfica utilizado nos softwares; 
+• Realizou a verificação da Conformidade do Desenvolvimento dos Softwares 
+Verificação da conformidade das propostas de cade_rnos de testes a serem 
+. entregues pelo fornecedor de softwàre; déstlriádás aos Testes de Aceitação :, , . 
+na Fábrica; 
+• -Realizóu a verificação da cónformidadet'êlh~· iebei::iihÍenfo~ ' 'é. testes. em ·.,.·1:ª:• : ,;, 
+fábrica, bem como a integração dos pacotes dos subsiste.mas; 
+• Realizou a verificação da conformidade "in loco" do recebimento e instalação 
+dos softwares nas Organizações Militares, de acordo com o estabelecido nos 
+respectivos documentos de referências; 
+• Realizou a verificação da conformidade da capacitação dos operadores nos 
+softwares em questão, conduzida nas Organizações Militares do Comando 
+Militar do Oeste, de acordo com os objetivos estabelecidos nos respectivos 
+apêndices; 
+• Realizou a verificação da conformidade do acervo técnico documenta l dos 
+softwares; 
+• Realizou a verificação da conformidade "in loco" do cumprimento do Projeto 
+Executivo e do Plano de Trabalho relativos ao desenvolvimento dos 
+softwares dos subsistemas abrangidos, emitindo relatórios de 
+acompanhamento; 
+• Realizou a verificação da conformidade dos softwares e firmwares cujos 
+desenvolvime ntos, adaptações e customizações estejam abrangidos nos 
+projetos; 
+• Realizou o acompanhamento de testes e experime ntos para avaliação de 
+desempenho e verificação da conformi_dade dos requisitos dos softwares 
+cujos desenvolvimentos, montagens, adaptações e customizações estejam 
+• Realizou a elaboração de relatórios mensais de verificação de conformidade 
+dos testes de fábrica e de integração dos pacotes aos sistemas relacionados, 
+abrangidos nos projetos; K" 
+
+--- [Página 7] ---
+. . ' 
+' . 
+. ' ~ ·.·: 
+de acordo com o descrito nos respectivos documentos de referências dos 
+Subsistemas; 
+·, • . Realizou ·.-a, ,elaboração de relatório de .-,verificação . de conformidade do 
+recebimento i,e .. instalação dos · softwares nas'. Organizações Militares do 
+Comando Militar do Oeste; · · 
+. • Realizou .·a elaboração de relatório de: verifi.eação de conformida de da 
+· . capacitação dos operadores; 
+• • - Realizou ·a elaboração de relatório de verificação da conformidade do acervo 
+documental dos softwares em questão. 
+SERVIÇOS DE APOIO Á ÁREA DE ECONOMIA 
+' .. 
+~- .ReaHz9u:, ·o :apoio: .. -as , gerências, coma(ldantes - e ~iscai~ de contrato no 
+·cun,prh~1erito, de.· exec.uç:ão dqs. a~ividades .. econômic~~ . çfos processos e 
+proJetos.: vinculadas, ab· Sistema de Sensoriamento e Apoio é1 Decisão do 
+Projeto Piloto do SISFRON; 
+· • , Realizou .0 ·acompanhamento da conjuntura econômica para validação e 
+--verificação de, impacto do Sistema _de. Senspriamento ~ -Apoio à Decisão do 
+Projt5lto,.Pil,ot0·"do S ISFROI\I. nos indicador~s . brasileiros .de·,e.mprego, renda, 
+desenvolvimento social, criminalidade, dentre outros, constantes nos estudos 
+de viabi"lldade do SISFRON, nos termos qqAr.t. -:67:_qa ~e.i ,8,:666/93; 
+• Realizou a elaboração de estudos econômicos avançados, tais como: 
+elaboração da viabilidade econômica do Sistema de Sensoriamento e Apoio 
+à Decisão do Projeto Piloto do SISFRON, análise e propos ições de medidas 
+econômico-financeiras, análise dos contratos vigentes ·e futuros, conferência - -
+de cálculos de . reajustes e repactuaç~_o. Realiza estudos de análise de 
+_ . -. :.-.,·vlabilldade de projetos em projetos _ de .def~S_q, n~cion~I; ':: 
+• Realizou o apoio na negociação de possíveis reequilíbrio financeiro. Aplica 
+os benefícios legais aplicáveis quando da regulamentação do RETID e/ou 
+outra legislação que beneficie o processo de aquisição; 
+• Realizou capacitações, adicionadas as atribuições do CBO correspondente 
+a competência. 
+APOIO A ANÁLISE DE SISTEMAS 
+• Realizou o apoio as gerências, comandantes e fiscais de contrato no 
+cumprimento de execução dos projetos no Ambiente Microsoft Sharepoint. 
+• Atuou com as análise e projeto de sistemas, realiza levantamento de 
+requisitos e regras de negócio, mapeamento de processos e modelagem de 
+dados. 
+• Atuou nos padrões de qualidade das rotinas e processos no Ambiente 
+Microsoft; 
+• Identificou, levantou e gerenciou os impactos das alterações, garantia da 
+integridade dos sistemas; 
+• Realizou o planejamento das entregas, operações e versões no Ambiente 
+Microsoft; Docum enta rotinas e processos, manuais, rotinas operacionais e 
+outros, com acompanhamento e validação, entre várias tecnologias no 
+Ambiente Microsoft Sharepoint; 
+• Atuou com a orientação a objetos, UML e padrões de projetos, acompanha 
+busca melhoria para os sistemas em desenvolvimento; 
+·•:·•·1::•·., 
+.. ' .. 
+·.:· . , ' · .. 
+
+--- [Página 8] ---
+1 ,.. . ... 
+... . ·· 
+• Atuou como facilitador entre os usuarios e a empresa desenvolvedora, 
+analisa as entregas das organizações fornecedoras de serviços de TI, tendo 
+como . principal -propósito o apoio ,para .:D -àpr:im0ràmento mensurável da 
+,_. capacidade de desempenho de aplicações , de qüalidaqe :~oftware e de testes 
+· de sistemas. · ' · · 
+·APOIOAOS CONTRATOS 1NTERNACION~1s E_hoM.~R~!9.-,ExT~RIOR SÊNIOR 
+• Realizou o apoio as gerências, comandantes e ·fiscais de contrato no 
+cumprimento de execução das ativida _des econômicas . dos processos e 
+projetos vinculados ao SISFRON; · · 
+• Realizou" a constante . análise e acompanh_ament<;> d_~--legis!:açãq de comércio 
+-exterior do Brasil e os impactos no cpntr~tp ._dq :.SIS~-RON;.- . · 
+. • :.Re$lizou:.a. elaboração de pareceres nos. çont.rJ,ltQ&,d~.:off'set nos aspectos de 
+comércio exterior; · · · , · ·· · · · · 
+• Realizou -a-'validação -da metodologia _ de: ir.nport~çãq,,d~- equipamentos no 
+projeto piloto e prospecção de meto.dolo:g.ià~_-1-par~ ._ç1~ -demais fases do 
+SISFRON; · · -' .· - · '·:i1.-:1:;· _,_,!::• :\::p-i:·, ;·-~ ; i._; · .. · . · :_ 
+• Acompanhou, apoiou e auxiliou no processo de acordo de compensação de 
+créditos do OFFSET. · · · ::: .. , .. : : -· 
+SERVIÇOS DE GESTÃO DE INTANGÍVEIS 
+• Apoiou - :a aplicação das normas legJ~is ,apli~á:v.~is . ao ... "l?~~rcitÇ)/ marcas e 
+patentes, controle dos prazos dos processos; m9nitora ma·rcas, patentes, 
+. . direlto ~ autorais; · · ,.·. · ;.: ·,.: ... --_\~- · ._: p _·. . . . . . • . 
+' ; • ._ • • j, • • 1 a • • , • 1 • • 
+• Realizou pesquisas de marcas junto ao INPI, _ 
+• Atuou no preenchimento dos documentos para elaborações de guias; 
+• Elaborou relatórios e cumprimento CMDO COM GE EX na gestão de 
+intangíveis; 
+• Apoiou aos fiscais de contratos, gestores e oficiais no cumprimento da 
+execução dos projetos no que diz respeito tanto aos recursos orçamentários 
+como às metas físicas estabelecidas; 
+• Apoiou nas melhorias dos processos de trabalho, sistemas e metodologias 
+para garantir a aderência às demandas do negócio; 
+• Realizou participação técnica em projetos de defesa. 
+APOIO ADMINISTRATIVO 
+• Atuou no encaminhamento de informações à equipe do Sistema de 
+Sensoriamento e Apoio à Decisão do Projeto Piloto do Programa SISFRON; 
+• Realizou a elaboração de relatório estatístico mensal dos compromissos, 
+ligações, pronunciamentos e palestras, por meio de controles diários e 
+posterior consolidação; 
+• Atuou na logística das ações administrativas do projeto; 
+• Realização do acompanhamento das solicitações de interesse do CMFro 
+nas OMs, órgãos governamentais e empresas privadas; 
+• Atuou no arquivamento de documentos do setor e dos membros do projeto; 
+• Atuou na providência requisição de materiais para viagens e serviços; 
+. .. , . . ... 
+' ' • ,·•'; · 
+
+--- [Página 9] ---
+:: • ·, .. ·: 
+• Atuou na providência viagens, passagens, seguros e as respectivas 
+prestações de contas; . 
+• Realizou -0 acompanhamento das solicitações -de· interesse da Unidade. 
+APOIO A SEGURANÇA DE INFORMAÇÃO 
+• : Apoiou · por meio da verificação de conformidade . legal e .técnica; do estudo 
+de análise de riscos da informação; 
+• Realizou - a elaboração de estudos técnicos -e pareceres na área de 
+segurança da informação; tudo em apoio à fiscalização da implantação do 
+Sistema de Sensoriamento e Apoio à Decisão do Projeto Piloto do SISFRON, 
+nos termos do art. 67 da Lei nº 8666/93. _, ·• · · · · · 
+• - Apoioa as gerfmcías, comandantes e fiscais de contrato no· cumprimento de 
+execuç§o dos projetos-,; no que diz respeit<:Hanto -aos recursos :relacionados 
+à segurança, contribuir pãra a definição ê o des·envolvímento de estratégias 
+.-e programas de trabalho do Exército Brasileiro.Ministra .capacitações na-sua 
+área de atuação, adicionadas as atribuições do CBO. 
+APOIO A ADMINISTRAÇÃO DE SISTEMAS 
+• Atuou na análise, desenvolvimento e execução das ações; 
+• Apoiou as gerências, comandantes e fiscais de contrato no cumprimento de 
+execução dos projetos; 
+• Administrou ambientes computacionais, implantando e documentando 
+:·•rct,n[~S-/.e ,:proj.etos,·, .. e,: contm!ando .. os• -:.nrveis de serviço de sistemas 
+operacionais, banco de dados, hardwares, manutenções e redes; 
+• Forneceu suporte técnico no uso de equipamentos e programas 
+computacionais e no apoio a usuários, configura e instalam recursos e 
+sistemas computàcionais, controlam a segurança do ambiente 
+computacional; 
+• Identificou, levantou e gerenciou os impactos das alterações, garantia da 
+integridade dos sistemas; 
+• Realizou a elaboração dos documentação das rotinas e processos, manuais, 
+rotinas operacionais e outros, com acompanhamento e validação, entre 
+várias tecnologias; 
+APOIO AOS CONTRA TOS 
+• Atuou em contratos nacionais e internacionais; 
+• Orientou, analisou, desenvolveu e executou ações de sua área de atuação 
+e/ou na sua função; 
+• Orientou, elaborou, analisou e acompanhou relatórios , políticas, planos e 
+normas, de forma a Apoio os gestores e oficiais superiores na tomada de 
+decisões; 
+• Realizou a análise dos documentos e apresentação de medidas cabíveis, em 
+âmbito administrativo, elabora relatórios de processos, alimentar sistema de 
+controle interno, participa de reuniões internas; 
+
+--- [Página 10] ---
+··:.1 .. \ . . -
+• Atuou em processos com ênfase em licitações (conc orrênc ias, pregões: Leis 
+8666/93, 12.598, Produto Estratégico de Defesa - PED) e elaboração termos 
+de referência e editais; ._ ,, : · . ·. , · ... · ,., :i 
+• Apoiou · a0s ; fiscais de, contratos, gestores e oficiais no cumprimento da 
+execução .dos projetos no quA diz respeito tanto aos recursos orçamentários 
+como às metas físicas estabelecidas; 
+• Realizou participação técnica em projetos de defesa. 
+APOIO CONTÁB IL 
+•· Apoiou as-g,erências ,· comandantes e fiscais de'contràlo no cumprimento de 
+.exect:!Ç80 -das ativi_dades contábeis e financeiras dos processos e projetos 
+vinr;ulador; ao SISFRON; ·· ·. -'·'. .. . . . . 
+0 · Validou ~·docllrnentos fiscaís recebidos quahto '-'àos·.·aspeêtos tributários e 
+contábeis ,- bem •como análise tributária e de custos,'; rios ·termos do art. 67 da 
+. Lei nº 8666/93.; · .. · · :,:: . : .,:_ · · .• : 
+• · Asse~sorou o desenvolvimento de processos; modelós ·e· plan·os de trabalho 
+de defesa, adicionadas as atribuições do CBO. 
+SERVIÇO DE APOIO ARQUIVIS TA · 
+• Organizou documentos e informações; 
+. , '. :. · ,... • · Orientou ,1aos usuários e auxílio na recup·eração de 'dados e informações; 
+• Disponibilizou da fonte de dados para usuários; · 
+.• ~::• 1°11 e . .'' ... , , .. • .. ·-~ · Pr0Videnci00\aquisição de materi~I 6 inc'orrióPârrnnàf~riái;á;, aé0No; 
+• Arquivou documentos, classificando ·-os segundo critérios apropriados para 
+armazená-los e conservá-los; . 
+• Prestou de serviço de comutação, alimenta base de dados e elabora 
+estatísticas; 
+• Realizou participação no desenvolvime nto de processos, modelos e planos 
+de trabalho de defesa, adicionadas as atribuições do CBO; 
+• Realizou a execução de tarefas relacionadas com a elaboração e 
+manutenção de arquivos. 
+APOIO A LOGISTICA 
+• Apoiou as gerências, comandantes e fiscais de contrato no cumprimento de 
+execução das atividades logf sticas, processos e projetos vinculados ao 
+SISFRON; 
+• Assessou no desenvolvimento de processos, modelos e planos de trabalho 
+de defesa, adicionadas as atribuições do CBO. 
+FERRAMENTA UTILIZADAS 
+Para a execução dos serviços são utilizadas as plataformas e ferramentas 
+descritas abaixo: 
+Sistema O eraclonal Plataforma Windows 
+• 1 • -~ •: 1 
+1 
+, . •: ; 
+· . ... ,.• 
+\: . ', ,· ... : ; ·, 
+.. ~.- - . 
+: ,' ,: ,, •,. ·.: ' ... 
+
+--- [Página 11] ---
+Plataforma Linux (servidores) 
+Aplicativos administrativos Pacote Office (word, excel, power point, visio e 
+outros) . · · 
+" . ., Softwáré -,mãp·a-mental 
+POI: ·,·. ,·· : .~ :: . . . . '• ,', .. 
+Prezi ' : .. .. .. 
+Rstudio 
+. . 
+Sped .. 
+GEO· 
+',, , • ... 
+Gerencianiento ele projetos ·- PMBOK 
+Prince2 
+Agile 
+NEGAPEB 
+Microsoft Project .. Micrç~_ofl:P.W~ · ·. . ' ~ . ._., GE~E~ . , .. • . ' . . WBS Sch"éduled Pro ... 
+... .. 
+". 1 '.; • f . ~ .• 
+-- wss ·T-óol . 
+~ ... : 
+,-.Gere~)ntó ó~ processos dt ll8!jÓCk, . ,. --BPM· -: · .·• .. :.! • :·.· .•. .. . .. . . . 
+BPMN .. ... ·. .., 
+Bizagi .. 
+- · 1 
+- Microsoft Visio 
+BI e-Dasliboads -Power.BI· :_-,:·. . '. '· 
+... 1 •; . . ' SQL_ Cjient . : · , . _ .• : .. ; :·. : ~-.: 
+Software de aestão/administracão ··-
+Softv,arns especialista& :. · 
+Engenheirqs _ Técnicos Respo nsáveis : 
+EMANUEL,JOMATA OLIVEIRA OE BRITO .. .· . . : 
+ENGENHEIRO DE PRODUCAO 
+CREA: 16100/O-DF 
+WALTER MAURICIO PERRELLA 
+ENGENHEIRO ELETRICISTA 
+CREA: 0601621568/O-SP 
+. ' Excel 
+Microsoft Shareoo int 
+RDNG - Rational DOORS Noxt Generation ... 
+AutoCad ' 
+. , . .. · .. , . . : ,, ·•· 
+Ressalto, que a G4F atingiu altos índices de prestação de serviços, com nota acima de 
+95 no nosso sistema de demandas, alcançando um desempenho excelente. A empresa 
+se empenhou em atender as necessidades elencadas no contrato, prestando o 
+adequado apoio aos seus colaboradores, incentivando-os no desempenho de suas 
+funções. 
+Por fim, afirmo que o contrato com a G4F se iniciou em agosto de 2019 no valor R$ 
+14.090.225,00 (quatorze milhões, noventa mil reais, duzentos e vinte e cinco reais), 
+encerrando suas atividades em março de 2022, no valor de R$ 14.245.482, 12 ( quatorze 
+milhões, duzentos e quarenta e cinco mil reais, quatrocentos e oitenta e dois ~ais e 
+doze centavos) trazendo resultados satisfatórios para o Projeto Piloto SISFRON \ 
+Brasilia-DF 15 de Março de 2022. 
+: .... ' . ' . : 
+. ·. . ! ; .. . ~ '. . 
+1·.- :,.·: ' 
+
+--- [Página 12] ---
+. ;, /. . : . . 
+. ', 
+IRO FERREll~A - Maj EB 
+Gestor Técnico do Contrato 10/201~~ 
+• • ; . ·, • • ' •.· 1 •• 
+' • ' • : ··' · 1 1· •.• • • 
+. •··· . 
+• -~: •. '• • ,. / . , .- ~,. ... 1 
+·· . 1 1 \ ,, 
+l-:! ··:.· ... 
+
+--- [Página 13] ---
+FUNDAÇÃO DE PREVIDÊNCIA
+COMPLEMENTAR DO
+SERVIDOR PÚBLICO FEDERAL
+DO PODER EXECUTIVO  
+ATESTADO DE CAPACIDADE TÉCNICA
+  
+Atestamos para os devidos ﬁns, que a empresa G4F SOLUÇÕES CORPORATIVAS LTDA, inscrita sob o CNPJ
+n° 07.094.346/0001-45, estabelecida no SCN Quadra 02, bloco A, Sala 602, Asa Norte, Brasília/DF, está executando
+junto a FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR DO SERVIDOR PÚBLICO FEDERAL DO PODER EXECUTIVO –
+FUNPRESP-EXE, inscrito sob o CNPJ n° 17.312.597/0001-02, por meio do Contrato n° 02/2023, serviços con nuados
+para contratação de serviços técnicos de desenvolvimento de so ware com o uso de metodologias e equipes ágeis
+para apoio às a vidades da Gerência de Tecnologia e Informação no ambiente da Funpresp-Exe, u lizando
+metodologias e equipes ágeis:
+N. º do Contrato: CTO 02/2023
+Vigência: 16/02/2023 à 15/08/2025. (Em execução)
+ 
+MACRO ATIVIDADES/SERVIÇOS PRESTADOS:
+TORRE DE DESENVOLVIMENTO
+Análise, avaliação da viabilidade, desenvolvimento, implementação (programação) e implantação de sistemas de
+informações WEB, u lizando metodologia e princípios reconhecidos no campo da Engenharia de So ware;
+Deﬁnição de arquitetura de aplicações para ambiente web, integração entre sistemas u lizando webservice
+(SOAP e REST), padrão de arquitetura (DTO/MVC), JSON Web Token (JWT), Openapi (Swagger), padrões de
+projeto (SOA e Responsivo) e prá ca de integração, entrega e refatoração con nua, Kubernetes, Arquitetura
+Devops;
+U lização de APIs cogni vas para serviços automa zados (robô);
+Desenvolvimento orientado a objetos, incluindo Design Orientado por Domínio (DDD);
+Integração entre sistemas: Mensageria, Web services, REST e EJB, Microserviços;
+AngularJS, Bootstrap, TypeScript, SQL Server, MySql, Elas c Search;
+Ecossistema Docker, NodeJS, Maven, Angular;
+Spring Boot e Spring MVC, Spring Data JPA, Spring Cloud Stream;
+Análise está ca de código com a ferramenta Gitlab.
+TORRE DE ANÁLISE DE QUALIDADE
+Realização de testes de so ware: teste de unidade, integração, sistema/funcional, aceitação/estória, carga,
+desempenho, vulnerabilidade, usabilidade, acessibilidade;
+Automa zação de testes funcionais, de unidade e de carga com ferramentas de so ware;
+Automa zação de testes funcionais;
+Realização de teste nos componentes gerados quanto às especiﬁcações e padrões deﬁnidos;
+Análise da documentação do projeto para revisão e subsídio à elaboração dos roteiros de testes;
+Iden ﬁcação dos erros existentes nos componentes e no Casos de Teste produzidos;
+Avaliação do resultado de cada ciclo de teste em conjunto com o testado;
+Apoio aos testadores quanto às técnicas de testes;
+Manter a metodologia de desenvolvimento de so ware da Fundação atualizada, aprimorando-a con nuamente;
+27/11/2024, 14:01 SEI/FUNPRESP-EXE - 0186970 - Atestado de Capacidade Técnica
+file:///C:/Users/anderson.lucas/Desktop/Atestado_de_Capacidade_Tecnica_0186970.html 1/4
+
+--- [Página 14] ---
+Auxiliar os par cipantes dos projetos na u lização da Metodologia de Desenvolvimento de So ware;
+Assegurar que os produtos de trabalho e a execução dos processos estejam em conformidade com os padrões de
+qualidade;
+Fornecer feedback à equipe do projeto e à gerência sobre os resultados das a vidades de garan a da qualidade;
+Iden ﬁcar e registrar as não conformidades;
+Assegurar que as não conformidades sejam tratadas.
+TORRE DE ANÁLISE DE REQUISITOS
+Análise de requisitos, sejam eles funcionais, não-funcionais, de usuários, dos clientes e análise de negócio;
+Elaboração de especiﬁcação e análise de sistemas e especiﬁcações funcionais para o desenvolvimento de
+so wares;
+Levantamento dos requisitos com os usuários;
+Modelagem do sistema, detalhando e especiﬁcando suas caracterís cas lógicas e  sicas;
+Elicitação, análise, especiﬁcação, validação e gerenciamento dos requisitos de so ware;
+Apoio na elaboração do plano de trabalho, especiﬁcando prazos para a conclusão de cada uma das etapas do
+desenvolvimento;
+Criação e Orientação quanto ao desenvolvimento e implantação dos sistemas.
+TORRE SCRUM MASTER
+Assegurar que a equipe respeite e siga os valores e as prá cas ágeis;
+Proteger a equipe assegurando que ela não se comprometa excessivamente com relação àquilo que é capaz de
+realizar durante um Sprint (período dentro do qual um conjunto de a vidades deve ser executado);
+Atuar como facilitador do Daily Scrum (reunião diária);
+Remover quaisquer obstáculos que sejam levantados pela equipe durante essas reuniões;
+Conhecer o processo de desenvolvimento de so ware e as prá cas de desenvolvimento ágil;
+Disseminar o conhecimento;
+Comunicar e negociar;
+TORRE DE ANÁLISE DE DADOS
+Deﬁnição e manutenção de arquitetura de Metadados, trabalhando com a integração entre os variados  pos de
+depósitos de metadados (catálogos, dicionários, glossários), por meio de ferramenta de mercado
+Gestão de Dados Mestres e de Referência, u lizando solução de mercado para MDM (Master Data
+Management);
+Modelagem de dados relacionais e não relacionais, u lizando ferramentas compa veis com as da contratante;
+Tratamento de dados nas linguagens SQL, T-SQL, PL/pgSQL e suas bibliotecas;
+Desenvolvimento em SQL (views, stored procedures e triggers);
+U lização de técnicas de melhoria de desempenho (tuning de querys e stored procedures);
+Administração de gestão dos SGBD’s, SQL Server, MySql 8.0 e PostgreSQL v17;
+Extração, transformação e carga de dados (ETL);
+Construção de ro nas para ingestão, saneamento, tratamento de qualidade e disponibilização de dados;
+Apoio na elaboração de polí cas, estratégias, metodologias, processos e boas prá cas de gestão de qualidade de
+dados;
+Gestão de catálogo de dados e boas prá cas de curadoria de dados;
+U lização/Administração e gestão da Plataforma de Business Intelligence Microso  Power BI;
+Gerenciamento dos dados, informações, criar e manter os modelos de dados corpora vos, estrutura lógica e
+ sica, mantendo-os consistentes com as regras de negócio;
+Apoiar o desenvolvimento e manutenção dos Sistemas Corpora vos;
+27/11/2024, 14:01 SEI/FUNPRESP-EXE - 0186970 - Atestado de Capacidade Técnica
+file:///C:/Users/anderson.lucas/Desktop/Atestado_de_Capacidade_Tecnica_0186970.html 2/4
+
+--- [Página 15] ---
+Garan r que regras do modelo lógico e  sico de dados seja implementado corretamente;
+Desenvolver, manter e atualizar o Dicionário de Dados Corpora vo;
+Assessorar os diversos grupos técnicos e analistas de sistemas a trabalharem na modelagem de dados de suas
+aplicações;
+Realizar Diagnós cos de erros, falhas e não conformidades nas estruturas das tabelas do Banco de Dados
+Corpora vo.
+EQUIPE DE EXECUÇAO:
+QUADRO RESUMO - VOLUMES CONSOLIDADOS
+TORRE DE ATENDIMENTO QUANTIDADEDE POSTOS HORASEXECUTADASMENSAL HORASEXECUTADASEM 21 (vinte eum) MESES
+Analista Desenvolvedor Sênior 04 704 14.784
+Análise de Qualidade/Testes de So ware Sênior 02 352 7.392
+Analista de Requisitos de So ware Sênior 02 352 7.392
+Scrum Master Sênior 02 352 7.392
+Administrador de Dados Sênior 02 352 7.392
+TOTAL EM 21 (vinte e um) MESES 12 2.112 44.352
+*8 horas por dia x 22 dias úteis no mês
+Do total executado, cerca de 33% representam a torre de Desenvolvimento (20% Android v12, 10% IOS v13, 20%
+JavaScrip, 10% .NET, 5% PHP, 15% Angular e 10% NodeJS), 17% Teste/Qualidade, 17% Requisitos, 17% Scrum Master e
+16% Administração de Dados.
+ 
+METODOLOGIAS, FERRAMENTAS E PADRÕES UTILIZADOS NA EXECUÇÃO DOS SERVIÇOS:
+As entregas seguem os princípios e prá cas de desenvolvimento de so ware ágeis, Scrum, eXtreme Programming e
+Kanban), concepção ágil de produtos, abordagem de design thinking e processo de design sprint;
+No Desenvolvimento são gerando os seguintes artefatos:
+Backlog do produto;
+Planejamento de entregas (release plan);
+Planejamento de iterações (sprints);
+Burndown ou Burnup.
+ 
+Codiﬁcação dos sistemas com recursos web, seguindo os padrões de segurança, como:
+Implementação de criptograﬁa não reversível para senhas gravadas em bancos de dados;
+Proteção de credenciais de acesso pelo uso de conexões SSL com criptograﬁa forte nos processos de login;
+Proteção contra Cross-Site Scrip ng (XSS) e SQL Injec on;
+Gerenciamento de cookies e tokens de sessão;
+Remoção das informações sensíveis de parâmetros GET passados via URL;
+ 
+Tecnologias e Ferramentas
+Linguagens mobile Android v12, IOS 13, .NET v7, JavaScript v8, PHP v8, Angular v18, NodeJS v22;
+Banco de dados padrão SQL/ANSI, com Sistema gerenciador de banco de dados MySQLv8 ou SQL Server 2014,
+PostreSQL v17;
+Auten cação com Ac ve Directory (AD)
+ 
+Os serviços estão sendo executados sa sfatoriamente, de acordo com os níveis de serviços deﬁnidos em contrato, não
+exis ndo em nossos registros, até a presente data, fatos que desabonem a conduta da empresa, bem como sua
+27/11/2024, 14:01 SEI/FUNPRESP-EXE - 0186970 - Atestado de Capacidade Técnica
+file:///C:/Users/anderson.lucas/Desktop/Atestado_de_Capacidade_Tecnica_0186970.html 3/4
+
+--- [Página 16] ---
+responsabilidade com as obrigações contratuais assumidas.
+ 
+Fundação de Previdência Complementar do Servidor Público Federal do Poder Execu vo – Funpresp-Exe
+Riane de Oliveira Torres Santos
+Coordenadora de Governança e Processos de TI
+ 
+Paulo Epaminondas Torres
+Coordenador de Sistemas de TI
+Documento assinado eletronicamente por Paulo Epaminondas Torres, Coordenador, em 26/11/2024, às 18:01,
+conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de
+2015.
+Documento assinado eletronicamente por Riane de Oliveira Torres Santos, Coordenadora, em 27/11/2024, às
+10:45, conforme horário oﬁcial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro
+de 2015.
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.funpresp.com.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0,
+informando o código veriﬁcador 0186970 e o código CRC 19AC3847.
+Referência: Caso responda este documento, indicar expressamente o Processo nº 03750.020105.000005/2022-82 SEI nº 0186970
+Fundação de Previdência Complementar do Servidor Público Federal do Poder Execu vo – Funpresp-Exe
+SCN Q 2 BL A Corporate Financial Center Salas 201-204 - CEP 70712-900 -
+h ps://funpresp.com.br
+27/11/2024, 14:01 SEI/FUNPRESP-EXE - 0186970 - Atestado de Capacidade Técnica
+file:///C:/Users/anderson.lucas/Desktop/Atestado_de_Capacidade_Tecnica_0186970.html 4/4
+
+--- [Página 17] ---
+Ministério da Educação
+Esplanada dos Ministérios Bloco L, Anexo I - 3º Andar - Bairro Zona Cívico-Administra va, Brasília/DF, CEP
+70047-900
+Telefone: 2022-7037  - h p://www.mec.gov.br
+ATESTADO DE CAPACIDADE TÉCNICA
+Processo nº 23000.032846/2020-66
+Interessado: G4F- SOLUÇÕES CORPORATIVAS LTDA
+Em consonância com a Portaria MEC nº 98, de 15 de março de 2022, atesto para os
+devidos ns, que a empresa G4F SOLUÇÕES CORPORATIVAS LTDA., inscrita no CNPJ/MF sob o nº
+ 07.094.346/0001-45,  sediada  no  SRTVS  Quadra  701,  Bloco  "O",  Sala  548  -  Asa  Sul,  Edicio
+Mul empresarial, em Brasília  DF, CEP: 70340-000, presta serviços neste Ministério da Educação
+- MEC, na forma discriminada abaixo:
+Processo nº 23000.032846/2020-66
+Contrato nº 03/2022 (SEI 3129230)
+Objeto: Contratação de serviços técnicos de desenvolvimento e sustentação de aplicações
+de so ware, de acordo com as métricas e as especicações con das no Termo de
+Referência e na documentação de apoio
+Vigência prevista: 10/02/2022 a 10/02/2023, podendo ser prorrogado por interesse das
+partes até 10/08/2023 ou até que se conclua novo procedimento licitatório.
+Execução: 12 (doze) meses.
+Valor anual do Contrato: R$ 18.499.763,76 (Dezoito milhões quatrocentos e noventa e
+nove mil setecentos e sessenta e três reais e setenta e seis centavos).
+Por  m,  registro,  ainda,  segundo  informações  ob das  junto  à  área  gestora  por
+intermédio da Nota Técnica nº 1/2023/CGS/STIC/STIC (SEI 3824332), que a referida empresa está
+cumprindo  com  os  prazos  e  as  condições  acordados,  não  exisndo  fatos  que  desabonem  a
+sua capacidade técnica e gerencial até a presente data. 
+VANESSA TORRES DANTAS
+Coordenadora-Geral de Licitações e Contratos
+Anexo I: -  Nota Técnica nº  1/2023/CGS/STIC/STIC (SEI 3824332)
+SEI/MEC - 3828103 - Atestado de Capacidade Técnica https ://sei.mec.gov.br/sei/controlador_externo.php?acao=documento_...
+1 of 2 05/02/2024, 10:1 8
+
+--- [Página 18] ---
+Documento assinado eletronicamente por Vanessa Torres Dantas, Coordenador(a)-Geral, em
+10/02/2023, às 16:14, conforme horário ocial de Brasília, com fundamento da Portaria nº
+1.042/2015 do Ministério da Educação.
+A auten cidade deste documento pode ser conferida no site h p://sei.mec.gov.br/sei/
+controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código vericador 3828103 e o código CRC C1A13270.
+Referência: Processo nº 23000.032846/2020-66 SEI nº 3828103
+SEI/MEC - 3828103 - Atestado de Capacidade Técnica https ://sei.mec.gov.br/sei/controlador_externo.php?acao=documento_...
+2 of 2 05/02/2024, 10:1 8
+
+--- [Página 19] ---
+Ministério da Educação
+NOTA TÉCNICA Nº 1/2023/CGS/STIC/STIC
+PROCESSO Nº 23000.032846/2020-66
+INTERESSADO: CGS/STIC/SE/MEC, COORDENAÇÃO-GERAL DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO, G4F - SOLUCOES
+CORPORATIVAS LTDA
+ASSUNTO
+0.1. A vidades  tecnologias  soluções  e  metodologias  empregadas  pela Empresa  G4F  Soluções  Corporavas  Ltda.,
+inscrita sob o CNPJ nº 07.094.346/0001-45, na execução do contrato 03/2022.
+1. SUMÁRIO EXECUTIVO
+1.1. Trata-se de necessidade esclarecimento e con rmação de informações técnicas solicitadas pela Subsecretária de
+Assuntos  Administra vos  (SAA)  para  embasar  a  emissão  de  Atestado  de  Capacidade  Técnica,  solicitado  pela  referida
+contratada, por meio do O cio 0370/2023/G4F (3809339). Frente ao pedido a SAA solicitou a " elaboração de nota técnica ou
+documento equivalente que con rme todos os serviços/a vidades indicados na Minuta de ACT (SEI 3809344) e esclareça quais
+são as tecnologias/soluções/metodologias e horas empregadas na execução do contrato, de modo a subsidiar a declaração,
+conforme O cio nº 27/2023/GAB/CGLC/SAA-MEC (SEI 3822634)".
+2. ANÁLISE
+2.1. Passaremos  a  detalhar  abaixo  as  a vidades,  soluções  u lizadas,  metodologias  empregadas  e  volumetria  de
+atendimentos executados pela empresa desde a assinatura do Contrato 03/2022,  em  fevereiro de 2022 de até a presente data.
+2.2. ATIVIDADES  DE  MANUTENÇÃO  DE  DISPONIBILIDADE,  ESTABILIDADE,  DESEMPENHO  E  FUNCIONALIDADE
+CONTEMPLAM OS SEGUINTES REQUISITOS:
+2.2.1. As aplicações sustentadas corres pondem, atualmente a um volume es mado de 121.946 Pontos de Função (PF).
+2.2.2. Intervenção corre va: abrange a correção de  defeitos iden cados nas soluções  de so ware em produção,
+abrangendo comportamentos inadequados que causem problemas de uso e/ou funcionamento e/ou quaisquer desvios em
+relação a requisitos aprovados pelo gestor da aplicação.
+2.2.3. Análise  e  solução  de  incidentes: compreende  as  a vidades  de  análise,  diagnós co,  restabelecimento  da
+disponibilidade, correção de falhas ou defeitos da solução de so ware em ambiente de produção, incluindo comportamentos
+inadequados que causem problemas de us o e/ou mau funcionamento da aplicação e/ou quaisquer desvios em relação aos
+requisitos funcionais ou não-funcionais esperados para a solução.
+2.2.4. Apoio à produção:  abrange o suporte e acompanhamento remoto e/ou presencial às equipes de infraestrutura
+para análise, diagnós co, resolução de incidentes e ações de melhoria.
+2.2.5. Operação  de  soluções  de  so ware:  consiste  na  execução  de  quaisquer  procedimentos  operacionais
+ro neiramente requeridos pelas soluções em função de suas regras de negócio, forma de construção e/ou atendimento a
+demandas negociais e/ou judiciais.
+2.2.6. Integração e entrega  con nua: abrange a  conguração e  operação  dos  ambientes  de  integração  e entrega
+con nua, adotados para às soluções sustentadas (servidor de automação de deploys e orquestradores de containers) na G4F,
+bem como construção dos pacotes com os so wares sustentados e gerenciamento de publicação de pacotes de so ware nos
+ambientes do MEC.
+2.2.7. Intervenção Perfec va: engloba a implementação de melhorias em um sistema existente, sem a alteração de
+funcionalidades sob o ponto de vista do usuário. Sua nalidade é promover a melhoria de desempenho, a manutenibilidade e a
+usabilidade do sistema.
+2.2.8. Intervenção Cosmé ca: compreende demandas associadas às alterações de interface, por exemplo, fonte de
+letra, cores de telas, logo pos, mudança de botões em tela.
+2.2.9. Intervenção Preven va: consiste em alterações no so ware buscando melhorar a conabilidade ou oferecer uma
+estrutura  mais  estável/robusta/segura  para  futuras  manutenções.  A  intervenção  prevenva  parte  de  uma  observação
+reconhecida pelos mantenedores sobre o que poderá gerar algum po de erro no so ware, desta forma tal erro será tratado
+antes que um problema venha a ocorrer.
+2.2.10. Apuração especial: envolve serviços de inclusão, alteração, consulta ou exclusão de dados em bancos de dados
+do ambiente de produção para elaboração de relatórios, correção ou adequação de informações man das pelas soluções de
+so ware sustentadas e levantamento de informações complementares e não disponibilizadas de forma automá ca via aplicação
+ao usuário.
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+1 of 6 05/02/2024, 10:1 9
+
+--- [Página 20] ---
+2.2.11. Migração de Dados: consiste na elaboração de ro nas visando a transferência de dados de uma base para outra,
+podendo  ser  de  um  Sistema  Gerenciador  de  Banco  de  Dados  (SGBD)  para  outro  ou  dentro  de  um  mesmo  SGBD.  Essa
+transferência poderá representar mudanças de estrutura ou não. Como exemplos de a vidades destacamos: criação de scripts,
+validação e limpeza de massa de dados, adequação e dicionarização do modelo etc.).
+2.2.12. Internalização de soluções: é denida como a adoção de sistemas fornecidos à área de tecnologia da informação
+do MEC, por órgãos externos ou fornecidos por outras ins tuições, envolvendo a vidades como: preparação de ambiente e
+realização  de  prova  de  conceito  (POC),  análise  de  documentação,  publicação  da  aplicação,  conguração  de  variáveis  de
+ambiente, testes exploratórios e migração de dados.
+2.2.13. Monitoramento  de  programas  crícos:  consiste  em  monitorar  um  sistema  por  um  período  denido,  com
+abordagem preven va, visando evitar ou mi gar eventuais indisponibilidades ou degradação da qualidade do serviço.
+2.2.14. Criação e atualização de manuais e roteiros de orientação aos usuários:  consiste na criação ou melhoria da
+documentação existente, ocorrendo por solicitação da CONTRATANTE em decorrência de falhas ou necessidade de de nições e
+melhorias em documentação direcionadas aos usuários nais.
+2.2.15. Elaboração  e/ou  manutenção  de  documentação  técnica:  consiste  no  aprimoramento  da  documentação
+existente,  em  decorrência  da  observação  dessa  necessidade  durante  os  atendimentos  de  falhas  ou  caso  idenque
+incompletude na documentação de sistemas direcionada às equipes técnicas.
+2.2.16. Suporte técnico-operacional ao usuário:  suporte de terceiro nível, de acordo com a de nição de hierarquia de
+suporte em ambientes corpora vos.
+2.2.17. Emissão de parecer, nota ou relatório técnico: consiste na elaboração desses documentos contendo informações
+sobre o funcionamento das aplicações, regras negociais, informações de arquitetura, proposta de solução, análise de risco.
+2.2.18. Criação e/ou alteração de componentes arquiteturais: consiste no desenvolvimento ou alteração de soluções de
+so ware sustentadas visando sustentar um incidente ou serviço de sistemas.
+2.2.19. Análise e adequação de solução para migração de ambiente de infraestrutura:  tem por obje vo adrquar as
+soluções para se adequarem as novas necessidades de upgrade de ambiente de infraestrutura seja em ambiente em nuvem, on-
+premises ou híbrido.
+2.2.20. Apoio à implantação de solução: consiste apoio ao processo de implantação de solução (e/ou versão de solução)
+por prossional que tenha conhecimento negocial e técnico do sistema com o obje vo de evitar ou minimizar problemas na
+implantação, bem como realização de testes mínimos que garantam a con nuidade de operação da solução.
+2.2.21. O mização e melhorias em scripts de banco de dados:  inclui por exemplo: índices, procedures, triggers, queries
+etc.
+2.2.22. Geração de massa de dados:  consiste na criação de conjunto de dados de determinado sistema de forma a
+prover os cenários necessários a execução de testes em qualquer ambiente, a depender da necessidade do MEC;
+2.2.23. Inves gação de incidentes:  engloba a avaliação das con gurações  dos servidores  de  aplicação, containers e
+outros ambientes tecnológicos (logs, parâmetros e esta s cas), bem como parâmetros e logs do servidor de banco de dados de
+produção.
+2.3. CRITÉRIOS DE COMPOSIÇÃO E CLASSIFICAÇÃO DOS HUBS DE SERVIÇO:
+HUB POD/TORRE SOLUÇÕES COBERTAS
+A
+Soluções Crí cas -
+Cobertura Estendida
+(disponibilidade 24x7)
+SISU Todas as soluções e processos que integram o ecossistema deprocessos do Sistema de Seleção Unicada (SISU).
+PROUNI Todas as soluções e processos que integram o ecossistema deprocessos do Programa Universidade para Todos (PROUNI).
+FIES
+Todas as soluções e processos que integram o ecossistema de
+processos do Programa Fundo de Financiamento Estudan l
+(FIES).
+SIMEC+PDDE
+Todos os módulos, submódulos e processos classicados como
+crí cos que compõem o Sistema Integrado de Monitoramento e
+Execução do Ministério da Educação (SIMEC) e a plataforma PDDE
+INTERATIVO.
+E-MEC Todos os módulos, submódulos e processos que integram oSistema de Regulação do Ensino Superior (E-MEC)
+SISTEC+PNP
+Todos os módulos, submódulos e processos integram o Sistema
+Nacional de Informações da Educação Prossional e Tecnológica
+(SISTEC) e a Plataforma Nilo Peçanha (PNP).
+B
+Soluções
+Convencionais - Cobertura
+Padrão (disponibilidade
+8x5)
+Sistemas
+Convencionais
+Todos os sistemas, módulos, submódulos e processos que
+integram a baseline e sejam classicados como soluções
+convencionais (não cobertas pelo hub de soluções crí cas).
+Portais e
+aplica vos
+Convencionais
+Todos os portais e aplica vos que integram a baseline e sejam
+classicados como soluções convencionais (não cobertos pelo
+hub de soluções crí cas).
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+2 of 6 05/02/2024, 10:1 9
+
+--- [Página 21] ---
+Soluções de BI e
+Analy cs
+Convencionais
+Todas as soluções, painéis e processos de business intelligence e
+analy cs que integram a baseline e sejam classicados como
+soluções convencionais (não cobertos pelo hub de soluções
+crí cas).
+2.4. HUB SUSTENTAÇÃO DE SOLUÇÕES CRÍTICAS (24x7)
+PERFIL QNTD TOTAL MENSAL* TOTAL EM 12 MESES
+Analista de Sustentação 06 1.008 Horas 12.096 Horas
+Arquiteto de So ware 07 1.176 Horas 14.112 Horas
+Engenheiro de So ware 10 1.680 Horas 20.160 Horas
+Administrador de Dados 06 1.008 Horas 12.096 Horas
+Analista de Qualidade 06 1.008 Horas 12.096 Horas
+TOTAL 35 5.800 Horas 70.560 Horas
+*168 Horas mensais por perl (Nesse quan ta vo não estão sendo computadas as horas em sobreaviso)
+2.5. HUB SUSTENTAÇÃO SOLUÇÕES CONVENCIONAIS (8x5)
+PERFIL QNTD TOTAL MENSAL** TOTAL EM 12 MESES
+Analista de Sustentação 04 672 Horas 8.064 Horas
+Arquiteto de So ware 05 840 Horas 10.080 Horas
+Engenheiro de So ware 15 2.520 Horas 30.240 Horas
+Administrador de Dados 05 840 Horas 10.080 Horas
+Analista de Qualidade 03 504 Horas 6.048 Horas
+Analista de Dados e BI 01 168 Horas 2.016 Horas
+TOTAL 33 5.376 Horas 66.528 Horas
+**168 Horas mensais por perl
+2.6. TOTAL DE HORAS DE SUSTENTAÇÃO
+2.6.1. 137.088 (cento e trinta e sete mil oitenta e oito reais) horas.
+2.7. TECNOLOGIAS E FERRAMENTAS DE DESENVOLVIMENTO
+2.7.1. BACKEND
+2.7.1.1. PHP v7.2 com Framework LARAVEL
+2.7.1.2. PHP v7.2 com Framework SYMFONY
+2.7.1.3. PHP v5.2 com Framework ZEND
+2.7.1.4. PHP v5.6 com Framework ZEND
+2.7.1.5. HTML v5 com PHP e BOOTSTRAP
+2.7.1.6. JAVA 1.6, 1.8 e 11 com framework SPRINGBOOT (Web, Cloud,  Security, Data, etc) h ps://spring.io/projects/
+spring-framework
+2.7.1.7. MAVEN v3.39
+2.7.1.8. JHIPSTEr v3.82
+2.7.2. SOLUÇÕES DE APOIO
+2.7.2.1. Containers em DOCKER
+2.7.2.2. DOCKER-COMPOSE v3.1 - Orquestrador de container
+2.7.2.3. DOCKERFILE v3.1 - Arquivo de imagens do Docker
+2.7.2.4. HELM v2.4.28 - Gerenciador de pacotes para Kubernetes (gerenciador de pacotes Kubernetes)
+2.7.2.5. CHART - Pacote de gerencia dor de Kubernetes para aplicação)
+2.7.2.6. GITLAB v13.6.1 ee - Ge renciador de repositório de so ware
+2.7.2.7. JENKINS v2.289 - servidor de automação gratuito e de código para automa zação do deploys
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+3 of 6 05/02/2024, 10:1 9
+
+--- [Página 22] ---
+2.7.2.8. RANCHER v2.4.5 - gerenciador de Kubernetes em escala
+2.7.2.9. Composer - gere nciador de dependências
+2.7.2.10. LIQUIBASE (Java e Symphony) - Biblioteca independente de banco de dados de código-fonte aberto para rastrear,
+gerenciar e aplicar alterações no esquema do banco de dados
+2.7.2.11. MIGRATION (Laravel) - Versionador de Banco de Dados do Laravel
+2.7.2.12. SONATYPE NEXUS vOS3.27
+2.7.2.13. ARTIFACTORY v2.6.4
+2.7.3. FRONTEND
+2.7.3.1. ANGULAR v8
+2.7.3.2. REACTJS v16
+2.7.3.3. HTML v5 + PHP v8 + BOOTSTRAP v5.3 + CSS v4.15 +JS v13 + JQUERY V3.6
+2.7.3.4. NPM v9.4
+2.7.4. BANCO DE DADOS
+2.7.4.1. Mysqls v5.5
+2.7.4.2. Microso  SQL Server v2017
+2.7.4.3. Oracle v12.2
+2.7.4.4. PostgresSQL v11
+2.7.4.5. Elas cSearch v8.6
+ITEM SISTEMA TECNOLOGIA BANCO DE DADOS BASELINE(PFs)
+1 SEI - Sistema Eletrônico de Informações PHP V5.2 SQL Server 2012 2.989
+2 SIMEC - Sistema Administra vo (Compras/Eventos/Contratos)
+PHP V5.5 PostgreSQL v8.4
+804
+3 SIMEC - Sistema de Capacitação para Servidores do MEC 206
+4 SIMEC - Sistema de Gestão de Pessoas 622
+5 SAE - Sistema de Avaliação Educacional 672
+6 SIMEC - Fábrica 1.020
+7 SIMEC - Sistema de Informação ao Cidadão 418
+8 SIMEC - Sistema de Segurança 274
+9 SIMEC - Sistema Painel de Controle 1.081
+10 SSD - Sistema de Segurança Digital JAVA v8 PostgreSQL v8.4 157
+11 SISALFA - Sistema dos Programas de Alfabe zação * PHP v7.1 PostgreSQL v8.4 346
+12 PDDE Intera vo
+PHP V5.5 PostgreSQL v8.4
+155
+13 PDDE Intera vo Educação Conectada PIEC 274
+14 PDDE Intera vo Livro 365
+15 PDDE Intera vo Novo Ensino Médio 128
+16 PDDE Intera vo Novo Mais Educação 462
+17 PDDE Sala de Recursos 119
+18 SIMEC - E.I Manutenção Proinfância
+PHP V5.5 PostgreSQL v8.4
+614
+19 SIMEC - Educação Conectada 330
+20 SIMEC - EJA Novas Turmas 341
+21 SIMEC - EMTI Acompanhamento Ensino Médio em TempoIntegral 302
+22 SIMEC - Livros 1.296
+23 SIMEC - PAR 4 2.264
+24 SIMEC - ProJovem Campo 597
+25 SIMEC - ProJovem Urbano 685
+26 PDDE Intera vo Escola Acessível PHP V5.5 PostgreSQL v8.4 232
+27 Presença - Acompanhamento da Frequência Escolar PHP V5.5 PostgreSQL v8.4 389
+28 SIMEC - Formação Escola da Terra 2.0
+PHP V5.5 PostgreSQL v8.4
+309
+29 SIMEC - SISFOR Gestão e Monitoramento da FormaçãoCon nuada 1.065
+30 SIMEC - Sisindigena Saberes Indígenas 797
+31 CEBAS - Cer cação das En dades Filantrópicas PHP V5.5 PostgreSQL v8.4 1.245
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+4 of 6 05/02/2024, 10:1 9
+
+--- [Página 23] ---
+32 E-MEC - Sistema Eletrônico de Acompanhamento dosProcessos - Corpora vo Qlik Sense PostgreSQL v8.4 3.570
+33 FIES - Seleção Aluno PHP V5.6 Oracle 12 409
+34 FIES - Sistema Oferta PHP V5.5 Oracle 12 1.345
+35 Plataforma Carolina Bori - Sistema Nacional de Revalidação deDiplomas PHP V5.4 Oracle 12 1.126
+36 ProUni - Gestão do Programa Univer sidade para Todos ASP SQL Server 2012 904
+37 ProUni - Inscrição Qlik Sense Oracle 12 130
+38 SIGPET - Sistema de Gerenciamento Programa EducaçãoTutorial PHP V5.2 Oracle 12 1.176
+39 SIMEC - Sistema de Monitoramento de Obras PHP V5.5 PostgreSQL v8.4 1.755
+40 SIMEC - Sistema Rede Federal PHP V5.5 PostgreSQL v8.4 2.764
+41 SINAR - Sistema de Informação de Residências em Saúde -CNRM 2 PHP V5.5 Oracle 12 2.898
+42 SISBP - Sistema de Gestão do Programa Bolsa Permanência PHP V5.6 Oracle 12 434
+43 SisCNRM - Sistema do Cadastro Nacional dos MédicosResidentes PHP V5.5 PostgreSQL v8.4 1.032
+44 SISU - Sistema de Gestão PHP V5.6 Oracle 12 763
+45 SISU - Sistema de Inscrição Qlik Sense Oracle 12 398
+46 CNCT - Catálogo Nacional de Cursos Técnicos * JAVA v8 PostgreSQL v8.4 315
+47 PNP - Plataforma Nilo Peçanha JAVA v8 PostgreSQL v8.4 302
+48 SISTEC - Sistema Nacional de Informações da EducaçãoProssional e Tecnológica JAVA v8 Oracle 12 5.379
+49 SIMEC - SPO Acompanhamento Orçamentário
+PHP V5.5 PostgreSQL v8.4
+496
+50 SIMEC - SPO Emendas Parlamentares 855
+51 SIMEC - SPO Planejamento Orçamentário 525
+52 SIMEC - SPO Programação Financeira 446
+53 SIMEC - SPO Receitas Orçamentarias 283
+54 SIMEC - SPO SICAJ Ações Judiciais 236
+55 SIMEC - SPO TED 948
+56 PDDE CAMPO 67
+Soluções Crí cas Sustentadas 49.114 PFs
+Soluções Convencionais Sustentadas 72.882 PFs
+Baseline Consolidada 121.946 PFs
+Média Mensal de Demandas 215
+Média Anual de Demandas 2.579
+2.8. METODOLOGIAS E PADRÕES UTILIZADOS NA EXECUÇÃO DOS SERVIÇOS
+2.8.1. U lização dos princípios e prá cas de  desenvolvimento de so ware ágil, incluindo o Manifesto Ágil, Scrum,
+Extreme Programming (XP) e Kanban;
+2.8.2. U lização de metodologia seguindo as melhores prá cas de mercado como, CMMI 3, MPS- BR Nível C, ITIL®4 e
+DevSecOps;
+2.8.3. U lização dos padrões de interface conforme de nido pelo Padrão Digital de Governo - Portal Gov.br  (Dsign
+System);
+2.8.4. U lização dos padrões de administração de dados denominado MAD  TEC - Metodologia de Administração
+Técnica de Dados;
+2.8.5. Artefatos do Serviço de Sustentação:
+2.8.5.1. Código fonte/script;
+2.8.5.2. Evidência de execução;
+2.8.5.3. Modelo de banco de dados;
+2.8.5.4. Nota técnica;
+2.8.5.5. Relatório/Extração de Dados.
+3. CONCLUSÃO
+3.1. Em complemento as informações técnicas acima listada s, esclarecemos que a empresa, embora esteja prestando
+o serviço objeto do contrato, em observância às regras gerais do certame, a equipe de Gestão e Fiscalização iniciou um Processo
+Administra vo de Apuração de Responsabilidade, sob o número 23000.018959/2022-11, mo vada pelo não a ngimento das
+metas previstas nos indicadores de desempenho, conforme prev ê o termo de referência, com vistas a possível aplicação da
+primeira advertência, uma vez que iden cou desempenho inferior ao previsto.
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+5 of 6 05/02/2024, 10:1 9
+
+--- [Página 24] ---
+3.2.  No  momento  o  processo  está  em  fase  de  análise  da  defesa  prévia,  não  havendo  portanto  decisão
+deni va, mo vo pelo qual não veri camos óbice quanto a emissão do Atestado com as informações ora descritas, constando
+entretanto a referida ressalva referente ao processo em curso. 
+3.3. Quanto ao desempenho dos serviços informamos ser compa vel em caracterís cas,  tendo sido  adequada a
+disponibilidade dos recursos de rede, do aparelhamento do pessoal técnico, bem como da quali cação dos membros da equipe
+técnica responsável pelos trabalhos, em acordo com o objeto da licitação. Entretanto, conforme alega em sua defesa prévia (SEI
+nº 3688046), a empresa tem enfrentado diculdades no mercado de TI para contratação de pessoal com formação e quan dade
+suciente para suprir os quan ta vos previstos pelo MEC, di cultando o a ngimento das metas de desempenho previstas nos
+níveis mínimos de serviço.
+3.4. É nosso entendimento como gestão do contrato, após pra camente um ano de execução do novo modelo do
+serviço de sustentação de aplicações e so ware, que os índices previstos no termo de referência necessitam ser revistos,
+principalmente devido aos tempos de resposta bastante exíguos para atendimento dos sistemas crí cos, frente a complexidade
+dos procedimentos técnicos necessários para entendimento e solução destes pos de requisição, recalibragem das quan dades
+e dos per s necessários, o que tem gerado um efeito cascata no backlog de atendimento, uma vez que mina a capacidade
+prevista pelo contrato para atendimento sob tais indicadores.
+3.5. Havendo este entendimento, encontra-se em curso na STIC a elaboração de novo processo de contratação de
+serviço 23000.003787/2023-61, em subs tuição ao Contrato 3/2022, uma vez que a empresa manifestou interesse apenas em
+renovar o contrato por mais seis meses (SEI nº 3813053), com cláusula resolu va, ou até que o MEC assine um novo contrato,
+sem causar prejuízo ao desempenho das a vidades de caráter con nuado.
+4. DOCUMENTOS RELACIONADOS
+DESPACHO DO GESTOR DO CONTRATO
+Pelo exposto res tuo os atos para con nuidade do processo.
+MÁRCIO FERNANDES CUNHA
+Gestor do contrato 03/2022
+Documento assinado eletronicamente por Márcio Fernandes Cunha, Gestor(a) de Contrato, em 08/02/2023, às 17:16,
+conforme horário ocial de Brasília, com fundamento da Portaria nº 1.042/2015 do Ministério da Educação.
+A auten cidade deste documento pode ser conferida no site h p://sei.mec.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código vericador 3824332 e o código CRC 7798AAE5.
+Referência: Processo nº 23000.032846/2020-66 SEI nº 3824332
+SEI/MEC - 3824332 - Nota Técnica https://sei.mec.gov.br/sei/controlador_externo.php ?acao=documento_...
+6 of 6 05/02/2024, 10:1 9
+
+--- [Página 30] ---
+07/03/2023, 10:52 SEI/PRF - 46978989 - Atestado
+https://sei.prf.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=53809760&infra_siste… 1/4
+MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+POLÍCIA RODOVIÁRIA FEDERAL
+SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO RIO GRANDE DO NORTE
+ATESTADO DE CAPACIDADE TÉCNICA 17-2017
+Atestamos, para ﬁns de comprovação de capacidade técnica, que a empresa G4F
+SOLUÇÕES CORPORATIVAS LTDA, com sede no SRTVS, Quadra 701, Bloco O, sala 548, Edi cio
+Mul empresarial, Brasília/DF, CEP 70.340-000, CNPJ n° 07.094.346/0001- 45, executou à
+Superintendência da Polícia Rodoviária Federal em Rio Grande do Norte, inscrita no CNPJ sob o nº
+00.394.494/0118-47, sediada na Avenida Nascimento de Castro, 1540, Lagoa Nova, CEP 59056-450 na
+cidade de Natal/RN, o Serviço de Suporte Técnico Especializado de TIC (Tecnologia de Informação e
+Comunicação), para atender a PRF-RN, conforme termos do Contrato nº 17/201, tendo sido a execução
+de 01/09/2017 à 31/08/2019, totalizando 24 meses.
+ 
+1. OBJETO
+1.1. O objeto do presente instrumento é a contratação de serviços Técnico Especializados de
+TIC (Tecnologia de Informação e Comunicação), visando o atendimento das necessidades da
+Superintendência Regional de Polícia Rodoviária Federal no Estado do Rio Grande do Norte - SRPRF-RN.
+ 
+2. MACRO ATIVIDADES / SERVIÇOS PRESTADOS
+2.1. Desenvolvimento e implantação de sistemas informa zados, dimensionamento de
+requisitos e funcionalidade dos sistemas, especiﬁcação de sua arquitetura, deﬁnição de ferramentas de
+desenvolvimento, especiﬁcação de programas, codiﬁcação de aplica vos. Administração de ambiente
+informa zado, prestação de suporte técnico ao cliente, elaboração de documentação técnica.
+Estabelecimento de padrões, coordenação de projetos, deﬁnição de soluções para ambientes
+informa zados e pesquisas tecnológicas em informá ca:
+Desenvolvimento de Sistemas de Tecnologia da Informação
+Levantamento necessidades do cliente/usuário;
+Dimensionamento requisitos e funcionalidade dos sistemas;
+Levantamento de fontes de dados;
+Definição de alternativas físicas de implantação;
+Participação de aprovação de infraestrutura, software e rede;
+Especificação de arquitetura dos sistemas; 
+Definição de ferramentas de desenvolvimento;
+Modelagem de dados;
+Especificação de aplicativos;
+Desenvolvimento de arquitetura de sistemas e informações;
+Montagem de protótipo dos sistemas;
+Codificação de programas;
+Planejamento de testes de sistemas e ambientes;
+Testagem de sistemas;
+Implantação de sistemas;
+Administração de Ambiente de Tecnologia da Informação
+Monitoramento de performance dos sistemas;
+Administração de recursos de rede; 
+Administração de banco de dados; 
+Administração ambiente operacional; 
+
+--- [Página 31] ---
+07/03/2023, 10:52 SEI/PRF - 46978989 - Atestado
+https://sei.prf.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=53809760&infra_siste… 2/4
+Execução de procedimentos para melhoria de performance dos sistemas; 
+Identificação de falhas nos sistemas; 
+Correção de falhas nos sistemas; 
+Controle acesso aos dados e recursos; 
+Administração perfil de acesso às informações; 
+Realização de auditoria de sistemas; 
+Realização de revisões técnicas;
+Prestação de Suporte Técnico ao Cliente/Usuário
+Orientação das áreas de apoio; 
+Consultoria documentação técnica; 
+Consultoria fontes alternativas de informações o Execução de simulações em ambiente
+controlado; 
+Acionamento de suporte de terceiros; 
+Instalação de hardware; 
+Instalação de software;
+Configuração de software e hardware;
+Elaboração de Documentação de Sistemas de Tecnologia da Informação
+Descrição de processos (fluxo de atividades); 
+Elaboração diagramas (caso de uso, fluxo de dados, mapa de site etc.); 
+Elaboração dicionário de dados; 
+Elaboração manuais do sistema; 
+Execução de Inventario de software e hardware; 
+Documentação de estrutura da rede; 
+Documentação de acordo de níveis de serviço (sla); 
+Documentação de capacidade e performance; 
+Documentação de soluções disponíveis; 
+Elaboração de especificação técnica; 
+Documentação de níveis de serviços; 
+Estabelecimento de Padrões para Ambiente de Tecnologia da Informação
+Estabelecimento de padrões de software;
+Participação de definição de níveis de segurança de tecnologia da informação; 
+Definição requisitos técnicos para contratação de produtos e serviços; 
+Definição nomenclatura padrão; 
+Definição padrões de interface com cliente/usuário; 
+Definição metodologias a serem adotadas; 
+Definição de Soluções para Ambientes de Tecnologia da Informação 
+Especificação procedimentos para recuperação de ambiente operacional; 
+Proposição de mudanças de processos e funções; 
+Prestação de consultoria técnica; 
+Identificação necessidade do cliente; 
+Avaliação de proposta de fornecedores; 
+Negociação de alternativas com clientes ou fornecedores;
+Adequação de soluções a necessidade do cliente;
+Apresentação de alternativas de solução;
+Divulgação de solução; o Elaboração de propostas técnicas comerciais;
+Pesquisa de Inovações em Tecnologia da Informação
+Pesquisa de padrões, técnicas e ferramentas disponíveis no mercado;
+Avaliação novas tecnologias;
+Construção de ambiente de teste;
+Análise de funcionalidade do produto;
+Comparativo de alternativas tecnológicas;
+Avaliação desempenho do produto;
+Garantia da Segurança da Informação o Pesquisa de padrões, técnicas, ferramentas e dispositivos
+disponíveis no mercado;
+Implantação de segurança lógica LAN, WAN, Firewall, Proxy, Active Directory e Servidores;
+Garantia de disponibilidade do ambiente de rede e sistemas;
+Realização de auditorias de logs de acesso a máquinas, serviços, sistemas;
+Proposição de melhorias na infraestrutura lógica e física de redes;
+
+--- [Página 32] ---
+07/03/2023, 10:52 SEI/PRF - 46978989 - Atestado
+https://sei.prf.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=53809760&infra_siste… 3/4
+Gerenciamento e manutenção de Datacenter
+ 
+3. SERVIÇOS CRÍTICOS (ALTA DISPONIBILIDADE)
+3.1. Lista exempliﬁca va de 21 (vinte e um) serviços crí cos a serem monitorados:
+Base de Autenticação de Usuários (Active Directory e LDAP) ;
+Banco de Dados;
+Serviço de Mensageria e Correio eletrônico;
+Serviço de DHCP;
+Serviço de DNS;
+Servidor de Arquivos;
+Armazenamento de dados (Storage);
+Serviço de Backup e Restore;
+Sistemas de negócios críticos da PRF (servidores de Aplicação) ;
+Firewalls;
+AntiSpam;
+Filtro de conteúdo Web;
+Antivírus;
+Portais Web (intranet e internet);
+Serviço de redes de comunicação;
+Ferramenta de Base de Conhecimento;
+Sistema de Gestão de Chamados;
+Ferramenta de Monitoração;
+Ambiente de Virtualização;
+Redes de Dados Corporativo;
+Links de Conectividade (Internet, Intranet e Infovia).
+ 
+4. PARQUE TÉCNOLOGICO
+4.1. A Superintendência de Polícia Rodoviária Federal no estado do Rio Grande do Norte possui
+um efe vo de cerca de 293 servidores. Somado a isso, há ainda servidores administra vos, terceirizados
+e os cidadãos em geral. Esse público, para desempenho de suas a vidades e para prestação de
+informações a sociedade, u liza-se dos serviços de TIC providos pelo Núcleo de Telemá ca Regional. São
+apenas quatro policiais para prestar suporte e atender as demandas desse universo de pessoas.
+Associado a isso, tem se na regional um quan ta vo de cerca de 189 computadores, 159 notebooks, 96
+telefones VOIPs, 268 celulares, Enlaces de Dados e de Rádio. Além disso, o núcleo é responsável pelo
+provimento de Internet, segurança da informação, manutenção de rádio e cabeamento, manutenção de
+a vos e sistemas regionais, bem como, ﬁscalização de todos os contratos que dizem respeito a TIC como:
+Outsourcing de Impressão, Manutenção de Rádio e Torres, Internet, Serviço Móvel Pessoal, Telefonia Fixa
+Digital, Interconec vidade de Dados e do atual contrato de terceirização de suporte.
+ 
+5. QUANTIDADE E FUNÇÃO CONTRATADAS
+5.1.  
+Descrição Metodologia Quan dade de ProﬁssionaisAlocados HorasMensais Total de Horas em24 Meses
+Analista de Tecnologia da
+Informação ATI
+COBIT 2019 ITIL
+v5 01 (um) 168 4.032
+5.2. Atestamos ainda, que tais serviços estão sendo executados de acordo com os parâmetros
+técnicos de qualidade exigidos e no prazo pactuado, a ngindo os níveis mínimos de serviços
+estabelecidos sem indicação de glosas, não exis ndo em nossos registros, até a presente data, fatos que
+desabonem sua conduta e responsabilidade com as obrigações assumidas.
+
+--- [Página 33] ---
+07/03/2023, 10:52 SEI/PRF - 46978989 - Atestado
+https://sei.prf.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=53809760&infra_siste… 4/4
+ 
+ 
+ 
+ANDERSON DA SILVA COSTA
+Superintendente subs tuto
+Documento assinado eletronicamente por ANDERSON DA SILVA COSTA, Superintendente da Polícia
+Rodoviária Federal no Rio Grande do Norte subs tuto(a), em 07/03/2023, às 10:40, horário oﬁcial
+de Brasília, com fundamento no art. 10, § 2º, da Medida Provisória nº 2.200-2, de 24 de agosto de
+2001, no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020, e no art. 42 da Instrução
+Norma va nº 116/DG/PRF, de 16 de fevereiro de 2018.
+A auten cidade deste documento pode ser conferida no site h ps://sei.prf.gov.br/veriﬁcar,
+informando o código veriﬁcador 46978989 e o código CRC D0777DD1.
+Referência: Processo nº 08664.005699/2016-78 SEI nº 46978989
+
+--- [Página 34] ---
+a 884 f
+@
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO
+SECRETARIA MUNICIPAL DA SAÚDE
+FUNDO MUNICIPAL DE SAÚDE
+ATESTADO DE CAPACIDADE TÉCNICA
+Atestamos para os devidos fins, que a empresa G4F SOLUÇÕES CORPORATIVAS LTDA., inscrita
+sob o CNPJ n' 07.094.346/0001-45, estabelecida no SRTVS Quadra 701, bloco O. Sala 548. Asa Sul,
+Brasília/DF, está executando junto a PREFEITURA DO MUNICÍPIO DE SÃO PAULO, por intermédio da
+SECRETARIA MUNICIPAL DA SAÚDE/FUNDO MUNICIPAL DE SAÚDE, inscrita sob o CNPJ/MF sob o n'’
+13.864.377/0001-30, por meio do Contrato n' 126.2022, conforme as seguintes características técnicas:
+N.'’ do Contrato: CTO 126/2022
+Vigência do Contrato:
+1 '’ Período: 09/08/2022 a 09/08/2023
+2'’ Período: 09/08/2023 a 09/08/2024
+Período de Realização dos Serviços: 09/08/2022 a 09/03/2024 (Em Execução)
+OBJETO: Serviços de informática na área de sustentação de sistemas da informação e infraestrutura, a fim
+de atender as demandas desta Secretaria Municipal de saúde de São Paulo, bem como a gestão destes, nos
+termos do Anexo I – Termo de Referência.
+MACRO ATIVIDADES/SERVIÇOS PRESTADOS:
+SISTEMA DA INFORMAÇÃO:
+1. TORRE DE DESENVOLVIMENTO/MANUTENÇÃO/SUSTENTAÇÃO
+1.1. Geração de cronograma macro de demandas por período (mensal, trimestral e anual);
+1.2. Geração de estimativas e cronogramas por Ordem de Serviço;
+1.3. Serviços de modelagem de negócios;
+1.4. Geração de desenhos funcionais;
+1.5. Serviços de arquitetura de software;
+1.6. Geração de modelos de dados;
+1.7. Construção e análise de modelo de dados;
+1.8. Criação de scripts e rotinas para acerto, criação, alteração, importação, exportação ou migração
+de dados;
+1.9. Criação, acompanhamento e gerenciamento de RDMs (Requisições de Mudanças) junto aos
+fornecedores externos;
+1.10. Geração de scripts de importação de dados;
+1.11. Geração de desenhos técnicos;
+1.12. Levantamento de requisitos junto aos usuários e áreas técnicas da SMS;
+1.13. Desenvolvimento de programas e configurações;
+1.14. Administração e suporte de portais do escopo deste documento;
+1.15. Geração de documentações técnicas de acordo com a metodologia da SMS;
+1.16. Geração de documentação comprobatória de testes unitários de sistema;
+1.17. Planejamento e execução de testes unitários de sistema;
+1.18. Elaboração de Plano de testes;
+1.19. Execução de testes funcionais, não funcionais de segurança e de regressão, sistêmico,
+1
+
+
+--- [Página 35] ---
+h 888 f:
+8
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+integração, performance, usuário;
+1.20. Criação, manutenção e gerenciamento de dashboards dos sistemas de BI;
+1.21. Criação e gerenciamento de rotinas de backup dos sistemas internos/departamentais;
+1.22. Geração de material de treinamento para usuários específicos de cada ordem de serviço:
+1.23. Geração de Manuais de operação, de instalação e de usuários;
+1.24. Capacitação da equipe de Sustentação;
+1.25. Análise de incidentes e de problemas nos sistemas;
+1.26. Análise, investigação e resolução de bugs durantes todas as etapas de testes,
+1.27. operação assistida e produção;
+1.28. Interação com a equipe da SMS;
+1.29, Monitoramento da qualidade e satisfação dos usuários sobre os serviços prestados;
+1.30. Participação de reuniões de acompanhamento dos projetos;
+1.31. Suporte ao Teste de Usuário;
+1.32. Publicação dos programas. configurações e alterações em servidores e nas bases de
+dados na trilha do ambiente de desenvolvimento, homologação e produção;
+1.33. Gerenciamento do Projeto;
+1.34. Sugestão de melhorias aos sistemas sob responsabilidade da DTIC
+1.35. Avaliação in loco das demandas e da utilização dos Sistemas;
+1.36. Apoio ao cliente nas definições e especificações de demandas;
+1.37. Entregas de produtos com acessibilidade digital.
+2. TORRE DE BUSINESS INTELLIGENCE
+2.1. Apoiar o departamento de TI na implementação e atualização de software e hardware que
+permitam melhor aproveitamento do uso de big data;
+2.2. Apoiar a revisão dos arquivos recebidos dos clientes para garantir a integridade da coleta e
+utilização de dados;
+2.3. Estruturar e desenvolver relacionamento de dados entre DBA e plataforma de front end (Power
+B.l./Pentaho)
+2.4. Suporte e análises, apoiando na realização do diagnóstico de múltiplas áreas, estabelecendo e
+gerenciando os principais KPls qualitativos;
+2.5. Identificar e mapear as regras de negócio, desenvolver e atualizar relatórios operacionais e
+gerenciais com o intuito de facilitar e agilizar as tomadas de decisão;
+2.6. Desenvolver análises/estudos com recomendação estratégica, através da extração de dados
+internos e externos;
+2.7. Construção de Dashboards automatizados (DAX) e linguagem M Intermediário;
+2.8. Construção de Dashboards gerenciais e múltiplos clientes.
+3. TORRE DE TESTE E CONTROLE DE QUALIDADE
+3.1. Analisar riscos e a conformidade de processo, projetos, técnicas, práticas e ferramentas de
+desenvolvimento e testes em relação às normas e padrões da organização e às melhores
+práticas de mercado no que diz respeito a versionamento, arquitetura, padrão visual, segurança,
+testes e qualidade de software;
+3.2. Verificar a atualidade da documentação técnica dos sistemas de informação da organização em
+relação ao software que está operando;
+Promover o diagnóstico de situações de gargalos e problemas de desempenho nos sistemas;
+3.3. Verificar se os padrões da organização para desenvolvimento de aplicações sejam obedecidos;
+3.4. Detectar falhas e propor correções em processos de testes implantados na organização;
+3.5. Emitir pareceres técnicos relacionados ao ambiente de sistemas da organização;
+2
+
+
+--- [Página 36] ---
+@
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+{ i 8 1 11
+3.6. Elaborar Relatório Técnico de Análise de Qualidade.
+3.7. Realizar reuniões com os usuários e/ou times de desenvolvimento para modelar e elaborar
+estratégias de testes;
+3.8. Planejar testes funcionais e não funcionais de softwares;
+3.9. Elaborar artefatos como Roteiros/Casos de Teste, Listas de Verificação, Critérios de Aceite;
+3.10. Elaborar artefatos de apoio a testes, como roteiros, scripts de testes, relatório de evidências de
+testes;
+3.11. Preparar planos de Testes, funcionais e não funcionais, sistemas, integração, performance,
+caixa preta, usuário,
+3.12. Executar testes automáticos e/ou manuais em ambiente de testes e de homologação;
+3.13, Executar testes funcionais e não funcionais:
+3.14. Dar suporte aos testes realizados pelo usuário;
+3.15. Execução de teste SAST indicando ausência de vulnerabilidades de nível HIGH ou CRITICAL,
+ou equivalente.
+4. TORRE DE PROCESSO DE NEGÓCIO
+4.1. Atuar em projetos de melhoria levantando e alinhando os requisitos do projeto aos objetivos e
+metas estratégicas da organização;
+4.2. Utilizar técnicas como entrevistas, fóruns, observação in loco. análise de documentos, entre
+outras técnicas, com o objetivo de levantar informações para descoberta e documentação dos
+processos;
+4.3. Realizar a modelagem e automação dos processos utilizando a ferramenta oficial da SMS-SP
+nos padrões estabelecidos;
+4.4. Otimizar a execução dos processos de negócio com visibilidade através da monitoração e análise
+contínuas;
+4.5. Identificar, propor e documentar oportunidades de melhorias nos processos de modo a compor
+um banco de possíveis soluções para os problemas atuais dos processos;
+4.6. Levantar informações sobre desempenho dos processos e dos fatores que o influenciam com o
+objetivo de auxiliar para a tomada de decisão sobre alterações no fluxo;
+4.7. Fazer simulações e análises comparativas entre cenários e versões dos fluxos de modo a
+subsidiar as decisões de mudança;
+4.8. Realizar a análise dos processos apresentando parecer conclusivo sobre os principais elementos
+que são necessários para a sua execução, que sejam físicos ou lógicos;
+4.9. Desenvolver projetos de processos (projetar) para novos processos que atendam às
+necessidades respeitando as políticas e recursos estabelecidos, identificando papeis,
+competências requeridas, informações transitadas, principais regras de negócios, indicadores de
+desempenho, métricas e regras de monitoramento, sistemas e funções requeridas, entre outros
+elementos necessário para garantir o atingimento dos seus objetivos;
+4.10. Promover a análise de viabilidade técnica de implementação do novo processo;
+4.11. Prestar apoio às atividades de automação de processos. realizando ajuste necessário ao
+modelo para que este possa ser executável dentro dos padrões definidos;
+4.12. Elaborar protótipos não funcionais simplificados de modo que os envolvidos no processo
+possam tangenciar como este poderá funcionar;
+4.13. Promover atividades de validação dos modelos de processos com o objetivo de obter o aceite
+das áreas gestoras dos processos;
+4.14. Realizar a atualização dos catálogos corporativos com base nas informações levantadas na
+modelagem e nos elementos utilizados pelos processos;
+3
+
+
+--- [Página 37] ---
+h 684 d
+e
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+4.15.
+4.16.
+4.17.
+4.18.
+Auxiliar aos gestores no planejamento e acompanhamento da implantação dos modelos
+construídos;
+Auxiliar aos gestores no planejamento e acompanhamento da implantação dos modelos
+construídos:
+Realizar testes de aderência ao modelo após estes implantados;
+Coletar informações relativas aos resultados obtidos com o novo processo e elaborar feedback
+apontando virtudes e possíveis detectados.
+5. TORRE DE SUPORTE/IMPLATAÇÃO AOS SISTEMAS
+5.1. Atendimento aos usuários em equipamentos e sistemas disponibilizados para restabelecimento
+dos serviços.
+5.2. Atendimento de N1 (nível 1) e N2 (nível 2) - suporte “in loco" - realização de visitas técnicas aos
+Estabelecimentos de Assistência à Saúde
+5.3. Atendimento de N3 (nível 3) - suporte remoto - sob responsabilidade dos analistas da equipe
+interna, voltado aos Estabelecimentos de Assistência à Saúde e prestadores de serviços ao SUS-
+Sistema Único de Saúde.
+5.4. Atuar no registro de solicitações através de ferramenta interna.
+5.5. Suporte telefônico e remoto em TIC aos usuários da SMS-SP.
+5.6. Acompanhamento junto aos técnicos de outros fornecedores no atendimento e suporte de
+equipamentos de TI.
+5.7. Análise e diagnóstico para solução de problemas.
+5.8. Apoio e Suporte Básico em aplicações e Softwares
+5.9. Atendimentos emergenciais a usuários.
+5.10. Auxílio na identificação e solução de incidentes e problemas.
+5.11. Desenvolvimento de procedimentos para administração das soluções implementadas na
+resolução de problemas e incidentes, incluindo documentação e procedimentos operacionais.
+5.12. Gestão Sistêmica de chamados técnicos.
+5.13. Suporte a configuração de acessos.
+5.14. Identificar atividades que deveriam ser automatizadas e escrever ou propor ferramentas para
+automatizá-las.
+5.15. Manter atualizada a base de conhecimento: Acompanhar a revisão e atualização dos
+procedimentos operacionais (documentos), pesquisando novas soluções, analisando
+criticamente os processos é propondo melhorias.
+5.16. Suporte à instalação e configuração de equipamentos de TI.
+5.17. Capacitação aos usuários.
+6. TORRE DE GERÊNCIA DE PROJETOS
+6.1. Planejar, elaborar, executar e monitorar atividades em alinhamento com a direção estabelecida
+pela governança e a visão da gestão de negócios, a fim de atingir os objetivos da coordenação
+e secretaria
+6.2. Fomentar a visão da gestão de negócios que descreve a estrutura da arquitetura de negócios da
+organização contendo seus serviços, processos e regras necessárias à sua execução, seus
+recursos humanos, produtos e clientes. Descreve também a relação com processos de outras
+entidades bem como os serviços compartilhados.
+6.3. Documentar os negócios da SMS de forma padronizada, em conformidade com uma taxonomia
+comum, e em um formato reutilizável:
+4
+
+
+--- [Página 38] ---
+aB 6
+@
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+6.4. Criar uma linha de base do modelo de negócio e de operação adotado pela SMS em um
+determinado momento;
+6.5. Propor alinhamento dos objetivos de negócio, do modelo operacional. e da tecnologia de
+informações que suporta a SMS;
+6.6. Proporcionar um mecanismo preliminar para mapear os processos de negócio com os serviços
+de TI de forma bidirecional, para a adequada validação da estrutura da TI e orientação para o
+desenvolvimento e investimento em sistemas e aplicativos alinhados com os objetivos e
+necessidades da SMS.
+6.7. Isto significa que o mapeamento entre processos e sistemas deve ser feito de forma a que haja
+a visibilidade de quais sistemas suportam quais processos, e quais processos são servidos por
+quais sistemas;
+6.8. Apoiar no desenvolvimento de modelos de custo para aplicações e serviços;
+6.9. Servir como mecanismo para evidenciar a vinculação das decisões sobre a priorização na
+aquisição e desenvolvimento de aplicações e serviços de TIC pela SMS e o seu impacto nos
+serviços prestados;
+6.10. Apresentar demandas concorrentes por aplicações e serviços de TIC de forma estruturada,
+permitindo a redução de duplicações e redundâncÊas. Além de identificar candidatos à
+consolidação entre organizações que compartilham, integram e/ou reutilizam serviços;
+6.11. Prover uma linguagem comum para promover a interoperabilidade e compartilhamento de
+informações:
+6.12. Apresentar as melhores práticas de arquitetura para uso das entidades que se relacionam,
+como base para a construção de novas aplicações e serviços e/ou avaliação das soluções
+atuais
+6.13. Reutilizar modelos de aplicações e serviços de TIC por meio da padronização;
+6.14. Simplificar as operações e o gerenciamento de aplicações e serviços de TIC de forma global;
+6.15. Promover a rastreabilidade da modelagem de negócios para os requisitos funcionais e não
+funcionais;
+6.16. Promover rastreabilidade de requisitos e necessidades em relação às aplicações e serviços de
+TIC
+INFRAESTRUTURA:
+1. TORRE DE ANÁLISE E SUPORTE A INFORMÁTICA
+1.1. Acompanhamento junto aos técnicos de outros fornecedores no atendimento e suporte de
+equipamentos de TI;
+1.2. Análise e diagnóstico para solução de problemas;
+1.3. Apoio e Suporte Básico em aplicações e Softwares;
+1.4. Atendimentos emergenciais a usuários;
+1.5. Auxílio na identificação e solução de incidentes e problemas
+1.6. Desenvolvimento de procedimentos para administração das soluções implementadas na
+resolução de problemas e incidentes, incluindo documentação e procedimentos operacionais;
+1.7. Gestão Sistêmica de chamados técnicos;
+1.8. Suporte a configuração de acessos;
+1.9. Identificar atividades que deveriam ser automatizadas e escrever ou propor ferramentas para
+automatizá-las;
+1.10. Manter atualizada a base de conhecimento: Acompanhar a revisão e atualização dos
+procedimentos operacionais (documentos), pesquisando novas soluções, analisando
+criticamente os processos é propondo melhorias;
+5
+
+
+--- [Página 39] ---
+a B + 4 f
+@
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+1.11. Suporte à instalação e configuração de softwares e equipamentos de TI
+1.12. Capacitação aos usuários.
+2. TORRE DE TELEFONIA
+2.1. Prestar manutenção preventiva e corretiva em sistemas de telecomunicações;
+2.2. Participar na elaboração de projetos de telecomunicações;
+2.3. Planejar, avaliar e executar instalações que estabelecem comunicações;
+2.4. Controlar e operar sistemas de telefonia, televisão, transmissão de dados e fax;
+2.5. Montar aparelhos, circuitos ou componentes de telecomunicação;
+2.6. Consultar a tabela de gravações antes de programar a manutenção em estúdios;
+2.7. Fazer a inspeção do sistema operacional antes da entrada do programa no ar;
+2.8. Rearmar os equipamentos quando houver piques de energia;
+2.9. Regular o tom e volume do som, atuando nos dispositivos de controle;
+2.10. Abrir e fechar circuitos de transmissão, operando comandos mecânicos e elétricos, para colocar
+ou tirar a emissora de rádio e/ou TV no ar;
+2.11. Efetuar a leitura dos equipamentos, para controle;
+2.12. Controlar a qualidade técnica da transmissão;
+2.13. Elaborar relatórios de ocorrências;
+2.14. Suporte telefônico e remoto em TIC aos usuários
+3. TORRE DE INFRAESTRUTURA E DATA CENTER
+3.1. Cumprir programa de manutenção pré-estabelecido pela equipe de Engenharia de Data Center;
+3.2. Execução de check-list e PMOC (Plano de Manutenção, Operação e Controle, Portaria no.3.523
+de 28 de agosto de 1998);
+3.3. Execução de medições e manobras em ambiente de alta disponibilidade (Nobreaks e grupos de
+Geradores);
+3.4, Realizar serviços de manutenção ligados a sistema de cabeamento metálico estruturado e
+telefonia predial;
+3.5. Administração, configuração e manutenção de políticas de rede quanto acesso (criação,
+alteração, remoção);
+3.6. Analisar e acompanhar desempenho / utilização dos recursos e equipamentos de rede e das
+solicitações de eventuais alterações na rede, a fim de evitar vulnerabilidades no ambiente;
+3.7. Apoiar na adequação de instalação, configuração ou remanejamento de elementos ativos de
+rede nos backbones (switches, roteadores e etc.);
+3.8. Apoiar nas adequações de instalação, configuração ou remanejamentos de Access Point de rede
+sem fio
+3.9. Atividades relacionadas à administração, operação, configuração e implantação e suporte de
+equipamentos e soluções de comunicação em redes LAN e Wireless nos quesitos dados, voz,
+vídeo, telefonia e videoconferência;
+3.10. Avaliação de regras e políticas de segurança da rede a fim de evitar vulnerabilidades no
+ambiente;
+3.11. Elaboração de relatórios técnicos/ analíticos através da coleta de dados dos equipamentos da
+rede, a fim de suprir informações que sirvam para o planejamento estratégico da contratante;
+3.12. Execução de instalação física e/ou remanejamento de dispositivos de rede/racks, garantindo
+as funcionalidades do Data Center;
+3.13. Gerenciamento de Conectividade WAN e Internet;
+3.14. Gestão de ativos do núcleo da rede (switches, roteadores, Controladoras Wifi, Access-Points);
+3.15. Intermediação com serviços de Infraestrutura (ACL's, Firewall, Segurança de Rede);
+6
+
+
+--- [Página 40] ---
+:1 8 4 1 d
+9
+PREFEITURA DE
+SÃO PAUIO
+SAÚDE
+3.16.
+3.17.
+3.18.
+Mapeamento, inclusão ou modificação nas instalações da rede;
+Orientações à equipe de suporte quanto aos dispositivos e ambientes LAN;
+Participação de visitas técnicas e reuniões emitindo pareceres relativos projetos/ao
+conhecimento técnico da área de redes;
+Proposição de melhorias no ambiente de redes, melhores práticas, orientando a contratante
+nas adequações necessárias;
+Prover adequaç,ões de instalação ou remanejamentos de cabeamento metálico estruturado e
+óptico de forma garantir as funcionalidades Lógicas do Data Center;
+Roteamento entre redes locais virtuais (VLANS), confecção e edição de listas de acesso (ACL).
+empilhamento de Switchs, agregação de portas, portas tronco, segurança de portas, prevenção
+de loops, análise de logs e monitoração SNMP.
+3.19.
+3.20.
+3.21 .
+4. TORRE DE GESTÃO E SUPERVISÃO
+4.1. Gestão e Supervisão das equipes técnicas. analisando e monitorando o trabalho;
+4.2. Acompanhamento, análise e controle da execução dos acordos de níveis de serviços (SLJ\ –
+SERVICE LEVEL AGREEMENT);
+4.3. Verificação/Monitoramento do desempenho dos sistemas implantados e recursos técnicos
+instalados:
+4.4. Prestação de suporte técnico via internet e telefone com solução de problemas técnicos;
+4.5. Acompanhamento das alterações de regras e novas funcionalidades dos sistemas;
+4.6. Elaborar e manter atualizados os manuais de treinamento;
+4.7. Aplicar feedback pontual e avaliações periódicas da equipe;
+4.8. Desenvolver e manter os relatórios de indicadores de qualidade e desempenho da equipe,
+produtividade e qualidade de atendimento;
+4.9. Dimensionamento da equipe para garantir o nível de serviços de atendimento aos clientes;
+4.10. Capacitar tecnicamente a equipe para garantir a qualidade e a eficiência dos serviços
+contratados.
+4.11. Gestão das atividades de suporte ao usuário no desenvolvimento de hardware e software
+4.12. Verificar o desempenho dos sistemas implantados e recursos técnicos instalados, sugerir
+melhorias nos sistemas operacionais e equipamentos de usuários de microcomputador.
+4.13. Planejar, elaborar, executar e monitorar atividades em alinhamento com a direção estabelecida
+pela governança e a visão da gestão de infraestrutura, a fim de atingir os objetivos da
+coordenação e secretaria;
+4.14. Fomentar a visão da gestão de infraestrutura que descreve a estrutura de tecnologia necessária
+para execução dos sistemas de informação e operação da organização envolvendo a definição
+de regras, padrões e ferramentas necessárias à interoperabilidade de informações;
+4.15. Prover operação contínua e ininterrupta dos serviços oferecidos pela infraestrutura e sua
+monitoração;
+4.16. Reportar aos coordenadores as necessidades de modificações necessárias para a
+performance adequada do ambiente;
+4.17. Apoiar no desenvolvimento de modelos de custo para infraestrutura física e de TIC
+4.18. Servir como mecanismo para evidenciar a vinculação das decisões sobre a priorização do uso
+de infraestruturas físicas e de TIC pela SMS e o seu impacto nos serviços prestados;
+4.19. Apresentar demandas concorrentes por infraestrutura de forma estruturada, permitindo a
+redução de duplicações e redundâncias e identificar candidatos à consolidação entre
+organizações que compartilham, integram e/ou reutilizam serviços;
+4.20. Promover a transparência e a responsabilidade na gestão dos ativos de infraestrutura
+empregadas na gestão de saúde
+7
+
+
+--- [Página 41] ---
+l\ 881 d
+a
+PREFEITURA DE
+SÃO PAUIO
+SAÚDE
+4.21 .
+4.22.
+Permitir a interoperabilidade e compartilhamento de informação entre as entidades que se
+relacionam;
+Apresentar as melhores práticas de arquitetura para uso das entidades governamentais. como
+base para a construção de novas infraestruturas de TIC e/ou avaliação das infraestruturas
+atuais
+Reutilizar modelos de infraestrutura e a própria infraestrutura por meio da padronização;
+Simplificar as operações e o gerenciamento da infraestrutura por meio da redução do impacto
+nas mudanças tecnológicas;
+Subsidiar a tomada de decisões estratégicas para futuros investimentos.
+4.23.
+4.24.
+4.25,
+5. TORRE DE BANCO DE DADOS
+5.1. Planejar, elaborar, executar e monitorar atividades em alinhamento com a direção estabelecida
+pela governança e a visão da gestão de dados, a fim de atingir os objetivos da coordenação e
+secretaria:
+5.2. Fomentar a visão da gestão de dados que descreve o conjunto de dados e informações
+(estruturação e tipos), o relacionamento entre eles dentro da SMS e com outras organizações e
+o relacionamento entre os conceitos destes;
+5.3. Prover um mecanismo padrão para descrever e gerir as arquiteturas de informações das
+organizações governamentais;
+5.4. Reduzir a disseminação de dados e informações redundantes, fragmentadas e não
+padronizadas;
+5.5. Servir como mecanismo para promover a interoperabilidade de dados e informações entre as
+organizações governamentais;
+5.6. Apoiar as iniciativas de transparência e dados abertos através da melhoria da uniformização,
+acesso e compartilhamento de dados e informações;
+5.7. Validação e melhoria de Modelagem de dados de Desenvolvimento;
+5.8. Gerenciamento de rotinas de backup;
+5.9. Migração com Upgrade de versão e instalação de patches de segurança;
+5.10. Atuar em Performance e tunning junto a equipe de Desenvolvimento;
+5,11. Implementar, configurar e atualizar o processo de auditoria;
+5.12. Atendimento de incidentes, requisições, execução de mudanças e projetos.
+6. TORRE DE GESTÃO DE SEGURANÇA DA INFORMAÇÃO
+6.1. Planejar, elaborar, executar e monitorar atividades em alinhamento com a direção estabelecida
+pela governança e a visão da gestão da segurança da informação, a fim de atingir os objetivos
+da coordenação e secretaria;
+6.2. Fomentar a visão da gestão de segurança da informação que descreve os requisitos de
+segurança necessários a todos os níveis da organização, desde processos, dados e informações
+até o nível de infraestrutura;
+6.3. Apoiar o gerenciamento dos riscos de segurança da organização;
+6.4. Gestão e Administração de Cofre de Senhas;
+6.5. Sistematizar as iniciativas de segurança da informação;
+6,6. Orientar os gestores em segurança da informação;
+6.7. Fomentar a cultura de segurança da informação;
+6.8. Estabelecer e manter os normativos e os processos de segurança da informação;
+6.9. Promover a melhoria contínua dos processos associados à segurança da informação; e
+6.10. Garantir o próprio alinhamento com a governança corporativa e com a governança de TI.
+8
+
+
+--- [Página 42] ---
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+7. TORRE DE SUPORTE E ATENDIMENTO DE CAMPO
+7.1. Acompanhamento junto
+equipamentos de TI
+aos técnicos de outros fornecedores no atendimento e suporte de
+7.2.
+7.3,
+Análise e diagnóstico para solução de problemas
+Apoio e Suporte Básico em aplicações e Softwares;
+7.4. Atendimentos emergenciais a usuários;
+7.5. Auxílio na identificação e solução de incidentes e problemas;
+7.6. Desenvolvimento de procedimentos para administração das soluções implementadas na
+resolução de problemas e incidentes, incluindo documentação e procedimentos operacionais;
+Gestão Sistêmica de chamados técnicos;
+Suporte a configuração de acessos
+Identificar atividades que deveriam ser automatizadas e escrever ou propor ferramentas para
+7.7.
+7.8.
+7.9.
+automatizá-las;
+Manter atualizada7.10. a base de conhecimento: Acompanhar a revisão e atualização dos
+procedimentos operacionais (documentos),
+criticamente os processos é propondo melhorias;
+Suporte à instalação e configuração de equipamentos de TI;
+pesquisando novas soluções, analisando
+7.11.
+7.12. Capacitação aos usuários.
+ARQUITETURA TÉCNOLOGICA, METODOLOGIAS, FERRAMENTAS E PADRÕES:
+SISTEMAS SUSTENTADOS/SUPORTADOS:
+Nome do Sistema
+r
+Gestão da Assistência à Saúde - SMS
+São Paulo
+Descrição Função Principal
+Sistema de Gestão Agendamento local e regulado; Atendimentos; Cadastros;
+Cartão Nacional de Saúde; Vacinas; Regulação; Mãe Paulistana entre outros.
+GSS - Gestão de Sistemas em Saúde L camentos e materiais médico-hospitalar eodontológicos módulo remédio em casa e MMC.
+Para verificação da situação das filas nos locais de vacinação contra a COVID-19 e
+disponibilidade de imunizantes,
+r paciente e cana
+de acolhimento aos pacientes com dúvidas ou sintomas da COVID-19. Pela
+aplicação, o usuário terá acesso a um questionário para a avaliação de sintomas,
+recebe as orientações da equipe de saúde na central do aplicativo e a conduta que
+deve ser adotada. Conforme o resultado o paciente poderá ter uma teleconsulta com
+médicos e enfermeiros.
+Sistema de gestão HospitaÉar, cadastro de pacientes, procedimentos hospitalares,
+processos hospitalares, internação, urgência e emergência
+possível agendar, confirmar e cancelar consultas e exames pelo aparelho celular
+nas Unidades Básicas de Saúde do município. Além do agendamento, o aplicativo
+oferece outras funções: Acompanhamento e gerenciamento dos seus
+procedimentos agendados e pré-agendados - Agendamento em fila de espera -Resultados de exames laboratoriais
+De Olho na Fila
+e-SAÚDE SP
+SGH - SISTEMA DE GESTÃO
+HOSPITALAR
+AGENDA FÁCIL
+SIGAPEP - Prontuário Eletrônico do
+Paciente
+ASPR - Aplicação para Seguimento dos
+Pacientes do Redenção
+Registro de eventos de saúde do paciente
+Aplicação para o seguimento dos atendimentos dos pacientes da Redenção
+SIVA - Sistema de Informação para a
+Vigilância de Acidentes
+Sistema de Informação para a Vigilância de Violências e Acidentes, atendendo. em
+especial. à necessidade de notificação e registro das situações de violência contra
+crianças, mulheres e idosos
+r racionais e gerenciais, controle de
+zoonoses especialmente mosquito Aedes aegypti.SISCOZ - AEDES
+9
+
+
+--- [Página 43] ---
+PREFEITURA DEnHI
+SAO PAUIO
+SAÚDE
+SISCOZ - ANIMAIS DOMÉSTICOS
+DÇMf\PÃ r\
+q»
+Sistema de cadastro e controle das solicitações dos munícipes, relacionados a
+remoção de animais domésticos, seja pelo atendimento ao balcão ou recebidos
+através do SIGRC (156) da PMSP
+Permite que os proprietários de animais realizem nos pets shops e clínicas
+veterinárias usuárias do sistema, o cadastro dos animais domésticos, o registro da
+última vacinação e a emissão de carteirinhas dos animais
+Sistema de dados de produção assistencial, hospitais, prontos socorros e prontos
+atendimentos da rede Municipal
+SICAD
+REM - Relatório Estatístico Mensal
+r
+eciais
+Monitoramento
+Cadastro das cirurgias em que são utilizados materiais de Órtese e Prótese
+Monitoramento de Covid - Upa
+de Covid - HD
+Monitoramento de casos de Covid19, preenchido pelas Unidades de Upa
+r lora Certa dia.
+Monitoramento de casos de Covid19, preenchido pelas Unidades de Autarquia
+Hospitalar Municipal.Monitoramento de Covid - Hospitalar
+Baixas Temperaturas Sistema utilizado para monitoramento de assistência prestada as pessoas emsituação de rua durante a vigência do inverno.
+Dados de voluntários e contrato de prestação de serviço voluntário.
+Sistema para cadastramento dos estabelecimentos e equipa
+saúde; ao registro dos procedimentos realizados pelas equipes municipais.
+Aplicativo ou ferramenta que implementa um fluxo de avaliação e classificação de
+riscos e sugestão de manejo clínico da dengue
+SISVOL - Sistema de Voluntários
+SIVISAWEB
+Sampa Dengue
+PMA - Painéis de
+Arbovirose
+Monitoramento - Painéis de Arboviroses em complemento à outras consultas do BI, para monitoração
+da Dengue no Município de São Paulo
+Registrar a informação de lotação dos servidores de saúde, independentemente do
+vínculo
+Painel de monitoramento taxa de ocupação de leitos instalados + extras
+Acompanhamento de leitos instalados e ocupados e pacientes internados
+Painel de acompanhamento diário de covid, dados de taxa de ocupação de leitos
+UTI, leitos ocupados não UTI, total de internados por dia, total de entubados, casos
+suspeitos de covid, casos confirmados, limite de ocupação UTI e etc.
+SISRH - Sistema Informação de
+Recursos Humanos
+PMA - Painéis de Monitoramento - Taxa
+de
+PMA - Painéis de Monitoramento -
+Boletim de Leitos
+PMA - Painéis de Monit
+Individual e Domiciliar
+3ramento - CDS Painel de acompanhamento de cadastro individual e domiciliar, por coordenadoria
+supervisão e unidade, acesso aos dados por faixa etária, identidade gênero, país,
+raça cor. quantidade de equipes e etc
+PMA - Painéis de Controle de
+Atendimento Hospitalar
+Painel de monitoramento de controle de atendimento dos hospitais municipais
+sistema SGH - atendimento por especialidades, evolução diária de atendimentos
+atendimento por gênero.
+GLPI
+Redmine
+Sistema de abertura de chamado - sistemas administrados pela DTIC
+Infraestrutura, Hardware e Software
+Ferramenta de Gerenciamentos de Projetos (planejamento, demandas . tarefas,
+etc.)
+Este é um aplicativo para auxiliar no atendimento de pessoas que passaram por
+situações com potencial risco de infecção pelo HIV. Pode ser utilizado por qualquer
+profissional de saúde não especializado que trabalha em Pronto-Socorro,
+Ambulatório de Especialidade, Unidades Básicas de Saúde, hospitais e
+maternidades.
+PEPtec
+AARH-Form Soro Informar ocorrências de acidentes com animais potencialmente transmissões daraiva humana.
+Melhor em Casa - Módulo AD Covid Sistema para acompanhar pacientes EMADs acometidos por covid e outras
+síndromes respiratórias
+Vacina Sampa Controle das doses de vacina COVID aplicadas
+Camada geográfica utilizada pelo Sistema de Localização de Estabelecimentos de
+Saúde da Rede SUS do Município de São Paulo (Busca Saúde) para definição do
+serviço de saúde de referência com base no endereço residencial do munícipe
+Busca Saúde
+10
+
+
+--- [Página 44] ---
+PREFEITURA DEnHI
+SAO PAULO
+SAÚDE
+SIAB - Sistema de Informações da
+Atenção Básica
+CIHA - Sistema de Comunicação de
+Informação Hospitalar e Ambulatorial
+o
+do Programa de Humanização no Pré -
+Natal e Nascimento - Mãe Paulistana
+Dados para o acompanhamento das ações e dos resultados das atividades
+realizadas pela Estratégia Saúde da Família (ESF)
+Dados sobre as internações hospitalares e atendimentos ambulatoriais não SUS em
+todas as unidades hospitalares privadas
+Dados sobre cadastro e acompanhamento das gestantes inseridas no Programa de
+Humanização no Pré-natal e Nascimento do SUS
+RAASM - Registro de Ações
+Ambulatoriais de Saúde Mental
+Inclui as necessidades relacionadas ao monitoramento das ações e serviços de
+saúde conformados em Redes de Atenção à Saúde-CAPS (Centros de Atenção
+Psicossocial
+Registrar o número ideal de profissionais para perfeito funcionamento da unidade de
+saúde
+s
+de Pessoal
+SAF - Sistema de Autorizações Fundo
+WEBSAASS - Sistema de
+e Avaliação dos
+Serviços de Saúde
+TBWeb - Sistema de Informação da
+Tuberculose
+SCADEN - Sistema Complementar de
+Registro das Ações de Controle da
+Dengue e Outras Arbovirose
+FeIO Aedes aegypti
+Municinal
+Acomnanhamento
+autorizar empenhos do fundo municipal de saúde
+CPCSS - Coordenação de Parcerias e Contratação de Serviços de Saúde
+relativos a identificação do paciente, sinais e sintomas,
+resultado de laboratório, classificação, tratamento e evolução dos casos notificados
+Sistema de informação para registro das ações de controle da dengue e outras
+arboviroses, a partir da notificação dos casos no SINAN.
+r s vivos no
+SINASC e realiza a classificação dos hospitais no SeIo de qualidade do SINASC
+Permite que os hospitais notificantes e os técnicos do SINASC acompanhem a
+qualidade dos dados digitados e o número de Declarações de Nascido vivo
+registradas no sistema
+Monitora SINASC
+r
+Hospedagem do Matrix Diagnosis e
+Matrix Net
+Armazenamento de pedidos e resultados de exames laboratoriais. Disponibilização
+dos resultados para a rede de atenção básica e hospitais, Backups
+AIH - Controle de Solicitação e
+Autorização de Internação Hospitalar
+-hospitalar (AIH Inicial de
+de Continuidade) realizadas pelos prestadores de serviço privado/conveniado ao
+SUS - SMS.
+Ferramenta de gestão que permite o acompanhamento contínuo e oportuno da
+atuação da SMS - São Paulo sobre as prioridades da política de saúde municipal
+operado por meio de um pequeno número de indicadores disponíveis que informam
+sobre os problemas e as ações para enfrentá-los em cada nível do sistema onde o
+;estor tem governabilidade para fazer mudar as situações captadas
+tr pes técnicas
+do Ministério da Saúde, das Secretarias Estaduais de Saúde e das Secretarias
+Municioais de Saúde, a realização de tabulações rápidas sobre os arquivos ,DBF
+para análise Neurológica remota de Laudos de Exames
+de imagem com segunda opinião de especialistas
+ermite aos usuários realizar o cruzamento de dados dos diversos
+sistemas de informações em saúde, localmente, utilizando base de dados próprias
+bara construção de indicadores. mapas. gráficos etc.
+mI
+Robson. Permite que os hospitais notificantes e os técnicos do SINASC façam uma
+avaliação do tino de parto ocorrido no município de São Paulo
+é utilizado para consulta de dados e cadastro dos alunos Matriculados na
+Instituição de Ensino da SMS/PMSP.
+Sistema gerenciado pelo Ministério da Saúde para os registros das atividades de
+vacinação em todo o país, Na base local só tem registros do município
+r dficação
+de servidores da administração direta e indireta
+PAINEL DE MONITORAMENTO -
+Situação de Saúde e da Atuação dos
+Serviços da Secretaria Municipal da
+Saúde de São Paulo
+HOSPEDAGEM DA TABNET
+TeleNeuro
+TABWIN
+Robson WEB
+S
+ESTABSUS
+SIPNI - Sistema de Informação do
+Programa Nacional de Imunização
+MEP - Módulo de EducaçãQ-
+Permanente
+SED - Secretaria Escolar Digital O sistema é utilizado para consulta dados e emissão GDAE
+11
+
+
+--- [Página 45] ---
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+MATRIX
+Sistema utilizado para consulta de resultados de Exames laboratoriais. Unidades
+previamente cadastradas podem consultar e imprimir resultados de exames
+realizados
+Sistema que auxilia a população de São Paulo a encontrar os medicamentos mais
+procurados nas farmácias da rede municipal de saúde. apontando as unidades que
+estão mais próximas dos usuários e a rota mais curta para chegar à unidade
+selecionada. Utiliza para isso o serviço de geolocalização do Google
+Sistema de base nacional para a obtenção regular de dados sobre as internações
+hospitalares, hospital-dia e internação domiciliar realizados pelos estabelecimentos
+de saúde (públicos e privados) prestadores de serviço da rede do SUS.
+AQUI TEM REMÉDIO
+SIHSUS . Sistema de Informações
+Hospitalares do SUS
+Ouvidor SUS - Datasus Sistema para o recebimento/gerenciamento das manifestações dos cidadãos quantoaos serviços e atendimentos prestados pelo SUS.
+SMP - Sistema Saúde Mais perto
+Apontamentos e atividades de estagiários da rede pública de ubs do municípios, e
+extração da frequência para exportação da escola técnica para pagamento da bolsa
+de estudo oelo estagjária
+3-ãit-Me que gerencia todal
+comunicação existentes, para Assessoria de Comunicação. Também é possível
+atualizar todos os tramites de demandas até a sua solução. Há também um cadastro
+de profissionais da área de imprensa
+Sistema da Assessoria de
+Comunicação
+Sispar Sistema departamental desenvolvido internamente para uso e controle daAssessoria Parlamentar
+BUSCA SAÚDE
+Camada geográfica utilizada pelo Sistema de Localização de Estabelecimentos de
+Saúde da Rede SUS do Município de São Paulo (Busca Saúde) para definição do
+serviço de saúde de referência com base no endereço residencial do munícipe
+“TánaMão" apresenta um questionário ilustrativo com perguntas simples, permitindo
+ue sua interação seia fácil e rápida até a conclusão do questionário.
+No final. com os resultados apresentados, é possível analisar seu grau de risco e
+obter informações sobre as DST, HIV/Aids e localização de endereços de serviços
+de saúde, na cidade de São Paulo, onde podem ser obtidos preservativos, testes e
+Profilaxia Pós-Exposição (PEP
+Aplicativo ou ferramenta que implementa um fluxo de avaliação e classificação de
+riscos e sugestão de manejo clínico da dengue
+TánaMão
+Sampa Dengue
+AMBIENTE TECNOLÓGICO
+•
+Planejamento, implantação e operacionalização dos processos de administração de rotina,
+implantação documentada de recursos e procedimentos, controle, operação e monitoração da
+infraestrutura de redes;
+Planejamento, implantação,
+inventário de recursos
+•
+operacionalização
+subníveis de categoria
+e monitoramento e controle de mudanças,
+computacionais, análise de capacidade e desempenho, dividido em
+•
+•
+•
+Planejamento e definição de arquitetura de infraestrutura interna e de provedores e utilizando
+nuvem pública e privada;
+Revisão, implantação, suporte e manutenção de sistemas de segurança para
+computacionais, configuração e suporte de LJ\Ns e links corporativos de acesso WEB;
+ambientes
+Administração da ferramenta de ITSM com mais de 13.000 ativos, incluindo atividades de
+configuração, parametrização, construção e extração de relatórios, cadastro de novos serviços,
+cadastro de fluxo de atendimento, administração da base de gestão de configuração, cadastro de
+itens de configuração, contemplando os processos de Gerenciamento de Catálogo de Serviços da
+secretaria municipal, Gerenciamento de Nível de Serviços. Gerenciamento de Incidente,
+Gerenciamento de Conhecimento, Gerenciamento e Cumprimento de Requisição, Gerenciamento
+de Problema, Gerenciamento de Mudança, Gerenciamento da configuração e de ativos de
+serviços;
+12
+
+
+--- [Página 46] ---
+b\ 884 #
+@
+PREFEITURA DE
+SÃO PAULO
+SAÚDE
+•
+•
+•
+•
+•
+Administração dos Servidores e Serviços Windows 2019;
+Administração do E-mail Exchange 2019, com solução de segurança para proteção de gateway
+de e-mail com proteção antimalware e antispam, com tráfego de 1.2 milhões de mensagens
+enviadas e recebidas por dia;
+Administração, suporte e gestão da plataforma Microsoft Officer 365 Online;
+Mais de 15.000 (quinze) mil usuários cadastrados na rede (diretos e indiretos)
+Média de chamados atendidos mensalmente: 3.000 (três) mil atendimentos, totalizando mais de
+60.000 (sessenta) mil, chamados em 20 (vinte) meses, distribuídos em:
+Service Desk 1'’ Nível: 56% dos chamados0
+o Atendimento de 2') Nível: 35% dos chamados
+o Atendimento de 3') Nível: 9% dos chamados
+Gestão e suporte do parque computacional composto por aproximadamente 13.000 estações de
+trabalho/desktop/notebooks em funcionamento na rede da SMS.
+Administração do Ambiente KVM ProxMox atualmente com 90 (Noventa) máquinas virtuais
+(Windows 2019, Linux 5.19 /Unix);
+Administração de 700 Servidores, e Serviços Linux 5.19/Unix e Windows Server 2022;
+Automatização dos seus processos de desenvolvimento, tanto perseguindo o estabelecimento de
+todo o ciclo Cl/CD (Integração Contínua / Entrega Contínua) quanto aderindo aos princípios
+contidos na aplicação 12 Fatores (https://12factor.net/pt br/);
+Controle de versão (Git), com ferramentas para a execução automatizada do build das aplicações
+(Jenkins), com as respectivas resoluções de dependência (Nexus), da avaliação de certos
+aspectos de qualidade de código (SonarQube), do armazenamento de binários e posterior
+implantação, inclusive com agendamento (Urbancode);
+Barramento e arquitetura de aplicações utilizando microsserviços e contêineres (Docker 24 e
+Kubernetes 1.29);
+Barramento centralizado Gateway de API REST e/ou SOAP;
+Padrões de segurança como. por exemplo. o OAuth2 e o WS-Security;
+Gestão de logs centralizados, inclusive dos ativos de rede (Zabbix, Elasticsearch + Logstash +
+Kibana);
+Sustentação de esteira DevOps em ambiente cloud utilizando clusters e gerenciador de
+repositórios baseado em GIT;
+Administração de Esteira DevOps em funcionamento, sustentando aproximadamente 20 sistemas
+em Produção;
+Implantação, configuração, planejamento, de solução para gerenciamento e orquestração
+automática de máquinas virtuais e gerenciamento de containers (OKD4 e Rancher ou Kubernetes);
+Execução de práticas DevOps com implantação de esteira DevOps, elaboração de planejamento,
+análise, implantação, suporte, monitoramento de ambiente orquestrado com utilização baseada
+nas ferramentas, Jenkins v2.4, Git v2.4, Nexus e Sonar v10.2:
+Administração, configuração e sustentação a ativos de rede tipo Storage Area Network (SAN) com
+aproximadamente 100TB;
+Administração dos Hosts/Servidores Físicos;
+Administração do DNS corporativo;
+Administração dos Servidores de aplicações Jboss 7.3, TomCat 9.0, Apache 2.4, IIS 10;
+Uso das seguintes ferramentas de manipulação de dados: Microsoft SQL Server 2019, Pentaho
+Data Integration (PDI) 9,2;
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+13
+
+
+--- [Página 47] ---
+e
+PREFEITURA DE
+SÃO PAUIO
+SAÚDE
+h\' 8-811
+Administração de Banco de Dados SQL Server 2019, MySQL 8 e PostgreSQL 16, Oracle RAC e
+standard nas releases 12C e/ou 18c;
+Utilização de SDK para assinatura de documentos com o uso de certificação digital aderente ao
+ICP-Brasil em ambiente web:
+Utilização de JUNIT v5.0 (testes unitários) e JMETER v5.5 (testes não-funcionais) e CUCUMBER
+v8 (Behavior Driven Developing - BDD);
+Tecnologias usadas no Desenvolvimento/Sustentação/Manutenção: ReactJS v18, AngularJS
+v1.8, .NET 4.5, C#, HTML5, VB, Access, PHP v8.2, Javascript, NodeJS, CSS, SASS, Plone, Zope1
+Joomla, PureBasic, Bootstrap, JQuery, Rust, Pythonv3.13 (Django, Flask). VueJS v2.7, NextJS
+v13, Svelte 4, Backbone. JS, SASS, Less. JS, Leaflet, Google Maps, MapBox, Google Fusion
+Tables, Jekyll, Apache Solr, Redis, memSQL, PostGIS;
+Administração Open LDAP 2.6, com MFA (autenticação multifator) e solução de cofre de senhas;
+Administração e implantação e operação de soluções de controle de código malicioso;
+Administração Zabbix 6.2 e Nagios 5.6;
+Administração do ambiente de Firewall UTM;
+Administração do ambiente de VPN;
+Administração do ambiente de URL Filtering (Proxy);
+Administração do Antivírus e prevenção;
+Administração de ativos de Rede, Switches Core / Acesso;
+Administração, configuração e sustentação a redes em ambiente computacional constituído de
+switches corem em alta disponibilidade (10 Gbps);
+Serviço de instalação e manutenção de cabeamento estruturado metálico, compreendendo mais
+de 13.000 (treze) mil pontos de rede, UTP e/ou STP;
+Serviço de instalação e manutenção de cabeamento estruturado óptico, compreendendo mais de
+600 (seiscentos) pontos de rede, multimodo e/ou monomodo, sendo parte da rede Aura, anel ótico
+com aproximadamente 74 Km de extensão, com utilização do protocolo de redundância OSPF;
+Administração dos Links (WAN e Internet) totalizando aproximadamente 800 canais IP da Rede
+Multiserviços;
+Gerenciamento e monitoramento do Data Center, com características listadas abaixo:
+•
+•
+Data Center:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+5 – (Cinco) 05 Racks (4 TI e 1 TC);
+2 –(Dois) No-break de 20 KVA;
+2- (Dois) Sistemas de Ar-Condicionado;
+1- (Um) Acesso Biométrico;
+PDUs, PatchPanels e DIOs gerenciáveis;
+Administração dos seguintes equipamentos:
+02 - (Dois) Storages de Rack;
+11 - (Onze) Servidores de Rack;
+60 - (sessenta) switches de acesso;
+02 - (Dois) switches de núcleo/core com 48 (quarenta e oito) slots e 1 (Um) roteador.
+60 - (sessenta) Access Point
+14
+
+
+--- [Página 48] ---
+PREFEITURA DE
+SÃO PAUIO
+SAÚDE
+METODOLOGIA
+Utilização de metodologia seguindo as melhores práticas de mercado como, COBIT 5, CGET,
+ITIL®4. PMBOK 7, ISO/IEC 20.000, ISO/IEC 27001. ISO/IEC 27032, ISO/IEC 27701, ISO/IEC
+27002. ISO 31000:2018, ISO/IEC 38500, Balanced Scorecard – BSC;
+OWASP Testing Guide e OWASP TOP 10;
+Utilização dos princípios e práticas de desenvolvimento de software ágil, incluindo o Manifesto
+Ágil, Scrum, Design Thinking, Extreme Programming (XP), Kanban, Domain-Driven Design (DDD),
+Integração Contínua (Continuous Integration), Test-Driven Development (TDD), Acceptance Test-
+Driven, Development (ATDD). Especificação por Exemplo. Refactoring, Entrega Contínua
+(Continuous Delivery), programação em pares, Behaviour Driven Development (BDD), dentre
+outras práticas ágeis:
+•
+•
+•
+Práticas ou artefatos:
+User stories;
+Pair programming;
+Product Backlog ;
+Planejamento da Sprint (Sprint Planning);
+Revisão da Sprint (Sprint Review);
+Retrospectiva da Sprint (Sprint Retrospective);
+Reunião Diária (DailyMeeting) entre outras•
+Cerimônias ao seguir KAMBAN:
+Visualização do Fluxo (Workflow);
+Limitação dos Trabalhos em Andamento (WIP - Work in Progress);
+Cartões de Trabalho (Cards);
+Priorização de Itens entre outras.
+TOTAL DE HORAS DE SERVIÇO TÉCNICO (HST) EXECUTADAS:
+IUADRO RESUMO - VOLUMES CONSOLIDADOS
+L
+DE | EXECUTADAS
+RECURSOS | MENSAL
+TORRE DE SERVI(,,OS CARACTERICAS DOSSERVIÇOS HORASEXECUTADAS EM20 (vinte) MESES
+Analista de Suporte Campo
+2'’ Nível:
+Analista Suporte Sistemas (3'’
+Nível'
+Gerente de Projetos
+e
+m rvisor de Implantação
+Analista de Negócios
+Gerente de Projetos
+Supervisor Sistemas
+AnaÊista de BI (business
+lntelljqence'
+Desenvolvedor ASP
+Desenvolvedor Front End.
+Desenvolvedor Mobile
+Desenvolvedor PHP
+Desenvolvedor Python
+Testador de Softwarae
+41 8.200 164.000
+Suporte Sistemas
+15
+1
+1
+6
+8
+1
+1
+2
+3
+5
+3
+8
+4
+2
+3.000 60.000
+200
+200
+1 .200
+1.600
+200
+200
+4.000
+4.000
+24.000
+32.000
+4.000
+4.000
+Negócios e Análise de Sistemas
+O
+400
+600
+1.000
+600
+1.600
+800
+400
+8.000
+12.000
+20,000
+12.000
+32.000
+16.000
+8.000
+Desenvolvimento
+15
+
+
+--- [Página 49] ---
+PREFEITURA DEnH
+SAO PAULO
+SAÚDE
+Contratos Analista Administrativo eContrato
+Analista Suporte Informática
+1') Níve
+Supervisor(a) de Equi1
+Analista de Infraestrutura
+Supervisor(a) de
+Infraestrutura
+Técnico de Telefonia
+Analista de Segurança da
+Inform, 0
+Supervisor(a) de
+Administrador de Banco de
+Dados
+Analista de Infraestrutura
+3.600 72.000
+Suporte e Informática
+3.200
+200
+800
+200
+4.000
+1.600
+4.000
+4.000
+8.000
+4.000
+4.000
+Infraestrutura
+200
+400
+200
+200
+Segurança da Informação
+Banco de Dados
+Virtual Machine / Nuvem
+68.000
+639.200
+*176 Horas mensais por perfil
+Os serviços estão sendo executados satisfatoriamente, de acordo com os níveis de serviços definidos em
+contrato, não existindo em nossos registros, até a presente data, fatos que desabonem a conduta da empresa,
+bem como sua responsabilidade com as obrigações contratuais assumidas.
+Brasília, 18 de abril de 2024.
+SECRE' IA hiÜNICI ,L DA SAÚDE
+FELli 'ES;OARES
+-ecnologia da\\formação e ComunicaçãoDiretor do Departamento d:
+felipene88
+prefeitura.sH.gov.br
+5465-9506
+16
+
+
+--- [Página 50] ---
+ 
+TRIBUNAL DE CONTAS DA UNIÃO 
+Secretaria-Geral de Administração - Segedam 
+Secretaria Especializada em Compras Públicas - SecCompras 
+Diretoria de Planejamento e Gestão de Contratações - Diplag 
+Serviço de Apoio à Fiscalização Administrativa de Contratos - Sefisc 
+ 
+   
+ 
+Processo Eletrônico nº 025.004/2024-7 
+ 
+ 
+ATESTADO DE CAPACIDADE TÉCNICA 
+ 
+A empresa G4F SOLUÇÕES CORPORATIVAS LTDA, inscrita no CNPJ (MF) n.º 07.094.346/0001-
+45, com endereço em SRTVS, Quadra 701, Bloco “O”, Sala 548, Edifício Multiempresarial – Asa Sul, 
+Brasília/DF, CEP 70.340-000, celebrou contrato com Tribunal de Contas da União, de acordo com as 
+especificações a seguir, copiadas do processo eletrônico da contratação TC 021.673/2019-5 e de seus 
+aditivos. 
+1. Contrato: 02/2020 - Segedam. 
+2. Objeto do contrato: contratação de serviços continuados de design gráfico e produção de 
+conteúdo multimídia nas dependências do Tribunal de Contas da União no Distrito Federal, em 
+regime de empreitada por preço unitário, conforme especificações dos anexos do Edital do 
+Pregão Eletrônico nº 74/2019. 
+3. Data de assinatura: 12/02/2020. 
+4. Vigência com aditamentos: de 04/03/2020 a 03/03/2025 (em execução) 
+5. Valor anual do contrato atualizado: R$ 3.112.044,96 (três milhões, cento e doze mil, quarenta e 
+quatro reais e noventa e seis centavos). 
+6. Mão de obra contratada (postos com 40 horas semanais): 
+Serviços QUANTIDADE DE POSTOS 
+Designer Pleno 2 
+Designer Sênior 
+ 8 
+Designer Coordenador 
+ 2 
+Diretor de Criação 1 (até 3/10/2021) 3 (a partir de 4/10/2021) 
+7. Das atribuições específicas dos serviços 
+i. Constituem atribuições do serviço de DIRETOR DE CRIAÇÃO: 
+a) Planejar, coordenar e desenvolver campanhas de divulgação institucional; 
+b) Participar de reuniões de atendimento a clientes para a prospecção de temas 
+para campanhas de divulgação institucional; 
+c) Atuar no estabelecimento de parcerias institucionais para ações de divulgação; 
+d) Criar, em conjunto com a equipe de design e outros colaboradores do TCU, 
+conceito e peças de comunicação para eventos e campanhas institucionais; 
+e) Coordenar e orientar o desenvolvimento de peças de campanhas de 
+divulgação institucional; 
+f) Editar, revisar, conferir, corrigir e aprovar os conteúdos de todas as peças 
+de campanhas de divulgação institucional; 
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77066158.
+
+--- [Página 51] ---
+ 
+TRIBUNAL DE CONTAS DA UNIÃO 
+Secretaria-Geral de Administração - Segedam 
+Secretaria Especializada em Compras Públicas - SecCompras 
+Diretoria de Planejamento e Gestão de Contratações - Diplag 
+Serviço de Apoio à Fiscalização Administrativa de Contratos - Sefisc 
+ 
+   
+ 
+g) Elaborar, coordenar e supervisionar o planejamento de publicação de 
+conteúdos para todos os canais de comunicação do TCU; 
+h) Desenvolver, em caráter extraordinário, projetos gráficos e programações 
+visuais estratégicas; 
+i) Coordenar a realização de pesquisas relativas a produtos e serviços do Tribunal; 
+j) Pesquisar, identificar, sugerir e auxiliar na definição de conteúdo para os 
+diversos canais de comunicação institucional; 
+k) Produzir relatórios de avaliação e desempenho das ações adotadas em 
+campanhas de divulgação institucional; 
+l) Responsabilizar-se pela atualização dos sistemas de gerenciamento das demandas. 
+ii. Constituem atribuições do serviço de DESIGNER COORDENADOR: 
+a) Responder pelo planejamento, definição, supervisão e execução dos 
+critérios de criação de arte para produtos gráficos, de web ou audiovisuais; 
+b) Zelar pela manutenção da identidade visual do Tribunal; 
+c) Coordenar e controlar as atividades desempenhadas pela equipe de designers; 
+d) Coordenar e supervisionar a qualidade dos trabalhos executados pela 
+equipe de designers; 
+e) Coordenar e supervisionar a produção descentralizada executada por 
+colaboradores de design gráfico/comunicação das demais unidades do 
+Tribunal; 
+f) Auxiliar no processo de seleção de estagiários de designer para as demais 
+unidades do Tribunal; 
+g) Elaborar manuais de padronização de processos de trabalho referente as 
+atividades da equipe de designers; 
+h) Distribuir e acompanhar a execução dos serviços pela equipe de designers; 
+i) Fazer seleção prévia de novas propostas de soluções visuais, conforme 
+requisitos estabelecidos no briefing; 
+j) Revisar e aprovar, de acordo com requisitos estabelecidos no briefing, 
+material produzido pela equipe de designers; 
+k) Elaborar documento com especificação de requisitos de produção dos 
+arquivos produzidos pela equipe de designers; 
+l) Zelar pela organização e versionamento de arquivos nos repositórios 
+definidos pelo Tribunal; 
+m) Auxiliar no controle do fluxo de trabalho junto aos requerentes; 
+n) Acompanhar prazos e entregas de demandas; 
+o) Auxiliar na coordenação da parte visual de eventos internos e externos 
+indicados pelo Tribunal; 
+p) Coordenar o fluxo de trabalho de publicações e outros produtos em suas 
+diversas mídias; 
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77066158.
+
+--- [Página 52] ---
+ 
+TRIBUNAL DE CONTAS DA UNIÃO 
+Secretaria-Geral de Administração - Segedam 
+Secretaria Especializada em Compras Públicas - SecCompras 
+Diretoria de Planejamento e Gestão de Contratações - Diplag 
+Serviço de Apoio à Fiscalização Administrativa de Contratos - Sefisc 
+ 
+   
+ 
+q) Acompanhar campanhas de divulgação; 
+r) Representar a CONTRATADA junto à fiscalização e ser responsável pelas 
+comunicações entre ambos; 
+s) Executar as demais atribuições previstas para o Designer Sênior. 
+iii. Constituem atribuições do serviço de DESIGNER SÊNIOR: 
+a) Criar identidades visuais e projetos de alta complexidade; 
+b) Desenvolver projetos gráficos e programações visuais de alta complexidade; 
+c) Desenvolver leiaute para campanhas de divulgação de alta complexidade; 
+d) Desenvolver conceitos e identidades visuais para campanhas internas e 
+externas, projetos e eventos, de alta complexidade, observando conceitos 
+de semiótica, Gestalt, harmonização de cores e utilização de grids; 
+e) Elaborar videografismos e animações gráficas de média ou alta 
+complexidade para veiculação em totens eletrônicos, páginas na internet ou 
+outras mídias digitais definidas pelo Tribunal; 
+f) Realizar consultoria em design; 
+g) Pesquisar referências e materiais para subsidiar a criação de peças e 
+campanhas de comunicação; 
+h) Elaborar infográficos ou outros formatos interativos para veiculação no 
+Portal TCU ou outras mídias digitais indicadas pelo TCU; 
+i) Criar apresentações institucionais com utilização de recursos de 
+videografismo de média e alta complexidade; 
+j) Realizar a separações de cores, ajuste de resolução e fechamento de 
+arquivos em TiFF, PDF e EPS, pré-impressão e montagem de provas 
+impressas; 
+k) Compilar, organizar e arquivar textos e imagens para processamento em 
+impressão digital e off-set; 
+l) Elaborar storyboards com base em roteiros fornecidos pelo Tribunal; 
+m) Criar e editar arquivos vetoriais; 
+n) Executar as demais atribuições previstas para o Designer Pleno. 
+iv. Constituem atribuições do serviço de DESIGNER PLENO: 
+a) Desenvolver programação visual e diagramar publicações e peças gráficas 
+institucionais do TCU; 
+b) Desenvolver identidade visual para eventos e produtos indicados pelo tribunal; 
+c) Realizar editoração eletrônica de gráficos e tabelas; 
+d) Desenvolver conceitos e identidades visuais para campanhas internas e 
+externas, projetos e eventos, de menor complexidade, observando conceitos 
+de semiótica, Gestalt, harmonização de cores e utilização de grids; 
+e) Manipular arquivos vetoriais e Raster / Pixels e de criação de peças gráficas; 
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77066158.
+
+--- [Página 53] ---
+ 
+TRIBUNAL DE CONTAS DA UNIÃO 
+Secretaria-Geral de Administração - Segedam 
+Secretaria Especializada em Compras Públicas - SecCompras 
+Diretoria de Planejamento e Gestão de Contratações - Diplag 
+Serviço de Apoio à Fiscalização Administrativa de Contratos - Sefisc 
+ 
+   
+ 
+f) Realizar a revisão de forma em trabalhos diagramados; 
+g) Desenvolver projeto gráfico para publicações institucionais; 
+h) Criar ícones e ilustrações; 
+i) Criar apresentações institucionais; 
+j) Desenvolver formatos e identidades visuais próprias para veiculação em 
+redes sociais e outras mídias eletrônicas; 
+k) Realizar a compilação, organização e arquivamento de textos e imagens 
+para processamento em impressão off-set; 
+l) Criar e modificar folhas de estilo CSS (Cascade Style Sheet); 
+m) Criar e modificar páginas Web segundo os requisitos de informação 
+apresentados, com ênfase em usabilidade e acessibilidade; 
+n) Criar e modificar de scripts em páginas Web utilizando JavaScript; 
+o) Criar e operacionalizar folhas de estilos; 
+p) Desenvolver “layouts” para internet, programação em HTML e 
+desenvolvimento de folhas de estilo CSS para a Internet; 
+q) Analisar as páginas da Intranet e Internet, propor ajustes e correções 
+gráficas e sugerir novas abordagens e soluções visuais; 
+r) Realizar a gestão de menus e inserção de novos conteúdos em páginas da 
+web gerenciadas pelo Tribunal; 
+s) Criar telas para hotsites e projetos gráficos para páginas permanentes; 
+t) Capturar imagens e/ou sons (foto, áudio ou vídeo) para ilustração de peças 
+de divulgação institucional; 
+u) Realizar tratamento de imagens captadas disponibilizadas pelo Tribunal. 
+ 
+Isto posto, atesta-se, para os fins que se fizerem necessários, que a referida empresa tem 
+executado satisfatoriamente o objeto do contrato, com fundamento nas informações prestadas pelos 
+responsáveis diretos pela fiscalização (peça 15), não havendo registros neste Tribunal, até o momento, 
+que possam desabonar sua capacidade técnica. 
+ 
+Brasília-DF, em 05 de novembro de 2024. 
+ 
+ (assinado eletronicamente) 
+ALCION SIMAO DE SANTANA NETO  
+Chefe do Serviço de Apoio à Fiscalização Administrativa de Contratos - Sefisc 
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77066158.
+
+--- [Página 54] ---
+ 
+TRIBUNAL DE CONTAS DA UNIÃO 
+Secretaria-Geral de Administração 
+Secretaria Especializada em Compras Públicas - SecCompras 
+Diretoria de Planejamento e Gestão de Contratações - Diplag 
+Serviço de Apoio à Fiscalização Administrativa de Contratos- Sefisc 
+ 
+Processo Eletrônico nº TC 025.950/2024-0 
+ 
+ATESTADO DE CAPACIDADE TÉCNICA 
+ 
+A empresa G4F SOLUÇÕES CORPORATIVAS LTDA., inscrita no CNPJ (MF) n.º 07.094.346/0001-45, com sede 
+no SRTVS Quadra 701, Bloco “O”, sala 548, Edifício Multiempresarial, Asa Sul, Brasília/DF, CEP 70.340-000, 
+celebrou contrato com Tribunal de Contas da União, conforme as especificações a seguir, copiadas das peças nos 3 
+a 9 do processo eletrônico TC 025.950/2024-0: 
+1. Contrato nº 7/2022– Segedam. 
+2. Data de assinatura: 11/03/2022. 
+3. Vigência: 17/03/2022 à 16/03/2025 (contrato em execução). 
+4. Valor anual estimado atualizado: R$ 10.112.030,16 (dez milhões, cento e doze mil, trinta reais e dezesseis 
+centavos). 
+5. Prestação de serviços de aprimoramento da experiência do usuário (User Experience - UX) e de design de 
+interface de usuário (User Interface - UI) de sistemas de informação e do Portal do Tribunal de Contas da 
+União – TCU, com dedicação exclusiva de profissionais – TIC, utilizando metodologias e equipes ágeis, 
+conforme especificações do Edital PE 05/2022: 
+ 
+MACRO ATIVIDADES/SERVIÇOS PRESTADOS: 
+ 
+SERVIÇO DE APRIMORAMENTO DA EXPERIÊNCIA DO USUÁRIO: 
+ 
+• Elaborar os subsídios à tomada de decisão do Product Owner; 
+• Acompanhar o PO em sessões de ideação, de levantamento de requisitos e em entrevistas e reuniões 
+com os usuários; 
+• Realizar pesquisas, entrevistas, workshops e sessões de ideação com usuários, stakeholders e grupos 
+focais visando identificar as necessidades genuínas e as personas do sistema/Portal; 
+• Aplicar técnicas de design thinking e analisar as informações coletadas durante a fase de pesquisa; 
+• Identificar fluxo principal e fluxos auxiliares dos processos de negócio, bem como da jornada do 
+usuário, direcionando a criação dos protótipos; 
+• Identificação de desafios e oportunidades na concepção do sistema/Portal no que se refere à experiência 
+do usuário; 
+• Elaborar wireframes, esboço de telas, design de telas em alta definição e protótipos de alta fidelidade; 
+• Mapear a interação do usuário, realizar testes de usabilidade e análises heurísticas, identificar as 
+propostas de valor para os usuários; 
+• Participar do ciclo de desenvolvimento sistema/Portal garantindo que o produto esteja aderente às 
+necessidades do usuário; 
+• Propor continuamente formas de aprimorar a experiência de uso do sistema/Portal com base no 
+feedback dos próprios usuários e demais stakeholders; 
+• Auxiliar o designer de interface de usuário (UI) na criação de design simples, útil e responsivo, voltado 
+para as necessidades principais dos usuários; 
+• Auxiliar a equipe de desenvolvimento sobre a aderência das entregas às necessidades dos usuários; 
+• Auxiliar o Product Owner a prospectar as necessidades dos usuários, a testar com os usuários as 
+entregas da equipe de desenvolvimento e a analisar se atendem às necessidades identificadas; 
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77147552.

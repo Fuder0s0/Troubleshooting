@@ -1,0 +1,192 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Síntese_Estudo Sistemas MP_s.docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.01 MB
+
+Com base nas informações fornecidas pelos documentos, os Ministérios Públicos Brasileiro utilizam diversos sistemas para a gestão de seus processos, tanto judiciais quanto extrajudiciais e administrativos. A informatização dos processos no âmbito jurídico é uma realidade desde a promulgação da Lei n. 11.419/2006, e o Ministério Público tem adotado sistemas eletrônicos para procedimentos extrajudiciais. O Conselho Nacional do Ministério Público (CNMP) definiu classes de procedimentos extrajudiciais e instituiu tabelas unificadas para padronização e uniformização terminológica, o que é atendido pelos sistemas.
+
+Aqui estão alguns dos sistemas mencionados nas fontes, associados aos respectivos MPs:
+
+Ministério Público do Estado do Tocantins (MPTO):
+
+
+MPTO utiliza o sistema ATHENAS para a gestão das áreas Judicial e Extrajudicial por meio do módulo Integrar-e. Advindo da área Administrativa, o sistema ATHENAS interage com o sistema eproc, utilizado pelo Tribunal de Justiça do Tocantins (TJTO).
+
+Ministério Público do Estado do Pará (MPPA):
+
+
+Implantou o SIMP (Sistema Integrado do Ministério Público), com as versões 1.0 (2012), 2.0 (2013) e 3.0 (2020). O SIMP é o principal sistema para apoio ao gerenciamento eletrônico de processos judiciais e extrajudiciais não-administrativos, controlando fluxo, movimentações e arquivamentos. Foi concebido para atender à Resolução nº 63/2010 do CNMP sobre Tabelas Unificadas.
+
+Adquiriu um novo sistema de gestão processual, o SAJMP (Sistema de Automação da Justiça – Ministério Público), que está em implantação. O SAJMP permite o registro totalmente eletrônico das atividades ministeriais e integrações com sistemas da justiça, como o PJE.
+
+Utiliza o sistema GEDOC para comunicação de procedimentos judiciais e extrajudiciais.
+
+Possui o Sistema de Elaboração e Acompanhamento dos Planos de Atuação (SEAPA) para acompanhamento quadrimestral das atividades relacionadas aos Planos de Atuação.
+
+Ministério Público do Estado do Espírito Santo (MPES):
+
+
+Utiliza o sistema e-Gampes como ferramenta de gestão de autos finalísticos. O e-Gampes abrange desde o atendimento ao público até a instauração e finalização de procedimentos extrajudiciais. Permite tratar autos recebidos mediante integração com sistemas eletrônicos de outros órgãos (como PJE, SEEU etc). Autos judiciais não são mais recebidos fisicamente, devendo ser remetidos por sistemas telemáticos. Órgãos e pessoas jurídicas enviam procedimentos obrigatoriamente por peticionamento eletrônico via Protocolo Eletrônico do e-Gampes. O sistema automatiza o envio de ciências ao Conselho Superior do MP referente a arquivamentos sem remessa e prorrogação de inquérito civil. Virtualização 100% dos procedimentos extrajudiciais.
+
+Ministério Público do Estado de Mato Grosso do Sul (MPMS):
+
+
+Utiliza o sistema SAJMP para controle de protocolo e tramitação de procedimentos, além do CIC para os procedimentos físicos remanescentes. O SAJMP é o sistema de controle informatizado para procedimentos administrativos. O SAJMP está integrado ao sistema e-SAJ do TJMS, permitindo a integração de processos judiciais de primeiro e segundo graus. Permite a importação de processos judiciais e acesso à pasta digital do TJ (íntegra do processo judicial) e pasta digital do MP (documentos produzidos pelo MP). O sistema abrange processos judiciais eletrônicos e procedimentos extrajudiciais, permitindo a instauração de Notícias de Fato, Procedimentos, Procedimentos Administrativos e Procedimentos de Registro Público. Permite cadastrar informações complementares para inquéritos policiais para fins estatísticos e relatórios. Inclui funcionalidade para solicitar apoio a outros órgãos integrados ao sistema. Também utiliza um sistema interno para solicitação de férias de servidores (Portal de Serviços).
+
+Ministério Público do Estado de Mato Grosso (MPMT):
+
+
+Utiliza o SIMP (Sistema Integrado do Ministério Público) como ferramenta principal para controle de protocolos judiciais e extrajudiciais não-administrativos. O SIMP consolida informações das atividades de Promotorias e Procuradorias. O SIMP 4.0 foi disponibilizado em 10 de agosto de 2020. Gerencia procedimentos físicos e eletrônicos, distinguindo-os. Permite vincular partes a assuntos conforme determinação do CNMP. Possui integração com o GEIA para avisos de autos de prisão e apreensão em flagrante. O sistema alimenta automaticamente um cadastro nacional.
+
+Ministério Público do Estado do Rio de Janeiro (MPRJ):
+
+
+Utiliza o sistema Integra Extrajudicial para o processamento eletrônico de procedimentos extrajudiciais finalísticos. Seu uso é obrigatório após a implantação em cada órgão. Possui piloto do Integra Judicial 2.0 que visa  tratar as intimações oriundas do TJRJ, assim como inquéritos policiais oriundos da PCERJ encaminhados para o Parquet.
+
+Ministério Público do Estado do Rio Grande do Norte (MPRN):
+
+
+Utiliza o sistema e-MP como sistema único para a virtualização de todas as áreas do MPRN (meio e fim). Busca velocidade na autuação e tramitação de processos.
+
+Ministério Público do Estado do Piauí (MPPI):
+
+Instituiu o SIMP (Sistema Integrado do Ministério Público) para registro, compartilhamento de dados e padronização terminológica das atividades judiciais e extrajudiciais, utilizando as Tabelas Unificadas do CNMP. O uso é obrigatório para todos os órgãos de execução a partir da implantação. A modalidade virtual/eletrônica do SIMP é obrigatória havendo comunicação e interoperabilidade com sistemas do Poder Judiciário.
+
+Ministério Público do Estado do Maranhão (MPMA):
+
+
+utiliza o SIMP, versão 3+: Este sistema é listado como a ferramenta utilizada pelo MPMA tanto para a gestão de processos na área Judicial quanto na área Extrajudicial.
+
+Para a gestão da área Administrativa utiliza o DIGIDOC/SEI.
+
+Ministério Público do Estado de Roraima (MPRR):
+
+
+SIMP: É listado explicitamente como o sistema utilizado para a área Extrajudicial. Uma resolução recente menciona o uso do Sistema Integrado do Ministério Público para iniciar um procedimento de Notícia de Fato, que é uma classe de procedimento extrajudicial. Documentação recebida, como Relatórios de Inteligência Financeira do COAF, pode ser juntada a procedimentos de investigação instaurados no Sistema SIMP. O MPRR interage com o PJe e, a partir de 2025, também com o PROJUDI. Informações de Relatórios de Inteligência Financeira relevantes podem ser solicitadas para serem juntadas a procedimentos judiciais ou extrajudiciais em curso.
+
+SEI (Sistema Eletrônico de Informações): É listado como o sistema utilizado pelo MPRR para a área Administrativa.
+
+Outros MPs e Sistemas mencionados nas tabelas (Fontes 134, 135):
+
+
+CNMP: ELO (Judicial) e SEI (Administrativo).
+
+MPDFT: PREXEL/PJe (Judicial), PREXEL (Extrajudicial) e SEI (Administrativo).
+
+MPF: Sistema Único para as áreas Judicial, Extrajudicial e Administrativa, utilizando eproc /PJe para o Judicial dependendo do TRF.
+
+MPT: MPT Digital /PJe/JT (Judicial), PEle* (Extrajudicial) e PAE* (Administrativo). (*Peticionamento eletrônico, **Protocolo Administrativo Eletrônico - Versão 3.0).
+
+MPM: MP Virtual (Judicial, Extrajudicial) e SEI (Administrativo), utilizando eproc para o Judicial.
+
+MPAC: SAJ (Judicial, Extrajudicial) e SIGA/SEI (Administrativo), utilizando e-SAJ para o Judicial.
+
+MPAL: SAJ (Judicial, Extrajudicial) e SEI (Administrativo), utilizando e-SAJ para o Judicial. O SAJ/MP em Alagoas foi adaptado de uma versão do MPMS.
+
+MPAM: SAJ/PROJUDI (Judicial), SAJ (2º grau) / MPvirtual (1º grau) (Extrajudicial) e SEI (Administrativo). PROJUDI está em implantação utilizando e-SAJ. MP virtual é usado nas PJs do interior.
+
+MPAP: URANO para as áreas Judicial, Extrajudicial e Administrativa, utilizando PJe para o Judicial.
+
+MPBA: IDEA (Judicial, Extrajudicial) e SEI (Administrativo), utilizando PJe para o Judicial.
+
+Estes sistemas variam em escopo e funcionalidades entre os diferentes MPs, refletindo a necessidade de gerenciar a diversidade de procedimentos (judiciais, extrajudiciais, administrativos) e a busca por modernidade, integração, agilidade e celeridade na tramitação. A informatização visa otimizar recursos, melhorar o acompanhamento de prazos, automatizar fluxos e aumentar a transparência.
+
+Principais sistemas de gerenciamento, tanto de processos judiciais quanto de extrajudiciais:
+
+SIMP (Sistema Integrado do Ministério Público): Este sistema é descrito como a principal ferramenta utilizada para o controle dos protocolos judiciais e extrajudiciais não-administrativos em diversos MPs.
+
+
+O SIMP permite o registro de movimentos de entrada e saída de processos judiciais e extrajudiciais e todas as atividades realizadas. Inclui funcionalidades para controlar prazos, analisar Termos de Ajustamento de Conduta (TACs), e gerar relatórios diversos.
+
+SAJ (Sistema de Automação da Justiça): Uma família de sistemas utilizada por diversos tribunais, e versões adaptadas ou específicas para Ministérios Públicos (SAJMP) também são empregadas para gerenciar processos.
+
+
+O SAJMP é utilizado pelo MPMS (Ministério Público do Estado de Mato Grosso do Sul) para controle de protocolo e tramitação de procedimentos. Abrange processos judiciais eletrônicos e procedimentos extrajudiciais (Notícias de Fato, Procedimentos, Procedimentos Administrativos e Procedimentos de Registro Público). O SAJMP do MPMS está integrado ao sistema SAJ do TJMS, permitindo a importação de processos judiciais e acesso à pasta digital do TJ (processo judicial na íntegra) e pasta digital do MP (documentos do MP).
+
+O SAJ/MP é utilizado pelo MPAL (Ministério Público do Estado de Alagoas). Sua versão original foi elaborada pelo MPMS e adaptada para Alagoas. Abrange procedimentos judiciais eletrônicos e extrajudiciais.
+
+O MPAC (Ministério Público do Estado do Acre) utiliza o SAJ para as áreas Judicial e Extrajudicial.
+
+O MPAM (Ministério Público do Estado do Amazonas) utiliza o SAJ/PROJUDI para o Judicial e SAJ (2º grau) / MPvirtual (1º grau) para o Extrajudicial.
+
+MP Virtual:
+
+
+Criado pelo MPPB e utilizado pelo MPM (Ministério Público Militar) para as áreas Judicial e Extrajudicial.
+
+Utilizado pelo MPAM (Ministério Público do Estado do Amazonas) nas Promotorias de Justiça do interior para a área Extrajudicial, enquanto o SAJ é usado no 2º grau.
+
+URANO:
+
+
+Utilizado pelo MPAP (Ministério Público do Estado do Amapá) para as áreas Judicial, Extrajudicial e Administrativa.
+
+IDEA:
+
+
+Utilizado pelo MPBA (Ministério Público do Estado da Bahia) para as áreas Judicial e Extrajudicial.
+
+e-Gampes:
+
+
+Instituído como ferramenta de gestão de autos finalísticos no MPES (Ministério Público do Estado do Espírito Santo). Abrange a atividade-fim, desde o atendimento até a instauração e finalização de procedimentos extrajudiciais. Regula a instauração e tramitação de procedimentos extrajudiciais e judiciais eletrônicos. Permite a interoperabilidade com sistemas eletrônicos de outros órgãos, como PJE, SEEU e eProc. Autos judiciais não são mais recebidos fisicamente, devendo ser remetidos por sistemas telemáticos.
+
+MPF Único:
+
+
+O MPF (Ministério Público Federal) é listado como utilizando um sistema Único para as áreas Judicial, Extrajudicial e Administrativa. Utiliza eproc/PJe para o Judicial, dependendo do Tribunal Regional Federal vinculado.
+
+Existem também sistemas mencionados que são utilizados exclusivamente ou predominantemente para procedimentos extrajudiciais, como o ATHENAS no MPTO e o Integra Extrajudicial no MPRJ, sendo vedado o uso de outros sistemas como o SEI para estes procedimentos finalísticos e sem muita informação das etapas de integração com os sistemas dos Tribunais de Justiça respectivos.
+
+Outros sistemas mencionados servem a propósitos mais específicos, como o GEDOC (comunicação de procedimentos judiciais e extrajudiciais no MPPA), SEAPA (acompanhamento de planos de atuação no MPPA), CIC (controle de procedimentos físicos remanescentes no MPMS), SICAP (Tutela do Terceiro Setor no MPPA), ELO (Judicial no CNMP), SEI (Administrativo em vários MPs, incluindo CNMP, MPDFT, MPF, MPT, MPM, MPAC, MPAL, MPAM, MPBA), e o Sistema Eletrônico de Intercâmbio do COAF (dados financeiros no MPRR). Sistemas do Judiciário como PJe, eproc, PROJUDI, e-SAJ são utilizados para a tramitação dos processos judiciais, com os quais os sistemas do MP interagem ou se integram.
+
+Com base nas fontes fornecidas e considerando a premissa de que SIMP, SIMP3 e SIMP3+, bem como SAJ e SAJMP, são versões do mesmo sistema familiar, podemos analisar quais desses sistemas são listados como mais utilizados pelos Ministérios Públicos (MPs) estaduais nas áreas Judicial e Extrajudicial.
+
+De acordo com as tabelas de sistemas:
+
+Sistemas da Família SAJ (SAJ, SAJMP, e-SAJ): Vários MPs utilizam sistemas desta família para a gestão de processos judiciais e/ou extrajudiciais. Os MPs listados que utilizam sistemas da família SAJ são:
+
+
+MPAC: SAJ (Judicial, Extrajudicial)
+
+MPAL: SAJ (Judicial, Extrajudicial), interagindo com e-SAJ nos TJ's.
+
+MPAM: SAJ (Judicial 2º grau, Extrajudicial 2º grau), MPvirtual (Judicial 1º grau, Extrajudicial 1º grau), interagindo com PROJUDI em implantação, utilizando e-SAJ.
+
+MPCE: SAJ/eleitoral (Judicial), SAJ (Extrajudicial).
+
+MPMS: SAJ (Judicial, Extrajudicial), interagindo com e-SAJ nos TJ's. Um manual detalha o uso do SAJMP para procedimentos extrajudiciais como Notícias de Fato, Procedimentos Administrativos, Procedimentos de Registro Público, Procedimentos Preparatórios e Inquéritos Civis.
+
+MPPA: SAJ (Judicial), SAJ/SIMP (Extrajudicial). Os sources indicam que o SAJMP está em processo de substituição do SIMP para feitos extrajudiciais, visando o registro totalmente eletrônico.
+
+MPRS: SAJ (Judicial), SIM (Extrajudicial).
+
+MPSC: SAJ (Judicial), SIG/eproc (Extrajudicial).
+
+MPSP: SAJ (Judicial, Extrajudicial), interagindo com e-SAJ nos TJ's.
+
+Contando os MPs distintos listados que utilizam algum sistema da família SAJ para Judicial e/ou Extrajudicial, temos 9 MPs (AC, AL, AM, CE, MS, PA, RS, SC, SP).
+
+
+Sistemas da Família SIMP (SIMP, SIMP3, SIMP3+, SIMP4, SIM/CONSENSUS):
+
+
+MPMA: SIMP3+ (Judicial, Extrajudicial).
+
+MPMT: SIMP4 (Judicial, Extrajudicial). O SIMP é usado para registrar Procedimento Extrajudicial Classificador do Direito Notarial e Registral. O Manual do SIMP3 detalha a utilização do SIMP para controle de protocolos judiciais e extrajudiciais.
+
+MPPI: SIMP 3 (Judicial, Extrajudicial). O SIMP foi instituído no MPPI pelo Ato Conjunto PGJ/CGMP nº 06/2016 para registrar movimentos de entrada e saída de processos judiciais e extrajudiciais e todas as atividades realizadas.
+
+MPRR: SIMP (Extrajudicial). O SIMP é utilizado para iniciar procedimentos de Notícia de Fato.
+
+MPPA: SAJ (Judicial), SAJ/SIMP (Extrajudicial). Conforme mencionado, o SAJMP está substituindo o SIMP.
+
+Contando os MPs distintos listados que utilizam algum sistema da família SIMP para Judicial e/ou Extrajudicial, temos 6 MPs (MA, MT, PI, RR, RS, PA - este último em transição).
+
+
+Com base estritamente nesta contagem a partir das tabelas, a família de sistemas SAJ (SAJ, SAJMP, e-SAJ) parece ser mais utilizada para a gestão de processos judiciais e/ou extrajudiciais entre os Ministérios Públicos estaduais listados nas fontes, sendo mencionada para 9 MPs distintos, enquanto a família SIMP (SIMP, SIMP3, SIMP3+, SIMP4) é mencionada para 6 MPs distintos.
+
+É importante notar que outros sistemas são utilizados por outros MPs listados, como ATHENAS no MPTO, e-Gampes no MPES, ATENA no MPGO, IDEA no MPBA, URANO no MPAP, MPe no MPMG, MP Virtual no MPPB e MPAM (parcialmente), INTEGRA no MPRJ, e-MP no MPRN, ExtraDigital no MPRO, MPExtra no MPSE, além dos sistemas utilizados pelos ramos do MPU (CNMP ELO, MPF Único, MPT Digital, MPM MP Virtual) e MPDFT (PREXEL). 
+
+Diante dos dados coletados, as famílias de sistemas SAJ e SIMP são as mais frequentemente listadas para a gestão de processos judiciais e extrajudiciais nos Ministérios Públicos estaduais brasileiros. 
+
+É importante salientar que as fontes obtidas não fornecem uma lista exaustiva de todos os MPs ou todos os sistemas que utilizam, nem dados precisos sobre a profundidade ou exclusividade do uso de cada sistema.

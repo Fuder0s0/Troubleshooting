@@ -1,0 +1,228 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\MPMT\PE 90078-24 Licitante G4F - Vencedora\a01 Licitante G4F 90078 Proposta.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 6.9 MB
+
+--- [Página 1] ---
+ 
+PROPOSTA COMERCIAL 
+PREGÃO ELETRÔNICO Nº 90078/2024 
+MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO  
+
+--- [Página 2] ---
+     PROPOSTA COMERCIAL
+
+--- [Página 3] ---
+ 
+ 
+ 
+PROPOSTA COMERCIAL 
+ 
+ 
+AO 
+MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO 
+ 
+REF.:  PREGÃO ELETRÔNICO N° 90078/2024 
+PROCESSO ADMINISTRATIVO N° 20.14.0001.0000461/2022-98 
+ 
+Prezados Senhores, 
+ 
+A empresa G4F SOLUÇÕES CORPORATIVAS LTDA, inscrita no CNPJ nº 
+07.094.346/0001-45, inscrição estadual nº 07.520.075/001-38, sediada no SCN 
+Quadra 2 S/N, Bloco A Sala 602 – Asa Norte, Edifício Corporate Financial, Brasília - 
+DF, CEP: 70340-000, por intermédio de seu representante legal o Sr. Elmo Toledo 
+Lacerda, portador da Carteira de Identidade nº 2.754.057 SSP/DF e do CPF nº 
+533.001.226-00, submete à apreciação de V.Sª. nossa proposta comercial relativa ao 
+pregão em epígrafe, para  registro de preços para futura e eventual contratação de 
+empresa especializada no desenvolvimento e sustentação de sistemas de informação, 
+de acordo com as condições, especificações e quantidades descritas no termo de 
+referência ANEXO I DO EDITAL, conforme detalhado abaixo: 
+ 
+QUADRO-RESUMO DO VALOR DOS SERVIÇOS 
+Item Tipo de Serviço (A) 
+Qtde. de 
+Empregados  
+Valor 
+Mensal 
+unitario 
+do 
+Serviço        
+Valor anual Valor total do contrato  
+1 Desenvolvedor Java - Sênior 1 22.180,91 R$ 266.170,92 R$ 532.341,84 
+2 Desenvolvedor Java - Sênior 1 22.180,91 R$ 266.170,92 R$ 532.341,84 
+3 Desenvolvedor Java - Sênior 1 22.180,91 R$ 266.170,92 R$ 532.341,84 
+4 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+5 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+6 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+7 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+8 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+9 Desenvolvedor Java - Pleno 1 18.007,44 R$ 216.089,28 R$ 432.178,56 
+10 Desenvolvedor PHP - Pleno 1 16.781,55 R$ 201.378,60 R$ 402.757,20 
+11 Desenvolvedor PHP - Pleno 1 16.781,55 R$ 201.378,60 R$ 402.757,20 
+12 Desenvolvedor PHP - Pleno 1 16.781,55 R$ 201.378,60 R$ 402.757,20 
+13 Desenvolvedor PHP - Pleno 1 16.781,55 R$ 201.378,60 R$ 402.757,20 
+14 Desenvolvedor PHP - Pleno 1 16.781,55 R$ 201.378,60 R$ 402.757,20 
+15 Desenvolvedor Python - Sênior 1 23.236,49 R$ 278.837,88 R$ 557.675,76 
+
+--- [Página 4] ---
+ 
+ 
+ 
+16 Desenvolvedor Python - Sênior 1 23.236,49 R$ 278.837,88 R$ 557.675,76 
+17 Desenvolvedor Python - Pleno 1 17.785,65 R$ 213.427,80 R$ 426.855,60 
+18 Desenvolvedor Python - Pleno 1 17.785,65 R$ 213.427,80 R$ 426.855,60 
+19 Desenvolvedor Python - Pleno 1 17.785,65 R$ 213.427,80 R$ 426.855,60 
+20 Desenvolvedor Python - Pleno 1 17.785,65 R$ 213.427,80 R$ 426.855,60 
+21 Desenvolvedor Python - Pleno 1 17.785,65 R$ 213.427,80 R$ 426.855,60 
+22 Desenvolvedor Rails - Pleno 1 16.351,23 R$ 196.214,76 R$ 392.429,52 
+23 Analista de Sistemas - Sênior 1 22.268,25 R$ 267.219,00 R$ 534.438,00 
+24 Analista de Sistemas - Sênior 1 22.268,25 R$ 267.219,00 R$ 534.438,00 
+25 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+26 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+27 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+28 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+29 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+30 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+31 Analista de Sistemas - Pleno 1 16.498,81 R$ 197.985,72 R$ 395.971,44 
+32 Analista de Qualidade - Sênior 1 20.565,28 R$ 246.783,36 R$ 493.566,72 
+33 Analista de Qualidade - Pleno 1 15.324,17 R$ 183.890,04 R$ 367.780,08 
+34 Analista de UX - Pleno 1 19.255,95 R$ 231.071,40 R$ 462.142,80 
+35 Scrum Master - Pleno 1 20.273,90 R$ 243.286,80 R$ 486.573,60 
+36 Arquiteto de software - Pleno 1 23.602,27 R$ 283.227,24 R$ 566.454,48 
+37 Analista PL/SQL - Pleno 1 18.510,05 R$ 222.120,60 R$ 444.241,20 
+38 Analista PL/SQL - Pleno 1 18.510,05 R$ 222.120,60 R$ 444.241,20 
+39 Analista de Business Intelligence - Pleno 1 15.872,70 R$ 190.472,40 R$ 380.944,80 
+40 Cientista de Dados - Pleno 1 22.439,18 R$ 269.270,16 R$ 538.540,32 
+Valor total  24 meses R$ 17.871.103,20 
+ 
+Valor Global da Proposta: R$ 17.871.103,20 (dezessete milhões e oitocentos e 
+setenta e um mil e cento e três reais e vinte centavos). 
+ 
+Validade da Proposta: 60 (sessenta) dias, a contar da data de sua apresentação. 
+ 
+Convenção Coletiva Utilizada: SINDPD/MT – MT000309/2024 
+ 
+Declaramos que nos valores acima estão compreendidos, além do lucro, encargos 
+sociais, taxas, seguros, manuseio, entrega, e quaisquer despesas de responsabilidade 
+do proponente que, direta ou indiretamente, decorram da execução do objeto licitado, 
+na forma e condições previstas no Edital e Anexos.  
+ 
+Caso nos seja adjudicado o objeto da licitação, comprometemos em cumprir as 
+
+--- [Página 5] ---
+ 
+ 
+ 
+obrigações assumidas no prazo determinado no documento de convocação, e, para 
+esse fim, fornecemos os seguintes dados: 
+ 
+Dados da Empresa:   
+- Razão Social: G4F Soluções Corporativas Ltda 
+- CNPJ: 07.094.346/0001-45 
+- Inscrição Estadual: 07.520.075/001-38 
+- Endereço: SCN Quadra 2 S/N, Bloco A Sala 602 – Asa Norte, Edifício 
+Corporate Financial, Brasília - DF, CEP: 70340-000. 
+- Telefone: (61) 3686-1466 Fax: (61) 3773-2000 
+- E-mail: administracao@g4f.com.br 
+ 
+Dados do Representante Legal:  
+- Nome: Elmo Toledo Lacerda 
+- Endereço: SCN Quadra 2 S/N, Bloco A Sala 602 – Asa Norte, Edifício 
+Corporate Financial, Brasília - DF, CEP: 70340-000. 
+- Função: Diretor Executivo  
+- CPF: 533.001.226-00 
+- RG: 2.754.057 Expedido por: SSP/DF  
+- Nacionalidade: Brasileiro 
+- Telefone: (61) 3686-1466 E-mail: administracao@g4f.com.br 
+ 
+Dados Bancários: 
+- Banco: Banco Itaú (341) 
+- Agência: 5643 
+- Conta corrente: 10792-2 
+ 
+Declaramos estar de acordo com todas as condições estipuladas no edital e seus 
+anexos. 
+ 
+Brasília (DF), 02 de dezembro de 2024. 
+ 
+ 
+
+
+--- [Página 6] ---
+MINISTÉRIO DA PREVIDÊNCIA SOCIAL
+Página 1 de 1
+Resultado da Consulta FAP - Ano Vigência 2025
+Dados do Estabelecimento
+CNPJ 07.094.346/0002-26
+Razão Social G4F SOLUCOES CORPORATIVAS LTDA
+Endereço R MARIO BITAR 81 QUADRAH21 LOTE 16 SALA 5, SET MARISTA, GOIANIA, GO, 74150260
+Inicio da Atividade 05/06/2020
+Última Atualização na RFB 05/06/2020
+Dados do FAP
+ Vigência: 2025  Valor: 0,5000  Tipo: Cálculo Original  Realizado em: 30/09/2024
+Informações da Extração
+ Vigência: 2025  Início Período Base: 01/01/2022  Fim Período Base: 31/12/2023
+GFIP: 02/04/2024 Guia de Recolhimento do FGTS e de Informações à Previdência Social - GFIP
+Benefícios: 07/05/2024 Sistema Único de Benefícios - SUB
+ESocial: 23/07/2024 Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciàrias e Trabalhistas - eSocial
+CAT: 15/08/2024 Sistema de Comunicação de Acidente de Trabalho - CATWEB
+Expectativa de Vida: 13/03/2024 Ano Referência:2022 IBGE
+Dados do Cálculo
+0 Comunicação de Acidente de Trabalho - CAT
+0 B91 - Auxílio por incapacidade temporária por acidente de trabalho
+0 B92 - Aposentadoria por incapacidade permanente por acidente de trabalho
+0 B93 - Pensão por morte por acidente de trabalho
+0 B94 - Auxílio-acidente por acidente de trabalho
+0 Nexo Técnico Previdenciário sem CAT vinculada
+R$ 0,00 Valor Total de Benefícios Pagos
+R$ 124.200.175,64 Massa Salarial
+684,33 Número Médio de Vínculos
+3.032 Total de Estabelecimentos na subclasse CNAE
+2.880 Total de Estabelecimentos na subclasse CNAE com todos os insumos necessários ao cálculo do FAP
+62.04-0/00 CNAE - CONSULTORIA EM TECNOLOGIA DA INFORMACAO
+Indicadores do Cálculo
+ Índice de Frequência: 0,0000  Nº Ordem de Frequência: 1,0000  Percentil de Frequência: 0,0000
+ Índice de Gravidade: 0,0000  Nº Ordem de Gravidade: 1,0000  Percentil de Gravidade: 0,0000
+ Índice de Custo: 0,0000  Nº Ordem de Custo: 1,0000  Percentil de Custo: 0,0000
+ Taxa Média de Rotatividade: 20,7853%  Índice Composto: 0,0000
+
+--- [Página 7] ---
+NOME EMPRESARIAL: G4F SOLUÇÕES CORPORATIVAS LTDA 
+CNPJ: 07.094.346/0001-45 
+ANEXO III 
+ 
+DECLARAÇÃO DE OPÇÃO DA SISTEMATICA DE RECOLHIMENTO DAS 
+CONTRIBUIÇÕES PREVIDENCIARIAS 
+(Instrução Normativa RFB nº 2053 de 06 de dezembro de 2021.) 
+ 
+ 
+Declaro, sob as penas da Lei, para fins do disposto no § 6º art. 10º, da Instrução Normativa 
+RFB nº 2053 /2021, que a empresa acima identificada recolhe a contribuição previdenciária 
+incidente sobre o valor da receita bruta , em substituição às contribuições previdenciárias 
+incidentes sobre a folha de pagamento, previstas nos incisos I e III do caput do art. 22 da Lei nº 8 
+.212, de 24 de julho de 1991, na forma do caput do art. 7º (ou 8º) da Lei nº 12.546, de 14 de 
+dezembro de 2011. Declaro também ter conhecimento de que a opção tem caráter irretratável. 
+ 
+ 
+Brasília (DF), 02 de janeiro de 2024. 
+ 
+ 
+Representante legal 
+ 
+ 
+Nome: ELMO TOLEDO LACERDA 
+Qualificação: DIRETOR EXECUTIVO 
+CPF: 533.001.226-00 
+Assinatura: 
+ 
+ 
+ 
+ 
+
+
+--- [Página 24] ---
+SCN Quadra 02, Bloco "A", Sala 602
+Ed. Corporate Financial Center - Asa Norte, Brasília-DF, 
+CEP: 70.712-900
+administracao@g4f.com.br
+www.g4f.com.br
+(61) 3773-2000

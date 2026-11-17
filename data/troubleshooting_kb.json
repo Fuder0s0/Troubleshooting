@@ -1,0 +1,798 @@
+{
+  "version": "1.0",
+  "system_name": "SIMP-PE (Sistema Integrado do Ministério Público de Pernambuco)",
+  "total_documents_indexed": 143,
+  "categories": {
+    "acesso_perfis": {
+      "title": "Acesso, Autenticação, Perfis e Substituições",
+      "keywords": [
+        "login",
+        "senha",
+        "perfil",
+        "perfis",
+        "substitui",
+        "lotação",
+        "usuário",
+        "permissão",
+        "acesso",
+        "mastiff"
+      ],
+      "docs": [
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 738,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "Livro Integração Órgãos Externos nativo.pdf",
+          "original_path": "z_outrosDocumentos\\4 - Integração Eleitoral\\Livro Integração Órgãos Externos nativo.pdf",
+          "relevance_score": 219,
+          "size_mb": 3.2
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "relevance_score": 102,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "relevance_score": 102,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "a10 Atestados - parte 02.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a10 Atestados - parte 02.pdf",
+          "relevance_score": 85,
+          "size_mb": 4.78
+        },
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 77,
+          "size_mb": 2.19
+        },
+        {
+          "filename": "Relatório sobre Sistemas SIM_SIMP.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Relatório sobre Sistemas SIM_SIMP.docx",
+          "relevance_score": 64,
+          "size_mb": 0.23
+        },
+        {
+          "filename": "Fluxo  SIMP4 Protocolo 1ª Instância.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Protocolo 1ª Instância.pdf",
+          "relevance_score": 45,
+          "size_mb": 0.67
+        },
+        {
+          "filename": "Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "relevance_score": 44,
+          "size_mb": 0.76
+        },
+        {
+          "filename": "E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Wiki\\E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED.pdf",
+          "relevance_score": 40,
+          "size_mb": 0.61
+        },
+        {
+          "filename": "MASTIFF (fluxo).docx",
+          "original_path": "2 - Analise do SIMP\\Comparativos\\MASTIFF (fluxo).docx",
+          "relevance_score": 39,
+          "size_mb": 0.88
+        },
+        {
+          "filename": "a10 Atestados - parte 03.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a10 Atestados - parte 03.pdf",
+          "relevance_score": 37,
+          "size_mb": 7.41
+        },
+        {
+          "filename": "Fluxo SIMP4 Protocolo 2ª Instância.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo SIMP4 Protocolo 2ª Instância.pdf",
+          "relevance_score": 36,
+          "size_mb": 0.59
+        },
+        {
+          "filename": "Fluxo  SIMP4 Procedimento Judicial.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Procedimento Judicial.pdf",
+          "relevance_score": 36,
+          "size_mb": 0.76
+        },
+        {
+          "filename": "esquema-movimentacoes-possiveis-protocolo.md",
+          "original_path": "2 - Analise do SIMP\\esquema-movimentacoes-possiveis-protocolo.md",
+          "relevance_score": 31,
+          "size_mb": 0.04
+        }
+      ],
+      "issues": [
+        {
+          "id": "AC-01",
+          "title": "Processo não aparece na caixa de trabalho do Membro/Servidor substituto",
+          "category": "Acesso e Substituições",
+          "symptoms": [
+            "Membro substituto não visualiza os processos da Promotoria substituída",
+            "Caixa de entrada vazia",
+            "Erro de atribuição temporária"
+          ],
+          "cause": "Tabela de substituição não configurada com período de vigência ativo ou perfil de substituição sem vínculo à unidade orgânica correta.",
+          "solution": "1. Acesse o módulo de Configurações Administrativas > Tabela de Substituições.\n2. Verifique se o vínculo entre o Membro Titular e o Membro Substituto está cadastrado com as datas de início e término correspondentes ao ato formal da PGJ/CGMP.\n3. Certifique-se de que a opção 'Visualizar acervo e processos em andamento' está habilitada no perfil temporário.\n4. Solicite ao usuário realizar logout e login novamente para recarregar o token de permissões na sessão.",
+          "ref": "Manual de Configuração do Sistema SIMP / Tabela de Substituição no Sistema SIMP"
+        },
+        {
+          "id": "AC-02",
+          "title": "Erro de autenticação ou 'Acesso Negado' ao tentar acessar módulo específico",
+          "category": "Acesso e Perfis",
+          "symptoms": [
+            "Mensagem 'Usuário não autorizado a realizar esta operação'",
+            "Botão ou menu indisponível"
+          ],
+          "cause": "Perfil de acesso atribuído ao cargo não possui permissão concedida na matriz de segurança (Mastiff/IAM do MPPE).",
+          "solution": "1. Verifique a lotação ativa do servidor/membro no módulo Gestão de Pessoal e Documentos.\n2. Caso o usuário possua múltiplas lotações (ex: Promotoria de Origem e Central de Inquéritos), orientar a trocar a lotação ativa no menu superior direito do SIMP.\n3. Se persistir, o gestor da unidade deve abrir chamado solicitando a inclusão do perfil correspondente na DEMSI/DTI.",
+          "ref": "Tutorial: Configuração de Usuário no Ecossistema SIMP"
+        }
+      ]
+    },
+    "protocolo": {
+      "title": "Protocolo, Triagem e Entrada de Documentos",
+      "keywords": [
+        "protocolo",
+        "triagem",
+        "autua",
+        "notícia de fato",
+        "recebimento",
+        "apensamento",
+        "desentranhamento"
+      ],
+      "docs": [
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 1895,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "esquema-movimentacoes-possiveis-protocolo.md",
+          "original_path": "2 - Analise do SIMP\\esquema-movimentacoes-possiveis-protocolo.md",
+          "relevance_score": 167,
+          "size_mb": 0.04
+        },
+        {
+          "filename": "Relatório sobre Sistemas SIM_SIMP.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Relatório sobre Sistemas SIM_SIMP.docx",
+          "relevance_score": 110,
+          "size_mb": 0.23
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "relevance_score": 104,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "relevance_score": 104,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "original_path": "2 - Analise do SIMP\\Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "relevance_score": 91,
+          "size_mb": 1.03
+        },
+        {
+          "filename": "Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "relevance_score": 68,
+          "size_mb": 0.76
+        },
+        {
+          "filename": "Fluxo  SIMP4 Protocolo 1ª Instância.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Protocolo 1ª Instância.pdf",
+          "relevance_score": 58,
+          "size_mb": 0.67
+        },
+        {
+          "filename": "Fluxo SIMP4 Protocolo 2ª Instância.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo SIMP4 Protocolo 2ª Instância.pdf",
+          "relevance_score": 49,
+          "size_mb": 0.59
+        },
+        {
+          "filename": "Fluxo  SIMP4 Procedimento Judicial.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Procedimento Judicial.pdf",
+          "relevance_score": 49,
+          "size_mb": 0.76
+        },
+        {
+          "filename": "Distribuição - Contadores SIMP.pdf",
+          "original_path": "4 - Projeto Piloto\\Distribuição - Contadores SIMP.pdf",
+          "relevance_score": 46,
+          "size_mb": 0.12
+        },
+        {
+          "filename": "Fluxo Judicial no Sistema SIMP.docx",
+          "original_path": "7 - SIMP - Material de Treinamento\\Material em PDF\\Fluxo Judicial no Sistema SIMP.docx",
+          "relevance_score": 44,
+          "size_mb": 0.23
+        },
+        {
+          "filename": "Fluxo Judicial no Sistema SIMP.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo Judicial no Sistema SIMP.pdf",
+          "relevance_score": 44,
+          "size_mb": 0.21
+        },
+        {
+          "filename": "Análise SIMP vs SAJMP e Integração PJe.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Análise SIMP vs SAJMP e Integração PJe.docx",
+          "relevance_score": 40,
+          "size_mb": 0.02
+        },
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 28,
+          "size_mb": 2.19
+        }
+      ],
+      "issues": [
+        {
+          "id": "PR-01",
+          "title": "Erro ao registrar Protocolo ou autuar Notícia de Fato inicial",
+          "category": "Protocolo",
+          "symptoms": [
+            "Campos obrigatórios bloqueados",
+            "Erro 'Parte/Interessado não localizado no cadastro'",
+            "Falha na validação de CPF/CNPJ"
+          ],
+          "cause": "Tentativa de registro sem preenchimento de campos qualificadores essenciais ou duplicidade cadastral de pessoa física/jurídica.",
+          "solution": "1. No módulo Protocolo > Atendimento ao Público / Notícia de Fato, realize a busca prévia de partes no Cadastro Básico Unificado.\n2. Caso a parte não exista, efetue o pré-cadastro com nome completo, documento (CPF/CNPJ) e endereço.\n3. Se o interessado for anônimo, marque a flag 'Interessado Anônimo/Sigiloso', justificando nos termos da Resolução CSMP.\n4. Confirme a autuação e certifique-se da geração do número único de protocolo.",
+          "ref": "Fluxo SIMP4 Protocolo 1ª Instância / Fluxo Atendimento ao Público (NF)"
+        },
+        {
+          "id": "PR-02",
+          "title": "Dificuldade em desmembrar ou apensar protocolos / autos",
+          "category": "Protocolo",
+          "symptoms": [
+            "Erro 'Operação não permitida no estado atual do procedimento'",
+            "Autos bloqueados"
+          ],
+          "cause": "Procedimento com pendência de movimentação em aberto ou em trânsito de distribuição.",
+          "solution": "1. Verifique se há minuta não assinada ou remessa pendente de confirmação no protocolo.\n2. Conclua ou cancele a minuta pendente.\n3. Acesse 'Operações de Autos' > 'Apensar/Desapensar' ou 'Desmembrar', informe a justificativa e anexe o despacho correspondente.",
+          "ref": "Esquema de Movimentações Possíveis - Protocolo SIMP"
+        }
+      ]
+    },
+    "extrajudicial": {
+      "title": "Módulo Extrajudicial (NF, PP, IC, PA, TAC)",
+      "keywords": [
+        "extrajudicial",
+        "notícia de fato",
+        "inquérito civil",
+        "procedimento preparatório",
+        "procedimento administrativo",
+        "tac",
+        "prorrogação",
+        "csmp"
+      ],
+      "docs": [
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 189,
+          "size_mb": 2.19
+        },
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 185,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "relevance_score": 182,
+          "size_mb": 0.19
+        },
+        {
+          "filename": "Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "relevance_score": 119,
+          "size_mb": 9.49
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "relevance_score": 113,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "relevance_score": 113,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "original_path": "2 - Analise do SIMP\\Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "relevance_score": 106,
+          "size_mb": 1.03
+        },
+        {
+          "filename": "Síntese_Estudo Sistemas MP_s.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Síntese_Estudo Sistemas MP_s.docx",
+          "relevance_score": 46,
+          "size_mb": 0.01
+        },
+        {
+          "filename": "Análise do Módulo Extrajudicial no Sistema SIMP.docx",
+          "original_path": "6 - Documentação gerada no MPPE\\Análise do Módulo Extrajudicial no Sistema SIMP.docx",
+          "relevance_score": 35,
+          "size_mb": 0.49
+        },
+        {
+          "filename": "manual de configuração do sistema SIMP.docx",
+          "original_path": "6 - Documentação gerada no MPPE\\Novos Manuais\\manual de configuração do sistema SIMP.docx",
+          "relevance_score": 27,
+          "size_mb": 7.17
+        },
+        {
+          "filename": "Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Fluxos processuais\\Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf",
+          "relevance_score": 18,
+          "size_mb": 0.76
+        },
+        {
+          "filename": "Relatório sobre Sistemas SIM_SIMP.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Relatório sobre Sistemas SIM_SIMP.docx",
+          "relevance_score": 16,
+          "size_mb": 0.23
+        },
+        {
+          "filename": "ATO ADMINISTRATIVO Nº 567_2016-PGJ MPMT - procedimentos extrajudiciais eletrônicos.docx",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\ATO ADMINISTRATIVO Nº 567_2016-PGJ MPMT - procedimentos extrajudiciais eletrônicos.docx",
+          "relevance_score": 16,
+          "size_mb": 0.01
+        },
+        {
+          "filename": "esquema-movimentacoes-possiveis-protocolo.md",
+          "original_path": "2 - Analise do SIMP\\esquema-movimentacoes-possiveis-protocolo.md",
+          "relevance_score": 14,
+          "size_mb": 0.04
+        },
+        {
+          "filename": "RES COORD ADM SEDE P J PAULISTA 2019-001 - Estabelece regras de distribuição de feitos na Central de Inquéritos de Paulista, nos casos de afastamento dos titulares.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES COORD ADM SEDE P J PAULISTA 2019-001 - Estabelece regras de distribuição de feitos na Central de Inquéritos de Paulista, nos casos de afastamento dos titulares.pdf",
+          "relevance_score": 14,
+          "size_mb": 0.17
+        }
+      ],
+      "issues": [
+        {
+          "id": "EX-01",
+          "title": "Prazo da Notícia de Fato expirando sem conseguir converter em PP ou IC",
+          "category": "Extrajudicial",
+          "symptoms": [
+            "Notícia de Fato atinge os 30 dias regulamentares",
+            "Sistema não permite movimentação sem despacho de prorrogação ou conversão"
+          ],
+          "cause": "Regras da Resolução CSMP nº 03/2019 e Resolução PGJ exigem ato formal fundamentado de prorrogação única (até 90 dias) ou despacho de instauração de PP/IC.",
+          "solution": "1. Abra a Notícia de Fato na caixa de trabalho da Promotoria.\n2. Clique em 'Elaborar Documento' > selecione o modelo 'Portaria de Instauração de Procedimento Preparatório' ou 'Inquérito Civil' (ou 'Despacho de Prorrogação de NF').\n3. Redija os termos, assine digitalmente via Escriba/BRY.\n4. Ao assinar a Portaria, acesse 'Movimentações' > 'Evoluir Procedimento' e selecione o tipo destino (PP ou IC). O sistema atualizará a classe e recalculará os contadores de prazo.",
+          "ref": "Resolução CSMP 03/2019 / Análise do Módulo Extrajudicial no Sistema SIMP"
+        },
+        {
+          "id": "EX-02",
+          "title": "Erro ao remeter Inquérito Civil arquivado para homologação do CSMP",
+          "category": "Extrajudicial",
+          "symptoms": [
+            "Botão de remessa ao Conselho Superior indisponível",
+            "Erro 'Falta certidão de intimação dos interessados'"
+          ],
+          "cause": "Arquivamento de IC/PP requer comprovação de notificação/comunicação das partes/noticiante para recurso no prazo de 10 dias.",
+          "solution": "1. Junte aos autos a certidão ou comprovante de ciência/notificação do denunciante/interessado sobre a promoção de arquivamento.\n2. Certifique o decurso do prazo recursal regulamentar de 10 dias.\n3. No menu do procedimento, selecione 'Promover Remessa' > Destino: 'Conselho Superior do Ministério Público (CSMP)'. O procedimento será encaminhado à fila de distribuição do CSMP.",
+          "ref": "Manual SIMP - Módulo Extrajudicial / Resolução CSMP"
+        }
+      ]
+    },
+    "judicial": {
+      "title": "Módulo Judicial e Integração PJe / TJPE",
+      "keywords": [
+        "judicial",
+        "pje",
+        "tribunal de justiça",
+        "tjpe",
+        "intimação",
+        "prazo",
+        "ciência",
+        "denúncia",
+        "citação",
+        "mni"
+      ],
+      "docs": [
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 846,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "Livro Integração Órgãos Externos nativo.pdf",
+          "original_path": "z_outrosDocumentos\\4 - Integração Eleitoral\\Livro Integração Órgãos Externos nativo.pdf",
+          "relevance_score": 607,
+          "size_mb": 3.2
+        },
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 271,
+          "size_mb": 2.19
+        },
+        {
+          "filename": "Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "original_path": "2 - Analise do SIMP\\Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "relevance_score": 215,
+          "size_mb": 1.03
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "relevance_score": 163,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "relevance_score": 163,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Análise SIMP vs SAJMP e Integração PJe.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Análise SIMP vs SAJMP e Integração PJe.docx",
+          "relevance_score": 114,
+          "size_mb": 0.02
+        },
+        {
+          "filename": "Síntese_Estudo Sistemas MP_s.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Síntese_Estudo Sistemas MP_s.docx",
+          "relevance_score": 103,
+          "size_mb": 0.01
+        },
+        {
+          "filename": "RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "relevance_score": 79,
+          "size_mb": 0.19
+        },
+        {
+          "filename": "Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "relevance_score": 66,
+          "size_mb": 9.49
+        },
+        {
+          "filename": "Relatório sobre Sistemas SIM_SIMP.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Relatório sobre Sistemas SIM_SIMP.docx",
+          "relevance_score": 54,
+          "size_mb": 0.23
+        },
+        {
+          "filename": "Relatório Analítico Comparativo_ Consensus vs. SIMP3+ (SIMP4).docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\Relatório Analítico Comparativo_ Consensus vs. SIMP3+ (SIMP4).docx",
+          "relevance_score": 54,
+          "size_mb": 0.02
+        },
+        {
+          "filename": "manual de configuração do sistema SIMP.docx",
+          "original_path": "6 - Documentação gerada no MPPE\\Novos Manuais\\manual de configuração do sistema SIMP.docx",
+          "relevance_score": 48,
+          "size_mb": 7.17
+        },
+        {
+          "filename": "DESMTI - SIMP - Relatório de Avaliação.docx",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Prospecção de Solucoes\\DESMTI - SIMP - Relatório de Avaliação.docx",
+          "relevance_score": 44,
+          "size_mb": 0.03
+        },
+        {
+          "filename": "Apresentacao_Fluxo_1a_Instancia_SIMP-PE_final.pdf",
+          "original_path": "7 - SIMP - Material de Treinamento\\Material em PDF\\Apresentacao_Fluxo_1a_Instancia_SIMP-PE_final.pdf",
+          "relevance_score": 43,
+          "size_mb": 1.02
+        }
+      ],
+      "issues": [
+        {
+          "id": "JD-01",
+          "title": "Intimações do PJe/TJPE não aparecem no SIMP ou erro de sincronização MNI",
+          "category": "Judicial e Integração PJe",
+          "symptoms": [
+            "Novas intimações eletrônicas expedidas no PJe não são listadas na caixa judicial do SIMP",
+            "Falha no serviço MNI"
+          ],
+          "cause": "Instabilidade momentânea no WebService de integração MNI do TJPE ou divergência na parametrização do Código de Jurisdição/Vara no SIMP.",
+          "solution": "1. Acesse o menu 'Judicial' > 'Sincronizar com PJe' para forçar uma consulta manual ao barramento.\n2. Verifique se o órgão de atuação está com o código de jurisdição e serventia cadastrado de acordo com a tabela unificada (Tabelas Básicas PJe / Promotorias para Varas).\n3. Caso o PJe do TJPE esteja fora do ar ou com certificado expirado, acione o suporte da DEMSI para verificar o status do webhook MNI.",
+          "ref": "Fluxo Judicial no Sistema SIMP / Códigos Jurisdição 1G e 2G / Integração Órgãos Externos"
+        },
+        {
+          "id": "JD-02",
+          "title": "Erro ao devolver autos com Manifestação ao PJe pelo SIMP",
+          "category": "Judicial",
+          "symptoms": [
+            "Erro 'Tamanho do arquivo excede o limite permitido pelo PJe'",
+            "Erro de assinatura no protocolo externo"
+          ],
+          "cause": "O Tribunal de Justiça impõe limites estritos de tamanho (normalmente arquivos individuais de até 5MB a 10MB) e formato exclusivo PDF/A, ou falha de token de comunicação.",
+          "solution": "1. No módulo de juntada de documentos, verifique o tamanho dos arquivos anexos.\n2. Caso haja PDFs grandes, utilize a ferramenta de otimização/compressão de PDF disponível no MPPE ou divida os documentos em volumes fracionados de até 5MB.\n3. Certifique-se de que a manifestação principal foi assinada digitalmente com certificado válido antes do envio.",
+          "ref": "Manual de Integração de Sistemas Externos / Fluxo Processos Judiciais 1ª Instância"
+        }
+      ]
+    },
+    "distribuicao": {
+      "title": "Distribuição, Regras e Contadores",
+      "keywords": [
+        "distribuição",
+        "contador",
+        "sorteio",
+        "compensação",
+        "central de inquéritos",
+        "cinq",
+        "plantão",
+        "impedimento",
+        "suspeição"
+      ],
+      "docs": [
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 379,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "Analise_Consolidada_e_Proposta_Contadores_SIMP.docx",
+          "original_path": "9-Resolução SIMP 2026\\Normativo Contador de Distribuicao\\Analise_Consolidada_e_Proposta_Contadores_SIMP.docx",
+          "relevance_score": 141,
+          "size_mb": 0.47
+        },
+        {
+          "filename": "Distribuição - Contadores SIMP.pdf",
+          "original_path": "4 - Projeto Piloto\\Distribuição - Contadores SIMP.pdf",
+          "relevance_score": 63,
+          "size_mb": 0.12
+        },
+        {
+          "filename": "Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "original_path": "2 - Analise do SIMP\\Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "relevance_score": 51,
+          "size_mb": 1.03
+        },
+        {
+          "filename": "manual de configuração do sistema SIMP.docx",
+          "original_path": "6 - Documentação gerada no MPPE\\Novos Manuais\\manual de configuração do sistema SIMP.docx",
+          "relevance_score": 50,
+          "size_mb": 7.17
+        },
+        {
+          "filename": "RES CPJ 2024-11 - Estabelece normas gerais para as Centrais de Inquéritos.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CPJ 2024-11 - Estabelece normas gerais para as Centrais de Inquéritos.pdf",
+          "relevance_score": 33,
+          "size_mb": 0.12
+        },
+        {
+          "filename": "RES CPJ 2016-009 - Modificações no REGIMENTO INTERNO DO CPJ - Disciplina a forma regimental de distribuição dos feitos que tramitem perante seus Órgãos.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CPJ 2016-009 - Modificações no REGIMENTO INTERNO DO CPJ - Disciplina a forma regimental de distribuição dos feitos que tramitem perante seus Órgãos.pdf",
+          "relevance_score": 30,
+          "size_mb": 2.29
+        },
+        {
+          "filename": "esquema-movimentacoes-possiveis-protocolo.md",
+          "original_path": "2 - Analise do SIMP\\esquema-movimentacoes-possiveis-protocolo.md",
+          "relevance_score": 24,
+          "size_mb": 0.04
+        },
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 22,
+          "size_mb": 2.19
+        },
+        {
+          "filename": "ATO PROCCV 2014-02 - Normas para o funcionamento do Setor de Distribuição da Procuradoria de Justiça Cível.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\ATO PROCCV 2014-02 - Normas para o funcionamento do Setor de Distribuição da Procuradoria de Justiça Cível.pdf",
+          "relevance_score": 16,
+          "size_mb": 0.19
+        },
+        {
+          "filename": "Codigos  PJe.pdf",
+          "original_path": "2 - Analise do SIMP\\Tabelas Basicas\\Codigos PJE\\Codigos  PJe.pdf",
+          "relevance_score": 15,
+          "size_mb": 0.42
+        },
+        {
+          "filename": "Código_Jurisdição_1G.pdf",
+          "original_path": "2 - Analise do SIMP\\Tabelas Basicas\\Codigos PJE\\Código_Jurisdição_1G.pdf",
+          "relevance_score": 15,
+          "size_mb": 0.42
+        },
+        {
+          "filename": "Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\Res. CSMP 03-2019 - Disciplina a  NF, PP, PA, IC e Outros.pdf",
+          "relevance_score": 14,
+          "size_mb": 9.49
+        },
+        {
+          "filename": "RES CINQ JABOATÃO 2024-01 - Distribuição de feitos.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CINQ JABOATÃO 2024-01 - Distribuição de feitos.pdf",
+          "relevance_score": 14,
+          "size_mb": 0.24
+        },
+        {
+          "filename": "RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\RES CSMP 2025-03 - Altera art. 31 e 32 da RES CSMP nº 03_2019 - Inquérito Civl e Procedimento Preparatório.pdf",
+          "relevance_score": 13,
+          "size_mb": 0.19
+        }
+      ],
+      "issues": [
+        {
+          "id": "DS-01",
+          "title": "Divergência ou desbalanceamento no contador de distribuição entre membros",
+          "category": "Distribuição",
+          "symptoms": [
+            "Um promotor recebe significativamente mais processos que outro na mesma unidade",
+            "Contador zerado ou travado"
+          ],
+          "cause": "Regras de peso por matéria (Cível, Família, Fazenda, Tribunal do Júri) ou lançamentos incorretos de licença/compensação no perfil do membro.",
+          "solution": "1. Acesse o painel de 'Gestão de Distribuição' > 'Relatório de Contadores'.\n2. Verifique o peso atribuído a cada classe processual de acordo com o Provimento da CGMP/Resolução PGJ.\n3. Confira se os afastamentos (férias, licenças) dos membros foram registrados no sistema com compensação automática ativada.\n4. Caso necessário, o administrador da distribuição pode executar o ajuste de compensação manual justificando em ata.",
+          "ref": "Distribuição - Contadores SIMP / Análise Consolidada e Proposta de Contadores"
+        },
+        {
+          "id": "DS-02",
+          "title": "Processo distribuído para Promotor com Impedimento ou Suspeição",
+          "category": "Distribuição",
+          "symptoms": [
+            "Membro recebe feito de parte impedida ou processo em que já atuou em outra qualidade"
+          ],
+          "cause": "Falta de cadastro prévio do impedimento no perfil do membro ou distribuição por prevenção equivocada.",
+          "solution": "1. O Membro deve despachar nos autos fundamentando o impedimento/suspeição com base na legislação (CPC/CPP).\n2. Na tela de movimentação, selecione a opção 'Declarar Impedimento/Suspeição'.\n3. O sistema devolverá o procedimento para a fila de redistribuição da Central/Secretaria, compensando automaticamente 1 ponto no contador do membro e redistribuindo para o substituto legal.",
+          "ref": "Resoluções das Centrais de Inquéritos / Regras de Distribuição SIMP4"
+        }
+      ]
+    },
+    "escriba_assinatura": {
+      "title": "Escriba, Editor de Textos e Assinatura Digital (BRY)",
+      "keywords": [
+        "escriba",
+        "assinatura",
+        "bry",
+        "certificado",
+        "token",
+        "digital",
+        "pdf",
+        "modelo",
+        "variável"
+      ],
+      "docs": [
+        {
+          "filename": "Manual_Simp_27-04-2026.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\Manual_Simp_27-04-2026.pdf",
+          "relevance_score": 237,
+          "size_mb": 56.12
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022.pdf",
+          "relevance_score": 176,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\Documentos da Fase Interna GEDOC 0461-2022 (1).pdf",
+          "relevance_score": 176,
+          "size_mb": 3.72
+        },
+        {
+          "filename": "a10 Atestados - parte 01.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a10 Atestados - parte 01.pdf",
+          "relevance_score": 93,
+          "size_mb": 1.7
+        },
+        {
+          "filename": "A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A01_PE90078_2024_EDITAL_DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO - FÁBRICA DE SOFTWARE.pdf",
+          "relevance_score": 80,
+          "size_mb": 2.19
+        },
+        {
+          "filename": "Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "original_path": "2 - Analise do SIMP\\Instrução Normativa_CAAD.compilada 4 14.pdf",
+          "relevance_score": 69,
+          "size_mb": 1.03
+        },
+        {
+          "filename": "2025 - Adesão ao Acordo de Cooperação MPDFT.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\2025 - Adesão ao Acordo de Cooperação MPDFT.pdf",
+          "relevance_score": 50,
+          "size_mb": 0.67
+        },
+        {
+          "filename": "Livro Integração Órgãos Externos nativo.pdf",
+          "original_path": "z_outrosDocumentos\\4 - Integração Eleitoral\\Livro Integração Órgãos Externos nativo.pdf",
+          "relevance_score": 47,
+          "size_mb": 3.2
+        },
+        {
+          "filename": "a10 Atestados - parte 02.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a10 Atestados - parte 02.pdf",
+          "relevance_score": 46,
+          "size_mb": 4.78
+        },
+        {
+          "filename": "ATO ADMINISTRATIVO Nº 694_2018-PGJ- MPMT.docx",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\ATO ADMINISTRATIVO Nº 694_2018-PGJ- MPMT.docx",
+          "relevance_score": 33,
+          "size_mb": 0.01
+        },
+        {
+          "filename": "Resolução RES-PGJ n. 001-2020 - SIM - Alterações validadas pelo CGSAF.docx",
+          "original_path": "9-Resolução SIMP 2026\\Referencias\\Resolução RES-PGJ n. 001-2020 - SIM - Alterações validadas pelo CGSAF.docx",
+          "relevance_score": 24,
+          "size_mb": 0.03
+        },
+        {
+          "filename": "A21_PE90078_2024_Publicação_do_AVISO_em_jornal_de_circulação_regional.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\A21_PE90078_2024_Publicação_do_AVISO_em_jornal_de_circulação_regional.pdf",
+          "relevance_score": 21,
+          "size_mb": 2.36
+        },
+        {
+          "filename": "a11 Balanço 22.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a11 Balanço 22.pdf",
+          "relevance_score": 20,
+          "size_mb": 0.09
+        },
+        {
+          "filename": "a10 Atestados - parte 03.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a10 Atestados - parte 03.pdf",
+          "relevance_score": 20,
+          "size_mb": 7.41
+        },
+        {
+          "filename": "a11 Balanço 23.pdf",
+          "original_path": "5 - Gestao de conhecimento MPMT\\MPMT\\PE 90078-24 Licitante G4F - Vencedora\\a11 Balanço 23.pdf",
+          "relevance_score": 20,
+          "size_mb": 0.1
+        }
+      ],
+      "issues": [
+        {
+          "id": "ES-01",
+          "title": "Erro ao assinar documento digitalmente: 'Falha no componente BRY' ou 'Certificado não detectado'",
+          "category": "Escriba e Assinatura Digital",
+          "symptoms": [
+            "Janela de assinatura trava",
+            "Mensagem 'Não foi possível conectar ao integrador de assinatura BRY'"
+          ],
+          "cause": "Serviço local do BRY WebSigner desatualizado, serviço parado no Windows ou bloqueio de porta no navegador.",
+          "solution": "1. Verifique se o aplicativo BRY WebSigner / Extensão do navegador está em execução na barra de tarefas do Windows (ícone próximo ao relógio).\n2. Se o ícone não estiver presente, abra o Menu Iniciar > digite 'Bry WebSigner' e execute o programa.\n3. Recarregue a página do SIMP (Ctrl + F5).\n4. Se utilizar Token físico USB, retire e reconecte em outra porta USB e confirme se o cartão/token está lido pelo Safenet/SafeSign.",
+          "ref": "Manual Escriba MPPE / Bry Simp Documentação Técnica"
+        },
+        {
+          "id": "ES-02",
+          "title": "Variáveis do modelo de documento do Escriba não carregam os dados dos autos",
+          "category": "Escriba",
+          "symptoms": [
+            "Campos como {{nome_interessado}}, {{numero_processo}} ficam em branco ou com código literal"
+          ],
+          "cause": "Variável cadastrada incorretamente na base de modelos ou dados não preenchidos na autuação do procedimento.",
+          "solution": "1. Verifique na autuação do procedimento se as partes estão devidamente qualificadas com nome e papéis definidos (ex: Noticiante, Noticiado, Autor, Réu).\n2. No editor do Escriba, clique no menu 'Inserir Variável' e utilize a lista oficial de tags do sistema em vez de digitar manualmente o texto da variável.",
+          "ref": "Manual Escriba MPPE / Projeto Documental SIMP"
+        }
+      ]
+    }
+  }
+}

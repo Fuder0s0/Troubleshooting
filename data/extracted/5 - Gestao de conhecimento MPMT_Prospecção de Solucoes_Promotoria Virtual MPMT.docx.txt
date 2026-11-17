@@ -1,0 +1,35 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Promotoria Virtual MPMT.docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 3.84 MB
+
+Peticionamento eletrônico MPMT - PROMOTORIA VIRTUAL 
+
+Componente dos serviços online do Ministério Público do Mato Grosso, especificamente relacionado à facilitação da comunicação e da troca de documentos com partes externas envolvidas em procedimentos extrajudiciais.
+
+Finalidade: A Promotoria Virtual tem como objetivo permitir que cidadãos e outras partes externas (advogados) interajam com o Ministério Público eletronicamente, enviando documentos, solicitando atendimento, cópias de autos, emissão de certidão e participação em plenário virtual nos órgãos colegiados.
+
+Benefícios: Projetado para agilizar processos de atendimento e consulta, reduzindo potencialmente a necessidade de visitas físicas ao Ministério Público.
+
+Acessibilidade: o acesso se faz por login com o gov.br, possibilitando inclusive a assinatura digital por essa plataforma.
+
+Integração: Os documentos sugerem que informações ou ações iniciadas por meio da Promotoria Virtual sejam integradas ao sistema SIMP, o sistema de gerenciamento de casos do Ministério Público.
+
+Em essência, a Promotoria Virtual é uma interface digital que conecta o Ministério Público com o público, possibilitando que determinadas interações ocorram online.
+
+Promotoria virtual - Acesso com o Gov.br
+
+Tela inicial
+
+Meus Procedimentos
+
+Emissão de Certidão
+
+Também tem a possibilidade de emitir certidão pela tela de apresentação da promotoria virtual sem necessidade de de login com o gov.br. Basta preencher o CPF.
+
+Solicitar atendimento
+
+Sustentação Oral - Plenário Virtual 
+
+Peticionar
+
+Aplicativo MPMT

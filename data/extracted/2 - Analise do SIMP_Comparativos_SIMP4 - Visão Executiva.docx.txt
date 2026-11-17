@@ -1,0 +1,99 @@
+DOCUMENTO: 2 - Analise do SIMP\Comparativos\SIMP4 - Visão Executiva.docx
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.24 MB
+
+Programa Sistema Único
+
+Núcleo de Tecnologia e Inovação
+
+Objetivo do Programa Sistema Único
+
+Modernizar e unificar as plataformas de trabalho voltadas à atuação finalística do MPPE, viabilizando o processo eletrônico integrado e eficiente.
+
+Contexto
+
+Atualmente, o MPPE utiliza diversas plataformas de trabalho implantadas ao longo dos últimos 20 anos, acarretando desafios como perda de eficiência nos processos de trabalho das Promotorias, falta de padronização dos procedimentos de trabalho, experiência ruim para o cidadão e o colaborador e complexidade na gestão e na manutenção dos sistemas.
+
+Benefícios da utilização de um Sistema Único
+
+Aumento da eficiência e produtividade nos processos de trabalho das Promotorias.
+
+Mudança de Paradigmas de Trabalho: Transição de múltiplos sistemas para um ambiente de trabalho unificado.
+
+Padronização de Procedimentos e Rotinas: Unificação de fluxos de trabalho Extrajudiciais e Judiciais em todo o MPPE.
+
+Redimensionamento do Quadro de Colaboradores: Possível revisão da força de trabalho a partir da otimização de processos.
+
+Aprimoramento da Gestão de Designações: Forma mais estruturada e unificada de gerenciar designações.
+
+Consolidação e unificação de Dados Cadastrais Básicos.
+
+Centralização da Gestão de Protocolos: Todos os protocolos serão gerenciados em uma única plataforma.
+
+Melhoria da Gestão da Informação Ministerial: Visão integrada e facilitada da atuação, corrigindo a ineficiência atual.
+
+Simplificação da Gestão e Manutenção dos Sistemas: Redução da complexidade por operar um sistema único.
+
+Padronização da Gestão de Usuários e Acessos: Unificação e reorganização de perfis e permissões.
+
+Avanço na Gestão de Prazos Institucionais: Controle mais robusto e centralizado dos prazos.
+
+Otimização da Experiência do Colaborador: Aprimoramento da usabilidade e satisfação no trabalho. 
+
+Transformação da Geração e Uso de Relatórios: Relatórios mais integrados e abrangentes para análise de desempenho.
+
+Evolução da Gestão de Modelos de Documentos: Centralização e aprimoramento na criação e uso de modelos.
+
+Revisão dos Processos de Corregedoria e Inspeção: Novas ferramentas para fiscalização e acompanhamento.
+
+Introdução de Assistência Virtual com IA: Nova camada de suporte e automação com inteligência artificial.
+
+Definição da estratégia de implantação do Sistema Único
+
+Considerando que a implementação de um sistema unificado e a integração com os Tribunais representam um desafio significativo para o Ministério Público brasileiro , foi realizada uma avaliação abrangente das opções disponíveis para o Ministério Público de Pernambuco (MPPE). A decisão estratégica sobre a modernização dos sistemas de gestão ministerial é de suma importância e terá impacto duradouro na atuação institucional. Foi realizada ampla avaliação de opções para alcançar o objetivo do programa. O objetivo desta análise é detalhar as alternativas consideradas, como:
+
+Implantação de sistema único proveniente de outra unidade do MP brasileiro, tal como o SIMP4;
+
+Desenvolvimento de um sistema completamente novo;
+
+Adaptar os sistemas atualmente em operação no MPPE, tais como SIM e CONSENSUS;
+
+Realizar a aquisição e a implantação de sistema de mercado, tal como o SAJ, da empresa SOFTPLAN.
+
+A avaliação das opções considerou diversos critérios essenciais para a tomada de decisão, incluindo a completude funcional da solução, o esforço e o custo de implementação, o tempo total necessário para a implantação, a complexidade da mudança, o risco do projeto e a modernização tecnológica e de infraestrutura.
+
+Com base na análise, a implantação do SIMP4 do MPMT se apresenta como a opção mais estratégica e promissora. Embora exija um esforço significativo em gestão de mudanças, padronização de processos e diversas atividades técnicas, ela oferece uma solução já validada e madura, com funcionalidades de ponta e um modelo de integração que já foi testado no contexto do MPMT.
+
+A principal vantagem é a capacidade de "acelerar resultados com qualidade e responsabilidade" ao aproveitar uma plataforma que já investiu tempo e recursos na construção de integrações de alto valor e ferramentas de Inteligência Artificial. A escolha do SIMP4 alinha o MPPE com uma nova era de gestão, transformando a instituição para o futuro.
+
+Sobre o sistema SIMP4
+
+O SIMP (Sistema Integrado do Ministério Público) é a principal ferramenta utilizada para o controle de protocolos judiciais e extrajudiciais não-administrativos que tramitam pela instituição. O sistema é uma plataforma de gestão que simplifica as rotinas e potencializa a atuação ministerial. 
+
+Sua abrangência vai desde a entrada dos processos e sua distribuição, até o fornecimento de relatórios que permitem avaliar a qualidade da atuação da instituição e apoiar a tomada de decisões estratégicas. O SIMP é uma plataforma robusta que, em sua versão 4, integra-se com diversos sistemas externos, como PJe e SEEU, e incorpora ferramentas de Inteligência Artificial, como o Google Gemini, para otimizar tarefas e apoiar a atuação dos membros do Ministério Público.
+
+Vantagens da implantação do SIMP4
+
+Maturidade do sistema: O SIMP4 é uma plataforma de gestão e inteligência institucional que evoluiu de um sistema "cartorial". Ele possui mais de 15 anos de informações e é uma verdadeira plataforma de gestão que simplifica as rotinas e potencializa a gestão.
+
+Integrações existentes: O SIMP4 já possui integrações desenvolvidas com sistemas como PJe (TJMT e Eleitoral), SEEU, GEIA (Polícia Civil), Promotoria Virtual, Janus e SISPLAN, atuando como um hub de integração.
+
+Funcionalidades de IA: O SIMP4 já incorpora ferramentas de Inteligência Artificial, como o assistente virtual baseado no Google Gemini, para tarefas como resumos de feitos, minutas inteligentes e interação com processos. Isso acelera a produção de documentos e a análise de processos extensos, reduzindo o tempo com tarefas repetitivas.
+
+Desafios a Serem Gerenciados:
+
+Gestão da Mudança: A principal barreira é a eventual resistência dos usuários à mudança, pois eles estão acostumados com sistemas legados. 
+
+Adaptação e Padronização: Será necessário padronizar os diversos fluxos de trabalho do MPPE (cíveis, criminais, judiciais, etc.) para se adequarem à lógica do SIMP4. Isso exige um planejamento detalhado de parametrização e carga de dados, além de adequações nos fluxos de trabalho sem alterar as funcionalidades do sistema.
+
+Migração de Dados: A complexidade da migração de dados críticos dos sistemas legados para o SIMP4 exige um plano robusto para garantir a consistência e a confiança nas informações.
+
+Ausência de Conhecimento Prévio: Como o MPPE não utilizou versões anteriores do SIMP, a equipe partirá do zero, exigindo uma imersão profunda e um plano de aprendizado estruturado.
+
+Planejamento de Trabalho
+
+A implantação do SIMP4 alinha o MPPE com uma nova forma de trabalho que coloca a inovação e a inteligência no centro da atuação ministerial, permitindo a aceleração de resultados com qualidade e responsabilidade.
+
+A implantação do módulo judicial do SIMP4 está prevista para maio de 2026. A  equipe do projeto se concentrará em atividades cruciais, como a instalação do sistema na infraestrutura de TI e o detalhamento dos módulos funcionais para a execução da implantação. 
+
+Além disso, serão empreendidas ações para compatibilizar o sistema com as especificidades do MPPE, o que inclui a análise dos fluxos de trabalho e a adequação do modelo de dados do SIMP4 em comparação com os sistemas legados, como o CONSENSUS, ARQUIMEDES e SIM, visando à padronização e à definição de integrações e migração de dados, assegurando-se que o SIMP4 atenda de forma eficaz às necessidades institucionais

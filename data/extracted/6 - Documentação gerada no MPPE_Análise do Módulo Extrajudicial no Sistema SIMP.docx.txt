@@ -1,0 +1,216 @@
+DOCUMENTO: 6 - Documentação gerada no MPPE\Análise do Módulo Extrajudicial no Sistema SIMP.docx
+PASTA: 6 - Documentação gerada no MPPE
+TAMANHO: 0.49 MB
+
+Análise do Módulo Extrajudicial no Sistema SIMP
+
+PRIMEIRA PARTE
+
+1. OBJETIVO DA TAREFA Realizar uma avaliação comparativa do Módulo Extrajudicial no Sistema SIMP, tendo como base o sistema atual. O objetivo é garantir que o novo módulo atenda plenamente às necessidades das Promotorias Cíveis do MPPE e identificar lacunas antes da instalação do sistema.
+
+O QUE DEVE SER AVALIADO (ESCOPO)
+
+Funcionalidades Isoladas
+
+Tabelas Taxonômicas: Validação de Áreas, Classes e Assuntos específicos 
+
+Cadastro e Partes: Qualificação de partes 
+
+(Representante, Investigado, Órgão Público), incluindo cadastro de Pessoa Jurídica.
+
+Prazos e Alertas: Mecanismos de contagem de prazos para Notícia de Fato (NF), Procedimento Preparatório (PP) e Inquérito Civil (IC), além de regras de prorrogação. 
+
+Sim
+
+Produção Documental: Editor de minutas para portarias de instauração, despachos, recomendações e promoções de arquivamento. 
+
+Sim
+
+Gestão de TACs: Funcionalidades para registro, acompanhamento e fiscalização de Termos de Ajustamento de Conduta. 
+
+Sim
+
+Módulos Acessórios: Ferramentas de busca, filtros avançados, geração de relatórios estatísticos e gestão de sigilo. 
+
+Sim
+
+B. Fluxos de Processos (Jornada do Usuário)
+
+Fluxo de Entrada: Recepção da demanda (Atendimento/Notícia de Fato), distribuição e carga inicial. 
+
+OBS: Recomenda-se a implantação de imediato do SISTEMA AUDIVIA, a partir do perfil da Ouvidoria Geral no Sistema SIMP, para o recebimento das demandas iniciais pelas promotorias de justiça, bem como a migração completa da base de dados dos procedimentos antigos para o Sistema SIMP, ou em caso de incompatibilidade, que seja elaborada uma nova ferramenta para a importação de Procedimentos em Lote, o que evita a importação manual dos procedimentos antigos 
+
+Fluxo de Evolução (Conversão): Transformação fluida de Notícia de Fato para Inquérito Civil ou Procedimento Administrativo, mantendo o histórico de movimentos.
+
+OBS: A ferramenta AUTUAR é responsável pela conversão dos procedimentos, o que difere do sistema atual, mas que é totalmente aplicável 
+
+Fluxo de Tramitação Interna: Vai e vem entre Assessor (elaboração de minuta) e Promotor (revisão, aprovação e assinatura). 
+
+Sim
+
+Fluxo de Comunicação Externa: Emissão de ofícios, requisições de informação e integração com a publicação de Portarias no Diário Oficial.
+
+OBS: Considerando que a Subprocuradoria Geral em Assuntos Administrativos recebe os documentos, mediante diligência eletrônica do sistema atual, para a publicação no Diário Oficial seria suficiente apenas o cadastro do endereço eletrônico do mencionado setor no Sistema SIMP, para o adequado recebimento das informações
+
+Fluxo de Arquivamento (CSMP): Envio da promoção de arquivamento do Inquérito Civil para revisão do Conselho Superior do Ministério Público (CSMP) e tratamento do retorno (homologação ou rejeição).
+
+OBS: Recomenda-se a implantação de imediato do PLENÁRIO VIRTUAL, a partir do perfil do Conselho Superior no Sistema SIMP, para o recebimento adequado da promoção de arquivamento, com a finalidade de apreciação pelo colegiado 
+
+CHECKLIST DE AVALIAÇÃO
+
+Autuação e Classes
+
+1. O sistema permite o cadastro completo de uma Notícia de Fato com todas as classificações taxonômicas atualizadas?
+
+Não
+
+2. A conversão (autuação) de Notícia de Fato para Inquérito Civil ou Procedimento Preparatório herda corretamente os dados e partes anteriores?
+
+Sim
+
+3. O cadastro de partes permite inserir múltiplas pessoas jurídicas, órgãos públicos e gestores com suas devidas qualificações?
+
+Sim
+
+Gestão de Prazos e Sigilo
+
+4. O sistema calcula, exibe e emite alertas corretos para os prazos de tramitação estipulados em Resolução para o extrajudicial?
+
+Sim
+
+5. Existe um fluxo claro e funcional para registrar e fundamentar a prorrogação de prazos de Inquéritos Civis?
+
+Sim
+
+6. É possível aplicar sigilo (total ou parcial/em documentos específicos) em investigações sensíveis, restringindo o acesso corretamente?
+
+Sim
+
+Minutas e Assinaturas
+
+7. O editor de textos permite redigir, formatar e salvar minutas complexas comuns ao Cível (Portarias, Recomendações, TAC)?
+
+Sim
+
+8. A funcionalidade de "Modelos de Documentos" permite resgatar padrões já utilizados anteriormente no extrajudicial?
+
+Sim
+
+9. A assinatura em lote pelo Promotor (de despachos e ofícios do extrajudicial) ocorre sem erros ou lentidão?
+
+Sim
+
+Ações Finalísticas (TAC e Recomendações)
+
+10. O sistema possui campo/fluxo adequado para registrar a celebração de um Termo de Ajustamento de Conduta (TAC)?
+
+Sim
+
+11. É possível registrar e controlar os prazos de acompanhamento (fiscalização) das cláusulas de um TAC assinado?
+
+Sim
+
+12. O envio de Recomendações a órgãos públicos está bem estruturado no fluxo de comunicação externa?
+
+Sim
+
+Arquivamento e Conselho Superior (CSMP)
+
+13. O fluxo de Promoção de Arquivamento de Inquérito Civil tramita corretamente os autos virtuais para o CSMP?
+
+Não
+
+14. O sistema lida adequadamente com o retorno do CSMP em caso de Homologação do arquivamento (encerrando o processo)?
+
+Não
+
+15. O sistema lida adequadamente com o retorno do CSMP em caso de Rejeição do arquivamento (retornando o IC para novas diligências)?
+
+Não
+
+Integrações e Histórico
+
+16. A funcionalidade de enviar Portarias de Instauração para publicação no Diário Oficial está operacional e intuitiva?
+
+Sim
+
+17. (Validação de Migração): Os Inquéritos Civis antigos, migrados do SIM para o SIMP no ambiente de homologação, exibem os PDFs e históricos corretamente?
+
+Sim
+
+Usabilidade e Gestão
+
+18. A organização das abas e a navegação no processo eletrônico exigem mais, menos ou o mesmo número de cliques que no sistema SIM?
+
+O Sistema SIMP é mais eficiente que o sistema atual nesse aspecto
+
+19. O motor de busca permite localizar procedimentos usando palavras-chave do objeto da investigação e CNPJ/CPF dos investigados?
+
+O Sistema SIMP é mais eficiente que o sistema atual nesse aspecto
+
+20. Os relatórios estatísticos (Inventário, Produtividade) contemplam as especificidades exigidas pela Corregedoria para a área Cível? 
+
+O Sistema SIMP é mais eficiente que o sistema atual nesse aspecto
+
+IMPORTANTE
+
+O subtipo da classificação de Audiência não se encontra em conformidade com o Módulo Extrajudicial. 
+
+SEGUNDA PARTE
+
+2. ESPERADO O responsável deverá preparar uma Apresentação Executiva da avaliação, contendo os seguintes tópicos:
+
+Completude: O módulo atende plenamente ao MPPE? O que fazíamos no SIM que não conseguimos fazer no SIMP?
+
+Nível de Prontidão: Parecer final sobre a maturidade para migração.
+
+Pendências: Lista de gaps e funcionalidades ausentes ou incompletas.
+
+Pontos Críticos: Riscos de negócio, operacionais ou técnicos que podem travar o trabalho na ocasião.
+
+[Tabela] Sistema SIMP | Proposta para ÁREA DE CIDADANIA e PJe
+
+[Tabela] (CLASSES)
+- Cidadania e Consumidor 
+- Criminal
+- Cível
+- Eleitoral
+- Infância e Juventude
+- Juizado Especial Criminal 
+- Juizado Especial Cível 
+- Justiça Militar 
+- Meio Ambiente Natural
+- Meio Ambiente Urbanístico
+- Patrimônio Público
+- Violência Doméstica | (CLASSES)
+Agrário
+Cível 
+Crime contra Criança e Adolescente
+Consumidor
+Direitos Humanos
+Educação
+Eleitoral
+Fundações e Terceiro Setor
+Habitação e Urbanismo
+Infância e Juventude
+Juizado Especial Cível
+Juizado Especial Criminal
+Justiça Militar
+Meio Ambiente
+Patrimônio Público
+Penal
+Pessoa Idosa
+Saúde
+Transporte
+Violência Doméstica
+
+[Tabela] Sistema SIMP | Proposta para ÁREA DE CIDADANIA
+
+[Tabela] Aplicável apenas para o Módulo Judicial (PJe)
+
+Requerente 
+Requerido | Aplicável apenas para o Módulo Extrajudicial
+
+Noticiante/Noticiante Anônimo/Interessado
+
+OBS: Não cabe cadastro do investigado no Módulo Extrajudicial pelo servidor, tendo em vista que é matéria de apreciação do Membro, o qual determina solicitação para o setor competente, após análise da demanda

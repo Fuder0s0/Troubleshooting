@@ -1,0 +1,11 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena Configurações e considerações finais\Gestão pessoal e documentos.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+00:00 - 00:06	Clique no ícone de engrenagem e abertura do menu lateral.	"Para personalizar sua experiência, acesse as Configurações Pessoais no ícone de engrenagem. Aqui, é possível ajustar o tema, ativar o modo escuro e definir o layout do sistema."
+00:06 - 00:13	Clique em 'Ajustar' e visualização da Gestão do Gabinete.	"Ao selecionar 'Ajustar', você entra na Gestão do Gabinete. Nesta tela, definimos o Promotor responsável e o Responsável Eletrônico, que gerenciará os protocolos tramitados."
+00:13 - 00:22	Navegação pelos Coordenadores e Numeradores.	"Abaixo, visualize e edite a lista de Coordenadores locais. No menu lateral, o item 'Meus Numeradores' permite cadastrar e pesquisar sequenciais específicos para o seu fluxo de trabalho."
+00:22 - 00:35	Edição de Cabeçalho e Rodapé.	"Em 'Cabeçalho e Rodapé', personalize os dados da sua comarca e informações de contato. Lembre-se de clicar em Salvar para aplicar as alterações nos seus documentos oficiais."
+00:35 - 00:41	Transição para o sistema HERMES.	"O sistema também integra o HERMES, nossa ferramenta de gerenciamento de notificações e envio de e-mails."
+00:41 - 00:52	Configuração de notificações (tokens).	"Nas 'Preferências', você define quais notificações deseja receber por e-mail, como repasses de protocolo, tokens do SIMP e avisos de peticionamento eletrônico."
+00:53 - 01:05	Retorno à Gestão do Gabinete e encerramento.	"Voltando ao menu principal de configurações, você mantém o controle total sobre os responsáveis e fluxos do seu gabinete de forma centralizada e eficiente."

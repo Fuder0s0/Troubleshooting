@@ -1,0 +1,373 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\Fluxo  SIMP4 Atendimento ao Público (Notícia de Fato).pdf
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.76 MB
+
+--- [Página 1] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+1 
+ 
+História de usuário: Fluxo Atendimento ao Público (Notícia de Fato) 
+ 
+Etapa 1: O Cadastro do Protocolo (Notícia de Fato) 
+ 
+O fluxo se inicia quando uma nova "Notícia de Fato" (um tipo de Atendimento ao Público) precisa ser 
+registrada no sistema. 
+Quem Atua: Geralmente um servidor de uma unidade de cadastro ou um Centro de Apoio 
+Administrativo (CAAD). 
+Ação (Clicar): O usuário clica na opção de menu "Cadastrando Protocolo ou Atividade não 
+procedimental". 
+O que Acontece (Nova Tela): O sistema abre a tela de cadastro, que é um fluxo guiado dividido em 
+quatro etapas sequenciais: 
+Tela "Etapa Tipo de cadastro": O usuário seleciona a opção "Atendimento ao Público". 
+Tela "Etapa Classificação Taxonômica": O usuário define a Área, a Classe (selecionando "Notícia de 
+Fato") e o Assunto do protocolo, conforme as tabelas taxonômicas. 
+Tela "Etapa Dados Gerais": O usuário preenche informações essenciais como a data de instauração e 
+o resumo. 
+Tela "Etapa vínculo de Partes e Vítimas": O usuário pesquisa e vincula as partes envolvidas. 
+Resultado: Ao clicar em "Confirmar" na última etapa, o protocolo de Notícia de Fato é oficialmente 
+cadastrado e tramitado para o local de destino (a Promotoria). 
+ 
+Etapa 2: Recebimento no Gabinete Virtual 
+ 
+O protocolo foi tramitado para a Promotoria e agora precisa ser formalmente recebido pela equipe do 
+gabinete. 
+Quem Atua: Servidor ou Assessor do Gabinete. 
+Ação (Login): O usuário faz login. A tela principal exibida é a Área de Trabalho > Gabinete Virtual. 
+Ação (Clicar Pasta): Na barra superior de pastas, o usuário clica na pasta "A Receber". 
+O que Acontece (Atualização da Tela): A grid (lista) na parte inferior da tela é atualizada, exibindo todos 
+os protocolos que estão em trânsito para o usuário logado. 
+Ação (Clicar Checkbox): O usuário clica na caixa de seleção (checkbox) ao lado de um ou mais 
+protocolos que deseja receber. 
+Ação (Clicar Menu Lote): O usuário clica no ícone "Ações em lote" (representado por três pontos 
+verticais), localizado na barra de ferramentas da grid. 
+O que Acontece (Menu Dropdown): Um menu suspenso é exibido. 
+Ação (Clicar Receber): O usuário clica na opção "Receber protocolo". 
+Resultado: O sistema processa o recebimento. O(s) protocolo(s) desaparece(m) da lista da pasta "A 
+Receber" e agora podem ser visualizados na pasta "Recebidos". 
+ 
+Etapa 3: Distribuição ao Membro (Promotor) 
+ 
+O protocolo foi recebido pelo servidor/assessor, mas agora precisa ser formalmente distribuído 
+(atribuído) ao Promotor responsável. 
+Quem Atua: Servidor ou Assessor. 
+
+--- [Página 2] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+2 
+ 
+Ação (Clicar Pasta): O usuário está na Área de Trabalho > Gabinete Virtual e clica na pasta 
+"Recebidos". 
+O que Acontece (Atualização da Tela): A grid é atualizada, mostrando os protocolos que estão 
+fisicamente com o usuário logado. 
+Ação (Clicar Checkbox): O usuário clica na caixa de seleção (checkbox) de um ou mais protocolos que 
+deseja distribuir. 
+Ação (Clicar Menu Lote): O usuário clica no ícone "Ações em lote" (três pontos) na barra de 
+ferramentas. 
+O que Acontece (Menu Dropdown): Um menu suspenso aparece. 
+Ação (Clicar Distribuição): O usuário clica na opção "Distribuição". 
+O que Acontece (Nova Janela): Uma nova janela (popup) é aberta sobre a tela atual, chamada "Área 
+de Trabalho > Distribuição em Lote". 
+Detalhe da Nova Janela: A janela informa o número de processos selecionados. Exibe "Opções", onde 
+o usuário deve clicar em "Promotor", e "Tipo", onde o usuário escolhe "Automática", "Manual" ou 
+"Impedimento". 
+Ação (Clicar Botão): O usuário seleciona as opções e clica em "Distribuir com Tramitação" ou "Distribuir 
+sem Tramitação". 
+Resultado: O sistema processa a distribuição. O protocolo é atribuído ao Membro e (se tramitado) sai 
+da pasta "Recebidos" do usuário. 
+ 
+Etapa 4: Criação da Minuta (Rascunho da Decisão) 
+ 
+Com o protocolo distribuído ao Membro, a equipe (assessor/servidor) prepara a manifestação (ex: 
+promoção de arquivamento, instauração de procedimento) em forma de "Minuta" (rascunho). 
+Quem Atua: "Qualquer pessoa pode criar uma Minuta" (geralmente Assessor ou Servidor). 
+Ação (Acessar Protocolo): O usuário localiza o protocolo (pela busca ou no Gabinete Virtual) e clica no 
+número SIMP4, que é um link. 
+O que Acontece (Nova Tela): O sistema abre a tela de "Detalhe do Protocolo". 
+Ação (Clicar Botão): O usuário clica no botão "Criar minuta", localizado na barra de ferramentas do 
+protocolo. 
+O que Acontece (Fluxo): O sistema cria a minuta. Esta minuta é automaticamente definida com a 
+situação "Pendente", aguardando a revisão do Membro. 
+Resultado: A minuta agora aparece na lista da tela Minutas > Pendentes. 
+ 
+Etapa 5: Revisão da Minuta pelo Membro 
+ 
+O Membro (Promotor) deve agora analisar, corrigir e aprovar ou devolver a minuta pendente. 
+Quem Atua: O Membro (Promotor Titular ou Substituto). 
+Ação (Acessar Tela): O Membro (Promotor) clica no item de menu Minutas > Pendentes (localizado no 
+menu lateral esquerdo do SIMP). 
+O que Acontece (Nova Tela): O sistema exibe a tela Minutas > Pendentes. 
+Detalhe da Tela: Esta tela é uma grid (lista) de minutas aguardando aprovação. Possui as colunas: 
+"Aprovar minuta", "Minuta" (título), ícones (visualizar, membro distribuído), "SIMP / Nº Único", "Usuário 
+responsável", "Data", "Descartar". 
+
+--- [Página 3] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+3 
+ 
+Ação (Clicar Link): O Membro localiza a minuta que deseja revisar e clica no link de texto na coluna 
+"Aprovar minuta". 
+O que Acontece (Nova Aba): Uma nova aba é aberta no navegador. Esta aba exibe a tela "Edição da 
+minuta". 
+Detalhe da Nova Aba: à esquerda: Campos "Protocolo", "Dados Minuta" (Título), "Movimento" (tipo de 
+movimento associado). 
+À direita: Um editor HTML (editor de texto) com o conteúdo da minuta para edição. 
+Na parte inferior: Botões de decisão: "Salvar e Aprovar", "Salvar e Devolver para correção", "Descartar" 
+e "Cancelar e Voltar". 
+ 
+Etapa 5.1: Decisão do Membro (Opção A: Devolver para Correção) 
+ 
+Se a minuta não estiver pronta, o Membro a devolve. 
+Quem Atua: Membro. 
+Ação (Clicar Botão): Na tela (aba) "Edição da minuta", o Membro clica no botão "Salvar e Devolver 
+para correção". 
+O que Acontece: A aba de edição é fechada. O sistema altera a situação da minuta para "Devolvida 
+para correção". 
+Resultado: A minuta desaparece da lista Minutas > Pendentes e agora aparece na lista Minutas > 
+Devolvidas. 
+Ação (Assessor): O "Usuário criador (não membro)" (Assessor) clica no menu Minutas > Devolvidas, 
+localiza a minuta e clica em "Corrigir minuta". 
+O que Acontece (Correção): Uma nova aba de "Edição da minuta" é aberta. 
+Ação (Assessor): O Assessor corrige o texto e clica no botão "Salvar". 
+Resultado (Correção): A minuta volta para a situação "pendente de aprovação" e retorna à lista 
+Minutas > Pendentes do Membro. O fluxo volta à Etapa 5. 
+ 
+Etapa 5.2: Decisão do Membro (Opção B: Aprovar) 
+ 
+O Membro concorda com a minuta e a aprova. 
+Quem Atua: Membro. 
+Ação (Clicar Botão): Na tela (aba) "Edição da minuta", o Membro clica no botão "Salvar e Aprovar". 
+O que Acontece (Popup): O sistema salva a aprovação. Imediatamente, uma janela (popup) 
+"Confirmar" surge sobre a tela de edição. 
+Detalhe do Popup: Exibe o texto "Deseja cadastrar um Movimento no protocolo com a minuta 
+aprovada?". 
+Exibe o Botão 1: "Criar movimento agora". 
+Exibe o Botão 2: "Assinar e retornar ao criador". 
+Resultado: O Membro deve clicar em um dos dois botões para prosseguir. 
+ 
+Etapa 6: Movimentação (Uso da Minuta Aprovada) 
+ 
+A minuta aprovada (Etapa 5.2) agora é usada para registrar o movimento oficial no protocolo (ex: 
+Promoção de Arquivamento, Instauração de Procedimento). 
+ 
+
+--- [Página 4] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+4 
+ 
+Opção A: Clicar em "Criar movimento agora" 
+Quem Atua: Membro. 
+Ação (Clicar Botão Popup): O Membro clica no botão "Criar movimento agora" no popup. 
+O que Acontece (Verificação): O sistema verifica se o Membro é o "detentor atual" do protocolo. 
+Se NÃO for o detentor: Uma nova janela (popup) "Aviso de repasse do protocolo" é exibida. O Membro 
+clica no botão "Repassar protocolo". O sistema repassa o protocolo para o Membro e prossegue. 
+Se for o detentor: O sistema prossegue direto. 
+Resultado (Nova Tela): O sistema abre a tela de "Movimentar". A tela já vem com todos os dados da 
+minuta aprovada preenchidos (tipo de movimento, texto no editor, etc.). O fluxo segue para a Etapa 7. 
+ 
+Opção B: Clicar em "Assinar e retornar ao criador" 
+Quem Atua: Membro (para assinar) e depois o Assessor (para movimentar). 
+Ação (Clicar Botão Popup): O Membro clica no botão "Assinar e retornar ao criador". 
+O que Acontece (Assinatura): O sistema abre a tela de assinatura de documentos. O Membro assina. 
+Importante: Isso ainda não registra o movimento. A aba de edição da minuta é fechada. 
+Resultado (Membro): A minuta agora é listada na tela Minutas > Aprovadas. 
+Ação (Assessor): O Assessor (Usuário criador) clica no item de menu Minutas > Aprovadas. 
+O que Acontece (Tela Assessor): O sistema exibe a tela Minutas > Aprovadas. 
+Ação (Clicar Link Assessor): O Assessor localiza a minuta (agora assinada) e clica no link de texto na 
+coluna "Criar movimento". 
+O que Acontece (Nova Aba): Uma nova aba é aberta no navegador exibindo a tela de "Movimentar". 
+Detalhe da Tela: a tela já vem com todos os dados da minuta preenchidos. O fluxo segue para a Etapa 
+7. 
+ 
+Etapa 7: Registro do Movimento (Decisão da Notícia de Fato) 
+ 
+Neste ponto, o usuário (Membro ou Assessor) está na tela "Movimentar" com os dados da minuta 
+aprovada carregados (ex: "Promoção de Arquivamento", "Instauração de Inquérito Civil", etc.). 
+Quem Atua: Membro ou Assessor (quem estiver na tela "Movimentar"). 
+Ação (Tela Movimentar): O usuário confere os dados. Para uma Notícia de Fato, o objetivo é (A) 
+arquivar ou (B) converter em um procedimento. 
+Ação (Clicar Botão): O usuário clica no botão principal para confirmar a movimentação (ex: "Salvar" ou 
+"Movimentar"). 
+Resultado: O movimento é registrado no SIMP4. 
+Se o movimento for "ATOS FINALISTICOS -> Arquivamento" ou similar: O prazo do protocolo é 
+encerrado, e ele é tramitado para a unidade de arquivo. O fluxo segue para a etapa 8. 
+ 
+Etapa 8 (Opção A: Arquivamento). 
+ 
+Se o movimento for "Instauração de Procedimento" (ou o usuário decidir Autuar): o fluxo 
+segue para a Etapa 8 (Opção B: Autuação). 
+ 
+Etapa 8 (Opção A): Arquivamento (Fim do Fluxo) 
+O protocolo foi tramitado para a unidade de arquivo. 
+Quem Atua: "pessoas lotadas na Gerência de Documentação e Arquivo". 
+
+--- [Página 5] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+5 
+ 
+Ação (Acessar Gabinete): O usuário do Arquivo acessa seu Área de Trabalho > Gabinete Virtual. 
+Ação (Clicar Pasta): O usuário clica na pasta "Recebidos". 
+Ação (Clicar Checkbox): O usuário marca os protocolos que chegaram para arquivamento. 
+Ação (Clicar Menu Lote): O usuário clica no ícone "Ações em lote" (três pontos). 
+O que Acontece (Menu Dropdown): Um menu suspenso aparece. 
+Ação (Clicar Arquivamento): O usuário clica na opção "Arquivamento". 
+O que Acontece (Nova Janela): Uma nova janela (popup) é aberta, chamada "Área de Trabalho > 
+Arquivar em lote". 
+Detalhe da Nova Janela: Informa o número de processos selecionados. Exibe campos para 
+localização física: "Armário", "Prateleira", "Caixa", "Estante", "Descrição" . 
+Ação (Clicar Botão): O usuário preenche os campos de localização e clica no botão "Arquivar". 
+Resultado: O sistema processa o arquivamento. Os protocolos são movidos para o arquivo e saem 
+da pasta "Recebidos" do usuário, finalizando o fluxo. 
+ 
+Etapa 8 (Opção B): Autuação (Conversão do Procedimento) 
+ 
+A decisão foi converter a Notícia de Fato em um procedimento investigatório (ex: Inquérito Civil). 
+Quem Atua: Servidor, Assessor ou Membro. 
+Ação (Acessar Protocolo): O usuário localiza a Notícia de Fato e acessa a tela "Detalhe do 
+Protocolo". 
+Ação (Clicar Botão): O usuário clica no botão "Autuar" na barra de ferramentas. 
+O que Acontece (Nova Tela): O sistema abre a tela de "Autuar". Esta tela é idêntica ao fluxo de 
+cadastro (Etapa 1). 
+Detalhe da Nova Tela: O usuário deverá preencher as 4 etapas novamente, mas agora para o novo 
+protocolo: 
+Tela "Etapa Tipo de cadastro": Seleciona "Protocolo". 
+Tela "Etapa Classificação Taxonômica": Seleciona a nova Classe (ex: "Inquérito Civil"). 
+Tela "Etapa Dados Gerais": Preenche os dados do novo procedimento. 
+Tela "Etapa vínculo de Partes e Vítimas": Vincula as partes (o sistema pode sugerir as partes do 
+protocolo original). 
+Resultado: Ao confirmar, a Notícia de Fato original tem seu prazo encerrado automaticamente (pois 
+foi convertida). Um novo protocolo (Inquérito Civil) é criado e inicia seu próprio fluxo. O fluxo da 
+Notícia de Fato termina. 
+*** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Etapa Ação Principal Quem Atua Detalhes e Diferença do Fluxo 
+
+--- [Página 6] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+6 
+ 
+1 O Cadastro do 
+Protocolo 
+Servidor (ou CAAD) Diferenciação Principal: Inicia-se via 
+Cadastrando Protocolo ou 
+Atividade não procedimental 
+e seleciona Atendimento ao 
+Público e Classe "Notícia de Fato". 
+2 Recebimento no 
+Gabinete Virtual 
+Servidor/Assessor Usuário acessa Área de Trabalho 
+> Gabinete Virtual, clica na 
+pasta A Receber, seleciona o(s) 
+protocolo(s) e clica em Ações em 
+lote > Receber protocolo. 
+3 Distribuição ao 
+Membro (Promotor) 
+Servidor/Assessor Acessa a pasta Recebidos, 
+seleciona, clica em Ações em lote 
+> Distribuição, escolhe 
+Promotor e Tipo de distribuição. 
+4 Criação da Minuta 
+(Rascunho da Decisão) 
+Assessor/Servidor Acessa o Detalhe do Protocolo 
+e clica em Criar minuta. A minuta 
+fica com situação Pendente. 
+5 Revisão da Minuta Membro (Promotor) Acessa Minutas > Pendentes. 
+Pode Salvar e Devolver para 
+correção ou Salvar e Aprovar. 
+6 Movimentação (Uso da 
+Minuta Aprovada) 
+Membro ou Assessor Após aprovação, o Membro escolhe 
+entre: Opção A (Criar movimento 
+agora) ou Opção B (Assinar e 
+retornar ao criador). 
+7 Registro do Movimento 
+(Decisão da Notícia de 
+Fato) 
+Membro ou Assessor Diferenciação Principal: Na tela 
+Movimentar, a decisão é por 
+Arquivar ou Converter/Autuar em 
+procedimento. Não há preparação para 
+peticionamento PJe. 
+
+--- [Página 7] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+7 
+ 
+8 Etapa Final: 
+Arquivamento ou 
+Autuação 
+Arquivo/Servidor/Assess
+or/Membro 
+Opção A (Arquivamento): Se o 
+movimento for arquivamento, o 
+protocolo vai para a unidade de 
+arquivo. Pessoas do Arquivo recebem 
+em A Receber, e clicam em Ações 
+em lote > Arquivamento, 
+preenchem localização e Arquivar. 
+(Fim do fluxo).Opção B 
+(Autuação/Conversão): Se for 
+instauração de procedimento, o 
+usuário clica em Autuar no Detalhe 
+do Protocolo, iniciando as 4 etapas 
+de cadastro para o novo protocolo (ex: 
+Inquérito Civil, inquérito criminal). O 
+fluxo da Notícia de Fato termina e o 
+novo procedimento começa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

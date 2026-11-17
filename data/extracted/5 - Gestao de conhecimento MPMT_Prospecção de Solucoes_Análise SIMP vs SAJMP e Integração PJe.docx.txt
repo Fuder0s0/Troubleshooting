@@ -1,0 +1,171 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Análise SIMP vs SAJMP e Integração PJe.docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.02 MB
+
+Análise SIMP vs SAJMP e Integração PJe
+
+Fundamentada em manuais, documentos e extratos dos sistemas SIMP (Sistema Integrado do Ministério Público) e SAJMP (Sistema de Automação da Justiça - módulo Ministérios Públicos) utilizados por outros Ministérios Públicos brasileiros, e partindo da premissa de que o TJPE (Tribunal de Justiça de Pernambuco) opera com a plataforma PJe, apresenta-se esta análise comparativa das vantagens e desvantagens de cada sistema. O estudo concentra-se na integração com o PJe, buscando identificar semelhanças, diferenças e considerações sobre a viabilidade de implementação no MPPE (Ministério Público de Pernambuco).
+
+Ambos os sistemas, SIMP e SAJ, são ferramentas informatizadas centrais para a gestão das atividades-fim do Ministério Público. Seus objetivos primários incluem o controle de protocolos judiciais e extrajudiciais, gerenciamento de fluxo e movimentações, arquivamento, e o provimento de relatórios para aferir a atuação e subsidiar a tomada de decisões estratégicas. Ambos foram desenvolvidos para atender, em parte, à padronização e uniformização das terminologias através das Tabelas Unificadas de Taxonomia instituídas pelo Conselho Nacional do Ministério Público (CNMP).
+
+Semelhanças Principais:
+
+Gestão Integrada: Ambos integram a gestão de procedimentos judiciais e extrajudiciais em uma única plataforma.
+
+Conformidade com Taxonomia do CNMP: Ambos utilizam as Tabelas Unificadas de Taxonomia do CNMP para classificação de classes, assuntos e movimentos.
+
+Funcionalidades Essenciais: Oferecem cadastro de protocolos, gerenciamento de prazos, diversas opções de consulta e pesquisa, emissão de relatórios, gestão de documentos e modelos, e funcionalidades de peticionamento eletrônico.
+
+Pastas Digitais: Ambos diferenciam entre documentos internos do MP e o acesso aos autos completos do Judiciário. SAJMP explicitamente descreve "Pasta Digital do MP" e "Pasta Digital do TJ" (acessando dados do TJ), enquanto SIMP menciona acesso a painéis de controle judicial integrado ao PJe.
+
+Controle de Partes: Permitem o cadastro e vínculo de partes (físicas/jurídicas) aos protocolos, embora com diferentes regras (SIMP3 vincula parte a apenas 1 protocolo pelo CPF/CNPJ, agilizando edição, como também possibilita o monitoramento da parte).
+
+Diferenças Destacadas:
+
+Abrangência e História: O SIMP, desenvolvido pela equipe de TI do Ministério Público do Mato Grosso, tem um histórico mais longo e é explicitamente mencionado como adotado por diversas unidades do Ministério Público em outros Estados (MPMT, MPPA, MPPI, MPMA, MPRR), inclusive através de termos de cooperação. O SIMP passou por várias versões (SIMP, SIMP 2, SIMP 3, SIMP3+ e SIMP4)). Por sua vez, o  SAJMP, criado pela SOFTPLAN a partir do sistema SAJ/e-SAJ, é mencionado em manuais dos MPMS e MPAL, e há indicação de uso também nos MPSP, MPAC, MPAM, MPCE e MPPA conforme consulta e pesquisa nos sítios eletrônicos destes e da empresa mencionada. No MPPA  temos a informação de utilização de ambos os sistemas (SIMP e SAJ em implantação)..
+
+Gestão de Protocolos Físicos: O SIMP explicitamente gerencia protocolos físicos e eletrônicos, distinguindo-os apropriadamente. O SAJMP foca primariamente em procedimentos eletrônicos, embora mencione fluxo para digitalização de Inquéritos Policiais físicos.
+
+Integrações Específicas: O SIMP possui integrações mencionadas com o PJe (Judiciário), GEIA (Polícia Civil - Autos de Prisão/Apreensão), GEDOC (sistema de comunicação do MPMT e MPPA) e GEACOR (plenário virtual). O SAJMP possui integrações mencionadas com SAJ-TJ (sistema do TJMS, p.ex), PJe Eleitoral, e limitações com serviço MNI do SEEU para peticionamento inicial. SAJMP permite acesso direto ao banco de dados do TJ via integração para visualizar autos completos.
+
+Funcionalidades Únicas:
+
+SIMP: Utiliza uma metodologia de "contador" para distribuição equânime de protocolos entre membros e assessores. Possui funcionalidade de "Igualar Contador" para gestão administrativa da distribuição. Oferece "Assistente Virtual". Permite emitir Certidões.
+
+SAJMP: Permite a inclusão de "informações complementares" não oriundas do Judiciário para estudos estatísticos e relatórios ao CNMP. Inclui um módulo de gravação de audiência e importação de mídias externas. Possui a funcionalidade de "Tarjas" (do MP e do TJ) para identificação visual dos processos. Suporta "solicitação de apoio" entre órgãos do MP via sistema. Detalha fluxos específicos para digitalização e dilação de prazo de IP e conversão de PP em IC.
+
+Peticionamento: O SAJMP detalha fluxos para peticionamento intermediário e menciona considerações e limites de tamanho para peticionamento inicial. No SIMP temos peticionamento no PJe e possibilidade desse peticionamento em lote (inclusive para protocolos SEEU)
+
+Tipos de Consulta: Enquanto ambos têm consultas simples e avançadas, o SIMP lista consultas específicas para documentos/pareceres e atividades não procedimentais. O SAJMP lista consultas como: básica, avançada e "aberta" (sem exigir período de cadastro).
+
+Análise de Completude e Adequação para o MPPE:
+
+Ambos os sistemas parecem ser plataformas robustas e completas para a gestão das atividades do Ministério Público, cada uma com seus pontos fortes.
+
+O SIMP demonstra ser um sistema amplamente adotado e com um histórico de evolução, o que pode indicar maturidade e capacidade de adaptação. Sua capacidade explícita de gerenciar protocolos físicos e eletrônicos simultaneamente pode ser um diferencial crucial se o MPPE ainda possui um volume significativo de processos físicos em transição para o meio digital, ou se prevê a gestão contínua de alguns fluxos físicos. A metodologia de distribuição "contador" visa garantir equidade, o que pode ser uma característica importante para a gestão institucional.
+
+O SAJMP destaca-se por funcionalidades específicas que podem ser de grande valor estratégico, como a inclusão de "informações complementares" para aprimorar a coleta de dados e relatórios ao CNMP, o módulo de gravação de audiências, e a gestão de "solicitação de apoio" interno. Sua integração detalhada com sistemas SAJ-TJ pode ser particularmente um impeditivo ou dificultador, pois o Judiciário em Pernambuco utiliza o sistema PJe.
+
+Determinar qual é o mais completo e adequado para o MPPE requer uma análise mais aprofundada das necessidades específicas, infraestrutura tecnológica atual e fluxos de trabalho do MPPE, bem como uma avaliação detalhada da compatibilidade e nível de integração oferecido por cada sistema com os sistemas do Poder Judiciário de Pernambuco. Ambos seguem a taxonomia do CNMP, o que é um requisito fundamental. A escolha ideal dependerá de qual conjunto de funcionalidades (ampla gestão de físico/eletrônico e distribuição equitativa vs. coleta detalhada de dados, gestão de mídias e apoio interno) e qual histórico de integração com os sistemas locais (PJe, sistemas do TJPE, da Polícia Civil e etc) melhor se alinha com os requisitos e prioridades do MPPE.
+
+Demonstração Detalhada: SIMP vs. SAJMP e Integração PJe
+
+Considerando que o Tribunal de Justiça de Pernambuco (TJPE) utiliza a plataforma PJe (e não SAJ-TJ), apresento a análise das vantagens e desvantagens na adoção de cada sistema, com foco especial na integração com o PJe.
+
+Sistema SIMP: Integração com o PJe (conforme manuais/extratos)
+
+As fontes indicam que o SIMP foi moldado para o MP desempenhar suas atividades ministeriais, operarando em um ambiente virtualizado e integrado com o PJe do TJ. Ele possui funcionalidades explícitas dedicadas à integração PJe.
+
+Recebimento Automático de Intimações: As intimações remetidas pelo Poder Judiciário (PJe) ao Ministério Público são listadas no SIMP. Esta lista inclui a data limite para ciência e pode ser associada a protocolos SIMP existentes. A integração busca novas intimações periodicamente. A intenção é que as intimações entrem no sistema do MP.
+
+
+Visualização de Expedientes PJe: Existem painéis específicos (Judicial, SEEU  e Eleitoral) no SIMP voltados aos expedientes PJe. Tais painéis agrupam informações de Expedientes Judiciais do SIMP e protocolos Judiciais do SIMP, tanto de 1ª quanto de 2ª instância. O foco principal é o controle dos protocolos que chegam ao MPE.
+
+
+Peticionamento Eletrônico no PJe: O SIMP suporta o peticionamento. É mencionada a funcionalidade de "Peticionamento em lote PJe" e petição inicial via integração SIMP-PJe. A página "Peticionamento em lote PJe" na Área de Trabalho permite visualizar protocolos pendentes de peticionamento em lote no PJe. A funcionalidade "Petição Inicial" é utilizada para fazer um ajuizamento através da integração SIMP-PJE.
+
+
+Consulta de Dados do PJe: O SIMP menciona a consulta de dados do PJe. Ao visualizar um protocolo no SIMP, dados do PJe são exibidos em aba à parte. Os painéis do sistema listam as intimações com o Nº Único obtido do PJe. Quando um protocolo é adicionado no recebimento em lote, o sistema exibe o Nº Único do TJ.
+
+
+Cadastro Aproveitando Informações do PJe: Na aba dos painéis disponíveis no sistema, caso não exista um protocolo SIMP associado, é exibido um botão "SIMP: Cadastrar" para realizar o cadastramento, aproveitando informações do PJe.
+
+
+Objetivo de Centralização: Um dos pilares do projeto de virtualização no MPMT, que utiliza o SIMP, foi a adoção do PJe pelo TJ, transformando a integração em uma realidade possível. Não há informação nos manuais sobre a possibilidade de se peticionar, ser intimado, realizar juntadas e acompanhar todos os processos judiciais diretamente no SIMP, sem a necessidade de usar os sistemas do TJ, porém, o histórico de movimentos do protocolo sugere a integração total com o PJe quanto a estes atos.
+
+
+Limitações na Integração PJe (conforme manuais/extratos):
+
+
+Considerando os dados limitados que o PJe disponibiliza ao SIMP, há regras a serem observadas:
+
+As intimações são listadas por comarca, sem identificação do membro ou gabinete associado.
+
+A lista de intimações é a mesma para todos os usuários da comarca.
+
+As intimações em Agravos de Instrumento não são listadas.
+
+O cálculo da data limite para ciência não leva em consideração feriados, pontos facultativos do judiciário e eventuais extensões de prazo.
+
+O SIMP localiza protocolos associados unicamente através do Número Único.
+
+Novas intimações são buscadas de 30 em 30 minutos, conforme disponibilidade do sistema PJe.
+
+Sistema SAJMP: Integração com o PJe (conforme manuais/extratos)
+
+O SAJMP é descrito como um sistema para gestão de procedimentos judiciais, extrajudiciais e outros. Ele possui funcionalidades de integração.
+
+Integração com PJe Eleitoral: O SAJMP está integrado ao sistema PJe – Zona Eleitoral. Esta integração permite a importação de processos, o cadastro automático de intimações e o peticionamento (inclusive em bloco).
+
+
+Peticionamento Intermediário: O sistema suporta o peticionamento intermediário via integração com o PJe. A fase de peticionamento intermediário é realizada da mesma forma que na integração com o Judiciário geral (SAJ-TJ). Os documentos precisam estar assinados digitalmente e o Promotor de Justiça peticionante deve estar cadastrado no sistema PJe.
+
+
+Importação Manual: O SAJMP permite a importação manual dos processos do PJe Eleitoral que não estão em carga, mas que se pretende o peticionamento.
+
+
+Recebimento de Intimações (PJe Eleitoral): Depois de habilitada a integração para o órgão de execução eleitoral, as intimações passam a entrar no sistema, realizando o cadastro do Processo.
+
+
+Desvantagens na Integração PJe (conforme manuais/extratos):
+
+
+Foco na Integração SAJ-TJ: Uma força significativa documentada do SAJMP reside na sua integração com o sistema SAJ do Tribunal de Justiça (SAJ-TJMS). Essa integração permite acessar a Pasta Digital do TJ diretamente na base de dados do TJ. Como o TJPE utiliza PJe, essa vantagem central seria, em grande parte, inutilizada.
+
+Limitações no Peticionamento Inicial (PJe/SEEU): O manual do SAJMP/MS explicitamente menciona que a opção de peticionamento inicial com o SEEU (um sistema PJe) ainda não foi implementada. Isso levanta dúvidas sobre a capacidade de peticionamento inicial no PJe geral do TJPE.
+
+Foco Documentado no PJe Eleitoral: Embora mencione integração PJe, a documentação detalhada no PJe parece focada na variante Eleitoral, o que pode indicar menor robustez ou cobertura para outras áreas do PJe (Cível, Criminal, etc.) utilizadas pelo TJPE.
+
+Em síntese, o SIMP demonstra um foco documentado mais amplo na integração com o PJe geral, visando centralizar as operações judiciais, apesar de suas limitações reportadas na obtenção de dados do PJe. O SAJMP, por outro lado, destaca-se pela integração com sistemas da família SAJ-TJ (que não se aplica ao TJPE) e tem sua integração PJe documentada com maior detalhe para a variante Eleitoral, com uma limitação explícita no peticionamento inicial em SEEU.
+
+Conclusão:
+
+Síntese para o MPPE (ambiente PJe):
+
+Considerando que a integração fluida e abrangente com o sistema do Poder Judiciário (PJe) é um requisito crítico para o MPPE, o SIMP parece ter uma estratégia de integração com o PJe mais alinhada e documentada nos materiais fornecidos, buscando centralizar as operações PJe dentro do próprio sistema do MP. Embora sua integração PJe tenha limitações documentadas, seu objetivo declarado de permitir que o usuário opere o PJe primariamente a partir do SIMP e suas funcionalidades específicas para Expedientes PJe e peticionamento em lote são pontos fortes neste cenário.
+
+Por outro lado, a principal vantagem de integração do SAJMP documentada nos manuais (acesso direto à pasta digital do TJ via integração SAJ-TJ) não se aplicaria a um ambiente TJPE PJe. Suas funcionalidades PJe documentadas parecem mais restritas (foco em PJe Eleitoral) e explicitamente deficientes em aspectos críticos como peticionamento inicial em SEEU, o que levanta dúvidas sobre sua capacidade de lidar com o PJe geral do TJPE.
+
+Portanto, embora ambos os sistemas atendam às necessidades básicas de gestão de MP e estejam alinhados à taxonomia do CNMP, o SIMP demonstra, pelos materiais, uma base de integração com PJe mais promissora para o contexto do TJPE, mesmo que com limitações a serem avaliadas.
+
+Com base nas informações colhidas, apresento o estudo comparado entre os sistemas SIMP e SAJ, estruturado em uma tabela para facilitar a visualização das diferenças e semelhanças:
+
+[Tabela] Característica / Funcionalidade | SIMP | SAJMP
+
+[Tabela] Objetivo Principal | Implantar Tabelas Unificadas de Taxonomia do CNMP, gerenciar protocolos judiciais e extrajudiciais, controle de prazos, relatórios, gestão de documentos. | Gestão de procedimentos judiciais, extrajudiciais e outros. Conforme Taxonomia CNMP. Coleta de dados para estudos estatísticos e relatórios CNMP.
+
+[Tabela] Adoção/Uso Mencionado | MPMT, MPRR, MPPI, MPMA, MPPA. Menção a termos de cooperação com MPAC e MPAM | MPMS, MPAM, MPAL, MPPA, MPSP, MPAC e MPCE
+
+[Tabela] Conformidade CNMP (Taxonomia) | Utiliza Tabelas Unificadas de Taxonomia do CNMP. Permite cadastro da classificação informada pelo Judiciário. Glossário disponível para itens taxonômicos. | Utiliza Taxonomia CNMP.
+
+[Tabela] Gestão de Protocolos (Tipos) | Gerencia Protocolo (Judicial/Extrajudicial), Atendimento ao Público, Ouvidoria, Atividade Não Procedimental. Distingue protocolo físico/eletrônico. | Gerencia cadastros (tipo de cadastro). Menciona Inquérito Policial, procedimentos judiciais e extrajudiciais. Foco em eletrônico, mas com fluxos de importação/digitalização (ex: IP).
+
+[Tabela] Cadastro de Protocolo | Etapas: Seleção do tipo, Classificação Taxonômica, Dados Gerais, Vínculo de Partes. Campos obrigatórios em amarelo. Dados Específicos conforme Área/Classe. | Abas: Dados gerais (foro, área, competência, classe, assunto), Pessoas (partes). Permite inclusão de informações complementares.
+
+[Tabela] Gestão de Partes | Vínculo de Partes na etapa de cadastro. Vínculo a um ou mais assuntos. Pesquisa por nome, CPF, RG, CNPJ. Exibe dados da parte encontrada. Polo Ativo/Passivo e Vítimas. Polo Ativo e Vítimas vinculados a todos os assuntos. Permite alterar/desvincular partes (com restrições se cadastrada por outro local). | Aba Pessoas: informações sobre tipo de participação, nome, tipo de pessoa, endereço, contato.
+
+[Tabela] Movimentação | Lançamento de movimentos com Tipo, Complemento (obrigatório em alguns casos), Editor de texto para detalhamento. Atos Finalísticos para produtividade. Registro no histórico de movimentações. Permite incluir mídias (com limites). Integração com BAPRE para TACs. | Lançamento manual de movimentações com Tipo e Complemento. Possível inserir dados de prazo/compromisso na aba de lançamento. Histórico de movimentações.
+
+[Tabela] Modelos e Minutas | Minutas (rascunhos) vinculadas a protocolo, gerenciadas por fluxo (Pendentes, Devolvidas, Aprovadas), visíveis por Membros e Usuários criadores. Ícone de Minuta no detalhe do protocolo com cores por situação. Modelo para reutilização de textos de peças processuais. | Gerenciamento de Modelos (Meus Modelos, Institucionais, Grupo). Localização e edição via gerenciador de arquivos. Permite compartilhamento de modelos. Utilização de campos automáticos em modelos.
+
+[Tabela] Prazos e Pendências | Controle de prazos relacionados a protocolos. Visualização em calendário. Diferentes tipos de prazos (Protocolo, Alerta, Movimento, Atividade Não Procedimental). Relatório específico de Controle de Prazos. | Consulta se o processo possui pendência/prazo. Criação de pendência/prazo novo. Inserção de dados de prazo na movimentação. Obrigações continuadas/parceladas. Exibe pendências vencidas e a vencer (até 10 dias) na tela inicial. Agenda de compromissos do órgão.
+
+[Tabela] Consultas e Pesquisa | Diversas opções de consulta: por protocolo (simples/avançada), por documentos/pareceres, por atividade não procedimental. Consulta por qualquer termo na grid. Filtros por instância, local, membro, datas, classificação, partes. Considera processos sigilosos de forma restrita na consulta por protocolo. | Consulta Básica (órgão, situação, tipo, objeto, área, assunto - requer data). Consulta Avançada (campos adicionais como parte, movimentações, filiação). Permite exibir conteúdo ao passar mouse sobre item na grid.
+
+[Tabela] Relatórios Gerenciais | Ampla variedade de relatórios: Produtividade, Inventário, Distribuição, Maria da Penha, Entrada e Saída, TACs, Prazos, Avaliação de Membros, Numeradores, Protocolos Enviados. Relatórios com diferentes layouts (Analítico, Sintético, Resumido). | Finalidade de relatórios de atuação, mapeamentos estratégicos. Exibição gráfica do acervo na tela inicial.
+
+[Tabela] Fluxo de Trabalho / Gestão da Carga | Área de Trabalho como espaço principal. Abas (Protocolos, Análise, Favoritos, Prazos, Recebimento em Lote). Gabinete Virtual como forma principal de gerenciamento a partir do SIMP 3.0, com pastas fixas (Recebidos, A Receber, No Meu Local) e criação de pastas extras. Funcionalidades em lote (Distribuição, Movimento, Imprimir, Arquivar). Recebimento/Repasse em lote. Distribuição com contador. Igualar Contador. | Tela inicial. Abas na janela de cadastro. Fluxo de trabalho com filas (Mover para outra fila, Alocar, Liberar). Anotações digitais visíveis no fluxo. Histórico do cadastro no fluxo.
+
+[Tabela] Integrações | PJe (Expedientes PJe, Peticionamento em lote PJe, consulta dados PJe). GEIA (Autos de Prisão/Apreensão). GEDOC (Comunicação). BAPRE (TACs). | SAJ-TJ (importação de dados básicos do IP). PJe Eleitoral. MNI SEEU (mencionado no contexto de PJe/SEEU, mas com ressalvas no peticionamento inicial). Permite acesso à Pasta Digital do TJ (SAJ-TJ).
+
+[Tabela] Peticionamento Eletrônico | Peticionamento Externo (recebimento - ex: juntada, solicitação de cópia, habilitação). Peticionamento em lote PJe. | Peticionamento inicial (ex: Eleitoral, com classificação específica). Menção a limitações com serviço MNI do SEEU para peticionamento inicial. Peticionamento intermediário [Manual SAJMP].
+
+[Tabela] Gestão de Documentos/Mídias | Mídias suportadas (MP4, AVI, MP3) com limites. Documentos anexados (PDF, MP3, AVI, imagens). Visualizador de documentos. Documentos vinculados em movimentos. | Módulo de gravação de audiência (gravação, reprodução, importação de mídias externas MP4, AVI, MP3). Mídias disponíveis em editor de texto, pasta digital MP, consultas. Pasta Digital (acesso a documentos do MP).
+
+[Tabela] Sigilo | Marcação de protocolo como sigiloso. Restrição de visualização (detentor atual, membro distribuído). Informação de sigilo exibida na lista e detalhe (ícone). Restrições em consultas/relatórios. | Tarjas (do MP e do TJ).
+
+[Tabela] Outras Funcionalidades Únicas | Numeradores (cadastro e utilização de dígitos numéricos para documentos). Assistente Virtual (mencionado) [Manual SIMP]. Favoritos (marcação e acompanhamento de protocolos importantes). Cabeçalho e Rodapé personalizáveis para documentos/impressão. Lista de substituição de membros | Informações Complementares para IP (dados adicionais para estatísticas/CNMP). Módulo de gravação de audiência. Tarjas. Solicitação de Apoio (inferred from Alocar/Liberar para usuários/equipe). Anotações digitais. Agenda de compromissos do órgão.
+
+[Tabela] Virtualização/Processos Eletrônicos | Menciona novos fluxos de trabalho para procedimentos eletrônicos, mantendo passos similares ao físico com vantagens. Protocolo eletrônico deve representar fielmente o físico. | Menciona importação de dados básicos do IP via integração.
+
+[Tabela] Suporte e Dúvidas | Central de Serviços (telefone, e-mail) para suporte técnico. Dúvidas Jurídicas e gerenciamento de fluxos (Corregedoria/DTI). | Não detalhado nos manuais fornecidos.

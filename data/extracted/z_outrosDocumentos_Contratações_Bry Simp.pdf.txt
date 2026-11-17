@@ -1,0 +1,52 @@
+DOCUMENTO: z_outrosDocumentos\Contratações\Bry Simp.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 0.22 MB
+
+--- [Página 1] ---
+Outlook
+[SIMP] Solução para o problema ao assinar documentos
+De MP - DTI Comunicados <dti.comunicados@mpmt.mp.br>
+Data Seg, 17/02/2025 21:50
+Para MPE_Procuradores <MPE_Procuradores@mpmt.mp.br>; MPE_Promotores
+<MPE_Promotores@mpmt.mp.br>; MPE_Servidores <MPE_Servidores@mpmt.mp.br>; MPE_Estagiarios
+<MPE_Estagiarios@mpmt.mp.br>; MPE_Terceirizados <MPE_Terceirizados@mpmt.mp.br>; MPE_Residentes
+<MPE_Residentes@mpmt.mp.br>
+Boa noite!
+Informamos que o sistema SIMP foi atualizado para a versão 3.5.18.
+Nesta atualização houve uma mudança para aumentar o nível de segurança do
+sistema.
+Caso tenha problemas para usar assinar documentos dentro do SIMP, basta seguir os
+passos abaixo:
+Passo 1: Faça a instalação da nova extensão de assinatura (para navegadores Google
+Chrome):
+     https://chromewebstore.google.com/detail/assinatura-digital-no-
+nav/mbpaklahifpfndjiefdfjhmkefppocfm
+      Fornecedor: Empresa Bry
+      
+      Clique em: Usar no Chrome > Adicionar Extensão
+      
+Passo 2: Faça download do arquivo deste link:
+      https://bry-downloads.s3.sa-east-
+1.amazonaws.com/extension/v2/windows/ExtensionModule.exe
+      Fornecedor: Empresa Bry
+      Execute a instalação clicando em: Próximo > Eu concordo > Instalar > Concluir.
+Passo 3: Atualize o sistema SIMP (tecla F5) e tente assinar um documento.
+      Caso apareça uma mensagem de "Pedido de Acesso", clique em Autorizo.
+22/04/2025, 13:16 [SIMP] Solução para o problema ao assinar documentos – Daniel Ribeiro Soares – Outlook
+about:blank 1/2
+
+--- [Página 2] ---
+      
+Passo 4: O sistema SIMP estará pronto para assinar documentos com certiﬁcado
+digital.
+Qualquer outra dúvida, nossa Central de Serviços está à disposição.
+Não responda este e-mail.
+Esta é uma caixa exclusiva para envio de comunicações, inválida para abertura de chamados e/ou solicitações de
+suporte.
+Todas as solicitações de serviços de TI deverão ser feitas por um dos canais de atendimento abaixo:
+- Portal de Serviços e chatbot web, acessíveis pelo link: https://portaldeservicos.mpmt.mp.br/dti.html#dti
+Saiba mais https://portaldeservicos.mpmt.mp.br/portaldeservicos.mp4
+- e-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166 (chatbot por Whatsapp)
+22/04/2025, 13:16 [SIMP] Solução para o problema ao assinar documentos – Daniel Ribeiro Soares – Outlook
+about:blank 2/2

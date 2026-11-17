@@ -1,0 +1,249 @@
+DOCUMENTO: z_outrosDocumentos\Termo de Cooperação\TCT_nº_017_2025___MP_Mato_Grosso.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 0.36 MB
+
+--- [Página 1] ---
+Procuradoria Geral de Justiça 
+Departamento de Aquisições  
+Gerência de Convênios e Contratos 
+ 
+Página 1 de 5 
+TERMO DE COOPERAÇÃO TÉCNICA Nº 17/2025 
+Procedimento Administrativo GEDOC n° 20.14.0001.0002444/2025-92 
+ 
+O MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO , por meio da PROCURADORIA 
+GERAL DE JUSTIÇA DO ESTADO DE MATO GROSSO – PGJ, inscrita no CNP J sob o n º 
+14.921.092/0001-57, com sede na Rua Procurador Professor Carlos Antônio de Almeida 
+Melo, quadra 11, nº 237 – Centro Político e Administrativo, em Cuiabá/MT, CEP: 78049 -921, 
+doravante denominado MPMT, neste ato representada pela Subprocuradora -Geral de  
+Justiça A dministrativa, Dra. Januária Dorilêo, Promotora de Justiça, inscrita no CPF/MF 
+sob o nº 762.xxx.xxx -59, residente e domiciliada nesta Capital, no uso das funções 
+conferidas pelas Portarias nº 1.025/2024 -PGJ e 1.028/2024 -PGJ, DOE de 09/12/20 24, no  
+pleno exercício de suas atribuições legais e regulamentares, e o MINISTÉRIO PÚBLICO DO 
+ESTADO DO ESTADO DO PERNAMBUCO, inscrito no CNPJ nº 24.417.065.0001-0, com sede 
+na Rua do Imperador Dom Pedro II, 473, Bairro: Santo Antônio, CEP: 78.049-921, Recife/PE, 
+e-mail: pgj@mppe.mp.br, telefones (81) 99230-4370 / 99319-1026, neste ato representado 
+pelo Procurador-Geral de Justiça , Dr. José Paulo Cavalcanti  Xavier Filho , no uso das 
+atribuições que lhe confere o art. 9º, incisos I  e V, da Lei Complementar nº 12, de 27 de  
+dezembro  de  1994 , alterada, inscrito no CPF sob o n° 831.xxx.xxx-15, residente e 
+domiciliado em Recife/PE, resolvem celebrar o presente Termo de Cooperação Técnica, o 
+qual se regerá por toda a legislaç ão aplicável à espécie, notadamente a Lei nº 14.133/2021, 
+mediante as cláusulas a seguir especificadas. 
+ 
+CLÁUSULA PRIMEIRA – DO OBJETO 
+1.1. Constitui objeto  deste instrumento estabelecer cooperação técnica para 
+compartilhamento do código-fonte do software “Escriba”, desenvolvido pelo MPMT, que 
+consiste na transcrição de vídeos e áudios, ao Ministério Público do Estado de 
+Pernambuco, bem como a cessão e implantação do software “SIMP” – Sistema Integrado 
+do Ministério Público em sua base de dados, criado pelo MPMT, pa ra a gestão de 
+processos judiciais de 1ª e 2ª instâncias e atendimentos realizados no Ministério Público do 
+Estado do Pernambuco. 
+1.2. O MPMT  possui todos os direitos de propriedade intelectual dos softwares 
+desenvolvidos por sua equipe de trabalho. 
+ 
+CLÁUSULA SEGUNDA – DAS ATRIBUIÇÕES E OBRIGAÇÕES 
+2.1. Caberá aos partícipes  acompanharem a execu ção desta Cooperação  Técnica, 
+promovendo todas as medidas necessárias para o fiel cumprimento de seu objeto. 
+2.1.1. Compete ao MPMT:  
+2.1.1.1. Disponibilizar ao MP PE, o Si stema Integrado do Ministério Público – 
+“SIMP”, bem como o software "Escriba" - nas suas versões atuais; 
+2.1.1.2. Disponibilizar ao MP PE a propriedade intelectual dos códigos -fonte dos 
+programas, inclusive os referentes ao fornecimento de todos os da dos, 
+documentos e elementos de informação per tinentes à tecnologia de 
+
+
+--- [Página 2] ---
+Procuradoria Geral de Justiça 
+Departamento de Aquisições  
+Gerência de Convênios e Contratos 
+ 
+Página 2 de 5 
+concepção, manutenção e atualizações; 
+2.1.1.3. Fornecer supor te técnico à implementação do s programas. A 
+consultoria, em send o necessária,  será prestada em Recife a partir de um 
+cronograma previamente elaborado, adequado à disponibilidade de agenda do 
+MPMT, cujas despesas de deslocamento e hospedagem dos consultores ficarão 
+a cargo do MPPE;  
+2.1.1.4. Comunicar ao MPPE qualquer alteração nos programas;  
+2.1.1.5. Informar ao MP PE as falhas detectadas no sistema e ceder -lhe as 
+correções. 
+2.1.1.6. Futuros aperfeiçoamentos e novas funci onalidades desenvol vidas pelo 
+MPMT relacionados ao “Escriba” e ao “SIMP”, serão cedidos ao MP PE, nos 
+mesmos termos da cessão dos sistemas.  
+2.1.1.7. Não se inclu em no presente Termo de Cooperação Técnica, 
+equipamentos ou licenças de softwares de terceiros eventualmente 
+necessários para a utilização do “Escriba” e do “SIMP”.  
+2.1.2. Compete ao MPPE: 
+2.2.1.1. Ao promover a divulgação e a utilização do s sistemas, sempre deverá 
+ser utilizado a expressão "criado pelo Ministério Pú blico do Estado de Mato 
+Grosso"; 
+2.2.1.2. Zelar pelo uso adequado do s programas, comprometendo-se a utilizar 
+os dados que lhe forem disponibilizados somente nas atividades que, em 
+virtude de le i, lhes compete exercer, não podendo transferi -los a terceiros, a 
+título oneroso ou gratuito, sob pena de extinção imediata deste instrumento, 
+bem como de responsabilização por danos porventura ocorridos; 
+2.2.1.3. Apurar o fato, no caso de uso indevido do s programas, com vistas a 
+eventual responsabilização administrativa e criminal; 
+2.2.1.4. Fornecer os dados referentes à estrutura organizacional e aos usuários, 
+necessários para montar a base de teste a ser utilizada pelo MPPE; 
+2.2.1.5. Corrigir as falhas que encontrar no sistema; 
+2.2.1.6. Manter os nomes “Escriba” e “SIMP”, podendo em seguida ser usada a 
+indicação do órgão; 
+2.2.1.7. Comunicar o MPMT a implementaçã o de quaisquer melhorias 
+realizadas no sistema, a fim de que sejam compartilhadas com demais 
+usuários; 
+2.2.1.8. Integrar o sistema “Escriba” e “SIMP” com os softwares que utiliza;  
+2.2.1.9. Custear as despesas de deslocamento e hospedagem de consultores 
+do MPMT, caso haja necessidade de consultoria in loco , devendo observar a 
+elaboração prévia de um cronograma, mediante verificação de disponibilidade; 
+2.2.1.9.1. A consultoria e o suporte técnico serão prestados desde que o 
+código fonte não tenha sido alterado pela equipe técnica do MPPE. Caso 
+haja alteração do código fonte, das funcionalidades do apl icativo e de 
+demais sistemas, além das personalizações, o MPMT não garantirá o 
+
+--- [Página 3] ---
+Procuradoria Geral de Justiça 
+Departamento de Aquisições  
+Gerência de Convênios e Contratos 
+ 
+Página 3 de 5 
+funcionamento e aderência das at ualizações e novas versões do s 
+softwares. 
+2.2.1.10. Sugerir a implementação de novas funcionali dades do sistema que 
+serão    levadas ao comitê do MPMT para deliberação e execução se for o caso. 
+2.1.3. Compete a ambas as partes a gestão compartilhada dos sistemas cedidos, as 
+quais deverão divulgar simultaneamente as novas versões eventualmente lançadas, 
+devendo exercer esforço conjunto e concomitante para  o desenvolvimento de 
+melhorias sistêmicas, mediante contato próximo entre as instituições. 
+ 
+CLÁUSULA TERCEIRA – DO DESCUMPRIMENTO DAS OBRIGAÇÕES 
+3.1. O descumprimento das obr igações previstas no presente instrumento será 
+comunicado pela parte prejudicada à outra mediante notificação por escrito, a  fim de que 
+seja providenciada a sua regularização no prazo de 05 (cinco) dias úteis. 
+ 
+CLÁUSULA QUARTA – DAS GARANTIAS 
+4.1. O MPMT não dará nenhuma garantia sobre os softwares compartilhados, uma vez que 
+o MPPE receberá os  códigos fontes, podendo corrigir possíveis falhas e adequar as suas 
+necessidades. 
+4.2. O MPMT não se responsabiliza pelo uso indevido dos softwares ou por quaisquer 
+danos que os mesmos possam causar em qualquer tipo de equipamentos ou a terceiros. 
+4.3. O MPPE concorda manter o MPMT e os d esenvolvedores de sua equipe, livres de 
+quaisquer responsabilidades, perdas, ações, danos ou reclamações (incluindo despesas, 
+custo e honorários de advogados) relacionado com o uso dos softwares. 
+ 
+CLÁUSULA QUINTA – DA NÃO TRANSFERÊNCIA DE RECURSOS 
+5.1. Este Term o de Cooperação Técnica visa mútua colaboração e, portanto, não gera 
+obrigação pecuniária, uma vez que o compartilhamento do có digo fonte será realizado a 
+título gratuito, não implicando compromissos finance iros, indenizações ou transferências 
+de recursos entre os participes. 
+5.2. Eventuais despesas necessárias à consecução do acordado serão de responsabilidade 
+de cada partícipe n o âmbito de sua atuação, utilizando -se de receitas próprias 
+previamente consignadas em orçamento. 
+5.3. Os profissionais ind icados pelos partícipes para atuar na execução de atividades 
+decorrentes deste Termo de Cooperação manterão os vínculos jurídicos exc lusivamente 
+com as respectivas entidades de origem. 
+ 
+CLÁUSULA SEXTA – DA VIGÊNCIA 
+6.1. O presente Termo de Cooperação Técnica terá vigência e validade de 60 (sessenta) 
+meses, contados a partir da última assinatura aposta. 
+6.2. Não sendo caso de rescisão e não havendo prorrogação ou lavratura de no vo Termo 
+de Termo de Cooperação  Técnica, remanesce o direito de uso do código -fonte do s 
+softwares. 
+
+--- [Página 4] ---
+Procuradoria Geral de Justiça 
+Departamento de Aquisições  
+Gerência de Convênios e Contratos 
+ 
+Página 4 de 5 
+ 
+CLÁUSULA SÉTIMA – DA PROTEÇÃO DOS DADOS PESSOAIS 
+7.1. Para consecução do objeto deste Termo, os partícipes obrigam -se a cumprir fielmente 
+o Plano de Trabalho, anexo I do presente instrumento, que, assinado pelos representantes 
+legais, passa a fazer parte integrante deste Termo, independente de transcrição. 
+ 
+CLÁUSULA OITAVA – DA FISCALIZAÇÃO 
+8.1. Caberá ao MPMT fiscalizar a fiel observância das disposições dest e Termo de 
+Cooperação, sem prejuízo da fiscalização exercida pelo MP PE, dentro d as res pectivas 
+áreas de competência. 
+8.1.1. Para a gestão, acompanhamento, fiscalização e avaliação da execução do 
+objeto do presente Termo de Cooperação Técnica, o MPMT designará servidor com 
+atribuição específica, cuja atuação se dará no interesse exclusivo da Administração. 
+8.1.2. A gestão, acompanhamento, fiscalização da execução deste Termo de 
+Cooperação Técnica pelo MPMT não excluem, em hipótese alguma, as 
+responsabilidades do MPPE, inclusive perante terceiros. 
+8.3. Os servidores indicados pelos partí cipes para atuar na execução de atividades 
+decorrentes deste Termo de Cooperação Técnica manterão os ví nculos jurídicos 
+exclusivamente com as respectivas entidades de origem.  
+ 
+CLÁUSULA NONA – DA PUBLICAÇÃO 
+9.1. Para dar eficácia jurídica ao Termo de Coope ração Técnica, a Procuradoria -Geral de 
+Justiça providenciará, dentro do prazo legal, a publicação do se u extrato no Diário Oficial 
+Eletrônico do Ministério Público do Estado Mato Grosso, e em seu sítio eletrônico oficial, 
+conforme disciplinado no art. 91 da Lei nº 14.133/2021. 
+ 
+CLÁUSULA DÉCIMA – DA ALTERAÇÃO E RESCISÃO 
+10.1. O presente Termo de Cooperação T écnica poderá ser rescindido de pleno direito, no 
+caso de infração a qualquer das cláusulas, independentemente  de interpelação judicial ou 
+extrajudicial, ficando o inadimplente obrigado a ressarcir os danos causado s ao partícipe 
+lesado. Poderá, também, ser  denunciado por quaisquer dos partícipes, com antecedência 
+mínima de 30 (trinta) dias ou a qualquer tempo, em razão de superveniência de 
+impedimento legal que o torne formal ou materialmente inexequível. 
+10.2. Ocorrendo a extinção do presente Termo, seja p or rescisão justificada, seja por 
+denúncia unilateral e, transcorridos os prazos previstos para cada um desses  casos, 
+cessará a remessa pelos partícipes das bases de dados relativas a este Termo, continuando 
+os partícipes com o direito de uso do material q ue tenham recebido antes da extinção do 
+Termo; 
+10.3. Dúvidas e casos omissos que sobrevierem no decorrer do cu mprimento do presente 
+termo serão resolvido s em c omum acordo entre as partes , podendo ser firmados, se 
+necessário, termos aditivos que farão parte  deste ajuste, observando-se os ditames da Lei 
+n° 14.133/2021. 
+
+--- [Página 5] ---
+Procuradoria Geral de Justiça 
+Departamento de Aquisições  
+Gerência de Convênios e Contratos 
+ 
+Página 5 de 5 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – DAS DISPOSIÇÕES FINAIS 
+11.1. As partes deverão assegurar -se de  que a s pessoas designadas a trabalhar nas 
+atividades objeto do presente Termo de Cooperação Técnica conheçam e aceitem todas as 
+condições aqui estabelecidas. 
+11.2. Os servidores de qualquer das partes não sofrerã o qualquer alteração em suas 
+respectivas vinculações com o órgão de origem, mas poderão ficar sujeitos à observância 
+de regulamentos internos onde estiverem atuando. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – DO PLANO DE TRABALHO 
+12.1. Para consecução do objeto deste Termo, os partícipes obrigam-se a cumprir fielmente 
+o Plano de Trabalho elaborado, anexo I do presente instrumento, que, assinado p elos 
+representantes legais, passa a fazer parte integrante deste Termo, independentemente de 
+transcrição. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA – DO FORO 
+13.1. Fica eleito o Foro da Co marca de Cuiabá/MT, para dirimir quaisquer dúvidas 
+ocasionadas na vigência deste Ter mo que não puderem s er solucionadas de comum 
+acordo entre as partes. 
+E por estarem ajustadas e acordadas, as partes assinam o pre sente Termo, em formato 
+digital, com as tes temunhas abaixo, de tudo cientes, para que produzam seus efeitos 
+legais e jurídicos. 
+Considera-se assinado e datado este instrumento a partir da última assinatura aposta. 
+ 
+Cuiabá/MT, assinado e datado digitalmente. 
+ 
+ 
+ 
+Januária Dorilêo 
+Subprocuradora-Geral de Justiça Administrativa do MPMT 
+ 
+ 
+ 
+José Paulo Cavalcanti Xavier Filho 
+Procurador-Geral de Justiça do MPPE 
+ 
+Testemunhas: 
+ 
+ 
+Maria Eduarda Vaz dos Santos Rosa Maria Cecília Federici de Almeida Barros 
+Matrícula nº 11.409 Matrícula nº 7.438 
+ 

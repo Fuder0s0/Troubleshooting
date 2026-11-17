@@ -1,0 +1,31 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 1\cena 01_02_texto arrumado.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Uma vez escolhida a opção “Baixar Processo PJe”, o usuário tem a escolha de organizá-los em ordem crescente ou decrescente.
+
+Feita a requisição, o usuário  aguarda o carregamento do documento, o sistema informa que a requisição está em processamento e que o arquivo poderá ser acompanhado no menu "Meus downloads".
+
+Em seguida, o usuário preenche os campos obrigatórios, quando solicitado, e clica na opção "Próximo".
+
+Na tela seguinte, 
+o SIMP4 apresenta os dados trazidos automaticamente do PJe. 
+
+Após a conferência e o eventual preenchimento de campos pendentes, o usuário deve clicar novamente no botão "Próximo" para avançar à tela seguinte.
+
+Chegada à etapa final do cadastro, os dados são conferidos pela última vez e, estando corretos, o usuário seleciona o botão "Salvar". 
+
+Na sequência, o sistema pode exibir uma janela para registro da ciência no PJe. 
+
+Nesse momento, o usuário pode confirmar a ciência ou deixar esse registro para depois da distribuição ao membro responsável.
+
+Com o protocolo salvo, o usuário procederá à distribuiçaõ processual. 
+
+No exemplo deste vídeo, optamos pela distribuição manual apenas para efeito didático, já que há obrigatoriedade de que as remessas aos membros ministeriais ocorram de forma automática, salvo exceções.
+
+Confirmaa a distribuição, o membro poderá tomar ciência do aviso clicando na opção “Tomar Ciência PJe” no menu superior do SIMP4.
+Neste momento, abrir-se-á tela “Pop Up” com as informações do aviso. 
+Após seleção total (ou parcial) dos avisos, o usuário clica no botão “Tomar Ciência”, a aplicação exibe mensagem de confirmação na parte superior direita da tela e permite, então, a visualização da documentação atrelada ao processo.
+
+Depois disso, baixa fechar a janela. 
+Ah, e não se preocupe, todas as informações de ciência, após confirmação pelo membro, são transmitidas ao PJe, com data, hora e membro responsável pela ciência.

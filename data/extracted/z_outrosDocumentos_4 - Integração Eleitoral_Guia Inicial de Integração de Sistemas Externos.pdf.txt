@@ -1,0 +1,93 @@
+DOCUMENTO: z_outrosDocumentos\4 - Integração Eleitoral\Guia Inicial de Integração de Sistemas Externos.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 0.26 MB
+
+--- [Página 1] ---
+Guia Inicial de Integração de Sistemas Externos 
+  
+Este é um guia resumo destinado ao entendimento inicial do processo de integração 
+de sistemas judiciais de órgãos externos com o PJe da Justiça Eleitoral. 
+Explana o 1ª passo a ser seguido pelos órgãos externos para a efetiva integração de 
+seus sistemas judiciais com o PJe. 
+Os procedimentos de integração de sistemas judiciais de órgãos externos com o PJe 
+começam sempre na fase de treinamento e posteriormente evoluem para a fase de 
+produção. 
+ 
+a) Usuário de Integração 
+Para que uma integração entre sistemas judiciais de órgão externo e o PJe seja 
+operacionalizada, é necessário o prévio cadastro de um usuário do órgão externo no 
+ambiente do PJe. O cadastro desse usuário, chamado de usuário de integração, é 
+realizado pelo TSE a partir de dados fornecidos pelo órgão externo. 
+O usuário de integração é sempre um CPF válido e existente na base da Receita 
+Federal preferencialmente de servidor da área de desenvolvimento de sistemas do órgão 
+externo, o qual, juntamente com o seu email são cadastrados no PJe com o perfil de 
+Procurador/Gestor. Esse é o CPF a ser inserido no código fonte do sistema do órgão 
+externo que integrar-se-á com o PJe. 
+O sistema PJe não aceita o cadastro de CNPJ (pessoa jurídica) como usuário do 
+sistema e por conseguinte não aceita CNPJ como usuário de integração, uma vez que a 
+funcionalidade de cadastro de usuário no PJe valida e aceita somente CPFs. Em virtude 
+dessa característica do sistema é necessário ao órgão externo dispor de um CPF válido 
+e existente na base da Receita Federal para ser utilizado como usuário de integração no 
+PJe. 
+A criação do usuário de integração consiste no 1º passo para a efetiva realização 
+da integração entre sistemas judiciais externos e o PJe, conforme explicação a seguir. 
+ 
+b) 1º Passo Para a Integração: “Criar o Usuário de Integração” 
+Para integrar um ou mais de seus sistemas judiciais ao PJe, via Modelo Nacional 
+de Interoperabilidade, o órgão externo deve dispor preferencialmente de: 
+ 
+1. Nome completo de servidor da área de desenvolvimento de sistemas; 
+2. CPF (válido e existente na base da Receita Federal) de servidor da área de 
+desenvolvimento de sistemas; 
+3. Email de servidor da área de desenvolvimento de sistemas; 
+4. Solicitar ao TSE o cadastro do usuário de integração, devendo para isso enviar um 
+email para a: 
+ 
+Central de Atendimento do TSE 
+8800@tse.jus.br 
+
+--- [Página 2] ---
+ 
+Preenchendo no corpo do email o modelo a seguir: 
+ 
+Modelo de Solicitação de Criação de Usuário de Integração MNI 
+Assunto Solicitação de criação de usuário de integração MNI 
+Descrição da Solicitação O <NOME DO ÓRGÃO EXTERNO> solicita o cadastro 
+do usuário de integração MNI no ambiente de 
+treinamento do PJe de 1º grau para fins de integração 
+de sistemas judiciais, conforme os dados do usuário a 
+seguir: 
+Nome <NOME DO USUÁRIO DE INTEGRAÇÃO> 
+CPF <CPF DO USUÁRIO DE INTEGRAÇÃO> 
+E-mail <EMAIL DO USUÁRIO DE INTEGRAÇÃO> 
+ 
+Uma vez realizada a solicitação acima por parte do órgão externo e criado o 
+usuário de integração no ambiente de treinamento do PJe de 1º grau por parte do TSE, 
+será enviado ao órgão externo na resposta do chamado: 
+1) Link para definição da senha do usuário de integração; 
+2) Livro “Integração Órgãos Externos”, o qual contém conceitos mais detalhados 
+acerca dos procedimentos da integração; 
+3) Endereço do ambiente do PJe de treinamento; 
+4) Endereços dos webservices Intercomunicação e ConsultaPJe de treinamento. 
+A partir daí, a equipe de desenvolvimento de sistemas do órgão externo poderá 
+dar início a adequação de seu sistema judicial e começar os testes de integração com o 
+PJe.  
+ 
+Importante: Finalizados os testes de integração na fase de treinamento, passa-
+se a fase de produção, devendo o órgão externo fazer nova solicitação de criação de 
+usuário de integração para a fase de produção. Pode-se utilizar o mesmo CPF para a 
+fase de produção. 
+ 
+c) Suporte e Comunicação 
+ 
+As solicitações de suporte técnico ou negocial bem como as comunicações entre 
+as equipes técnicas e negociais do órgão externo e o TSE realizar-se-á sempre por 
+intermédio da ferramenta de gestão de chamados de suporte da Central de Atendimento 
+do TSE, e será utilizada por ambas as equipes para as solicitações de suporte antes e 
+depois do processo de integração, bem como para o envio de informações, documentos, 
+imagens etc.  
+Essa ferramenta de gestão de chamados de suporte, chamada GSTI, poderá ser 
+sempre acionada através do envio de email para o endereço 8800@tse.jus.br. 
+ 
+Lembrete: Este “Guia Inicial de Integração” deve ser encaminhado a área de 
+desenvolvimento de sistemas do órgão externo. 

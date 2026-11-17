@@ -1,0 +1,118 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPe - sobre schemas do SOLR.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.34 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPe - sobre schemas do SOLR
+7 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 6 de novembro de 2025 às 11:46
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, como vai?
+Cumprimentando-o inicialmente,
+Seria possível enviar também os schemas usados no SOLR?
+Estamos configurando o projeto e percebemos que os esquemas não vieram. Isso ajudaria o time na configuração do produto.
+Não precisamos do dump, precisamos apenas dos schemas mesmo.
+Grato desde já pelo retorno.
+Atenciosamente
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 7 de novembro de 2025 às 09:09
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Luiz Fernando Alves dos Santos <luiz.santos@mpmt.mp.br>
+Bom dia Lucio.
+O SOLR possui uma estrutura diferente.
+Esta semana enviamos estes arquivos de configuração para Roraima.
+Se precisar refinar, podemos marcar uma reunião mais técnica.
+https://portal.mpmt.mp.br/temp/solr-tatubola.tar.gz
+https://portal.mpmt.mp.br/temp/solr-tatupeba.tar.gz
+https://portal.mpmt.mp.br/temp/solr-tatugalinha.tar.gz
+Atenciosamente,
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - MPPe - sobre schemas do SOLR
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5478028109932980522&simpl=msg-a:r-5469765693849559882&simpl=msg-f:1848133417982751100&simpl=msg-a:r5783… 1/4
+
+--- [Página 2] ---
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 6 de novembro de 2025 10:46
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: MPPe - sobre schemas do SOLR
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 7 de novembro de 2025 às 09:10
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Luiz Fernando Alves dos Santos <luiz.santos@mpmt.mp.br>
+Muito obrigado!
+Vou repassar para a equipe!
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 7 de novembro de 2025 às 09:11
+Para: Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Julio Maravitch Mauricio Neto
+<julio@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Mauro La Salette Costa Lima De Araujo
+<maraujo@mppe.mp.br>
+PSC
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 10 de novembro de 2025 às 11:01
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Luiz Fernando Alves dos Santos <luiz.santos@mpmt.mp.br>
+Prezado Daniel, Tudo bem?
+Grato pelo retorno.
+O time de infraestrutura de TI gostaria de saber se vocês poderiam informar o sizing da máquina que o MPMT usa em produção para o SOLR.
+Seria uma visão geral da capacidade da máquina, incluindo CPU virtual, RAM, sistema operacional utilizado e armazenamento disponível.
+Será que a gente consegue essa informação?
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - MPPe - sobre schemas do SOLR
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5478028109932980522&simpl=msg-a:r-5469765693849559882&simpl=msg-f:1848133417982751100&simpl=msg-a:r5783… 2/4
+
+--- [Página 3] ---
+Obrigado desde já.
+Em sex., 7 de nov. de 2025 às 09:09, Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> escreveu:
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 12 de novembro de 2025 às 17:56
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Luiz Fernando Alves dos Santos <luiz.santos@mpmt.mp.br>
+Boa tarde Lucio.
+Seguem as configurações dos 3 servers que possuímos em produção:
+Tatugalinha:15GB / 6 cores
+Ubuntu 20.04.6 LTS
+Disco
+50 GB -  S.O
+600 GB -  Índices do SOLR
+ 
+Tatubola: 8GB / 2 cores
+Ubuntu 20.04.6 LTS
+Disco
+50 GB -  S.O
+600 GB -  Índices do SOLR
+ 
+Tatupeba: 8GB / 2 cores
+Ubuntu 20.04.6 LTS
+Disco
+50 GB -  S.O
+600 GB -  Índices do SOLR
+Atenciosamente,
+Importante:
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - MPPe - sobre schemas do SOLR
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5478028109932980522&simpl=msg-a:r-5469765693849559882&simpl=msg-f:1848133417982751100&simpl=msg-a:r5783… 3/4
+
+--- [Página 4] ---
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: segunda-feira, 10 de novembro de 2025 10:01
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Luiz Fernando Alves dos Santos <luiz.santos@mpmt.mp.br>
+Assunto: Re: MPPe - sobre schemas do SOLR
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 13 de novembro de 2025 às 08:59
+Para: Mauro La Salette Costa Lima De Araujo <maraujo@mppe.mp.br>
+PSC
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - MPPe - sobre schemas do SOLR
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5478028109932980522&simpl=msg-a:r-5469765693849559882&simpl=msg-f:1848133417982751100&simpl=msg-a:r5783… 4/4

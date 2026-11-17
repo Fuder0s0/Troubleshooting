@@ -1,0 +1,159 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Relatório Analítico Comparativo_ Consensus vs. SIMP3+ (SIMP4).docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.02 MB
+
+Relatório Analítico Comparativo: Consensus vs. SIMP3+ (SIMP4)
+
+Grupo: Ação
+
+Neste grupo, que trata das ações específicas nos sistemas, observamos várias diferenças importantes. Ambos os sistemas permitem acessar os detalhes de um procedimento clicando nele, uma função básica. Da mesma forma, ambos possibilitam a identificação ou seleção de procedimentos para o fluxo de ANPP (Não Persecução Penal) durante a análise, a correção de dados de documentos recebidos, a verificação desses documentos (considerada implícita), a tramitação do procedimento após a análise, a tramitação para a fase final pelo servidor (fase cinza), a tramitação específica para arquivamento, a seleção da opção de "Denunciar" na análise, a distribuição em lote de procedimentos, a realização de conferências e verificações pelo servidor, e a tramitação para controle após o ajuizamento/peticionamento bem-sucedido.
+
+No entanto, o SIMP3 não possui a funcionalidade que permite as gravações das audiências, tanto quanto o seu salvamento, com possibilidade de fracionamento dos arquivos de vídeo para que possam ser compartilhados com o PJe. Ainda assim, o SIMP3+ (SIMP4) apresenta um conjunto maior de ações relacionadas ao gerenciamento de minutas que não existem no Consensus: “marcar/desmarcar favoritos”, “selecionar múltiplos protocolos via checkbox”, “editar minutas pendentes”, “visualizar minutas pendentes”, “assinar minutas pendentes”, “enviar minutas para aprovação”, “excluir minutas pendentes”, “editar minutas devolvidas”, “visualizar minutas devolvidas”, “excluir minutas devolvidas”, “assinar minutas devolvidas”, “visualizar minutas aprovadas”, “desfazer a aprovação de uma minuta” e “utilizar uma minuta aprovada para gerar documentos/petições”. Essas funcionalidades conferem ao SIMP3+ (SIMP4) uma capacidade de gestão do ciclo de vida de minutas significativamente mais robusta e flexível. O Consensus não possui a funcionalidade de confecção, tramitação e edição de minutas.
+
+Outra diferença notável está na ação de "Baixa de Carga". O Consensus possui ações manuais específicas para baixa total (marcando todos) e unitária. Também possui baixa automática de procedimentos enviados ao CARD “denúncia” ou ao CARD “remetido ao judiciário”. O SIMP3 não utiliza essa terminologia e, segundo as respostas obtidas com a equipe técnica do Ministério Público do Mato Grosso, realiza a baixa de forma automática vinculada às movimentações, não oferecendo uma ação manual correspondente. Similarmente, a devolução em lote de procedimentos ao remetente é uma funcionalidade específica da interface do Consensus, não encontrada no SIMP3+ (SIMP4), onde tal devolução exigiria meios externos (como e-mail, cuja opção poderia ser inserida) ou o desenvolvimento da funcionalidade específica. O SIMP3 também se destaca por permitir selecionar itens para peticionamento em lote ao PJe e executar esse peticionamento, ações inexistentes no Consensus. Por fim, ambos permitem a seleção para arquivamento na análise, mas a resposta sobre a Resolução CNMP 289/2024 indica a necessidade de criar um fluxo específico para atendê-la no SIMP3+ (SIMP4).
+
+Conclusão Geral do Grupo "Ação"
+
+O SIMP3 oferece um leque consideravelmente maior de ações, especialmente no gerenciamento completo de minutas (criação, edição, aprovação, assinatura, exclusão em diferentes status) e no peticionamento em lote ao PJe. O Consensus possui funcionalidades específicas como a baixa de carga manual e a devolução em lote ao remetente que não têm correspondência direta no SIMP3+ (SIMP4). Ações básicas de tramitação, seleção para ANPP/arquivamento/denúncia, distribuição em lote e verificação são comuns a ambos, mas o SIMP3 demonstra maior amplitude funcional nas ações disponíveis ao usuário, mesmo não possuindo opções de gravação de audiências de custódia, nem tampouco o gerenciamento das mesmas.
+
+Grupo: Conceito
+
+Este grupo esclarece conceitos fundamentais. Ambos os contextos reconhecem conceitos básicos como Usuário Ativo, Auditoria de Usuário (com o SIMP3+ (SIMP4) possuindo um relatório específico chamado "Relatório de Movimentação de Controle de Cancelamento de Movimentos e Alteração"), o Núcleo de Acordo de Não Persecução Penal (NANPP) e o próprio Acordo de Não Persecução Penal (ANPP) como conceito jurídico, as Fases da Persecução Penal, o Ato Infracional, o Núcleo de Persecução Penal (NPP), o uso de Tabelas Taxonômicas (como as do CNJ) e o Auto de Prisão em Flagrante Delito (APFD). A descrição do Sistema Consensus e do SIMP3+ (SIMP4) também é abordada, destacando seus escopos distintos (Consensus focado na interação PCPE-MPPE-Judiciário para ajuizamento; SIMP3+ (SIMP4) como sistema integrado do MPMT com integração total ao judiciário e polícia judiciária).
+
+Diferenças conceituais ou de ferramentas associadas surgem com a aplicação Pandora, definida como uma ferramenta de análise de dados específica do Consensus, para a qual não há aplicação similar nativa no SIMP3+ (SIMP4) , embora seja tecnicamente possível integrá-la. Outro ponto de divergência conceitual importante está no controle de prazos de chegada dos APFDs: o Consensus realiza esse controle de forma automática com alertas e relatórios, enquanto o SIMP3+ (SIMP4) não possui essa funcionalidade, requerendo a criação de um fluxo específico.
+
+Conclusão Geral do Grupo "Conceito"
+
+Os sistemas compartilham a maioria dos conceitos jurídicos e processuais básicos. As principais diferenças conceituais refletem ferramentas específicas (IA Pandora no Consensus) e abordagens distintas para funcionalidades como o controle automático de prazos de APFD (presente no Consensus, ausente no SIMP da mesma forma) e o escopo geral de cada sistema.
+
+Grupo: Contexto
+
+Este grupo fornece informações contextuais. Ambos os sistemas estão em operação (Consensus desde 2020, SIMP desde 2012 com SIMP3 em 2020 e SIMP4 em implantação no MPMT), aplicam a regra padrão de validação de datas em filtros, controlam o acesso a relatórios por nível de usuário, reconhecem a distinção jurídica entre Crime e Ato Infracional, entendem a responsabilidade do MP no acompanhamento de prazos de APFD (com o Consensus usando Cards específicos e o SIMP3 uma "Aba Prazos", entretanto manual), e aplicam o conceito de auditoria de usuário para rastreamento e permissões.
+
+O contexto do fluxo externo da prisão em flagrante e a obrigação legal de comunicação da prisão pelo delegado são relevantes para o Consensus, mas não foram identificadas funcionalidades sistêmicas correspondentes no SIMP3+ (SIMP4). O SIMP3+ (SIMP4), por outro lado, é contextualizado pelo uso de bibliotecas de ícones externas (Heroicons, Material Symbols), Já o Consensus pelo uso do sistema Pandora (sem similar no SIMP3+ (SIMP4), mas com possibilidade de integração e de uso de IA regenerativa própria no SIMP).
+
+Conclusão Geral do Grupo "Contexto"
+
+O contexto operacional e jurídico básico é similar. As diferenças surgem em detalhes históricos, ferramentas específicas (IA, bibliotecas de ícones), a forma como o acompanhamento de prazos de APFD é implementado (Card vs. Aba Prazos) e a relevância de contextos legais/fluxos externos que podem ter mais ou menos reflexo direto nas funcionalidades de cada sistema.
+
+Grupo: Contexto Legal
+
+Este grupo vincula funcionalidades a normas legais. O Consensus é associado ao uso de relatórios para atender ao Art. 129, VII da CF (controle externo da atividade policial), com verificação similar no SIMP3+ (SIMP4). A Resolução CNMP nº 289/2024 sobre arquivamento é mencionada, com o fato de que um fluxo específico precisaria ser criado no SIMP para atendê-la. O Art. 10 do CPP (prazo de inquérito de réu preso) é uma referência legal relevante para ambos.
+
+Conclusão Geral do Grupo "Contexto Legal"
+
+Poucos itens foram mapeados diretamente a contextos legais específicos na comparação. O Consensus tem uma ligação explícita com o controle externo da atividade policial (CF). A necessidade de adequação à Resolução CNMP 289/2024 foi apontada para o SIMP3+ (SIMP4).
+
+Grupo: Contexto/Meta
+
+Vários itens neste grupo associam o SIMP3+ (SIMP4) à meta de usar dados de Violência Doméstica (VD) para melhorar planejamento, gestão e outras atividades relacionadas, indicando um foco ou objetivo específico atribuído ao SIMP3+ (SIMP4), mas com possibilidade de aferição de outras metas cuja tipificação exista no código penal. O Consensus consegue efetuar extrações de informação, em formato de relatórios, desde que o usuário marque e preencha as informações de “subtipo” no campo tipificações, tanto em cadastro como no CARD análise, com relação a violência doméstica contra a mulher, dentre outros.
+
+Conclusão Geral do Grupo "Contexto/Meta"
+
+Indica um direcionamento do SIMP3 para a análise e uso de dados de Violência Doméstica como meta,mas com possibilidades de expansão para outros grupos de atuação.
+
+Grupo: Dado/Campo
+
+Ambos os sistemas possuem campos para indicar os prazos, mas apenas o Consensus possui a opção de visualização do referido status (No prazo, Vence hoje, Vencido), apresentam indicadores/gráficos de dados operacionais (Saldo, Entrada, etc., embora a visualização gráfica direta possa variar), exigem a seleção da Classe CNJ no ajuizamento e permitem selecionar subtipos ou motivos de arquivamento.
+
+As diferenças aparecem no campo de motivos para devolução em lote, que existe no Consensus atrelado à sua funcionalidade específica de devolução, mas não no SIMP3+ (SIMP4). Na auditoria de IA, ambos registram informações, mas o Consensus detalha o tipo de consulta específica, enquanto o SIMP3 é destacado por ter IA regenerativa. O COnsensus difere-se, também, por detalhar o status em relatórios de prazos de APFD,algo inexistente no SIMP3+ (SIMP4).
+
+Conclusão Geral do Grupo "Dado/Campo"
+
+Campos essenciais para status de prazo, indicadores básicos, classificação CNJ e detalhamento de arquivamento são comuns. As diferenças refletem funcionalidades específicas (motivos de devolução no Consensus) ou tipos diferentes de tecnologia (IA no SIMP4 sendo regenerativa).
+
+Grupo: Dado/Filtro
+
+Este grupo foca nas opções de filtro. Ambos oferecem filtros comuns em Relatórios NPP (Período, Comarca, etc.), filtros gerais para relatórios (Período, Comarca, G.O., etc.), filtros por localidade no contexto de prazos de APFD, e filtros específicos para consultas de auditoria (usuário, período, etc.). A principal diferença é o Painel de Gestão do SIMP3+ (SIMP4), que possui um conjunto próprio de filtros (Período, Tipo de visão, Responsável) que não encontra similar no Consensus.
+
+Conclusão Geral do Grupo "Dado/Filtro"
+
+As capacidades de filtragem padrão para relatórios e auditorias são similares. O SIMP3 se diferencia por possuir filtros específicos associados ao seu Painel de Gestão.
+
+Grupo: Funcionalidade
+
+Este é um grupo extenso com muitas funcionalidades. Ambos os sistemas permitem a vinculação de informações no ajuizamento, disponibilizam acesso a relatórios gerenciais aos usuários (com observação de que os do Consensus podem ser mais detalhados, mas os do SIMP3+ (SIMP4) adaptáveis), possuem assinatura eletrônica para membros (com mecanismos distintos), fornecem relatórios de performance por Grupo de Ofício, Comarca e Membro, gerenciam prazos (com o Consensus focado em prazos processuais de APFD e o SIMP3+ (SIMP4) necessitando criar fluxo para controle automático de chegada), apresentam ações disponíveis na análise, têm um conceito de Gabinete Virtual (com propostas diferentes), permitem a visualização de resultados de auditorias, realizam auditoria de usuário, têm acesso a relatórios de auditoria, fornecem relatório/consulta de procedimentos por membro, permitem a extração de relatórios em formatos comuns, mostram relatórios de distribuições e movimentações, preveem a realização de tarefas por servidor, permitem a visualização de procedimentos na análise pelo membro, fornecem relatórios gerenciais de performance específicos para os fluxos NANPP e Ato Infracional (embora talvez não idênticos aos do Consensus), permitem o cadastro manual de IPs, e têm capacidade de recebimento de IPs/procedimentos (com detalhes de integração variando conforme o fluxo e origem – PCPE no Consensus, PJe/Externo/Interno no SIMP3+ (SIMP4)).
+
+As diferenças são numerosas. O SIMP3 se destaca por ter assinatura eletrônica mais abrangente (para minutas/documentos), análise de dados de Violência Doméstica (VD) e para outros tipos de grupos, criação de minutas interna, coleta de dados classificados de VD, notificações push para favoritos, e um Painel de Gestão com indicadores (cuja existência como funcionalidade no Consensus é inconsistente nos dados). O Consensus, por sua vez, está associado ao RPM (Relatório de Produtividade Mensal), possui auditoria específica de usuários e para documentos devolvidos, tem relatório específico para inquéritos da base de integração PCPE, que podem ser adaptados ao SIMP3+ (SIMP4), e métodos específicos para extração de relatórios de prazos de APFD (analítico, sintético, Excel) que não foram vislumbrados no SIMP3, além de funcionalidades ligadas à devolução para a PCPE (carregamento de e-mail, seleção de e-mail destino), mas que também podem ser criadas no SIMP3+ (SIMP4). A funcionalidade de auditoria/logs gerais é uma marca do Consensus, mas que pode ser replicada no SIMP3+ (SIMP4). Ambos possuem módulos gerais de Relatórios e Cadastros, mas o Consensus possui um módulo de Agenda que não foi vislumbrado no SIMP3+ (SIMP4) . O SIMP3+ (SIMP4) também permite editar e criar fluxos dos procedimentos, o que é, talvez, um dos maiores diferenciais da aplicação, enquanto funcionalidade.
+
+Conclusão Geral do Grupo "Funcionalidade"
+
+Ambos compartilham um núcleo de funcionalidades de gestão de procedimentos, relatórios básicos de performance e auditoria. O SIMP3+ (SIMP4) demonstra maior robustez em gestão de minutas, peticionamento eletrônico, notificações, funcionalidades específicas de VD e flexibilidade (criação de fluxos, relatórios adaptáveis). O Consensus possui funcionalidades específicas ligadas à sua integração com a PCPE, controle de prazos de APFD, gestão de RPM (Relatório de Produtividade Mensal), IA Pandora, devoluções e agenda, que não possuem equivalentes diretos ou são implementadas de forma diferente no SIMP3+ (SIMP4).
+
+Grupo: Gerenciamento
+
+Este grupo contém apenas o item Gerenciamento: IPs, indicando que ambos os sistemas possuem uma área ou método para visualização e gerenciamento de Inquéritos Policiais.
+
+Conclusão Geral do Grupo "Gerenciamento" 
+
+Funcionalidade básica de gerenciamento de IPs presente em ambos.
+
+Grupo: Integração
+
+Ambos os sistemas possuem integração para tramitação automática para o PJe após assinatura e visualização/gerenciamento de procedimentos relacionados ao PJe. No entanto, o SIMP3 possui uma funcionalidade mais ampla de peticionamento PJe (envio de documentos/petições eletronicamente), enquanto a interação do Consensus com o PJe ocorre apenas no ajuizamento da ação, possuindo, por conseguinte, um nível de integração menor neste aspecto.
+
+Conclusão Geral do Grupo "Integração"
+
+Ambos integram com o PJe para tramitação/visualização, mas o SIMP3+ (SIMP4) oferece capacidade de peticionamento eletrônico, acompanhamento e visualização dos procedimentos enviados ao PJe na própria aplicação, sendo, por conseguinte, mais abrangente que o Consensus. Diferentemente do Consensus, o SIMP3+ (SIMP4) permite que o usuário utilize o PJe, sendo possível efetivar todas as etapas processuais sem que o usuário precise acessar (abrir uma aba secundária) a referida aplicação (PJe). 
+
+Grupo: Interface
+
+Este grupo detalha elementos da interface do usuário. O SIMP3+ (SIMP4) possui interfaces específicas (Abas) para Recebimento em Lote, Favoritos (Push), Peticionamento Externo, Expedientes PJe e IPs, e Peticionamento em Lote PJe, com seus respectivos filtros e colunas, que não têm correspondentes diretos descritos para o Consensus. Ambos possuem uma Área de Trabalho geral, um Gabinete Virtual (área principal de gerenciamento, com filtros e colunas, embora com propostas diferentes), uma interface para Ajuizamento PJe, uma Aba Prazos (com filtros e colunas), uma Barra Inicial e uma Barra de Processos (com filtros e busca, mas implementadas de forma diferente, com o Consensus usando CARDS e fluxos diferenciados), ícones de recebimento próprios, e telas/confirmações para tramitação ou finalização de etapas. O Consensus possui CARDS específicos em sua interface (ANÁLISE com filas "Concluídos Em 24h", "Em Processamento", "Aguardando Verificação"; TRAMITAÇÃO E CONTROLE) que são análogos a filtros, status ou setores no SIMP3+ (SIMP4). O SIMP3+ (SIMP4) também se destaca por ter uma iconografia padrão definida, uma lista de ícones documentada, ações em lote na barra de ferramentas do Gabinete e interfaces dedicadas para gerenciamento de Minutas (Pendentes, Devolvidas, Aprovadas). O Painel de Gestão é listado aqui como existente em ambos, mas com a nota de que no Consensus as informações gerenciais são agregadas na aba de relatórios.
+
+Conclusão Geral do Grupo "Interface"
+
+Ambos possuem os elementos básicos de interface para navegação, visualização e filtragem de procedimentos. O SIMP3+ (SIMP4) apresenta uma estrutura mais modularizada com abas/interfaces dedicadas para diversas funcionalidades (Favoritos, Prazos, PJe/IPs, Peticionamento Externo/Lote, Minutas, Recebimento em Lote) que não são descritas da mesma forma no Consensus. O Consensus utiliza uma estrutura baseada em CARDS com filas e fluxos específicos. O SIMP3+ (SIMP4) oferece mais ações e interfaces voltadas para operações em lote e gerenciamento de minutas.
+
+Grupo: Módulo
+
+O SIMP3+ (SIMP4) possui funcionalidades específicas agrupadas para casos de violência doméstica e para outras tipificações, o que não ocorre da mesma forma no Consensus (embora o Consensus permita "sub tipificação" para classificar casos VD).
+
+Conclusão Geral do Grupo "Módulo"
+
+O SIMP3+ (SIMP4) possui módulos ou conjunto de funcionalidades dedicados à Violência Doméstica que podem ser expandidos ou direcionados para outros grupos.
+
+Grupo: Outro
+
+Este grupo contém itens diversos ou que não se encaixaram perfeitamente nos anteriores. O SIMP3+ (SIMP4) se destaca por permitir repassar procedimentos em lote internamente, ter interfaces específicas como Aba Expedientes PJe e IPs, Peticionamento Externo, Receber em lote (Interno/Externo), Peticionamento em lote PJe, Aba Favoritos (Push), um fluxo completo para Minutas (criação, revisão, aprovação - reforçando que no Consensus documentos precisam ser feitos externamente), e ações de arquivar em lote e imprimir em lote. Ambos utilizam Tabelas Taxonômicas CNJ e possuem um Painel de Gestão (com dashboards diferentes). O SIMP3+ (SIMP4) também possui iconografia padrão definida.
+
+O Consensus, por outro lado, está associado, a funcionalidade de Devolução em Lote para a PCPE, consultas/relatórios específicos da PCPE, módulos de auditoria, e uma funcionalidade de Agenda não descrita no SIMP3+ (SIMP4) (cuja integração com Google Agenda precisaria ser desenvolvida). A funcionalidade de Correição existe em ambos, mas o acesso é diferente (Consensus com módulo específico, SIMP4 via sistema SAE externo). A comunicação entre MP e TJ via Domicílio Judicial Eletrônico não estava implementada em nenhum dos MPs (MT/PE) no momento desta análise.
+
+Conclusão Geral do Grupo "Outro" 
+
+Este grupo reforça várias das diferenças já apontadas: O SIMP3+ (SIMP4) possui mais funcionalidades voltadas para operações em lote (repassar, receber, arquivar, imprimir, peticionar PJe), gestão completa de minutas e interfaces modulares. O Consensus possui funcionalidades específicas ligadas à sua integração particular (PCPE), ao controle de prazos de APFD, ao RPM (relatório de Produtividade Mensal), à funcionalidade Pandora, à Agenda e um método diferente de correição (Corregedoria).
+
+Grupo: Segurança/Perfil
+
+Ambos os sistemas possuem controle de acesso por perfil de usuário e aplicam restrição de visibilidade na análise (membro vê seu G.O., gestor vê mais), indicando que funcionalidades básicas de segurança baseada em perfil estão presentes nos dois.
+
+Conclusão Geral do Grupo "Segurança/Perfil"
+
+Os controles básicos de acesso por perfil e restrição de visibilidade são similares em ambos os sistemas.
+
+Grupo: Workflow (Fluxo de trabalho)
+
+Ambos possuem fluxos de trabalho definidos para Promoção de Arquivamento e Ajuizamento de Denúncias, embora implementados de formas análogas (ex: SIMP3+ (SIMP4) usa Arquivar em Lote e fluxo de Minutas/Peticionamento). O SIMP3+ (SIMP4) possui um workflow específico para Minutas (criação, revisão, aprovação) que não existe no Consensus.
+
+Conclusão Geral do Grupo "Workflow (Fluxo de trabalho)"
+
+Fluxos básicos para arquivamento e ajuizamento existem em ambos, mas o SIMP3+ (SIMP4) não apresenta o fluxo de arquivamento de procedimentos com base na resolução NMP nº 289/2024. O SIMP3+ (SIMP4) se diferencia por ter um workflow dedicado à gestão de minutas.
+
+Grupo: Workflow Stage (Etapa de Fluxo de Trabalho)
+
+Este grupo detalha etapas específicas de diferentes fluxos (NANPP, Ato Infracional, NPP, APFD). Em geral, para cada fluxo, ambos os sistemas possuem etapas análogas que cobrem as fases principais: Recebimento, Fila de Espera, Verificação/Revisão/Salvar (processamento inicial), Triagem, Pesquisa e Distribuição, Análise (no Gabinete Virtual ou CARD ANÁLISE específico), Tramitação e Controle (etapa administrativa pós-análise) e Fase Cinza (etapa final de denúncia/arquivamento). As diferenças observadas nas Observações/Respostas geralmente reiteram pontos já mencionados, como o controle de prazos de APFD ou a integração com a PCPE específica do Consensus, e a necessidade de criar fluxos específicos no SIMP para atender a requisitos como a Resolução CNMP 289/2024.
+
+Conclusão Geral do Grupo "Workflow Stage"
+
+Ambos os sistemas estruturam seus fluxos de trabalho em etapas lógicas e análogas que cobrem o ciclo de vida do procedimento (recebimento, processamento inicial, análise, controle, finalização). As diferenças residem mais nas ferramentas específicas disponíveis em cada etapa (vistas em outros grupos) ou em controles automáticos particulares (como prazos de APFD no Consensus) do que na estrutura geral das etapas do fluxo.
+
+Conclusão
+
+Ambos os sistemas demonstram capacidade de gerenciar as etapas fundamentais do fluxo de trabalho de procedimentos e inquéritos, compartilhando conceitos jurídicos e processuais essenciais, funcionalidades básicas de tramitação, acesso controlado por perfis e uso de tabelas taxonômicas.
+
+No entanto, a comparação revela diferenças significativas que posicionam o SIMP3+ (SIMP4) como uma plataforma com um conjunto de funcionalidades consideravelmente mais amplo e integrado em diversas áreas. O SIMP3+ (SIMP4) se destaca notavelmente na gestão completa do ciclo de vida de minutas (criação, edição, aprovação, assinatura, visualização em diferentes status), na automação de fluxos de trabalho (como o de aprovação de minutas), na capacidade de realizar diversas operações em lote (distribuição, peticionamento ao PJe, arquivamento (exceto fluxo Resolução CNMP 289/2024), recebimento interno/externo, repasse interno), na oferta de interfaces modulares e dedicadas (Favoritos, Prazos, PJe/IPs, Peticionamento Externo/Lote), na presença de um Painel de Gestão com indicadores e filtros próprios, e em funcionalidades específicas como notificações push e um módulo dedicado à Violência Doméstica, com possibilidade de criação e edição do módulos. Sua integração com o PJe também se mostra mais abrangente, indo além do ajuizamento e incluindo peticionamento.
+
+Por outro lado, o Consensus possui características muito específicas e adaptadas ao seu contexto original de integração com a Polícia Civil de Pernambuco (PCPE), como relatórios e consultas focados nessa base, a funcionalidade de devolução em lote para a PCPE, e o controle automático de prazos de chegada de APFDs com alertas – um ponto que exigiria desenvolvimento de fluxo específico no SIMP3+ (SIMP4) para ser replicado da mesma forma. O Consensus também está associado a ferramentas como a IA Pandora e possui um módulo de Agenda, funcionalidades que não existem equivalência direta nativos no SIMP3+ (SIMP4), embora a integração do Pandora seja tecnicamente possível e os relatórios de produtividade do SIMP3+ (SIMP4) sejam adaptáveis. Ações manuais como a "Baixa de Carga" também são específicas do Consensus.
+
+Considerando o cenário atual e a análise comparativa, que evidencia um maior número de funcionalidades integradas, maior flexibilidade em fluxos de trabalho (como o de minutas e a possibilidade de criar novos fluxos), capacidades robustas de operação em lote e uma interface potencialmente mais moderna e modular no SIMP3+ (SIMP4), entendo que a migração do sistema Consensus para o sistema SIMP3+ (SIMP4) se apresenta como viável e desejável. A viabilidade se apoia na capacidade do SIMP3+ (SIMP4), para além da ideia de sistema único, de cobrir as funcionalidades centrais e na sua flexibilidade para adaptação e desenvolvimento de fluxos específicos (como indicado nas respostas sobre a Res. CNMP 289 e o controle de prazos de APFD). A desejabilidade reside no potencial de ganho em eficiência operacional (operações em lote), maior integração de funcionalidades (minutas, painel de gestão, módulos específicos), e uma plataforma com um escopo mais amplo e maior integração com o ecossistema judicial (PJe). Naturalmente, a migração exigirá um planejamento cuidadoso para endereçar as funcionalidades específicas do Consensus que não possuem contrapartida direta, seja através da adaptação de processos, desenvolvimento de novas funcionalidades no SIMP3+ (SIMP4), ou integração de ferramentas quando aplicável.
+
+***

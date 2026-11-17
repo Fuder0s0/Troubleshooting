@@ -1,0 +1,15 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 2\Na parte superior do protocolo, o b.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Na parte superior do protocolo, o botão "Exibir painel" apresenta um resumo das principais informações do processo no SIMP4, como prioridades, últimos movimentos, prazos, relacionamentos e outras informações pertinentes.Também é possível visualizar o histórico de movimentos nas abas do SIMP4 e do PJe. Clicando na aba PJe, o SIMP4 vai ao Tribunal de Justiça e busca literalmente a tela do PJe para dentro do SIMP, não sendo necessário ao membro ministerial acessar a aplicação fora do ambiente do SIMP para confirmações ou busca de informações processuais. Neste ambiente, é possível, também, acompanhar todas as movimentações do protocolo em tempo real, visualizar arquivos, manifestações, comunicações, despachos, etc.
+
+
+O botão "Alterar sigilo" permite modificar a restrição de acesso ao processo, conforme o perfil do usuário. Em protocolos classificados como sigilosos, as únicas informações exibidas na lista geral para usuários sem permissão são o Número Único, o Número SIMP e as Observações pessoais salvas pelo usuário logado.
+Já opção de Inclusão de Alerta no SIMP funciona como um sistema de para auxiliar na organização interna do membro, como pequenos lembretes. É possível também imprimir etiquetas com as informações do processo. No menu superior também é possível efetuar movimentações, criar minutas, ocultar partes da web, receber processos ou solicitar do sistema um relatório de remessa.
+
+
+
+
+
+O controle de sigilo é uma funcionalidade essencial para garantir a segurança de informações sensíveis.Protocolos sigilosos são identificados na grid de registros pelo ícone de um cadeado.No caso de alertas inseridos em protocolos, se forem configurados como sigilosos, somente o usuário criador e as pessoas lotadas na Promotoria/Procuradoria para a qual o protocolo está distribuído podem visualizá-los e manipulá-los.Na aba de "Expedientes PJe e IPs", a sigilosidade também é indicada pelo ícone de cadeado. O sistema permite a ativação da Inteligência Artificial apenas para processos criminais do PJe que não sejam sigilosos. Essa opção permite que a instituição mantenha o controle estrito sobre quem pode acessar o conteúdo integral de investigações e processos protegidos por segredo de justiça

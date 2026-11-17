@@ -1,0 +1,271 @@
+DOCUMENTO: 9-Resolução SIMP 2026\Referencias\RESOLUCAO_PGJ_12_2026.pdf
+PASTA: 9-Resolução SIMP 2026
+TAMANHO: 0.24 MB
+
+--- [Página 1] ---
+EletrônicoRecife - Terça-feira, 09 de junho de 2026Nº 1946
+PROCURADORIA-GERAL DE JUSTIÇA
+Ementa: Dispõe sobre a instituição do Projeto Piloto do Sistema
+Integrado do Ministério Público (SIMP-PE), com foco na integração com
+o Processo Judicial Eletrônico (PJe), no âmbito do Ministério Público do
+Estado de Pernambuco.
+O PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+PERNAMBUCO, no uso de suas atribuições legais que lhes são
+conferidas pelo artigo 9º, incisos I e V, da Lei Complementar Estadual nº
+12/94 (LOMPPE);
+CONSIDERANDO o disposto no inciso LXXVIII do art. 5º da
+Constituição da República Federativa do Brasil, que assegura a todos a
+razoável duração do processo e os meios que garantam a celeridade de
+sua tramitação;
+CONSIDERANDO a necessidade de modernizar a gestão e agilizar os
+processos de trabalho institucionais, aprimorando a atual tramitação de
+procedimentos extrajudiciais e judiciais que já ocorre de forma
+integralmente virtual no MPPE;
+CONSIDERANDO o disposto na Lei n. 8.069, de 13 de julho de 1990
+(Estatuto da Criança e do Adolescente) e a inconteste atribuição do
+Parquet em zelar pelos direitos das crianças e dos adolescentes,
+inclusive daqueles que se encontrarem em conflito com as leis;
+CONSIDERANDO que os dados sensíveis tratados no sistema devem
+respeitar os limites previstos da Lei Federal nº 13.709/2018 - Lei Geral
+de Proteção de Dados (LGPD), em alinhamento com a Política de
+Proteção de Dados Pessoais (PPDP) do Ministério Público de
+Pernambuco, resguardado o disposto na Lei nº 12.527/2011 - Lei de
+Acesso à Informação;
+CONSIDERANDO a necessidade de promover a constante evolução
+tecnológica e o processo de integração dos sistemas de informação com
+o Poder Judiciário, em especial através do sistema Pje;
+RESOLVE:
+Art. 1º Fica instituído, a título de projeto-piloto, o Sistema Integrado do
+Ministério Público de Pernambuco (SIMP-PE), como plataforma
+eletrônica oficial para a prática de atos, gestão e tramitação dos
+procedimentos judiciais eletrônicos.
+§ 1º O projeto-piloto dar-se-á, inicialmente, na 23ª Promotoria de Justiça
+de Defesa da Cidadania da Capital (com atuação em todas as etapas
+dos procedimentos especiais de apuração de práticas de atos
+infracionais) e focará nos testes de integração direta com o sistema
+Processo Judicial Eletrônico (Pje).
+§ 2º Todos os documentos eletrônicos submetidos a este piloto deverão
+ser analisados e passar por triagem antes da primeira tramitação no
+sistema, de modo a evitar duplicidade de atuação.
+Art. 2º Durante o período de transição e implantação do piloto,
+RESOLUÇÃO PGJ Nº 12/2026
+Recife, 8 de junho de 2026
+os procedimentos eletrônicos que já se encontrem no acervo da referida
+Promotoria deverão ser importados para o sistema SIMP-PE, seguindo
+sua tramitação normal, sem prejuízo das atividades e prazos
+processuais, inclusive os respectivos incidentes e procedimentos
+conexos.
+Parágrafo único. Após a completa implantação e eventual expansão do
+SIMP-PE, não será mais permitida o registro de novos procedimentos
+nos sistemas eletrônicos anteriores, permanecendo o seu
+funcionamento exclusivo para consulta.
+Art. 3º O acesso ao sistema SIMP-PE será permitido a membros,
+servidores, estagiários e terceirizados, desde que devidamente
+solicitado pela chefia imediata mediante formalização junto ao setor
+técnico competente.
+§ 1º O acesso efetivar-se-á mediante utilização de login e senha
+funcionais, que são de uso estritamente pessoal e intransferível.
+§ 2º O SIMP-PE proverá condições técnicas para que os usuários
+possam realizar assinaturas com certificação digital emitida no âmbito
+da Infraestrutura de Chaves Públicas Brasileira (ICP Brasil).
+Art. 4º São deveres e responsabilidades primordiais de todos os
+usuários do SIMP-PE:
+I - observar rigorosamente as normas legais e regulamentares, com
+especial atenção às disposições da Lei Geral de Proteção de Dados
+(LGPD) na manipulação de informações processuais;
+II - guardar absoluto sigilo de sua senha de acesso, não sendo oponível,
+em qualquer hipótese, alegação de uso indevido;
+III - guardar sigilo sobre fato ou informação de qualquer natureza de que
+tenha conhecimento por força de suas atribuições, respeitando as
+hipóteses legais de segredo de justiça e restrição de acesso;
+IV - utilizar o sistema para fins estritamente institucionais e movimentar
+procedimentos apenas se possuir competência legal ou regulamentar
+para tal.
+Art. 5º A gestão do SIMP-PE competirá conjuntamente ao Comitê
+Gestor de Sistemas da Área Fim (CGSAF), com o apoio técnico do
+Núcleo de Apoio à Gestão de Tecnologia e Informação (NTI).
+§ 1º Caberá ao CGSAF a governança do sistema, aprovação de
+melhorias, zelar pela qualidade da informação e gerenciar níveis de
+acesso.
+§ 2º Caberá ao NTI prover as condições necessárias de uso,
+manutenção e rotinas de segurança da tecnologia da informação, além
+de assegurar a infraestrutura necessária à preservação dos
+documentos.
+Art. 6º É expressamente vedada, inclusive à gestão técnica, a exclusão
+de qualquer processo ou tramitação do sistema SIMP-PE diretamente
+na base de dados.
+ 
+PROCURADOR-GERAL DE JUSTIÇA
+José Paulo Cavalcanti Xavier Filho
+SUBPROCURADOR-GERAL DE JUSTIÇA EM
+ASSUNTOS INSTITUCIONAIS:
+Renato da Silva Filho
+SUBPROCURADOR-GERAL DE JUSTIÇA EM
+ASSUNTOS ADMINISTRATIVOS:
+Hélio José de Carvalho Xavier
+SUBPROCURADORA-GERAL DE JUSTIÇA EM
+ASSUNTOS JURÍDICOS:
+Norma Mendonça Galvão de Carvalho
+CORREGEDORA-GERAL
+Maria Ivana Botelho Vieira da Silva
+COORREGEDOR-GERAL SUBSTITUTO
+Charles Hamilton dos Santos Lima
+SECRETÁRIA-GERAL:
+Janaína do Sacramento Bezerra
+CHEFE DE GABINETE
+Frederico José Santos de Oliveira
+COORDENADORA DE GABINETE
+Ana Carolina Paes de Sá Magalhães
+OUVIDORA
+Maria Lizandra Lira de Carvalho
+CONSELHO SUPERIOR
+José Paulo Cavalcanti Xavier Filho
+(Presidente)
+Maria Ivana Botelho Vieira da Silva
+Aguinaldo Fenelon de Barros
+Giani Maria do Monte Santos
+Edson José Guerra
+Cristiane de Gusmão Medeiros
+Liliane da Fonsêca Lima Rocha
+Charles Hamilton dos Santos Lima
+Lucila Varejão Dias Martins
+
+
+--- [Página 2] ---
+2Diário Oficial Eletrônico • Ministério Público de Pernambuco •Terça-feira, 09 de junho de 2026
+Parágrafo único. Havendo necessidade técnica ou correicional de
+exclusão de qualquer documento eletrônico inserido indevidamente, o
+usuário deverá abrir um chamado formal e justificado junto à Central de
+Serviços.
+Art. 7º Em caso de indisponibilidade excepcional do sistema SIMP-PE,
+poderão ser praticados atos urgentes de forma contingencial, por e-mail
+funcional ou sistemas virtuais subsidiários, devendo os referidos atos
+serem obrigatoriamente incluídos e regularizados no sistema SIMP-PE
+imediatamente após o seu restabelecimento, certificando-se nos autos a
+ocorrência.
+Art. 8º Decorridos 30 (trinta) dias do início do projeto, as áreas técnicas
+elaborarão relatório com o detalhamento das atividades executadas, da
+viabilidade de integração tecnológica com o PJe e dos requisitos
+necessários a fim de deliberar quanto à expansão do projeto às demais
+Promotorias de Justiça do Estado.
+Parágrafo único. Em caso de necessidade justificada, o prazo probatório
+do projeto poderá ser prorrogado por igual período.
+Art. 9º Os casos omissos serão dirimidos pela Procuradoria Geral da
+Justiça, com orientação conjunta do NTI e do CGSAF.
+Art. 10. Esta Resolução entra em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Publique-se. Registre-se. Cumpra-se.
+JOSÉ PAULO CAVALCANTI XAVIER FILHO
+Procurador-Geral de Justiça
+O Excelentíssimo Senhor Procurador-Geral de Justiça, José Paulo
+Cavalcanti Xavier Filho, convoca os Excelentíssimos Senhores Membros
+e Servidores abaixo relacionados para participarem da 6° Reunião de
+Avaliação da Estratégia (RAE) da Gestão Estratégica do MPPE — Ciclo
+2024-2029.
+Ficam convidados: a Excelentíssima Senhora Corregedora-Geral do
+MPPE, Maria Ivana Botelho Vieira da Silva, a Excelentíssima Senhora
+Ouvidora Maria Lizandra Lira de Carvalho e o Corregedor-Geral
+Substituto Charles Hamilton dos Santos Lima.
+Data: 12/06/2026
+Hora: 10h00
+Local: Salão dos Órgãos Colegiados
+COMITÊ GESTOR:
+Subprocurador-Geral em Assuntos Institucionais, Renato da Silva Filho
+Subprocuradora-Geral em Assuntos Jurídicos, Norma Mendonça Galvão
+de Carvalho
+Subprocurador-Geral em Assuntos Administrativos, Hélio José de
+Carvalho Xavier
+Secretária-geral do Ministério Público, Janaína do Sacramento Bezerra
+Representante do CSMP, Liliane da Fonseca Lima Rocha
+Representante do CPJ, Carlos Alberto Pereira Vitorio
+NÚCLEO DE APOIO:
+Carolina de Moura Cordeiro Pontes
+Daniel Cezar de Lima Vieira
+Elson Ribeiro
+Evângela Azevedo de Andrade
+Fernando Falcão Ferraz Filho
+Marilúcia Arruda de Assunção
+Eugênio José Batista Antunes
+Rodrigo da Costa Beltrão
+Republicado por incorreção(*)
+CONVOCAÇÃO PGJ Nº 07/2026
+Recife, 5 de junho de 2026
+JOSÉ PAULO CAVALCANTI XAVIER FILHO
+Procurador-Geral de Justiça
+O PROCURADOR-GERAL DE JUSTIÇA, no uso de suas atribuições
+legais contidas no art. 9º, inciso V, da Lei Complementar n.º 12/94, com
+suas alterações posteriores;
+CONSIDERANDO a elaboração da Escala de Plantão encaminhada,
+nos termos do art. 17 da Resolução RES CPJ n.º 006/2017, de
+03/05/2017;
+CONSIDERANDO a solicitação de alteração da escala de plantão,
+referente ao mês de junho/2026, encaminhada pela Coordenação da 11ª
+Circunscrição Ministerial de Limoeiro;
+CONSIDERANDO, por fim, a necessidade e conveniência do serviço;
+RESOLVE:
+I - Modificar o teor da Portaria PGJ n.º 1.735/2026, de 28/05/2026,
+publicada no DOE de 29/05/2026, conforme anexo desta Portaria;
+II - Lembrar ao Promotor de Justiça relacionado no anexo, a
+obrigatoriedade de apresentação do relatório de plantão respectivo,
+conforme disposto nos arts. 24, 28 e 29 da Resolução CPJ n.º 006/2017;
+Publique-se. Registre-se. Cumpra-se.
+Republicado por incorreção(*)
+PORTARIA PGJ Nº 1.850/2026
+Recife, 5 de junho de 2026
+JOSÉ PAULO CAVALCANTI XAVIER FILHO
+Procurador-Geral de Justiça
+O PROCURADOR-GERAL DE JUSTIÇA, no uso de suas atribuições
+legais, contidas no art. 9º, inciso V, da Lei Complementar nº 12/94, com
+suas alterações posteriores;
+CONSIDERANDO a elaboração da Escala de Plantão encaminhada,
+nos termos da Resolução RES CPJ n.º 006/2017, de 03/05/2017;
+CONSIDERANDO a solicitação de alteração da escala de plantão da
+Procuradoria de Justiça Cível do mês de junho de 2026;
+CONSIDERANDO, por fim, a necessidade e conveniência do serviço;
+RESOLVE:
+I - Modificar a escala de prontidão da Procuradoria de Justiça Cível, para
+o mês de JUNHO de 2026, publicada nos termos da Portaria PGJ n.º
+1.732/2026, conforme anexo.
+II - Lembrar aos Procuradores de Justiça relacionados no anexo a
+obrigatoriedade de apresentação do relatório de plantão respectivo,
+conforme disposto nos arts. 24, 28 e 29 da Resolução CPJ n.º 006/2017;
+Publique-se. Registre-se. Cumpra-se.
+PORTARIA PGJ Nº 1.851/2026
+Recife, 8 de junho de 2026
+JOSÉ PAULO CAVALCANTI XAVIER FILHO
+Procurador-Geral de Justiça
+ 
+PROCURADOR-GERAL DE JUSTIÇA
+José Paulo Cavalcanti Xavier Filho
+SUBPROCURADOR-GERAL DE JUSTIÇA EM
+ASSUNTOS INSTITUCIONAIS:
+Renato da Silva Filho
+SUBPROCURADOR-GERAL DE JUSTIÇA EM
+ASSUNTOS ADMINISTRATIVOS:
+Hélio José de Carvalho Xavier
+SUBPROCURADORA-GERAL DE JUSTIÇA EM
+ASSUNTOS JURÍDICOS:
+Norma Mendonça Galvão de Carvalho
+CORREGEDORA-GERAL
+Maria Ivana Botelho Vieira da Silva
+COORREGEDOR-GERAL SUBSTITUTO
+Charles Hamilton dos Santos Lima
+SECRETÁRIA-GERAL:
+Janaína do Sacramento Bezerra
+CHEFE DE GABINETE
+Frederico José Santos de Oliveira
+COORDENADORA DE GABINETE
+Ana Carolina Paes de Sá Magalhães
+OUVIDORA
+Maria Lizandra Lira de Carvalho
+CONSELHO SUPERIOR
+José Paulo Cavalcanti Xavier Filho
+(Presidente)
+Maria Ivana Botelho Vieira da Silva
+Aguinaldo Fenelon de Barros
+Giani Maria do Monte Santos
+Edson José Guerra
+Cristiane de Gusmão Medeiros
+Liliane da Fonsêca Lima Rocha
+Charles Hamilton dos Santos Lima
+Lucila Varejão Dias Martins

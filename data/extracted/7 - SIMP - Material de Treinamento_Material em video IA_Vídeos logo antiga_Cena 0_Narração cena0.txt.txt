@@ -1,0 +1,19 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 0\Narração cena0.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Bem-vindos ao vídeo de demonstração do sistema SIMP4. Neste primeiro momento, apresentamos a abertura do treinamento e o acesso inicial ao sistema. O usuário realiza o login no SIMP4 com suas credenciais e, em seguida, é direcionado à tela principal da aplicação.
+
+Abertura SIMP:
+Treinamento técnico no SIMP4 (Sistema Integrado do Ministério Público).
+
+Título Acesso:
+Acesso ao SIMP4.
+
+Login no SIMP4:
+O usuário informa suas credenciais, acessa o sistema e é, em seguida, direcionado à tela principal da aplicação.
+
+O usuário informa suas credenciais, login e senha, aguarda alguns segundos, e é direcionado à tela principal da aplicação.
+
+
+Bem-vindos à demonstração do sistema integrado do Ministério Público de Pernambuco - SIMP4.

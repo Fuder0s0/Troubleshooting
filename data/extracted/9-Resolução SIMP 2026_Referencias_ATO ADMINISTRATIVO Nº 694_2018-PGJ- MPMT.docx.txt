@@ -1,0 +1,175 @@
+DOCUMENTO: 9-Resolução SIMP 2026\Referencias\ATO ADMINISTRATIVO Nº 694_2018-PGJ- MPMT.docx
+PASTA: 9-Resolução SIMP 2026
+TAMANHO: 0.01 MB
+
+ATO ADMINISTRATIVO Nº 694/2018-PGJ. - Dispõe sobre a gestão documental dos procedimentos eletrônicos no âmbito do Ministério Público do Estado Mato Grosso.
+
+sexta-feira, 15 de junho de 2018, 11h47
+
+ATO ADMINISTRATIVO Nº 694/2018-PGJ.
+
+Dispõe sobre a gestão documental dos procedimentos eletrônicos no âmbito do Ministério Público do Estado Mato Grosso.
+
+O Procurador-Geral de Justiça, no uso de suas atribuições legais, e;
+
+Considerando que a Lei Federal nº 8.159, de 8 de janeiro de 1991, que dispõe sobre a Política Nacional de Arquivos Públicos e Privados, determina ser dever do Poder Público a gestão documental e a proteção especial a documentos de arquivos, como instrumento de apoio à administração, à cultura, ao desenvolvimento científico e como elementos de prova e informação;
+
+Considerando a Lei Federal nº 9.605, de 12 de fevereiro de 1998, em seu art. 62, que tipifica a destruição de arquivos como crime contra o patrimônio cultural;
+
+Considerando a Lei Federal nº 12.527, de 18 de novembro de 2011, que regula o acesso às informações, previsto no inciso XXXIII do art. 5º da Constituição Federal;
+
+Considerando o que prevê a Lei Federal nº 11.419, de 19 de dezembro de 2006, que dispõe sobre a informatização do processo judicial, aplicada por analogia aos procedimentos extrajudiciais eletrônicos de que trata este Ato Administrativo;
+
+Considerando a Lei Federal nº 12.682, de 9 de julho de 2012, que dispõe sobre a elaboração e o arquivamento de documentos em meios eletromagnéticos;
+
+Considerando a Resolução nº 20, de 16 de julho de 2004, do Conselho Nacional de Arquivos – CONARQ, que dispõe sobre a inserção dos documentos digitais em programas de gestão arquivística de documentos dos órgãos e entidades integrantes do Sistema Nacional de Arquivos;
+
+Considerando a Resolução nº 25 do CONARQ, de 27 de abril de 2007, que dispõe sobre a adoção do Modelo de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos – e-ARQ Brasil pelos órgãos e entidades integrantes do Sistema Nacional de Arquivos – SINAR;
+
+Considerando a Resolução nº 39, de 29 de abril de 2014, alterada pela Resolução nº 43, de 04 de setembro de 2015, ambas do CONARQ, que estabelece diretrizes para a implementação de repositórios digitais confiáveis para o arquivamento e manutenção de documentos arquivísticos digitais em suas fases corrente, intermediária e permanente, dos órgãos e entidades integrantes do Sistema Nacional de Arquivos – SINAR;
+
+Considerando a Resolução nº 158, de 31 de janeiro de 2017, do Conselho Nacional do Ministério Público – CNMP, que institui o Plano Nacional de Gestão de Documentos e Memória do Ministério Público – PLANAME e seus instrumentos;
+
+Considerando o Ato Administrativo nº 567/2016-PGJ que institui e disciplina os procedimentos extrajudiciais eletrônicos no âmbito do Ministério Público do Estado de Mato Grosso – MP/MT;
+
+Considerando o Ato Administrativo nº 631/2017-PGJ, de 22 de setembro de 2017, que estabelece normas e procedimentos para a gestão documental e arquivística do MP/MT;
+
+Considerando o Ato Administrativo nº 294/2013-PGJ, de 29 de maio de 2013, que aprova o Código de Classificação de Documentos e a Tabela de Temporalidade e Destinação de Documentos das atividades-meio do MP/MT;
+
+Considerando o Ato Administrativo nº 556/2016-PGJ, de 13 de outubro de 2013, que aprova os instrumentos arquivísticos de gestão documental da área-fim do MP/MT;
+
+Considerando a necessidade de ampliar a sustentabilidade ambiental com o uso da tecnologia da informação;
+
+Considerando a necessidade de padronizar os atos dos procedimentos eletrônicos e suas práticas de registro e controle de documentos; e
+
+Considerando o quanto deliberado na Reunião Ordinária da Comissão Permanente de Avaliação de Documentos – CPAD, realizada no dia 16 de Maio de 2018. RESOLVE:
+
+Art. 1º A gestão documental dos procedimentos eletrônicos no âmbito do Ministério Público do Estado de Mato Grosso será regulamentada por este ato, em consonância com as leis que disciplinam a matéria:
+
+DAS DISPOSIÇÕES GERAIS
+
+Art. 2º Para os fins deste Ato Administrativo, adotam-se as seguintes definições:
+
+I – documento: unidade de registro de informações, independente do formato, do suporte ou da natureza;
+
+II – documento digital: informação registrada, codificada em dígitos binários, acessível e interpretável por meio de sistema computacional, podendo ser:
+
+a) documento nato-digital: criado originalmente em meio eletrônico;
+
+b) documento digitalizado: obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital.
+
+III – procedimento eletrônico: autos virtuais, com registro, tramitação, movimentos e acesso realizados de forma eletrônica, criando uma sucessão ordenada de documentos digitais;
+
+IV – integridade: estado dos documentos que se encontram completos e que não sofreram nenhum tipo de alteração, corrompimento e adulteração não autorizados e não documentados;
+
+V – autenticidade: atributo do documento que reúne as características de identidade, confiabilidade e integridade;
+
+VI – repositório digital confiável: ambiente digital que armazena e gerencia documentos nos seus diversos formados, nas fases corrente, intermediária e permanente, sendo capaz de mantê-los autênticos, preservados e acessíveis pelo tempo necessário.
+
+VII – sistemas informatizados de gestão de documentos e de procedimentos eletrônicos do MP/MT: sistemas operacionais destinados a realizar a gestão dos documentos e procedimentos físicos e eletrônicos do órgão, como registro, tramitação, peticionamento, consulta, avaliação, arquivamento e eliminação.
+
+Art. 3º  Nos procedimentos eletrônicos os atos processuais deverão ser realizados em meio eletrônico, exceto nas situações em que esse procedimento for inviável ou em caso de indisponibilidade do meio eletrônico e cujo prolongamento cause dano relevante à celeridade do processo.
+
+Parágrafo único  No caso das exceções previstas no caput deste artigo, os atos processuais poderão ser praticados em papel, desde que posteriormente o documento-base correspondente seja digitalizado e inserido no procedimento eletrônico.
+
+Art. 4º A autenticidade, a autoria e a integridade dos documentos e da assinatura, nos procedimentos eletrônicos, poderão ser obtidas por meio de certificado digital emitido por Autoridade Certificadora credenciada ou identificação de usuário e senha previamente cadastrados.
+
+Art. 5º Os documentos que integram os procedimentos eletrônicos deverão ser classificados de acordo com as Tabelas Unificadas aprovadas pelo Conselho Nacional do Ministério Público e mantidos pelos prazos estabelecidos nas Tabelas de Temporalidade e Destinação de Documentos do MP/MT e conforme as legislações da gestão documental e arquivística em vigor.
+
+§ 1º Os documentos nato-digitais e assinados eletronicamente serão considerados originais para todos os efeitos legais.
+
+§ 2º Os documentos digitalizados são considerados cópias simples.
+
+§ 3º Os extratos digitais e quaisquer documentos digitalizados e juntados ao procedimento eletrônico têm idêntica força probante dos originais, ressalvada a hipótese de alegação fundamentada de adulteração do documento original antes ou durante o processo de digitalização.
+
+Art. 6º A classificação da informação quanto ao grau de sigilo e a possibilidade de limitação do acesso a membros e servidores autorizados observarão os termos da Lei Federal nº , e demais normas vigentes.
+
+Art. 7º Na conferência dos documentos a serem digitalizados, o responsável deverá registrar nos sistemas informatizados de gestão de documentos e procedimentos eletrônicos do MP/MT se o documento digitalizado é:
+
+I - original;
+
+II - original acompanhado de cópias;
+
+III - cópia autenticada em cartório;
+
+IV - cópia autenticada administrativamente; ou
+
+V - cópia simples.
+
+Parágrafo único A digitalização deverá ser realizada de forma a manter a integridade, a autenticidade e, quando for o caso, o sigilo ou a restrição de acesso ao expediente.
+
+Art. 8º  Os documentos diversos de órgãos, entidades, pessoas jurídicas e/ou pessoas físicas poderão, preferencialmente, ser protocolados na forma digital, por meio do portal de peticionamento, CD, DVD, pen drive, entre outros meios eletrônicos, quando se tratar de procedimento eletrônico.
+
+§ 1º A apresentação do documento físico será necessária quando a lei expressamente o exigir ou nas hipóteses previstas nos artigos 10 e 11.
+
+§ 2º Nos casos de peticionamento eletrônico, incumbe ao usuário externo do Portal do MP/MT o correto cadastramento dos dados solicitados no formulário eletrônico, sendo de sua responsabilidade as consequências decorrentes do preenchimento incorreto e perda dos prazos determinados.
+
+§ 3º O teor e a integridade dos documentos encaminhados por meio do portal de peticionamento eletrônico ou entregues em formato digital são de responsabilidade do interessado, que responderá nos termos da legislação civil, penal e administrativa por eventuais fraudes.
+
+§ 4º Caso o interessado não disponha de meios técnicos para o envio em formato digital, os documentos físicos poderão ser entregues de forma convencional no protocolo das Promotorias de Justiça e da Procuradoria Geral de Justiça para digitalização e inserção nos sistemas.
+
+§ 5º  Ao receber documentos físicos os setores do MP/MT poderão:
+
+I – proceder à digitalização imediata do documento apresentado e devolvê-lo logo depois ao interessado;
+
+II – receber o documento físico para posterior digitalização, considerando o seguinte:
+
+a) os documentos físicos que sejam originais ou cópias autenticadas em cartório deverão, preferencialmente, ser devolvidos ao interessado ou mantidos sob a guarda do MP/MT, com a referência do número do procedimento a que se refere e conforme as orientações da gestão documental desta instituição, observando os prazos estabelecidos nas Tabelas de Temporalidade e Destinação de Documentos do MP/MT;
+
+b) os documentos físicos que contenham cópias autenticadas administrativamente ou cópias simples poderão ser descartados após realizada a sua digitalização, nos termos do artigo 7º.
+
+Art. 9º  Os documentos digitalizados que ficarem ilegíveis ou cuja digitalização seja inviável, em razão do seu volume ou formato, permanecerão sob guarda física do MP/MT, registrando-se no procedimento eletrônico as referências de identificação dos documentos físicos.
+
+Parágrafo único As referências de identificação dos documentos citados no caput deste artigo deverão conter a sua descrição e localização correspondente.
+
+Art. 10  Em casos de erros de digitalização ou impugnada a integridade do documento digitalizado, mediante alegação motivada e fundamentada de adulteração, deverá ser instaurada diligência para a verificação do documento objeto de controvérsia.
+
+Art. 11  Os setores do MP/MT poderão exigir, de forma fundamentada, o peticionamento de documentos de maneira física e/ou presencial.
+
+Art. 12  Deverão ser associados elementos descritivos aos documentos digitais que integram os procedimentos eletrônicos, a fim de apoiar sua identificação, sua indexação, sua presunção de autenticidade, sua preservação e sua interoperabilidade.
+
+Art. 13 Os objetos entregues no setor do MP/MT responsável pelo procedimento extrajudicial eletrônico deverão ser identificados e fotografados para inserção desses registros no Sistema Integrado do Ministério Público – SIMP.
+
+Parágrafo único A guarda do objeto físico deverá ser realizada pelo setor competente enquanto vigorar a investigação ou até a deliberação do membro ministerial responsável.
+
+Art. 14 Quando, por motivo técnico, for inviável o uso do meio eletrônico para a realização de notificação, este ato poderá ser praticado segundo as regras ordinárias.
+
+Parágrafo único A contrafé deverá permanecer nos arquivos dos setores do MP/MT, obedecendo às diretrizes da gestão documental e das Tabelas de Temporalidade e Destinação de Documentos desta instituição.
+
+Art. 15 Na impossibilidade das partes do procedimento extrajudicial eletrônico assinarem digitalmente Termo de Acordo, Termo de Declaração e Termo de Ajustamento de Conduta – TAC, o documento deverá ser impresso e assinado fisicamente.
+
+Parágrafo único Os documentos citados no caput deste artigo deverão ser digitalizados e inseridos no SIMP, e, posteriormente, armazenados nas Promotorias de Justiça e Procuradorias de Justiça, obedecendo às diretrizes da gestão documental e das Tabelas de Temporalidade e Destinação de Documentos do MP/MT.
+
+Art. 16  A definição dos formatos de arquivo dos documentos digitais obedecerá às políticas e diretrizes implementadas pelos padrões de interoperabilidade estabelecidos pelo Departamento de Tecnologia da Informação – DTI em conjunto com o Comitê Estratégico de Tecnologia da Informação, apresentando estudos e ações de aperfeiçoamento que garantam o acesso e preservação dos dados.
+
+§ 1º O formato do arquivo dos documentos digitais será de preferência adotado em formatos interoperáveis, abertos, independentes de plataforma tecnológica e amplamente utilizados.
+
+§ 2º A implantação do repositório digital confiável do MP/MT deverá obedecer à Resolução nº 39 com as alterações estabelecidas pela Resolução nº 43, todas do CONARQ.
+
+Art. 17  A Comissão Permanente de Avaliação de Documentos – CPAD, a Gerência de Documentação e Arquivo, o Comitê Estratégico de Tecnologia da Informação e o DTI deverão estabelecer políticas, estratégias e ações que garantam a preservação de longo prazo, o acesso e o uso contínuo dos documentos digitais.
+
+Parágrafo único  O estabelecido no caput deste artigo deverá prever, no mínimo:
+
+I – proteção contra a deterioração e a obsolescência de equipamentos e programas;
+
+II – mecanismos para garantir a autenticidade, a integridade e a legibilidade dos documentos eletrônicos ou digitais.
+
+Art. 18 Os procedimentos eletrônicos cuja atividade já tenha sido encerrada e que estejam aguardando o cumprimento dos prazos de guarda e destinação final poderão ser transferidos para uma área de armazenamento específica, sob controle da Gerência de Documentação e Arquivo, a fim de garantir a preservação, a segurança e o acesso pelo tempo determinado nas Tabelas de Temporalidade e Destinação de Documentos do MP/MT.
+
+Art. 19  A guarda dos documentos digitais e procedimentos eletrônicos considerados de valor permanente deverá estar de acordo com as normas previstas pelo MP/MT, incluindo a compatibilidade de suporte e de formato, a documentação técnica necessária para interpretar o documento e os instrumentos que permitam a sua identificação e o controle no momento de seu recolhimento.
+
+DAS DISPOSIÇÕES FINAIS
+
+Art. 20 O não cumprimento dos procedimentos estabelecidos neste Ato Administrativo e atos complementares acarretará a aplicação de penas disciplinares aos envolvidos, na forma da legislação em vigor.
+
+Art. 21 Ficará sujeito à responsabilidade penal, civil e administrativa, na forma da legislação em vigor, aquele que desfigurar ou destruir documentos de valor permanente ou considerado como de interesse público e social, bem como incorrer em violação do sigilo.
+
+Art. 22 Este Ato Administrativo entra em vigor na data de sua publicação.
+
+Art. 23 Ficam revogadas as disposições em contrário, em especial dos Atos Administrativos nº 494/2015-PGJ, nº 533/2016-PGJ, nº 567/2016-PGJ e nº 590/2017-PGJ.
+
+Cuiabá, 15 de Junho de 2018.
+
+Mauro Benedito Pouso Curvo
+
+Procurador-Geral de Justiça

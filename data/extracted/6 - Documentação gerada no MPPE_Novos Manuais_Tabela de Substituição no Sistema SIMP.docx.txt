@@ -1,0 +1,19 @@
+DOCUMENTO: 6 - Documentação gerada no MPPE\Novos Manuais\Tabela de Substituição no Sistema SIMP.docx
+PASTA: 6 - Documentação gerada no MPPE
+TAMANHO: 0.14 MB
+
+Tabela de Substituição no Sistema SIMP
+
+A partir de testes realizados no Sistema SIMP, considerando que, no ambiente de homologação da 42ª Promotoria de Justiça de Defesa da Cidadania da Capital, houve a configuração para atuação de 03 Membros em Exercício Simultâneo, foram constatadas as seguintes possibilidades:  
+
+Exemplo 01
+
+Quando realizada a Distribuição Automática dos Processos, houve a alternância de 02 Membros adicionados na condição de Representantes Ministeriais (Dr. Sérgio Gadelha Souto  e Dr. João Luiz da Fonseca Lapenda), enquanto a Promotora de Justiça (Dra. Maria Izamar Ciríaco Pontes) não foi contemplada para atuação no perfil distribuído na ocasião. 
+
+Exemplo 02
+
+Ao realizar a Distribuição Manual e Automática dos Processos, em uma sequência de 01 seleção Manual, como forma de realizar o acréscimo da Promotora de Justiça (Dra. Maria Izamar Ciríaco Pontes) no perfil distribuído, seguida de 01 seleção Automática e mais 01 seleção Automática posteriormente, houve a formação de uma série de 03 registros no painel, o que confirmou os testes acima, quanto alternância de 02 Membros adicionados na condição de Representantes Ministeriais (Dr. Sérgio Gadelha Souto e Dr. João Luiz da Fonseca Lapenda), embora com a necessidade de acréscimo de forma Manual da Promotora de Justiça, a cada 02 seleções na forma Automática, para que reflita um padrão igualitário no perfil distribuído, como método para nivelar a quantidade de processos. 
+
+Resumo dos Testes no Sistema SIMP
+
+Nesse contexto, considerando uma situação de até 03 Membros em Exercício Simultâneo na mesma unidade ministerial, a conclusão é pela possibilidade desde que seja atendido o critério acima, entretanto, se o ambiente de homologação da Tabela de Substituição no Sistema SIMP apresentar uma quantidade superior, que seja acima de 03 Membros em Exercício Simultâneo, não é possível garantir a manutenção do padrão, em razão de que a partir do momento em que as possibilidades são ampliadas, mais complexo será o controle dos registros em conformidade com a adequada sequência estabelecida para o painel. 

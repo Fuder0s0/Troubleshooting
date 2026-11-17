@@ -1,0 +1,23 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena Configurações e considerações finais\COnfigurações pessoais.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Para iniciarmos as configurações no SIMP4, o usuário de clicar no ícone de engrenagem no canto superior direito. No menu de Configurações Pessoais, clicando em Ajustar, acessamos a Gestão do Gabinete. Neste espaço, validamos o Promotor e o Responsável Eletrônico, garantindo que os protocolos tramitados sejam direcionados corretamente. Logo abaixo, é possível gerenciar a lista de Coordenadores do local com total autonomia, adicionando ou removendo usuários conforme a necessidade da unidade.
+
+No menu de Controle de Prazos, o sistema garante uma gestão rigorosa e personalizada para evitar a perda de datas fatais. Você tem autonomia para configurar alertas específicos para diferentes fluxos de trabalho, abrangendo o encerramento de protocolos, alertas gerais, movimentos processuais, atividades não procedimentais e, inclusive, prazos integrados do PJe e SEEU.
+
+Para cada uma dessas categorias, o usuário pode habilitar o recebimento de lembretes por e-mail e definir, no campo 'Quando', a antecedência exata em que deseja ser notificado, permitindo um planejamento prévio adequado à complexidade de cada demanda. Além disso, a configuração é feita de forma individualizada por unidade: basta selecionar a Promotoria correspondente na lista de locais para que o monitoramento seja aplicado especificamente àquela realidade de trabalho. Ao finalizar os ajustes, o botão 'Salvar' consolida as regras de monitoramento, mantendo sua agenda e a do gabinete sempre sincronizadas com as prioridades e prazos do órgão."
+
+Em Cabeçalho e Rodapé, personalizamos a identidade dos seus documentos oficiais. Aqui, você insere as informações do Ministério Público, os dados da Promotoria e as referências de contato. Lembra do "cabeçalho e rodapé das minutas que abordamos anteriormente?. Ao salvar, o sistema confirma a alteração, garantindo que todos os novos arquivos gerados sigam o padrão institucional da comarca.
+
+
+As Notificações no SIMP4 servem para manter o usuário informado sobre eventos importantes e pendências sem a necessidade de consulta manual constante. A integração com o sistema HERMES simplifica o gerenciamento de comunicações externas. Nesta interface, você gerencia as chaves de notificação para repasse de protocolos, tokens de distribuição em lote e avisos de peticionamento eletrônico. Ative apenas os alertas essenciais para otimizar seu fluxo de mensagens.
+
+Na seção Meus Numeradores, você organiza a sequência de suas manifestações de forma automatizada. 
+
+
+Aqui, o usuário consegue personalizar a contagem dos seus próprios documentos definindo sequências automáticas de numeração para os movimentos que você realiza no sistema.  Dessa forma, o SIMP4 cuida da padronização, eliminando a necessidade de controlar manualmente os números de suas peças ou manifestações. Ao cadastrar um novo numerador, vincule-o ao movimento correspondente — como uma manifestação em atos finalísticos — e defina a numeração atual. O registro aparece instantaneamente na lista, permitindo pesquisas rápidas ou a exclusão de sequenciais que não são mais utilizados.
+
+Para agilizar a integração com o tribunal, acesse as Credenciais de acesso ao PJe. Armazene seu login e senha de forma segura; o sistema utiliza criptografia AES-256 para proteger seus dados e permite definir o tempo de validade da sessão. Com as credenciais armazenadas, o peticionamento torna-se muito mais fluido.
+
+Com todas as configurações ajustadas, seu sistema está pronto para operar com máxima eficiência. Ao finalizar seu expediente, utilize o menu do perfil para sair com segurança, retornando à tela de autenticação institucional.

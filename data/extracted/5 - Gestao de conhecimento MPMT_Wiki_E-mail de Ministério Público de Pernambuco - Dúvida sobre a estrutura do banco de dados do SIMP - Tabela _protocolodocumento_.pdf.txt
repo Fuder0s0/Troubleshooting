@@ -1,0 +1,56 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - Dúvida sobre a estrutura do banco de dados do SIMP - Tabela _protocolodocumento_.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.25 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Dúvida sobre a estrutura do banco de dados do SIMP - Tabela "protocolodocumento"
+3 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 13 de outubro de 2025 às 13:29
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, como vai?
+Inicialmente, constatamos que a tabela "protocolodocumento" não estava presente no dump inicial que recebemos. Como o código-fonte fazia referência a ela, nós a criamos manualmente para resolver a
+dependência.
+Posteriormente, ao analisar o módulo de assinaturas digitais (assinador-bry-api), notamos que há uma consulta a uma coluna chamada "documento" nesta mesma tabela. Aparentemente, essa coluna
+armazena o arquivo em si (como um BLOB), mas em nossa análise do módulo SIMP, a informação era de que este campo não seria mantido no banco.
+Para alinharmos nossa implementação com a de vocês, poderiam nos esclarecer os seguintes pontos?
+1) No ambiente de produção do MPMT, a tabela "protocolodocumento" de fato contém uma coluna "documento" (tipo BLOB) para armazenar o arquivo?
+2) Caso a resposta seja não, como o sistema trata o acesso ao arquivo no momento da assinatura, uma vez que o código do assinador-bry-api consulta essa coluna?
+3) Caso a resposta seja sim, vocês teriam algum estudo de impacto ou documentação sobre a decisão de armazenar os arquivos diretamente no banco? Qualquer material que possam compartilhar nos
+ajudaria a acelerar o desenvolvimento.
+Agradecemos pela atenção e colaboração.
+Atenciosamente,
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 13 de outubro de 2025 às 16:21
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Olá, Lucio.
+Como estamos migrando o Simp há alguns anos, realmente a tabela protocolodocumento está em um schema diferente.
+Realmente, os documentos PDFs são armazenados em banco de dados.
+1) Sim.
+3) Essa decisão foi tomada há muitos anos, meados de 2007. Infelizmente não temos material de estudo.
+Um fato, é que está nosso radar, a migração dos arquivos para um file server. 
+Mas, ainda não foi priorizado/estudado.
+Qualquer dúvida, basta retornar.
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - Dúvida sobre a estrutura do banco de dados do SIMP - Tabela "protocolodocumento"
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5727113276205268988&simpl=msg-a:r-3344869460201582514&simpl=msg-f:1845895657793587382&simpl=msg-a:r-323… 1/2
+
+--- [Página 2] ---
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: segunda-feira, 13 de outubro de 2025 12:29
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: Dúvida sobre a estrutura do banco de dados do SIMP - Tabela "protocolodocumento"
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 14 de outubro de 2025 às 08:34
+Para: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Felipe Maciel Ramos Vieira
+<felipe.ramos@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Mauro La Salette Costa Lima De Araujo
+<maraujo@mppe.mp.br>
+PSC
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:19 E-mail de Ministério Público de Pernambuco - Dúvida sobre a estrutura do banco de dados do SIMP - Tabela "protocolodocumento"
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-5727113276205268988&simpl=msg-a:r-3344869460201582514&simpl=msg-f:1845895657793587382&simpl=msg-a:r-323… 2/2

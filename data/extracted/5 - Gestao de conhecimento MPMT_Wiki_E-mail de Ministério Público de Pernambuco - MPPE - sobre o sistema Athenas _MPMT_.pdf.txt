@@ -1,0 +1,109 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPE - sobre o sistema Athenas (MPMT).pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.34 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPE - sobre o sistema Athenas (MPMT)
+6 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 10:23
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+Prezado Daniel, tudo bem?
+Para fins de entendimento sobre o Athenas e, em especial, o módulo de gestão de designações do membros, gostaríamos de saber se eventualmente existe um ambiente de testes/ demonstração do
+Athenas ao qual poderíamos ter acesso.
+Ou se existe alguma documentação que trata da gestão de designações.
+Vocês acham viável obter alguma informação nesse sentido?
+Temos acesso à documentação sobre o Athenas, mas acho que essa documentação não contempla a gestão de designações.
+https://mp-mt.atlassian.net/wiki/spaces/MAN/pages/6100841/Athenas+Suite
+Atenciosamente
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 18 de setembro de 2025 às 11:58
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>, Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>
+Neste caso, o Athenas é gerido por outra equipe, sob a liderança do Rodrigo Fonseca.
+@Rodrigo Fonseca de Moraes , poderia avaliar o pedido do Lucio por gentileza?
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+26/01/2026, 10:20 E-mail de Ministério Público de Pernambuco - MPPE - sobre o sistema Athenas (MPMT)
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r5136792255270015116&simpl=msg-a:r5915863791770358100&simpl=msg-f:1843614183517709552&simpl=msg-f:184362… 1/4
+
+--- [Página 2] ---
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 18 de setembro de 2025 09:23
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+Assunto: MPPE - sobre o sistema Athenas (MPMT)
+ 
+[Texto das mensagens anteriores oculto]
+Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br> 18 de setembro de 2025 às 14:00
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>
+Boa tarde, prezado Lúcio! Tudo bem?
+Informamos que possuímos ambiente de homologação, porém ele é restrito à rede interna do MPMT e à equipe de desenvolvimento do sistema. Por esse motivo, não é possível
+disponibilizar acesso externo no momento.
+Como alternativa, podemos agendar uma reunião com nossos analistas para demonstração da funcionalidade de gestão de designações dos membros. Dessa forma, você poderá
+conhecer detalhadamente as funcionalidades disponíveis.
+Att.
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Enviado: quinta-feira, 18 de setembro de 2025 10:58
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>; Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>; Jeferson Lamartine Boldrin
+<jeferson.boldrin@mpmt.mp.br>
+Assunto: RE: MPPE - sobre o sistema Athenas (MPMT)
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 16:58
+Para: Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br>
+Cc: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva
+<mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Prezado Rodrigo, como vai?
+26/01/2026, 10:20 E-mail de Ministério Público de Pernambuco - MPPE - sobre o sistema Athenas (MPMT)
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r5136792255270015116&simpl=msg-a:r5915863791770358100&simpl=msg-f:1843614183517709552&simpl=msg-f:184362… 2/4
+
+--- [Página 3] ---
+Obrigado pelo retorno.
+A possibilidade de apresentação da funcionalidade de gestão de designações já nos atenderia perfeitamente.
+Poderíamos fazer esta demonstração na próxima semana? 
+No dia e horário que for mais conveniente para vocês.
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br> 18 de setembro de 2025 às 17:17
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva
+<mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Prezado Lúcio, tudo bem e contigo?
+Podemos agendar para o dia 23/10 às 14:30 horário de Brasília?
+Att.
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 18 de setembro de 2025 15:58
+Para: Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br>
+Cc: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Maurivane Gomes Da Silva
+<mgsilva@mppe.mp.br>; Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Assunto: Re: MPPE - sobre o sistema Athenas (MPMT)
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 18 de setembro de 2025 às 22:11
+Para: Rodrigo Fonseca de Moraes <rodrigo.moraes@mpmt.mp.br>
+Cc: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva
+<mgsilva@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+No caso, seria dia 23/09, correto?
+O horário das 14:30 está otimo!
+26/01/2026, 10:20 E-mail de Ministério Público de Pernambuco - MPPE - sobre o sistema Athenas (MPMT)
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r5136792255270015116&simpl=msg-a:r5915863791770358100&simpl=msg-f:1843614183517709552&simpl=msg-f:184362… 3/4
+
+--- [Página 4] ---
+Grato desde já.
+Enviei convite na agenda:
+MPMT & MPPE - Athenas Designações
+Terça-feira, 23 de setembro · 14:30 – 15:30
+Fuso horário: America/Recife
+Como participar do Google Meet
+Link da videochamada: https://meet.google.com/myx-hjkh-vvg
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:20 E-mail de Ministério Público de Pernambuco - MPPE - sobre o sistema Athenas (MPMT)
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r5136792255270015116&simpl=msg-a:r5915863791770358100&simpl=msg-f:1843614183517709552&simpl=msg-f:184362… 4/4

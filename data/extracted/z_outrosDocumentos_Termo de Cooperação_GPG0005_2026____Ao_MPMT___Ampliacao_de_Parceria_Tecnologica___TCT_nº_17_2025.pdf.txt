@@ -1,0 +1,65 @@
+DOCUMENTO: z_outrosDocumentos\Termo de Cooperação\GPG0005_2026____Ao_MPMT___Ampliacao_de_Parceria_Tecnologica___TCT_nº_17_2025.pdf
+PASTA: z_outrosDocumentos
+TAMANHO: 0.35 MB
+
+--- [Página 1] ---
+        
+ 
+ 
+MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO 
+PROCURADORIA GERAL DE JUSTIÇA 
+ Gabinete do Procurador-Geral 
+Rua do Imperador D. Pedro II, 473 – 4º andar – Ed. Roberto Lyra – Santo Antônio – Recife/PE -CEP: 50010-240  
+Fone/Fax: 99230-4370 – PABX: 3182-7000           e-mail: pgj@mppe.mp.br – www.mppe.mp.br 
+ 
+ 
+ 
+  
+Ofício GPG nº 0005/2026                                                                               Recife, 09 de janeiro de 2026.                   
+SEI MPPE: 19.20.110000996.0006443/2025-11 
+ 
+Ao Excelentíssimo Senhor 
+Dr. Rodrigo Fonseca 
+Procurador-Geral de Justiça do Mato Grosso 
+Ministério Público do Mato Grosso 
+CUIABÁ-MT 
+ 
+Assunto: Solicitação de ampliação de parceria tecnológica – Inclusão do Sistema E -Control ao 
+Termo de Cooperação Técnica nº 17/2025. 
+ 
+Senhor Procurador-Geral, 
+ 
+ 
+1. Refiro-me à parceria estabelecida entre nossas instituições através do Termo de Cooperação 
+Técnica (TCT) nº 17/2025 (Vosso GEDOC nº 20.14.0001.0002444/2025 -92), que permitiu a ce s-
+são dos sistemas SIMP e ESCRIBA a este Ministério Público de Pernambuco  
+ 
+2. No decorrer do processo de implantação do Sistema Único (SIMP), as equipes técnicas deste 
+Parquet identificaram a necessidade de integrar as funcionalidades do sistema E-Control, ferr a-
+menta de propriedade dessa egrégia Instituição, essencial para o suporte  às atividades de corre i-
+ção e estatística da nossa Corregedoria-Geral. 
+ 
+3. Diante do interesse recíproco no fortalecimento da gestão tecnológica ministerial e considerando 
+as tratativas preliminares entre os setores de TI de ambas as casas, solicito a Vossa E xcelência a 
+viabilização da cessão do código-fonte da aplicação E-Control. 
+ 
+4. Para tanto, e considerando que o MPMT adotou modelo próprio de convênio para a parceria orig i-
+nal, submeto à apreciação de vossa equipe jurídica a possibilidade de formalização dest a amplia-
+ção mediante a celebração de um Termo Aditivo ao TCT nº 17/2025 ou, se for do entendimento 
+dessa Procuradoria, de um novo instrumento específico, mantendo -se as cláusulas de gratuidade 
+e o foro já estabelecidos. 
+ 
+5. Sendo assim, coloco nossa equipe técnica e jurídica à disposição para o ajuste do correspondente 
+Plano de Trabalho, bem como solicito, se possível, o envio da minuta do instrumento conforme a 
+numeração e padrões desse órgão, a fim de agilizar a assinatura e posterior execução.  
+ 
+ 
+       Circunscrito ao assunto, renovo votos de elevado respeito e distinta consideração.  
+ 
+       Atenciosamente, 
+ 
+ 
+ 
+José Paulo Cavalcanti Xavier Filho 
+Procurador-Geral de Justiça de Pernambuco 
+ 

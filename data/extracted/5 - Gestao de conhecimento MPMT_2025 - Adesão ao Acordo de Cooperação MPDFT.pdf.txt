@@ -1,0 +1,1772 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\2025 - Adesão ao Acordo de Cooperação MPDFT.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.67 MB
+
+--- [Página 1] ---
+MINISTÉRIO PÚBLICO DA UNIÃO
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+Subsecretaria de Contratos - ASCON
+Praça Municipal - Eixo Monumental - Brasília - DF
+ 
+ACORDO DE COOPERAÇÃO TÉCNICA
+ACORDO DE COOPERAÇÃO TÉCNICA MULTILATERAL
+ 
+MINISTÉRIO PÚBLICO DA UNIÃO
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+Subsecretaria de Contratos - ASCON
+Praça Municipal - Eixo Monumental - Brasília - DF
+ 
+ACORDO DE COOPERAÇÃO TÉCNICA nº XX/2025
+PROCESSO SEI Nº 19.04.3250.0081427/2025-64
+ 
+ACORDO DE COOPERAÇÃO TÉCNICA QUE ENTRE SI
+CELEBRAM A UNIÃO — POR INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS —, O
+ESTADO DA BAHIA — POR INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO ESTADO DA BAHIA —, O ESTADO DO CEARÁ —
+POR INTERMÉDIO DO MINISTÉRIO PÚBLICO DO ESTADO DO
+CEARÁ —, O ESTADO DO MATO GROSSO DO SUL — POR
+INTERMÉDIO DO MINISTÉRIO PÚBLICO DO ESTADO DO MATO
+GROSSO DO SUL —, O ESTADO DO RIO DE JANEIRO — POR
+INTERMÉDIO DO MINISTÉRIO PÚBLICO DO ESTADO DO RIO
+DE JANEIRO —, O ESTADO DE SÃO PAULO — POR
+INTERMÉDIO DO MINISTÉRIO PÚBLICO DO ESTADO DE SÃO
+PAULO —, E O ESTADO DE SANTA CATARINA — POR
+INTERMÉDIO DO MINISTÉRIO PÚBLICO DO ESTADO DE
+SANTA CATARINA —, PARA OS FINS QUE ESPECIFICA.
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 1
+
+--- [Página 2] ---
+ 
+A UNIÃO, por intermédio do MINISTÉRIO PÚBLICO DO
+DISTRITO FEDERAL E TERRITÓRIOS, com sede em Brasília – DF,
+no Eixo Monumental, Praça do Buriti, Lote 2, Edifíc io-Sede do
+MPDFT, inscrito no CNPJ/MF sob o número 26.989.715/00 02-93,
+neste ato representado por seu Procurador-Geral de Justiça,
+GEORGES CARLOS FREDDERICO MOREIRA SEIGNEUR, nos
+termos da Lei Complementar nº 75, de 20 de maio de 1 993, daqui
+por diante designado simplesmente MPDFT;
+ 
+O ESTADO DA BAHIA , por intermédio do MINISTÉRIO PÚBLICO
+DO ESTADO DA BAHIA , com sede em Salvador – BA, na 5ª
+Avenida, nº 750, Centro Administrativo da Bahia (CA B), inscrito no
+CNPJ/MF sob o número 04.142.491/0001-66, neste ato
+representado por seu Procurador-Geral de Justiça, PEDRO MAIA
+SOUZA MARQUES, nos termos da Lei Complementar nº 11/1996,
+daqui por diante designado simplesmente MPBA;
+ 
+O ESTADO DO CEARÁ, por intermédio do MINISTÉRIO PÚBLICO
+DO ESTADO DO CEARÁ , com sede em Fortaleza – CE, na Rua
+Assunção, nº 1.100, José Bonifácio, inscrito no CNP J/MF sob o
+número 06.928.790/0001-56, neste ato representado p or seu
+Procurador-Geral de Justiça, HALEY DE CARVALHO FILHO , nos
+termos da Lei Complementar Estadual nº 72/2008, daqui por diante
+designado simplesmente MPCE;
+ 
+O ESTADO DO MATO GROSSO DO SUL , por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO MATO GROSSO DO
+SUL, com sede em Campo Grande - MS, na Rua Presidente Manuel
+Ferraz de Campos Salles, nº 214, Jardim Veraneio, i nscrito no CNPJ
+sob o número nº 03.983.541/0001-75, neste ato repre sentado por
+seu Procurador-Geral de Justiça, ROMÃO AVILA MILHAN JUNIOR,
+nos termos da Lei Complementar Estadual nº 72/1994, daqui por
+diante designado simplesmente MPMS;
+ 
+O ESTADO DO RIO DE JANEIRO , por intermédio do MINISTÉRIO
+PÚBLICO DO ESTADO DO RIO DE JANEIRO , com sede no Rio de
+Janeiro – RJ, na Av. Marechal Câmara, nº 370, Centro , inscrito no
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 2
+
+--- [Página 3] ---
+CNPJ/MF sob o número 28.305.936/0001-40, neste ato
+representado por seu Procurador-Geral de Justiça, ANTONIO JOSÉ
+CAMPOS MOREIRA, nos termos da Lei Complementar Estadual nº
+106/2003, daqui por diante designado simplesmente MPRJ;
+ 
+O ESTADO DE SÃO PAULO , por intermédio do MINISTÉRIO
+PÚBLICO DO ESTADO DE SÃO PAULO, com sede em São Paulo –
+SP, na Rua Riachuelo, nº 115, Centro, inscrito no C NPJ/MF sob o
+número 01.468.760/0001-90, neste ato representado p or seu
+Procurador-Geral de Justiça, PAULO SÉRGIO DE OLIVEIRA E
+COSTA, nos termos da Lei Complementar Estadual nº 734/199 3,
+daqui por diante designado simplesmente MPSP;
+ 
+O ESTADO DE SANTA CATARINA , por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA , com
+sede em Florianópolis – SC, na Rua Bocaiúva, nº 1.750 , Centro,
+inscrito no CNPJ/MF sob o número 76.276.849/0001‑54,  neste ato
+representado por sua Procuradora-Geral de Justiça, VANESSA
+WENDHAUSEN CAVALLAZZI , nos termos da Lei Complementar
+Estadual nº 738/2019, daqui por diante designado si mplesmente
+MPSC;
+ 
+RESOLVEM celebrar o presente ACORDO DE COOPERAÇÃO
+TÉCNICA com a ﬁnalidade de desenvolvimento, manutenção e
+evolução conjunta da Suíte de Aplicações Tecnológic as Brasil.IA ,
+tendo em vista o que consta do Processo SEI n.
+19.04.3250.0081427/2025-64 e em observância às disp osições da
+Lei nº 14.133, de 1º de abril de 2021, e suas altera ções
+posteriores, do Decreto nº 11.531, de 16 de maio de  2023, da
+Portaria SEGES/MGI nº 1.605, de 14 de março de 2024 , mediante
+as cláusulas e condições a seguir:
+ 
+CLÁUSULA PRIMEIRA – DO OBJETO
+1.1 O objeto do presente Acordo de Cooperação Técnica, conforme
+especiﬁcações estabelecidas no Plano de Trabalho, é  o
+desenvolvimento colaborativo, a manutenção e a evol ução da
+Suíte de Aplicações Tecnológicas Brasil.IA, através  do Laboratório
+Integrado de Desenvolvimento de Inovação Tecnológic a
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 3
+
+--- [Página 4] ---
+(Brasil.IALAB), a qual será composta pelas seguintes soluções:
+1.1.1 LuminarIA: ferramenta para produção automatizada de
+minutas e análise de procedimentos;
+1.1.2 JARVIS: ferramenta de transcrição e análise de oitivas co m
+IA;
+1.1.3 ALFRED: chatbot integrado para análise processual;
+1.1.4 SEGURA: sistema de análise preditiva para violência
+doméstica;
+1.1.5 ATArI: gerador automático de atas;
+1.1.6 SEGA: serviço gerador de anonimato;
+1.1.7 TinTendo: tradutor jurídico para linguagem clara; e
+1.1.8 ARCADE: portal colaborativo de prompts.
+Subcláusula única. Novas soluções tecnológicas baseadas em
+Inteligência Artiﬁcial que venham a ser desenvolvidas por qualquer
+dos partícipes no âmbito de suas atividades institu cionais poderão
+ser incorporadas à Suíte Brasil.IA, mediante aprova ção do Comitê
+Gestor e observância dos critérios técnicos e de go vernança
+estabelecidos neste Acordo, ampliando, assim, o por tfólio de
+ferramentas disponíveis para todos os partícipes.
+ 
+CLÁUSULA SEGUNDA — DO PLANO DE TRABALHO
+2.1 Para o alcance do objeto pactuado, os partícipe s buscarão
+seguir o Plano de Trabalho que, independentemente d e
+transcrição, é parte integrante do presente Acordo de Cooperação
+Técnica, bem como toda documentação técnica que del e resulte,
+cujos dados neles contidos acatam os partícipes.
+ 
+CLÁUSULA TERCEIRA — DAS OBRIGAÇÕES COMUNS
+3.1 Constituem obrigações comuns a todos os partícipes:
+3.1.1 elaborar o Plano de Trabalho relativo aos obj etivos deste
+Acordo;
+3.1.2 executar as ações objeto deste Acordo, assim como
+monitorar os resultados;
+3.1.3 responsabilizar-se por quaisquer danos porven tura causados,
+dolosa ou culposamente, por seus colaboradores, ser vidores ou
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 4
+
+--- [Página 5] ---
+prepostos, ao patrimônio do outro partícipe, quando  da execução
+deste Acordo;
+3.1.4 analisar resultados parciais, reformulando me tas quando
+necessárias ao atingimento do resultado final;
+3.1.5 cumprir as atribuições próprias, conforme deﬁ nido no
+instrumento;
+3.1.6 realizar vistorias em conjunto, quando necessário;
+3.1.7 disponibilizar recursos humanos, tecnológicos  e materiais
+para executar as ações, mediante custeio próprio;
+3.1.8 permitir o livre acesso a agentes da administ ração pública
+(controles interno e externo), a todos os documento s relacionados
+ao acordo, assim como aos elementos de sua execução;
+3.1.9 fornecer ao parceiro as informações necessári as e
+disponíveis para o cumprimento das obrigações acordadas;
+3.1.10 manter sigilo das informações sensíveis (con forme
+classiﬁcação da Lei nº 12.527, de 18 de novembro de  2011, Lei de
+Acesso à Informação — LAI) obtidas em razão da execu ção do
+acordo, somente divulgando-as se houver expressa au torização
+dos partícipes;
+3.1.11 observar os deveres previstos na Lei nº 13.70 9, de 14 de
+agosto de 2018 (Lei Geral de Proteção de Dados — LGPD) ,
+adotando medidas eﬁcazes para proteção de dados pes soais aos
+quais tenha acesso por força da execução deste acordo; e
+3.1.12 obedecer às restrições legais relativas à pr opriedade
+intelectual, se for o caso.
+Subcláusula única. Os partícipes concordam em oferecer, em
+regime de colaboração mútua, todas as facilidades p ara a
+execução do presente instrumento, de modo a, no lim ite de suas
+possibilidades, não faltarem recursos humanos, mate riais e
+instalações, conforme as exigências do Plano de Trabalho.
+ 
+CLÁUSULA QUARTA — DAS OBRIGAÇÕES DO MPDFT
+4.1 Para viabilizar o objeto deste instrumento, são
+responsabilidades do MPDFT:
+4.1.1 exercer a coordenação geral do Laboratório Int egrado de
+Desenvolvimento de Inovação Tecnológica durante os primeiros 36
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 5
+
+--- [Página 6] ---
+(trinta e seis) meses;
+4.1.2 exercer a presidência do Comitê Gestor Integr ado durante os
+primeiros 36 (trinta e seis) meses;
+4.1.3 disponibilizar infraestrutura central de repo sitórios de código
+e documentação;
+4.1.4 realizar a transferência de tecnologia aos de mais partícipes,
+com disponibilização dos códigos-fonte, documentaçã o técnica e
+todos os elementos de informação pertinentes às tec nologias da
+Suíte Brasil.IA, incluindo aspectos de concepção, m anutenção,
+atualizações e evolução das soluções;
+4.1.5 fornecer suporte técnico especializado à impl ementação das
+soluções nos demais MPs partícipes. O suporte será prestado em
+Brasília-DF ou por meio de reunião virtual, conforme  cronograma
+previamente elaborado e adequado à disponibilidade de agenda do
+MPDFT e às necessidades dos partícipes;
+4.1.6 organizar as reuniões trimestrais do Comitê G estor Integrado
+e do Laboratório;
+4.1.7 comunicar aos demais partícipes, sempre que s olicitado, as
+alterações efetuadas nas ferramentas;
+4.1.8 garantir a continuidade dos desenvolvimentos já realizados.
+ 
+CLÁUSULA QUINTA — DAS OBRIGAÇÕES DOS DEMAIS
+PARTÍCIPES
+5.1 Para viabilizar o objeto deste instrumento, são
+responsabilidades do MPBA, do MPCE, do MPMS, do MPR J, do MPSP
+e do MPSC:
+5.1.1 designar os três gestores previstos na estrut ura de
+governança;
+5.1.2 participar ativamente do Comitê Gestor Integr ado, do
+Laboratório e dos grupos de trabalho;
+5.1.3 compartilhar códigos-fonte, documentação e co nhecimentos
+desenvolvidos;
+5.1.4 zelar pelo uso adequado das soluções, comprom etendo-se a
+utilizar os dados que lhe forem disponibilizados so mente nas
+atividades que, em virtude de lei, lhes compete exercer;
+5.1.5 apurar qualquer indício de uso indevido das soluções da Suíte
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 6
+
+--- [Página 7] ---
+Brasil.IA, adotando as providências necessárias par a eventual
+responsabilização administrativa, cível e criminal dos envolvidos,
+bem como promover o registro e o compartilhamento d as
+ocorrências com os demais partícipes, visando ao ap rendizado
+institucional e ao aprimoramento, manutenção e evol ução das
+funcionalidades das ferramentas;
+5.1.6 arcar com todas as despesas de deslocamento — incluindo
+passagens e diárias, dos servidores do MPDFT — sempre  que for
+necessário suporte presencial nos demais MPs partíc ipes para a
+implantação, a capacitação ou o aperfeiçoamento das  soluções da
+Suíte Brasil.IA;
+5.1.7 manter sigilo sobre dados sensíveis acessados  através das
+ferramentas;
+5.1.8 contribuir com casos de uso e feedback para e volução das
+soluções;
+5.1.9 disponibilizar recursos conforme suas possibi lidades para
+evolução do projeto;
+5.1.10 promover capacitação interna de seus usuários;
+5.1.11 participar do processo de eleição da Coorden ação Adjunta
+do Laboratório.
+Subcláusula primeira.  Ao promover a divulgação das
+ferramentas, sempre deverá ser utilizada a marca Brasil.IA, o nome
+e a logo da aplicação específica.
+Subcláusula segunda. O disposto na alínea “f” aplicar-se-á de
+forma análoga a situações futuras para qualquer sup orte
+presencial necessário de um dos partícipes.
+ 
+CLÁUSULA SEXTA - DA ESTRUTURA DE GOVERNANÇA
+6.1 Do Comitê Gestor Integrado
+6.1.1 Fica instituído o Comitê Gestor Integrado, ór gão decisório
+máximo da governança, composto exclusivamente pelos
+Coordenadores de Desenvolvimento de IA de cada MP partícipe.
+6.1.2 A Coordenação Geral do Comitê Gestor Integrad o será
+exercida:
+6.1.2.1 Pelo MPDFT, durante os primeiros 36 (trinta e seis) meses;
+6.1.2.2 Por eleição entre os membros, a partir do 3 7º mês, com
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 7
+
+--- [Página 8] ---
+mandato de 12 (doze meses).
+6.1.3 Compete ao Comitê Gestor Integrado:
+6.1.3.1 aprovar a inclusão de novas ferramentas na Stack Brasil.IA;
+6.1.3.2 deliberar sobre diretrizes estratégicas do Laboratório;
+6.1.3.3 aprovar o plano anual de trabalho;
+6.1.3.4 decidir sobre adesão de novos MPs ao presente Acordo;
+6.1.3.5 resolver conflitos e divergências entre partícipes; e
+6.1.3.6 aprovar alterações estruturais nas soluções.
+ 
+6.2 Do Laboratório Integrado de Desenvolvimento de
+Inovação Tecnológica
+6.2.1 Fica instituído o Laboratório Integrado de De senvolvimento
+de Inovação Tecnológica, responsável pela coordenaç ão técnica e
+operacional do desenvolvimento das soluções da Suíte Brasil.IA.
+6.2.2 O Laboratório será dirigido por:
+6.2.2.1 Coordenação Geral : exercida pelo MPDFT durante os
+primeiros 36 (trinta e seis) meses, sendo posterior mente eleita por
+votação entre todos os MPs partícipes para mandato de 12 (doze)
+meses;
+6.2.2.2 Coordenação Adjunta: eleita pelos MPs partícipes desde
+o início do Acordo, com mandato de 12 (doze) meses.
+6.2.3 O Laboratório será composto pelos seguintes me mbros de
+cada MP partícipe:
+6.2.3.1 Gestor de Soluções de IA;
+6.2.3.2 Gestor Técnico de IA.
+6.3 Dos Papéis em Cada MP Partícipe
+6.3.1 Cada MP partícipe deverá designar, no prazo d e 10 dias da
+assinatura deste Acordo:
+6.3.1.1 Coordenador de Desenvolvimento de IA : membro do
+MP responsável por: a) representar o MP no Comitê G estor
+Integrado; b) deﬁnir prioridades estratégicas de IA  para sua
+instituição; c) garantir alinhamento com políticas institucionais; d)
+aprovar implementação local de novas ferramentas;
+6.3.1.2 Gestor de Soluções de IA : servidor especializado
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 8
+
+--- [Página 9] ---
+responsável por: a) participar do Laboratório Integr ado; b) ser
+ponto focal para demandas de melhorias; c) avaliar impacto
+negocial das soluções; d) coordenar com gestores do s outros MPs;
+e) manter catálogo de casos de uso;
+6.3.1.3 Gestor Técnico de IA : servidor de TI responsável por: a)
+participar do Laboratório Integrado; b) avaliar viab ilidade técnica
+das propostas; c) coordenar integração e interopera bilidade; d)
+garantir conformidade com padrões técnicos; e) supe rvisionar
+segurança e privacidade.
+Subcláusula primeira.  O Comitê Gestor Integrado se reunirá
+ordinariamente a cada trimestre e extraordinariamen te quando
+necessário.
+Subcláusula segunda.  O Laboratório Integrado se reunirá
+mensalmente e sempre que necessário para questões t écnicas
+urgentes.
+ 
+CLÁUSULA SÉTIMA - DO ACOMPANHAMENTO DA EXECUÇÃO
+DO ACORDO DE COOPERAÇÃO TÉCNICA
+7.1 No prazo de 30 (trinta) dias a contar da assina tura do presente
+Acordo, cada partícipe designará formalmente o responsável titular
+e respectivo suplente, preferencialmente servidores  públicos, para
+acompanhar a execução e o cumprimento do objeto do Acordo de
+Cooperação Técnica.
+Subcláusula primeira.  Competirá aos responsáveis a
+comunicação com o outro partícipe, bem como transmitir e receber
+solicitações; marcar reuniões, devendo todas as com unicações
+serem documentadas.
+Subcláusula segunda.  Sempre que o indicado não puder
+continuar a desempenhar a incumbência, este deverá ser
+substituído. A comunicação deverá ser feita ao outr o partícipe, no
+prazo de até 20 (vinte) dias da ocorrência do event o, seguida da
+identificação do substituto.
+ 
+CLÁUSULA OITAVA – DOS RECURSOS FINANCEIROS E
+PATRIMONIAIS
+8.1 Não haverá transferência voluntária de recursos  ﬁnanceiros ou
+doação de bens entre os partícipes para a execução do presente
+Acordo de Cooperação Técnica. As despesas necessári as à plena
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 9
+
+--- [Página 10] ---
+consecução do objeto acordado, tais como pessoal, deslocamentos,
+comunicação entre os órgãos e outras que se ﬁzerem necessárias
+serão custeadas por dotações especíﬁcas constantes nos
+orçamentos dos partícipes.
+Subcláusula primeira.  As ações que implicarem repasse de
+recursos serão viabilizadas por intermédio de instr umento
+específico.
+Subcláusula segunda.  Os serviços decorrentes do presente
+Acordo serão prestados em regime de cooperação mútu a, não
+cabendo aos partícipes quaisquer remunerações.
+ 
+CLÁUSULA NONA – DOS RECURSOS HUMANOS
+9.1 A utilização dos recursos humanos por quaisquer  dos
+partícipes, em decorrência das atividades inerentes  ao presente
+Acordo, não acarretará alteração de vínculo nem qua lquer ônus ao
+outro partícipe.
+Subcláusula única.  As atividades não implicarão cessão de
+servidores, que poderão ser designados apenas para o
+desempenho de ação especíﬁca prevista no acordo e p or prazo
+determinado.
+ 
+CLÁUSULA DÉCIMA - DA PROTEÇÃO DE DADOS PESSOAIS
+10.1 Os partícipes se comprometem a proteger os dir eitos
+fundamentais de liberdade e de privacidade e o livr e
+desenvolvimento da personalidade da pessoa natural,  relativos ao
+tratamento de dados pessoais, inclusive nos meios d igitais; bem
+como executar os serviços em estreita observância d os ditames
+estabelecidos pela Lei nº 13.709/2018 - Lei Geral de  Proteção de
+Dados Pessoais – LGPD, alterada pela Lei nº 13.853/2019.
+Subcláusula primeira. Os partícipes comprometem-se a garantir
+sigilo e conﬁdencialidade relativamente a toda a in formação a que
+venham a ter acesso no âmbito do presente Acordo de Cooperação
+Técnica, comprometendo-se igualmente a não utilizar  a referida
+informação para quaisquer outros ﬁns que não os est abelecidos no
+presente Acordo, a não ser com a prévio consentimen to do outro
+partícipe, a ser obtido, caso a caso, por escrito.
+Subcláusula segunda. Os partícipes cooperarão no cumprimento
+das obrigações referentes ao exercício dos direitos  dos titulares
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 10
+
+--- [Página 11] ---
+previstos na LGPD e nas Leis de Proteção de Dados em  vigor e no
+atendimento de requisições e determinações do Poder  Judiciário,
+Ministério Público, ANPD e Órgão de controle admini strativo em
+geral.
+Subcláusula terceira . Eventuais responsabilidades das partes
+serão apuradas conforme estabelecido neste Acordo e  de acordo
+com o que dispõe a Seção III, Capítulo VI da LGPD.
+ 
+CLÁUSULA DÉCIMA PRIMEIRA - DA PROPRIEDADE
+INTELECTUAL
+11.1 A titularidade dos direitos de propriedade int electual das
+soluções desenvolvidas conjuntamente será compartil hada
+igualmente entre os partícipes.
+Subcláusula primeira.  Desenvolvimentos individuais terão
+cessão automática de direito de uso aos demais part ícipes para
+fins institucionais.
+Subcláusula segunda.  É vedada a transmissão parcial ou total
+das soluções a outra pessoa física ou jurídica sem a anuência de
+todos os partícipes, observadas as disposições de p ropriedade
+intelectual, conforme registro no INPI, bem como da  Lei nº 14.133,
+de 2021, os aspectos relacionados à segurança da in formação e
+demais dispositivos que visem evitar o uso e a apro priação
+indevida do sistema por empresa contratada.
+Subcláusula terceira.  Havendo concordância de todos os
+partícipes, é facultado o compartilhamento com empr esas e
+instituições de ensino e pesquisa com a qual os par tícipes tenham
+relação contratual para auxiliar no desenvolvimento  das
+ferramentas, devendo haver ciência expressa de que todo e
+qualquer desenvolvimento será compartilhado com tod os os
+partícipes.
+Subcláusula quarta.  Todas as ferramentas deverão exibir a
+identificação Brasil.IA.
+ 
+CLÁUSULA DÉCIMA SEGUNDA – DO PRAZO E VIGÊNCIA
+12.1 O prazo de vigência deste Acordo de Cooperação Técnica será
+de 60 (sessenta) meses a partir da assinatura, pode ndo ser
+prorrogado, mediante a celebração de aditivo.
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 11
+
+--- [Página 12] ---
+ 
+CLÁUSULA DÉCIMA TERCEIRA – DAS ALTERAÇÕES
+13.1 Exceto quanto ao objeto, este acordo poderá se r alterado
+mediante termo aditivo, desde que de comum acordo e ntre os
+partícipes e que o interesse pela alteração seja ma nifestado
+previamente, por escrito, em tempo hábil para trami tação dentro
+do prazo de validade deste instrumento.
+ 
+CLÁUSULA DÉCIMA QUARTA – DO ENCERRAMENTO
+14.1 O presente Acordo de Cooperação Técnica será extinto:
+14.1.1 por advento do termo ﬁnal, sem que os partíc ipes tenham
+até então firmado aditivo para renová-lo;
+14.1.2 por denúncia de quaisquer dos partícipes, se  não tiver mais
+interesse na manutenção da parceria, notiﬁcando o p arceiro com
+antecedência mínima de 90 (noventa) dias;
+14.1.3 por consenso dos partícipes antes do termo ﬁ nal de
+vigência, devendo ser devidamente formalizado; e
+14.1.4 por rescisão.
+Subcláusula primeira . Havendo a extinção do ajuste, cada um
+dos partícipes ﬁca responsável pelo cumprimento das  obrigações
+assumidas até a data do encerramento.
+Subcláusula segunda. Se, na data da extinção, o resultado não
+tiver sido alcançado, os partícipes entabularão aco rdo para
+cumprimento, se possível, de meta ou etapa que poss a ter
+continuidade posteriormente, ainda que de forma unilateral.
+Subcláusula terceira. Em caso de denúncia, o partícipe retirante
+permanecerá com acesso às ferramentas por 180 (cent o e oitenta)
+dias, podendo continuar usando as versões já implan tadas, sem
+direito a atualizações futuras.
+ 
+CLÁUSULA DÉCIMA QUINTA – DA RESCISÃO
+15.1 O presente instrumento poderá ser rescindido
+justiﬁcadamente, a qualquer tempo, por quaisquer um  dos
+partícipes, mediante comunicação formal, com aviso prévio de, no
+mínimo, 30 (trinta) dias, nas seguintes situações:
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 12
+
+--- [Página 13] ---
+15.1.1 quando um dos partícipes descumprir obrigaçã o que
+inviabilize o alcance do resultado do Acordo de Coo peração
+Técnica; e
+15.1.2 na ocorrência de caso fortuito ou de força m aior,
+regularmente comprovado, que impeça a execução do objeto.
+ 
+CLÁUSULA DÉCIMA SEXTA – DA PUBLICAÇÃO
+16.1 Incumbirá ao MPDFT providenciar a divulgação de ste Acordo
+de Cooperação Técnica no Diário Oﬁcial da União, o qual também
+deverá ser publicado no sítio eletrônico oﬁcial de cada partícipe, no
+prazo de 10 (dez) dias, a contar da assinatura.
+ 
+CLÁUSULA DÉCIMA SÉTIMA — DA PUBLICIDADE E
+DIVULGAÇÃO
+17.1 A publicidade decorrente de atos, programas, o bras, serviços
+e campanhas procedentes deste Acordo de Cooperação Técnica
+deverá possuir caráter educativo, informativo ou de  orientação
+social, dela não podendo constar nomes, símbolos ou  imagens que
+caracterizem promoção pessoal de autoridades ou ser vidores
+públicos, nos termos do art. 37, §1º, da Constituição Federal.
+ 
+CLÁUSULA DÉCIMA OITAVA — DA AFERIÇÃO DE
+RESULTADOS
+18.1 Os partícipes deverão aferir os benefícios e o  alcance do
+interesse público obtidos em decorrência deste Acordo, mediante a
+elaboração de relatório conjunto de execução de ati vidades
+relativas à parceria, discriminando as ações empree ndidas e os
+objetivos alcançados, no prazo de até 60 (sessenta)  dias após o
+encerramento.
+ 
+CLÁUSULA DÉCIMA NONA – DOS CASOS OMISSOS
+19.1 As situações não previstas neste instrumento s erão
+solucionadas de comum acordo entre os partícipes. O
+direcionamento deve visar à execução integral do objeto.
+ 
+CLÁUSULA VIGÉSIMA — DA CONCILIAÇÃO E DO FORO
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 13
+
+--- [Página 14] ---
+20.1 Na hipótese de haver divergências que não poss am ser
+solucionadas diretamente por consentimento, os part ícipes
+solicitarão à Câmara de Mediação e de Conciliação d a
+Administração Pública Federal — CCAF, órgão da Advoca cia-Geral
+da União, a avaliação da admissibilidade dos pedido s de resolução
+de conflitos, por meio de conciliação.
+Subcláusula única. Não logrando êxito a tentativa de conciliação
+e solução administrativa, o foro da Justiça Federal  da Seção
+Judiciária do Distrito Federal será o competente pa ra dirimir as
+questões decorrentes deste Acordo de Cooperação, no s termos do
+inciso I do art. 109 da Constituição Federal.
+ 
+E, por assim estarem plenamente de acordo, os partícipes obrigam-
+se ao total e irrenunciável cumprimento dos termos do presente
+instrumento, o qual lido e achado conforme, assinam
+eletronicamente por meio de seus representantes, pa ra que
+produza seus legais efeitos, em Juízo ou fora dele.
+ 
+ANEXO I – PLANO DE TRABALHO
+ 
+PLANO DE TRABALHO PARA ACORDO DE COOPERAÇÃO
+TÉCNICA (SEM REPASSE DE RECURSO FINANCEIRO)
+ 
+1 DESCRIÇÃO DO PROJETO
+TÍTULO DO PROJETO
+Laboratório Integrado de Desenvolvimento de Inovação
+Tecnológica – Suíte de Ferramentas Tecnológicas "Brasil.IA"
+ 
+PERÍODO DE EXECUÇÃO
+INÍCIO: 2025
+TÉRMINO: 2030
+ 
+IDENTIFICAÇÃO DO OBJETO
+Criação e operacionalização do Laboratório Integrado  de
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 14
+
+--- [Página 15] ---
+Desenvolvimento de Inovação Tecnológica para desenv olvimento,
+manutenção e evolução colaborativa da Suíte Brasil. IA, composta,
+inicialmente, por 8 ferramentas (LuminarIA, JARVIS, ALFRED,
+SEGURA, ATArI, SEGA, TinTendo e ARCADE) para modern ização e
+otimização das atividades ministeriais.
+ 
+JUSTIFICATIVA DA PROPOSIÇÃO
+Necessidade de estabelecer um centro de excelência em inovação
+tecnológica para o Ministério Público, promovendo o
+desenvolvimento colaborativo de soluções de intelig ência artiﬁcial
+e otimizando recursos através da cooperação interinstitucional.
+ 
+2 OBRIGAÇÕES DOS PARTÍCIPES
+2.1 São atribuições e responsabilidades comuns:
+a) designar os três gestores previstos na estrutura de governança;
+b) participar ativamente do Comitê Gestor Integrado  e do
+Laboratório Integrado;
+c) compartilhar códigos-fonte, documentação e conhecimentos;
+d) garantir uso ético e responsável das ferramentas;
+e) observar princípios de transparência algorítmica  e proteção de
+dados;
+f) contribuir com casos de uso e feedback contínuo;
+g) promover capacitação de usuários internos;
+h) participar dos processos eleitorais previstos neste Acordo.
+ 
+2.2 Atribuições específicas do MPDFT:
+a) exercer a coordenação geral do Laboratório Integ rado nos
+primeiros 36 meses;
+b) exercer a presidência do Comitê Gestor Integrado  nos primeiros
+36 meses;
+c) manter infraestrutura central de repositórios;
+d) organizar reuniões e documentação;
+e) prover suporte técnico inicial;
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 15
+
+--- [Página 16] ---
+f) coordenar o processo eleitoral após 36 meses (co ntados a partir
+de XXX).
+ 
+2.3 Não se incluem no presente Acordo equipamentos ou
+licenças de softwares de terceiros eventualmente
+necessários.
+ 
+3 DO PRAZO
+O presente Termo de Cooperação Técnica terá vigênci a de 60
+meses, a contar da data de sua assinatura.
+ 
+4 UNIDADE RESPONSÁVEL
+Laboratório Integrado de Desenvolvimento de Inovação
+Tecnológica
+Coordenação Geral: MPDFT (nos primeiros 36 meses)
+Coordenação Adjunta: A ser eleita
+Comitê Gestor Integrado: Coordenadores de Desenvolv imento de
+IA dos MPs partícipes
+ 
+5 GESTORES DO ACORDO DE COOPERAÇÃO TÉCNICA
+Por designar em cada MP partícipe:
+Coordenador de Desenvolvimento de IA (membro do Comitê Gestor
+Integrado)
+Gestor de Soluções de IA (membro do Laboratório Integrado)
+Gestor Técnico de IA (membro do Laboratório Integrado)
+ 
+6 APROVAÇÃO
+Aprovado em 1º/7/2025
+[Assinaturas eletrônicas dos Procuradores-Gerais de Justiça]
+ 
+Documento assinado eletronicamente pelos Procuradores-
+Gerais de Justiça dos MPs partícipes
+ 
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 16
+
+--- [Página 17] ---
+ANEXO II – CRONOGRAMA DE EXECUÇÃO
+ 
+METAS, ETAPAS OU FASES (Cronograma de Execução)
+Meta Descrição Etapa Início
+Duração
+(Dias)
+Celebração do
+Termo de
+Cooperação
+Formalização do
+acordo entreos demais
+do consórcio Brasil.IA.
+- Assinatura do termo de
+cooperação.
+- Definição das
+responsabilidades de
+cada parte.
+- -
+Reunião de
+Kick-off
+Alinhamento inicial
+entre todas as partes
+interessadas
+- Apresentação do
+cronograma macro.
+- Definição dos pontos
+de contato (POCs).
+- Esclarecimento de
+dúvidas iniciais.
+Após
+assinatura
+Até 30 dias
+Repasse Técnico
+do MPDFT
+Transferência de todo
+o conhecimento
+técnico, código-fonte e
+documentação das
+soluções de IA
+existentes.
+- Disponibilização do
+acesso aos repositórios
+de código.
+- Explicação da
+arquitetura utilizada
+Apos o
+encerramento
+da anterior
+Até 30 dias
+Análise e
+Planejamento
+da Migração
+A equipe analisa o
+material recebido e
+elabora o plano
+detalhado de
+adaptação e
+implantação.
+Análise de
+compatibilidade e
+diagnóstico.
+- Desenho da arquitetura
+de destino (ex: AWS).
+- Elaboração do plano de
+projeto detalhado (com
+sprints/tarefas).
+- Definição dos pré-
+requisitos de
+infraestrutura.
+Após repasse
+técnico
+Até 30 dias
+Montagem do
+Ambiente
+Configuração da
+infraestrutura na nova
+nuvem para receber as
+aplicações.
+- Criação das contas e
+permissões.
+- Configuração de redes
+segurança e bancos de
+dados.
+- Provisionamento dos
+serviços de computação
+e IA.
+Após
+planejamento
+Até 30 dias
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 17
+
+--- [Página 18] ---
+Adaptação e
+Migração das
+Soluções de IA
+Desenvolvimento e
+ajuste das soluções
+para operarem na
+nova nuvem. Esta é a
+principal fase de
+execução técnica.
+- Migração e testes do
+Produto de IA 1.
+- Migração e testes do
+Produto de IA 2.
+ 
+Após
+montagem do
+ambiente
+Até 90 dias
+Homologação e
+Testes
+Validação das soluções
+migradas.
+- Execução dos casos de
+teste.
+- Testes de carga e
+estresse.
+- Emissão do termo de
+aceite.
+Após a fase
+anterior
+Até 90 dias
+Treinamento
+Capacitação das
+equipes que irão
+utilizar e sustentar as
+soluções.
+- Realização dos
+treinamentos para
+usuários finais.
+Após a fase
+anterior
+Definir com
+o MP que
+recebera o
+treinamento
+Definição do
+Roadmap de
+Novos Produtos
+Definição das
+prioridades e o
+planejamento para as
+próximas soluções de
+IA.
+- Definição das novas
+demandas.
+- Priorização de
+iniciativas e criação do
+backlog.
+- Início do ciclo de vida
+de um novo projeto.
+Após a fase
+anterior
+Até 45 dias.
+ 
+ 
+Documento assinado eletronicamente por Paulo Sérgio de
+Oliveira e Costa, Usuário Externo, em 05/08/2025, às 18:02,
+conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente por Vanessa
+Wendhausen Cavallazzi, Procuradora-Geral de Justiça, em
+08/08/2025, às 17:42, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente por ROMAO AVILA
+MILHAN JUNIOR, Procurador-Geral de Justiça, em
+12/08/2025, às 16:07, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente por Antonio José
+Campos Moreira, Procurador-Geral de Justiça, em
+13/08/2025, às 16:43, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 18
+
+--- [Página 19] ---
+Documento assinado eletronicamente por HALEY DE
+CARVALHO FILHO, Usuário Externo, em 14/08/2025, às
+11:39, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente por PEDRO MAIA SOUZA
+MARQUES, Usuário Externo, em 14/08/2025, às 16:33,
+conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente por GEORGES CARLOS
+FREDDERICO MOREIRA SEIGNEUR, Procurador-Geral de
+Justiça, em 15/08/2025, às 10:48, conforme § 3º do art. 4º do
+Decreto nº 10.543, de 13 de novembro de 2020.
+A autenticidade do documento pode ser conferida no site
+https://sei.mpdft.mp.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+informando o código verificador 2527278 e o código CRC
+90D4BB8C.
+19.04.3250.0081427/2025-64 2527278v5
+Acordo de Cooperação Técnica 2527278         SEI 19.04.3250.0081427/2025-64 / pg. 19
+
+--- [Página 20] ---
+Documento assinado digitalmente conforme MP nº 2.200-2 de 24/08/2001,
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+Este documento pode ser verificado no endereço eletrônico
+http://www.in.gov.br/autenticidade.html, pelo código 05302025081800217
+217
+Nº 155, segunda-feira, 18 de agosto de 2025ISSN 1677-7069Seção 3
+Controladoria-Geral da União
+SECRETARIA EXECUTIVA
+DIRETORIA DE GESTÃO CORPORATIVA
+COORDENAÇÃO-GERAL DE LICITAÇÕES, CONTRATOS E
+D O C U M E N T AÇ ÃO
+EXTRATO DE TERMO ADITIVO Nº 2/2025 - UASG 370003
+Número do Contrato: 23/2024.
+Nº Processo: 00190.111881/2024-89.
+Pregão. Nº 90008/2024. Contratante: COORD-GERAL DE LICITACAO,CONTR.E
+DOCUMENTACAO. Contratado: 02.539.643/0002-14 - LINUXELL INFORMATICA E S E R V I CO S
+LTDA. Objeto: O objeto do presente instrumento é alterar a filial da contratada, de
+aparecida de goiânia (cnpj/mf sob o nº 02.539.643/0002-14) pela filial de brasília/df
+(cnpj/mf sob o nº 02.539.643/0003-03), como unidade responsável pela execução do
+contrato, sem alteração da personalidade jurídica contratada nem do objet o contratado.
+Vigência: 14/08/2025 a 30/12/2025. Data de Assinatura: 14/08/2025.
+(COMPRASNET 4.0 - 14/08/2025).
+EXTRATO DE APOSTILAMENTO Nº 2/2025 - UASG 370003
+Número do Contrato: 12/2023.
+Nº Processo: 00190.101644/2023-29.
+Contratante: COORD-GERAL DE LICITACAO,CONTR.E DOCUMENTACAO. Contratado:
+57.142.978/0001-05 - BRASOFTWARE INFORMATICA LTDA. Objeto: Reajuste do valor dos
+itens do Contrato nº 12/2023, em conformidade com o previsto na sua cláusula sétima,
+com efeitos a contar de 28 de junho de 2025. Valor Total: R$ 659.890,20. Data de
+Assinatura: 14/08/2025.
+(COMPRASNET 4.0 - 14/08/2025).
+Ministério Público da União
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+PROCURADORIA-GERAL DE JUSTIÇA
+EXTRATO DE ACORDO DE COOPERAÇÃO TÉCNICA
+Espécie: Acordo de Cooperação Técnica n.º 024/2025. Processo SEI nº
+19.04.3250.0081427/2025-64. Convenentes: Ministério Público do Distrito Federal e
+Territórios - MPDFT, CNPJ: 26.989.715/0002-93; Ministério Público do Estado da Bahia -
+MPBA, CNPJ: 04.142.491/0001-66; Ministério Público do Estado do Ceará - MP CE, CNPJ:
+06.928.790/0001-56; Ministério Público do Estado do Mato Grosso do Sul - MPMS, CNPJ:
+03.983.541/0001-75; Ministério Público do Estado do Rio de Janeiro - MPRJ, CNPJ:
+28.305.936/0001-40; Ministério Público do Estado de São Paulo - MPSP, CNPJ:
+01.468.760/0001-90; Ministério Público do Estado de Santa Catarina - MPSC, CNPJ:
+76.276.849/0001-54. Objetivo: o desenvolvimento colaborativo, a manutenção e a
+evolução da Suíte de Aplicações Tecnológicas Brasil.IA, através do Laboratório Integrado de
+Desenvolvimento de Inovação Tecnológica (Brasil.IALAB), a qual será composta pelas
+seguintes soluções: LuminarIA: ferramenta para produção automatizada de minutas e
+análise de procedimentos; JARVIS: ferramenta de transcrição e análise de oitivas com IA;
+ALFRED: chatbot integrado para análise processual; SEGURA: sistema de aná lise preditiva
+para violência doméstica; ATArI: gerador automático de atas; SEGA: serviço gerador de
+anonimato; TinTendo: tradutor jurídico para linguagem clara; e ARCADE: portal
+colaborativo de prompts. Vigência: 15/08/2025 a 14/08/2030. Signatários : Ministério
+Público do Distrito Federal e Territórios - MPDFT: GEORGES CARLOS FREDDERICO MOREIRA
+SEIGNEUR, Procurador-Geral de Justiça, Data: 15/08/2025. Ministério Público do Estado da
+Bahia - MPBA: PEDRO MAIA SOUZA MARQUES, Procurador-Geral de Justiça, Data:
+14/08/2025. Ministério Público do Estado do Ceará - MPCE: HALEY DE CARVALHO F I L H O,
+Procurador-Geral de Justiça, Data: 14/08/2025. Ministério Público do Estado do Mato
+Grosso do Sul - MPMS: ROMÃO AVILA MILHAN JUNIOR, Procurador-Geral de Justiça, Data:
+12/08/2025. Ministério Público do Estado do Rio de Janeiro - MPRJ: ANTONIO JOSÉ
+CAMPOS MOREIRA, Procurador-Geral de Justiça, Data: 13/08/2025. Ministério Público do
+Estado de São Paulo - MPSP: PAULO SÉRGIO DE OLIVEIRA E COSTA, Procurador-Geral de
+Justiça, Data: 05/08/2025. Ministério Público do Estado de Santa Catarina - MPSC:
+VANESSA WENDHAUSEN CAVALLAZZI, Procuradora-Geral de Justiça, Data: 08/08/2025.
+MINISTÉRIO PÚBLICO FEDERAL
+S EC R E T A R I A - G E R A L
+EDITAL DE 15 DE AGOSTO DE 2025
+5ª RETIFICAÇÃO DO EDITAL Nº 1/2025
+A Secretária-Geral do Ministério Público da União, Presidente da Comissão do
+11º Concurso Público, torna públicas as seguintes retificações do Edital n º 01/2025 de
+abertura do Concurso Público para o provimento de cargos vagos de Analista e Técnico do
+MPU, mais cadastro de reserva, publicado no Diário Oficial da União de 8 de ja neiro de
+2025, seção III, página 143:
+1. No Subitem 16.3, Do Programa de Formação Profissional, Onde se lê:
+O curso de formação terá duração de 4 (quatro) semanas (...).
+Leia-se:
+O curso de formação terá duração de 3 (três) semanas (...).
+2. No Anexo II - Atribuições do Cargo e Requisitos de Investidura, nos requisitos
+de investidura para o cargo de Polícia Institucional, item 2 - Habilitação l egal específica,
+Onde se lê:
+Qualquer curso superior, devidamente reconhecido e aprovação, como etapa do
+concurso público, em curso na área de segurança com habilitação para manuseio e tiro com
+arma de fogo (Lei nº 12.694, de 24/7/2012); Carteira Nacional de Habilitação categoria "B".
+Leia-se:
+Qualquer curso superior, devidamente reconhecido e aprovação, como etapa do
+concurso público, em curso na área de segurança; Carteira Nacional de Habilitação categoria "B".
+ELIANA PERES TORELLY DE CARVALHO
+PROCURADORIA DA REPÚBLICA NO DISTRITO FEDERAL
+EXTRATO DE TERMO ADITIVO
+Espécie: 8º Termo Aditivo ao Contrato nº 15/2021, referente à contratação de empresa
+especializada para prestação de serviços de vigilância armada, nas dependências da
+Procuradoria da República no Distrito Federal (PR/DF), que entre si celebram a União
+por meio da PR/DF e a empresa MULTSERV SEGURANÇA E VIGILÂNCIA PATRIMONIAL
+LTDA. Objeto: Prorrogação do Contrato nº 15/2021. Data de Assinatura: 15/08/2025.
+Vigência: de 01/11/2025 a 31/10/2026. Valor: R$ 2.354.962,32 (dois milhões, trezentos
+e cinquenta e quatro mil, novecentos e sessenta e dois reais e trinta e dois centavos).
+Fundamento Legal: Lei 8.666/1993, art. 57, II. Processo: 1.16.000.002032/2025-91.
+Signatários: pela Contratante, Ligia Baptista de Carli, Secretária Estadual Substituta; e,
+pela Contratada, Sr. Luis Gustavo Silva Barra, representante legal.
+PROCURADORIA DA REPÚBLICA NO ESTADO DO ACRE
+EXTRATO DE CONVÊNIO
+CONVENIENTES: MINISTÉRIO PÚBLICO FEDERAL, por meio da PROCURADORIA DA
+REPÚBLICA NO ESTADO DO ACRE e a FACULDADE DE DIREITO DA FUNDAÇÃO ESCOLA
+SUPERIOR DO MINISTÉRIO PÚBLICO, por meio de sua mantenedora a FUNDAÇÃO ESCOLA
+SUPERIOR DO MINISTÉRIO PÚBLICO. OBJETO: Proporcionar a preparação do estagiário para
+a empregabilidade, para a vida cidadã e para o trabalho, por meio do exercício de
+atividades correlatas à sua pretendida formação profissional, em complementação ao
+conhecimento teórico adquirido na instituição de ensino. VIGÊNCIA: 5 (cin co) anos. DATA
+DE ASSINATURA: 07/08/2025. ASSINAM: RICARDO ALEXANDRE SOUZA LAGOS, Procurador-
+Chefe, pela PR-AC, MAURO LUIS SILVA DE SOUZA, Diretor, pela IES. PROCESSO
+ADMINISTRATIVO: 1.10.000.001011/2025-71.
+PROCURADORIA DA REPÚBLICA NO ESTADO DA BAHIA
+COORDENADORIA DE ADMINISTRAÇÃO
+AVISO DE LICITAÇÃO
+PREGÃO ELETRÔNICO Nº 90006/2025 - UASG 200031
+Nº Processo: 1.14.985/2025-84. Objeto: Registro de Preços para aquisição de
+uniforme operacional para os agentes de segurança institucional (ASIs), Peritos da
+Secretaria de Perícia, Pesquisa e Análise do MPF (SPPEA) e membros do Ministério Público
+Federal, nos termos do inciso II do art. 3º da Portaria SG/PGR nº 576, de 20 de agosto de
+2019, e suas alterações, e na Portaria SG/MPF nº 1275, de 10 de dezembro de 2024.. Total
+de Itens Licitados: 10. Edital: 18/08/2025 das 09h00 às 16h00. Endereço: Rua Ivonne
+Silveira, 243, Loteamento Centro Executivo, Doron, - Salvador/BA ou
+https://www.gov.br/compras/edital/200031-5-90006-2025. Entrega das Propostas: a partir
+de 18/08/2025 às 09h00 no site www.gov.br/compras. Abertura das Propostas: 29/08/2025
+às 09h30 no site www.gov.br/compras. Informações Gerais: O critério de julgamento é o
+menor preço por grupo/item. Há exigência de apresentação de amostras na fas e de
+julgamento das propostas..
+LUIZ ANTONIO BARRETO NASCIMENTO
+Chefe Caop i
+(SIASGnet - 14/08/2025) 200100-00001-2025NE000001
+PROCURADORIA DA REPÚBLICA NO ESTADO DE GOIÁS
+EXTRATO DE CONVÊNIO Nº 4/2025
+Convenentes: MINISTÉRIO PÚBLICO FEDERAL, por intermédio da PROCURADORIA DA
+REPÚBLICA EM GOIÁS e a UNIVERSIDADE PAULISTA - UNIP - CAMPUS I - FAZENDA
+BOTAFOGO-GOIÂNIA - GO, inscrita no CNPJ nº 6.099.229/0073-86, MANTIDA ASSUPERO
+ENSINO SUPERIOR LTDA, inscrita no CNPJ nº 06.099.229/0001-01. Objeto: Pro porcionar a
+preparação do aluno estagiário para a empregabilidade, para a vida cidadã e para o
+trabalho, por meio do exercício de atividades correlatas à sua pretendida formação
+profissional, em complementação ao conhecimento teórico adquirido na instituição de
+ensino. Data de assinatura: 14/08/2025. Vigência: 5 (cinco) anos. (LÉA BATISTA DE OLIVEIRA
+MOREIRA LIMA, PROCURADORA-CHEFE da PR/GO e CLAUDIA MEUCCI ANDREATINI, VICE-
+REITORA DA UNIP) PGEA Nº 1.18.000.001123/2025-34.
+EXTRATO DE TERMO ADITIVO
+Espécie: 1º Termo Aditivo ao Contrato nº 11/2024. Contratante: UNIÃO, por intermédio do
+MINISTÉRIO PÚBLICO FEDERAL - PROCURADORIA DA REPÚBLICA NO ESTADO DE GOIÁS -
+PR/GO, CNPJ nº 26.989.715/0014-27. Contratada: VHG Ferreira Grupo Kairós Serviços, CNPJ
+nº 36.289.732/0001-90. Objeto: prorrogação do prazo de vigência do contrato de serviços
+de controle integrado de pragas e combate às larvas do Aedes aegypti nas dependências
+do edifício-sede da Procuradoria da República em Goiás e nas do edifício-sede da
+Procuradoria da República no Município de Anápolis-GO. Novo vencimento: 04/10/2026.
+Assinam, pela Contratante, Gina Lobrígida Mendes, Secretária Estadual da PR/GO; e, pela
+Contratada, Victor Hugo Guimarães Ferreira. Aprovação pela Procuradora-Chefe da PR/GO,
+Lea Batista de Oliveira Moreira Lima. Processo n° 1.18.000.002128/2023-12. Data da última
+assinatura: 05/08/2025.
+PROCURADORIA DA REPÚBLICA NO ESTADO DE PERNAMBUCO
+EXTRATO DE CONVÊNIO
+CONVENIENTES: O MINISTÉRIO PÚBLICO FEDERAL, por intermédio da Procuradoria da
+República em Pernambuco (PR-PE) e a YDUQS EDUCACIONAL LTDA ( UNIFBV WYDEN).
+OBJETO: Proporcionar a preparação do estagiário para a empregabilidade, para a vida
+cidadã e para o trabalho, por meio do exercício de atividades correlatas à sua pretendida
+formação profissional, em complementação ao conhecimento teórico adquirido na
+instituição de ensino. VIGÊNCIA: 5 ANOS. DATA E ASSINATURA: 14/08/2025. Procurador-
+Chefe da PR-PE RODOLFO SOARES RIBEIRO LOPES e Reitor ELDER MARANHÃO RODRIGU ES
+DA SILVA. Processo Administrativo 1.26.000.002370/2025-86.
+PROCURADORIA DA REPÚBLICA NO ESTADO DE RORAIMA
+AVISO DE LICITAÇÃO
+PREGÃO ELETRÔNICO Nº 90002/2025 - UASG 380006
+Nº Processo: 132000472/2024-89. Objeto: REGISTRO DE PREÇOS para aquisição
+de bens permanentes, inclusive mobiliário em geral e material de consumo de stinados a
+atender a Procuradoria da República em Roraima, conforme disponibilidade orçamentária
+dos exercícios 2025/2026, conforme especificações constantes do Anexo I, do edital.. Total
+de Itens Licitados: 39. Edital: 18/08/2025 das 08h00 às 12h00 e das 13h00 às 17h59.
+Endereço: Av .general Penha Brasil Nr 1255, Sao Francisco - Boa Vista/RR ou
+https://www.gov.br/compras/edital/380006-5-90002-2025. Entrega das Propostas: a partir
+de 18/08/2025 às 08h00 no site www.gov.br/compras. Abertura das Propostas: 29/08/2025
+às 10h00 no site www.gov.br/compras. Informações Gerais: .
+NAZARENO NUNES RODRIGUES
+Pregoeiro
+(SIASGnet - 13/08/2025) 200100-00001-2025NE000001
+EXTRATO DE RESCISÃO
+Espécie: RESCISÃO AMIGÁVEL DE CONTRATO. Contrato nº 02/2016. Contratante: UNIÃO -
+PROCURADORIA DA REPÚBLICA NO ESTADO DE RORAIMA / MINISTÉRIO PÚBLICO FEDERAL
+(PR-RR/MPF), CNPJ nº 26.989.715/0027-41. Unidade Gestora: 380006.. Contratada:
+COMPANHIA DE ÁGUAS E ESGOTOS DE RORAIMA - CAER, CNPJ nº 05.939.467/0001-15.
+Processo nº 1.32.000.000194/2025-41. Objeto do Termo: rescisão amigável e consensual
+do Contrato PR-RR/MPF nº 002/2016, por motivo de necessidade de adequação às normas
+da Lei nº 14.133, de 2021, em atendimento à Portaria SEGES/MGI Nº 1.769, de 25 de abril
+de 2023. Assinaram: pela Contratante, Igor José Barbosa Duarte Lopes (Secretário
+Estadual); pela Contratada, James da Silva Serrador (Presidente da Companhia de Águas e
+Esgotos de Roraima - CAER). Consulta à íntegra disponível em:
+<https://apps.mpf.mp.br/apps/f?p=481:201>.
+
+
+--- [Página 21] ---
+Ministério Público do Estado do CearáFortaleza - Terça-feira, 19 de agosto de 2025Nº 2073
+ATOS DA PROCURADORIA GERAL DE
+JUSTIÇA
+1° ADITIVO AO CONTRATO Nº 028/2025/PGJ,
+CELEBRADO ENTRE O MINISTÉRIO PÚBLICO DO
+ESTADO DO CEARÁ, POR MEIO DA PROCURADORIA -
+GERAL DE JUSTIÇA, E A EMPRESA PLUS
+TERCEIRIZAÇÃO LTDA.
+O MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ, por
+meio da PROCURADORIA-GERAL DE JUSTIÇA, com sede
+na Av. General Afonso Albuquerque Lima, 130, Cambeba,
+Fortaleza/CE, CEP 60822-325, inscrita no CNPJ nº
+06.928.790/0001-56, neste ato representado pelo Procurador-
+Geral de Justiça, Haley de Carvalho Filho, brasileiro, casado,
+residente e domiciliado nesta capital, e a empresa PLUS
+TERCEIRIZAÇÃO LTDA, CNPJ nº 27.072.369/0001-66,
+situada na Rua Marcos Guião, Qd. 38, Lt. 19, Sala 03, Bairro
+Ilda, Aparecida de Goiânia/GOIÁS, CEP: 74.935-770,
+representada neste ato por seu representante, o Sr. Lídio de
+Miranda Fagundes Filho, brasileiro, solteiro, qualificado nos
+autos da contratação, resolvem firmar o presente aditamento ao
+contrato em epígrafe, conforme os autos do PGA Nº
+09.2025.00021548-1, de acordo com as seguintes cláusulas e
+condições:
+CLÁUSULA PRIMEIRA – DA FUNDAMENTAÇÃO
+1.1 O presente termo aditivo está amparado no art. 124, inciso I,
+alínea “b”, da Lei nº 14.133/2021.
+CLÁUSULA SEGUNDA – DO OBJETO
+2.1 O presente aditivo visa ao acréscimo quantitativo do objeto,
+com inclusão de 5 (cinco) diárias por mês para o posto de
+serviço de supervisão de Cerimonial (item 02).
+2.2. O referido aditamento ensejará em um acréscimo no valor
+global contratual que passará de R$ 396.345,60 (trezentos e
+noventa e seis mil, trezentos e quarenta e cinco reais e sessenta
+centavos) para R$ 426.667,20 (quatrocentos e vinte e seis mil,
+seiscentos e sessenta e sete reais e vinte centavos), de forma
+que o impacto global do presente acréscimo contratual
+alcançará o montante de R$ 30.321,60 (trinta mil, trezentos e
+vinte e um reais e sessenta centavos), conforme Relatório
+Técnico nº 199/2025/GECON.
+*TABELA CONSTANTE COMO ANEXO AO FINAL DA
+PUBLICAÇÃO
+2.3. O presente aditivo surtirá efeitos a partir de sua assinatura
+pela contratada.
+CLÁUSULA TERCEIRA – DA JUSTIFICATIVA
+Extrato
+Fortaleza, 8 de agosto de 2025
+Inicio do ato: 190223
+3.1 A presente alteração justifica-se pela necessidade de atender
+à crescente demanda pelos serviços, especialmente para dar
+suporte aos eventos organizados pela Assessoria de Cerimonial.
+Muitas vezes, essa equipe precisa se deslocar ao interior do
+estado para solenidades que se estendem além do habitual,
+como inaugurações de novas sedes, o que requer que os
+profissionais se desloquem no dia anterior ao evento e retornem
+no dia seguinte.
+CLÁUSULA QUARTA – DA DOTAÇÃO ORÇAMENTÁRIA
+4.1. O objeto deste termo aditivo será pago por conta da
+seguinte dotação orçamentária:
+FRMMP -
+15200005.005.01.03.122.211.20157.1.1.7.59.1.200070.3.3.90.3
+9.15.2.1.0000
+PGJ -
+15000000.001.01.03.091.191.20516.0.1.5.00.9.100000.3.3.90.3
+9.15.2.1.0000.
+PGJ -
+15000000.001.01.03.091.515.20154.0.1.5.00.9.100000.3.3.90.3
+9.15.2.1.0000.
+CLÁUSULA QUINTA - CONDIÇÕES GERAIS
+5.1. Permanecem em pleno vigor todas as demais cláusulas e
+condições do contrato ora aditado, e, por estarem assim justos e
+contratados, assinam o presente instrumento.
+Fortaleza, 08 de agosto de 2025.
+HALEY DE CARVALHO FILHO
+PROCURADOR-GERAL DE JUSTIÇA
+PROCURADORIA-GERAL DE JUSTIÇA DO ESTADO DO
+CEARÁ
+(CONTRATANTE)
+PLUS TERCEIRIZAÇÃO LTDA
+(CONTRATADA)
+Final do ato: 190223
+INSTRUMENTO: ACORDO DE COOPERAÇÃO TÉCNICA.
+PROCESSO: 09.2025.00022656-7. PARTÍCIPES: Ministério
+Público do Estado do Ceará, CNPJ nº 06.928.790/0001-56;
+Ministério Público do Distrito e Territórios, CNPJ nº
+26.989.715/0002-93; Ministério Público do Estado da Bahia,
+CNPJ nº 04.142.491/0001-66; Ministério Público do Estado do
+Mato Grosso do Sul, CNPJ nº 03.983.541/0001-75; Ministério
+Público do Estado do Rio de Janeiro, CNPJ nº
+28.305.936/0001-40; Ministério Público do Estado de São
+Paulo, CNPJ nº 01.468.760/0001-90; Ministério Público do
+Estado de Santa Catarina, CNPJ nº 76.276.849/0001-54.
+Extrato Nº 0070/2025/SEPLAN
+Fortaleza, 15 de agosto de 2025
+Inicio do ato: 190168
+Procurador-Geral de Justiça:
+Haley de Carvalho Filho
+Corregedora-Geral:
+Maria Neves Feitosa Campos
+Secretário-Geral:
+Ricardo Rabelo de Moraes
+PROCURADORIA GERAL DE JUSTIÇA
+Ouvidora-Geral:
+Loraine Jacob Molina
+
+
+--- [Página 22] ---
+2Diário Oficial Eletrônico nº 2073 • Terça-feira, 19 de agosto de 2025
+Primeira) O objeto do presente Acordo de Cooperação Técnica,
+conforme especificações estabelecidas no Plano de Trabalho, é
+o desenvolvimento colaborativo, a manutenção e a evolução da
+Suíte de Aplicações Tecnológicas Brasil.IA, através do
+Laboratório Integrado de Desenvolvimento de Inovação
+Tecnológica (Brasil.IALAB), a qual será composta pelas
+seguintes soluções: 1.1.1 LuminarIA: ferramenta para produção
+automatizada de minutas e análise de procedimentos; 1.1.2
+JARVIS: ferramenta de transcrição e análise de oitivas com IA;
+1.1.3 ALFRED: chatbot integrado para análise processual; 1.1.4
+SEGURA: sistema de análise preditiva para violência
+Doméstica; 1.1.5 ATArI: gerador automático de atas; 1.1.6
+SEGA: serviço gerador de anonimato; 1.1.7 TinTendo: tradutor
+jurídico para linguagem clara; e 1.1.8 ARCADE: portal
+colaborativo de prompts.  PRAZO DE VIGÊNCIA  (Cláusula
+Décima Segunda) O prazo de vigência deste Acordo de
+Cooperação Técnica será de 60 (sessenta) meses a partir da
+assinatura, podendo ser prorrogado, mediante a celebração de
+aditivo. DATA DA ASSINATURA: 15/08/2025.
+SIGNATÁRIOS: Haley de Carvalho Filho, Procurador-Geral
+de Justiça do Estado do Ceará. Paulo Sérgio de Oliveira e
+Costa, Procurador-Geral de Justiça do Estado de São Paulo.
+Vanessa Wendhausen Cavallazzi, Procuradora-Geral de Justiça
+do Estado de Santa Catarina. Romão Ávila Milhan Júnior,
+Procurador-Geral de Justiça do Estado do Mato Grosso do Sul.
+Antonio José Campos Moreira, Procurador-Geral de Justiça do
+Estado do Rio de Janeiro. Pedro Maia Souza Marques,
+Procurador-Geral de Justiça do Estado da Bahia. Georges
+Carlos Fredderico Moreira Seigneur, Procurador-Geral de
+Justiça do Estado do Distrito Federal e Territórios. FONTE:
+SEPLAN/MPCE.
+Final do ato: 190168
+INSTRUMENTO: Termo de Permissão de Uso N° 01/2025.
+PROCESSO: 09.2024.00037413-0. PARTÍCIPES: Ordem dos
+Advogados do Brasil Secção Ceará ? Subsecção Cariri Oriental,
+CNPJ n° 07.375.512/0001-81; Câmara Municipal de Penaforte,
+CNPJ n° 03.089.383/0001-04; e Ministério Público do Estado
+do Ceará, CNPJ nº 06.928.790/0001-56. OBJETO (Cláusula
+Primeira): O presente termo tem por objeto a PERMISSÃO DE
+USO, a título gratuito, da sala imóvel de propriedade dos
+PERMITENTES, localizada no interior do Projeto CAJUS
+(Centro de Apoio Juridico e Social) situado na Rua Francisca
+Ferreira Rocha, n.° 500, Centro, Penaforte-CE, em favor do
+PERMISSIONÁRIO, transferindo-lhe, por conseguinte, a
+gestão do bem em caráter provisório e precário, objetivando
+que seja feito atendimento pelo MPCE no Projeto de
+Acessibilidade e Atendimento Jurídico Social instalado no
+município de Penaforte/CE. A área total da sala cedida
+corresponde a 16m², de um total de 120m² de área construída
+conforme croqui em anexo. PRAZO DE VIGÊNCIA  (Cláusula
+Segunda): 2. O prazo de vigência do presente instrumento será
+de 5 (cinco) anos, contados a partir de data de sua assinatura,
+2.1 este prazo poderá ser renovado ou alterado mediante
+conveniência e oportunidade do PERMITENTE, por meio de
+correspondentes termos aditivos ao TERMO DE PERMISSÃO
+DE USO. DATA DA ASSINATURA: 08/07/2025.
+Extrato Nº 0071/2025/SEPLAN
+Fortaleza, 8 de julho de 2025
+Inicio do ato: 190183
+SIGNATÁRIOS: Francisco Vicelmo Feitosa Sales, Presidente
+da OAB Ceará Subsecção Cariri Oriental; Sandrierio Ferreira
+Rocha, Presidente da Câmara Municipal de Penaforte; Haley de
+Carvalho Filho, Procurador-Geral de Justiça do Estado do
+Ceará. FONTE: SEPLAN/MPCE.
+Final do ato: 190183
+O PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+CEARÁ, HALEY DE CARVALHO FILHO, no uso de suas
+atribuições legais, na forma do art. 26, c/c o art. 118, da Lei
+Complementar 72, de 12 de dezembro de 2008 – Lei Orgânica e
+Estatuto do Ministério Público do Estado do Ceará e,
+CONSIDERANDO a necessidade de disciplinar o custeio das
+despesas dos membros que participarão do Congresso Regional
+do MP
+no Cariri, a ser realizado no período de 18 a 19 de setembro de
+2025, em Juazeiro
+do Norte; CONSIDERANDO o dever de impessoalidade e de
+eficiência com que deve agir a Administração Pública,
+conforme determinado no art. 37, caput da constituição Federal;
+CONSIDERANDO o disposto no Provimento nº 020/2016, que
+disciplina a concessão de diárias, passagens, ajuda de custo e
+indenizações de transporte aos membros do Ministério público,
+regula o custeio de inscrições para cursos, seminários,
+congressos ou similares realizados fora do estado, e dá outras
+providências;
+RESOLVE disciplinar a concessão de diárias e ajuda de custo
+aos membros do Ministério Público consoante regras e limites
+dispostos neste edital. Art. 1º Será concedido a 50 (cinquenta)
+membros do Ministério Público do Estado do Ceará que
+desejem participar do Congresso Regional do MP no Cariri, a
+ser realizado no período de 18 a 19 de setembro de 2025 em
+Juazeiro do Norte, o valor equivalente a 2 (duas) diárias.
+Parágrafo único. O valor das diárias devidas ao participante na
+forma do caput
+será calculado de acordo com o art. 10, II, do Provimento nº
+020/2016. Art. 2º As diárias serão concedidas a 50 (cinquenta)
+membros que requererem formalmente a participação no
+supramencionado Congresso até o dia 25 de agosto de 2025,
+por meio de Procedimento de Gestão Administrativa (PGA),
+dirigido à Secretaria Geral.
+Parágrafo único. Na hipótese do número de inscritos superar o
+limite acima estabelecido, será realizado sorteio entre os
+inscritos. Art. 3º O sorteio será realizado de modo virtual, com
+transmissão pela plataforma Microsoft Teams, em data e
+horário a serem divulgados pela Secretaria Geral. Art. 4º A
+relação dos sorteados será divulgada no diário oficial do MPCE
+e na intranet, incluindo a lista de espera formada pela ordem
+sucessiva dos nomes que serão beneficiados em caso de
+desistência dos sorteados.
+Art. 5º A desistência pelo sorteado de participação no
+Congresso Estadual do
+Ministério Público deverá ser comunicada à Secretaria Geral
+através do e-mail
+secgeral@mpce.mp.br.
+Art. 6º Os participantes subsequentes ao número de desistentes
+serão informados via contato telefônico e por e-mail
+Edital Nº 010/2025-GAB
+Fortaleza, 19 de agosto de 2025
+Inicio do ato: 190218
+Procurador-Geral de Justiça:
+Haley de Carvalho Filho
+Corregedora-Geral:
+Maria Neves Feitosa Campos
+Secretário-Geral:
+Ricardo Rabelo de Moraes
+PROCURADORIA GERAL DE JUSTIÇA
+Ouvidora-Geral:
+Loraine Jacob Molina
+
+--- [Página 23] ---
+MINISTÉRIO PÚBLICO DA UNIÃO
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+Subsecretaria de Contratos - ASCON
+Praça Municipal - Eixo Monumental - Brasília - DF
+TERMO ADITIVO
+1º TERMO ADITIVO AO ACORDO DE COOPERAÇÃO
+TÉCNICA Nº 024/2025
+PROCESSO SEI Nº: 19.04.3250.0081427/2025-64
+PRIMEIRO TERMO ADITIVO AO ACORDO DE
+COOPERAÇÃO TÉCNICA CELEBRADO ENTRE A UNIÃO,
+POR INTERMÉDIO DO MPDFT , E OS ESTADOS DA
+BAHIA, CEARÁ, MATO GROSSO DO SUL, RIO DE
+JANEIRO, SÃO PAULO E SANTA CATARINA, POR
+INTERMÉDIO DE SEUS RESPECTIVOS MINISTÉRIOS
+PÚBLICOS, VISANDO À INCLUSÃO DE NOVOS
+PARTÍCIPES E À CRIAÇÃO DE MECANISMO
+SIMPLIFICADO DE ADESÃO.
+PARTÍCIPES ORIGINÁRIOS:
+1. AUNIÃO, por intermédio doMINISTÉRIO PÚBLICO
+DO DISTRITO FEDERAL E TERRITÓRIOS, com
+sede em Brasília – DF, no Eixo Monumental, Praça do
+Buriti, Lote 2, Edifício-Sede do MPDFT, inscrito no
+CNPJ/MF sob o número 26.989.715/0002-93, neste
+ato representado por seu Procurador-Geral de
+J u s t i ç a ,GEORGES CARLOS FREDDERICO
+MOREIRA SEIGNEUR,nos termos da Lei
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 1
+
+--- [Página 24] ---
+Complementar nº 75, de 20 de maio de 1993, daqui
+por diante designado simplesmenteMPDFT;
+2 . OESTADO DA BAHIA, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA,
+com sede em Salvador – BA, na 5ª Avenida, nº 750,
+Centro Administrativo da Bahia (CAB), inscrito no
+CNPJ/MF sob o número 04.142.491/0001-66, neste
+ato representado por seu Procurador-Geral de
+Justiça,PEDRO MAIA SOUZA MARQUES, nos
+termos da Lei Complementar nº 11/1996, daqui por
+diante designado simplesmenteMPBA;
+3 . OESTADO DO CEARÁ, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ,
+com sede em Fortaleza – CE, na Rua Assunção, nº
+1.100, José Bonifácio, inscrito no CNPJ/MF sob o
+número 06.928.790/0001-56, neste ato representado
+por seu Procurador-Geral de Justiça, HERBET
+GONÇAL VES SANTOS, nos termos da Lei
+Complementar Estadual nº 72/2008, daqui por diante
+designado simplesmenteMPCE;
+4 . OESTADO DO MATO GROSSO DO SUL, por
+intermédio doMINISTÉRIO PÚBLICO DO ESTADO
+DO MATO GROSSO DO SUL, com sede em Campo
+Grande - MS, na Rua Presidente Manuel Ferraz de
+Campos Salles, nº 214, Jardim Veraneio, inscrito no
+CNPJ sob o número nº 03.983.541/0001-75, neste ato
+representado por seu Procurador-Geral de Justiça,
+ROMÃO AVILA MILHAN JUNIOR, nos termos da Lei
+Complementar Estadual nº 72/1994, daqui por diante
+designado simplesmenteMPMS;
+5. OESTADO DO RIO DE JANEIRO, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO, com sede no Rio de Janeiro – RJ, na Av.
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 2
+
+--- [Página 25] ---
+Marechal Câmara, nº 370, Centro, inscrito no
+CNPJ/MF sob o número 28.305.936/0001-40, neste
+ato representado por seu Procurador-Geral de
+Justiça,ANTONIO JOSÉ CAMPOS MOREIRA, nos
+termos da Lei Complementar Estadual nº 106/2003,
+daqui por diante designado simplesmenteMPRJ;
+6 . OESTADO DE SÃO PAULO, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE SÃO
+PAULO, com sede em São Paulo – SP, na Rua
+Riachuelo, nº 115, Centro, inscrito no CNPJ/MF sob o
+número 01.468.760/0001-90, neste ato representado
+por seu Procurador-Geral de Justiça,PAULO SÉRGIO
+DE OLIVEIRA E COSTA, nos termos da Lei
+Complementar Estadual nº 734/1993, daqui por
+diante designado simplesmenteMPSP;
+7 . OESTADO DE SANTA CATARINA, por intermédio
+doMINISTÉRIO PÚBLICO DO ESTADO DE SANTA
+CATARINA, com sede em Florianópolis – SC, na Rua
+Bocaiúva, nº 1.750, Centro, inscrito no CNPJ/MF sob o
+número 76.276.849/0001‑54, neste ato representado
+por sua Procuradora-Geral de Justiça,VANESSA
+WENDHAUSEN CAVALLAZZI, nos termos da Lei
+Complementar Estadual nº 738/2019, daqui por
+diante designado simplesmenteMPSC;
+PARTÍCIPES ADERENTES:
+1 .O ESTADO DO ACRE, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO ACRE, com
+sede em Rio Branco – AC, na Rua Marechal Deodoro,
+n.º 472, Bairro Ipase, CEP 69900-333, inscrito no
+CNPJ/MF sob o número 04.034.450/0001- 56, neste
+ato representado por seu Procurador-Geral de
+Justiça,OSWALDO D’ALBUQUERQUE LIMA NETO,
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 3
+
+--- [Página 26] ---
+nos termos da Lei Complementar Estadual nº
+291/2014, daqui por diante designado simplesmente
+MPAC;
+2 .O ESTADO DE PERNAMBUCO, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE
+PERNAMBUCO, com sede em Recife - PE, na Rua
+Imperador Dom Pedro II, 473 - Santo Antônio, CEP
+50.010-240, inscrito no CNPJ/MF sob o número
+24.417.065/0001-03, neste ato representado por seu
+Procurador-Geral de Justiça,JOSÉ PAULO
+CAVALCANTI XAVIER FILHO, nos termos da Lei
+Complementar Estadual nº 12/1994, daqui por diante
+designado simplesmenteMPPE;
+3 .O ESTADO DE SERGIPE, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE,
+com sede em Aracaju - SE, na Avenida Conselheiro
+Carlos Alberto Barros Sampaio, 505 - Centro
+Administrativo Governador Augusto Franco, Bairro
+Capucho, CEP 49.081-010, inscrito no CNPJ/MF sob o
+número 13.168.687/0001-10, neste ato representado
+por seu Procurador-Geral de Justiça,NILZIR SOARES
+VIEIRA JÚNIOR, nos termos da Lei Complementar
+Estadual nº 2/1990, daqui por diante designado
+simplesmenteMPSE;
+4 .O ESTADO DO MARANHÃO, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO
+MARANHÃO, com sede em São Luis - MA, na
+Avenida Professor Carlos Cunha, nº 3261, Calhau,
+CEP 65076-820, inscrito no CNPJ/MF sob o número
+05.483.912/0001-85, neste ato representado por seu
+Procurador-Geral de Justiça,DANILO JOSÉ DE
+CASTRO FERREIRA, nos termos da Lei
+Complementar Estadual nº 13/1991, daqui por diante
+designado simplesmenteMPMA;
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 4
+
+--- [Página 27] ---
+5 .O ESTADO DO PIAU Í, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ,
+com sede em T eresina - PI, na Rua Álvaro Mendes,
+2294 - Centro, CEP 64000-060, inscrito no CNPJ/MF
+sob o número 05.805.924/0001-89, neste ato
+representado por sua Procuradora-Geral de Justiça,
+CLÁUDIA PESSOA MARQUES DA ROCHA
+SEABRA, nos termos da Lei Complementar Estadual
+nº 12/1993, daqui por diante designado
+simplesmenteMPPI;
+6 .O ESTADO DO RIO GRANDE DO NORTE, por
+intermédio doMINISTÉRIO PÚBLICO DO ESTADO
+DO RIO GRANDE DO NORTE, com sede em Natal -
+RN, Rua Promotor Manoel Alves Pessoa Neto, 97,
+Candelária, CEP 59.065-555, inscrito no CNPJ/MF sob
+o número 08.539.710/0001-04, neste ato
+representado por seu Procurador-Geral de Justiça,
+GLAUCIO PINTO GARCIA, nos termos da Lei
+Complementar Estadual nº 141/1996, daqui por
+diante designado simplesmenteMPRN;
+7 .O ESTADO DA PARAÍBA, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DA PARAÍBA,
+com sede em João Pessoa - PB, na Avenida Dom
+Pedro II, s/nº, Centro, CEP 58.013-030, inscrito no
+CNPJ/MF sob o número 09.284.001/0001-80, neste
+ato representado por seu Procurador-Geral de
+Justiça,LEONARDO QUINTANS COUTINHO, nos
+termos da Lei Complementar Estadual nº 97/2010,
+daqui por diante designado simplesmenteMPPB;
+8.A UNIÃO, por intermédio doMINISTÉRIO PÚBLICO
+MILITAR, com sede em Brasília - DF, na Setor de
+Embaixadas Norte, Quadra 801, lote 43, Asa Norte,
+CEP 70.800-921, inscrito no CNPJ/MF sob o número
+26.989.715.0004-55, neste ato representado por seu
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 5
+
+--- [Página 28] ---
+Procurador-Geral de Justiça Militar,CLAURO
+ROBERTO DE BORTOLLI, nos termos da Lei
+Complementar Estadual nº 75/1993, daqui por diante
+designado simplesmenteMPM;
+9 .O ESTADO DO PARÁ, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ,
+com sede em Belém-PA, na Rua João Diogo, 100 -
+CEP 66015-160 - Cidade Velha, CEP 66015-160,
+inscrito no CNPJ/MF sob o número 05.054.960/0001-
+58, neste ato representado por seu Procurador-Geral
+de Justiça,ALEXANDRE MARCOS FONSECA
+TOURINHO, nos termos da Lei Complementar
+Estadual nº 57/2006, daqui por diante designado
+simplesmenteMPPA;
+10.O ESTADO DE ALAGOAS, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS,
+com sede em Maceió-AL, no Ed. Carlos Guido Ferrário
+Lobo, Rua Dr. Pedro Jorge Melo e Silva, nº 79 - Poço,
+CEP 57.025-400, inscrito no CNPJ/MF sob o número
+12.482.734/0001-52, neste ato representado por seu
+Procurador-Geral de Justiça,LEAN ANTÔNIO
+FERREIRA DE ARAÚJO, nos termos da Lei
+Complementar Estadual nº 15/1996, daqui por diante
+designado simplesmenteMPAL;
+11.O ESTADO DE GOIÁS, por intermédio do
+MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS,
+com sede em Goiânia-GO, na Rua 23, esquina com a
+Av. Fued José Sebba, Qd. A-06, Lts. 15/24 – Setor
+Jardim Goiás, CEP 74.805-100, inscrito no CNPJ/MF
+sob o número 01.409.598/0001-30, neste ato
+representado por seu Procurador-Geral de Justiça,
+CYRO TERRA PERES, nos termos da Lei
+Complementar Estadual nº 25/1998, daqui por diante
+designado simplesmenteMPGO;
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 6
+
+--- [Página 29] ---
+Os partícipes supra identicados celebram o presente
+T ermo Aditivo, em conformidade com as disposições da
+Lei nº 14.133/2021 e a Cláusula Décima T erceira do ajuste
+original, mediante as seguintes cláusulas:
+CLÁUSULA PRIMEIRA – DO OBJETO
+O presente Termo Aditivo tem por objeto:
+1 - Formalizar o ingresso imediato dosPARTÍCIPES
+ADERENTESao Acordo de Cooperação T écnica nº
+024/2025, integrando-os ao desenvolvimento
+colaborativo da Suíte Brasil.IA;
+2- Alterar o instrumento original para incluir cláusula de
+adesão simplicada, permitindo o ingresso futuro de
+outras unidades do Ministério Público brasileiro
+mediante Termo de Adesão, conforme deliberação do
+Comitê Gestor Integrado.
+CLÁUSULA SEGUNDA – DA INCLUSÃO DE NOVOS
+PARTÍCIPES
+Passam a integrar o Acordo de Cooperação T écnica, na
+qualidade de partícipes, com todos os direitos e
+obrigações inerentes:
+a) Ministério Público do Estado do Acre (MPAC);
+b) Ministério Público do Estado de Pernambuco (MPPE);
+c) Ministério Público do Estado de Sergipe (MPSE);
+d) Ministério Público do Estado do Maranhão (MPMA);
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 7
+
+--- [Página 30] ---
+e) Ministério Público do Estado do Piauí (MPPI);
+f) Ministério Público do Estado do Rio Grande do Norte
+(MPRN);
+g) Ministério Público do Estado da Paraíba (MPPB);
+h) Ministério Público Militar (MPM).
+i) Ministério Público do Estado do Pará (MPPA);
+J) Ministério Público do Estado de Alagoas (MPAL)
+K) Ministério Público do Estado de Goiás (MPGO)
+Os novos partícipes declaram ter pleno conhecimento e
+concordância com todos os termos do Acordo original,
+especialmente quanto às obrigações comuns (Cláusula
+T erceira), à governança (Cláusula Sexta) e à ausência de
+repasse financeiro (Cláusula Oitava).
+Os novos partícipes deverão designar seus
+representantes para o Comitê Gestor Integrado e para o
+Laboratório (Gestor de Soluções e Gestor T écnico) no
+prazo de 10 (dez) dias a contar da assinatura deste
+aditivo, conforme item 6.3.1 do acordo original.
+CLÁUSULA TERCEIRA – DO MECANISMO DE ADESÃO
+FUTURA
+Fica acrescida ao Acordo de Cooperação T écnica a
+Cláusula Vigésima Primeira, com a seguinte redação:
+"CLÁUSULA VIGÉSIMA PRIMEIRA – DA ADESÃO DE
+NOVOS INTERESSADOS
+21.1. Poderão aderir ao presente Acordo de
+Cooperação T écnica outros ramos e unidades do
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 8
+
+--- [Página 31] ---
+Ministério Público brasileiro, mediante manifestação
+formal de interesse e aprovação do Comitê Gestor
+Integrado, nos termos do item 6.1.3.4.
+21.2. A efetivação do ingresso se dará mediante a
+assinatura deT ermo de Adesão, assinado pelo
+Procurador-Geral da unidade ingressante e pelo
+Procurador-Geral do Ministério Público que exercer a
+Presidência do Comitê Gestor Integrado à época,
+dispensando-se a celebração de novo T ermo Aditivo
+por todos os partícipes originários.
+21.3. O T ermo de Adesão publicado terá ecácia de
+vincular o novo partícipe a todas as cláusulas e
+condições vigentes neste Acordo."
+CLÁUSULA QUARTA – DA RATIFICAÇÃO
+Raticam-se todas as demais cláusulas e condições do
+Acordo de Cooperação T écnica original que não tenham
+sido expressamente alteradas por este instrumento.
+CLÁUSULA QUINTA – DA PUBLICAÇÃO
+A publicação do extrato do presente T ermo Aditivo no
+Diário Ocial da União será providenciada pelo MPDFT,
+devendo cada partícipe providenciar a publicação em seus
+respectivos sítios oficiais ou diários locais.
+E por estarem assim, justas e acordadas,rmaram o
+presente em, comprometendo-se a cumprir e a fazer
+cumprir, por si e por seus sucessores, em juı ́zo ou fora
+dele, tãoelmente como nele se contém.
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 9
+
+--- [Página 32] ---
+ANEXO I - TERMO DE ADESÃO
+TERMO DE ADESÃO N. XX/2026 AO
+ACORDO DE COOPERAÇÃO TÉCNICA N. 024/2025
+TERMO DE ADESÃO DO
+xxxxxxxx, POR INTERMÉDIO
+xxxxxxxxx AO ACORDO DE
+COOPERAÇÃO TÉCNICA N.
+024/2025, QUE, ENTRE SI,
+CELEBRAM A UNIÃO - POR
+INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO DISTRITO
+FEDERAL E TERRITÓRIOS, O
+ESTADO DA BAHIA - POR
+INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO ESTADO DA
+BAHIA, O ESTADO DO CEARÁ -
+POR INTERMÉDIO DO
+MINISTÉRIO PÚBLICO DO
+ESTADO DO CEARÁ, O
+ESTADO DO MATO GROSSO
+DO SUL - POR INTERMÉDIO
+DO MINISTÉRIO PÚBLICO DO
+ESTADO DO MATO GROSSO
+DO SUL, O ESTADO DO RIO
+DE JANEIRO - POR
+INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO ESTADO DO RIO
+DE JANEIRO, O ESTADO DE
+SÃO PAULO, POR
+INTERMÉDIO DO MINISTÉRIO
+PÚBLICO DO ESTADO DE SÃO
+PAULO, E O ESTADO DE
+SANTA CATARINA - POR
+INTERMÉDIO DO MINISTÉRIO
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 10
+
+--- [Página 33] ---
+PÚBLICO DO ESTADO DE
+SANTA CATARINA.
+A UNIÃO, por intermédio doMINISTÉRIO PÚBLICO DO
+DISTRITO FEDERAL E TERRITÓRIOS, doravante
+denominadoMPDFT, com sede em Brasília – DF, no Eixo
+Monumental, Praça do Buriti, Lote 2, Edifício Sede do
+MPDFT, inscrito no CNPJ/MF sob o número
+26.989.715/0002-93, neste ato representado por seu
+Procurador-Geral de Justiça,GEORGES CARLOS
+FREDDERICO MOREIRA SEIGNEUR, nos termos da Lei
+Complementar nº 75, de 20 de maio de 1993, e o
+ESTADO DE XXX, por intermédio doMINISTÉRIO
+PÚBLICO DO ESTADO XXX, com sede em XXXX, inscrito
+no CNPJ/MF sob o número n. XXXXX, neste ato
+representado por seu Procurador-Geral de Justiça,XXXX,
+nos termos da Lei Complementar Estadual nº XXXX, daqui
+por diante designado simplesmenteXX, celebram o
+presente TERMO DE ADESÃO, doravante denominado
+apenas TERMO, considerando o disposto no Acordo de
+Cooperação T écinica nº 024/2025, no Processo SEI n.
+XXXXX e em observância às disposições da Lei nº 14.133,
+de 1º de abril de 2021, e suas alterações posteriores,
+mediante as cláusulas e condições a seguir:
+CLAUSULA PRIMEIRA – DO OBJETO
+1 . Este T ermo tem por escopo a adesão ao ACORDO DE
+COOPERAÇÃO TÉCNICA N. 024/2025, celebrado em 15
+de agosto de 2025, publicado no Diário Oficial da União
+do dia 18 de agosto de 2025, Seção 3, página 217, que
+tem por objeto o desenvolvimento colaborativo, a
+manutenção e a evolução da Suíte de Aplicações
+T ecnológicas Brasil.IA, através do Laboratório
+Integrado de Desenvolvimento de Inovação
+T ecnológica (Brasil.IALAB), a qual será composta pelas
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 11
+
+--- [Página 34] ---
+seguintes soluções:
+1 . 1 . 1LuminarIA: ferramenta para produção
+automatizada de minutas e análise de procedimentos;
+1.1.2JARVIS: ferramenta de transcrição e análise de
+oitivas com IA;
+1 . 1 . 3ALFRED: chatbot integrado para análise
+processual;
+1 . 1 . 4SEGURA: sistema de análise preditiva para
+violência doméstica;
+1.1.5ATArI: gerador automático de atas;
+1.1.6SEGA: serviço gerador de anonimato;
+1 . 1 . 7TinTendo: tradutor jurídico para linguagem
+clara; e
+1.1.8ARCADE: portal colaborativo de prompts.
+CLÁUSULA SEGUNDA – DOS DIREITOS E DEVERES
+2.1 A assinatura deste TERMO DE ADESÃO implica ciência
+do conteúdo do ACORDO, bem como do 1º TERMO
+ADITIVO AO ACORDO nº 024/2025,cando vinculado a
+suas cláusulas responsabilidades, obrigações, prazos e
+demais condições deles decorrentes.
+CLÁUSULA TERCEIRA – DA VIGENCIA
+3.1 O presenteTERMOvigerá a partir da publicação, pelo
+MPDFT, do extrato no Diário Ocial da União, na forma do
+art. 94 da Lei 14.133/2021, respeitado o prazo
+estabelecido no Acordo de Cooperação T écnica N.
+024/2025.
+CLÁUSULA QUARTA – DO ENCERRAMENTO
+4.1 Este TERMO poderá ser denunciado ou rescindido por
+iniciativa de qualquer um dos partícipes, a qualquer
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 12
+
+--- [Página 35] ---
+tempo, por descumprimento de qualquer de suas
+cláusulas, mediante noticação escrita, com
+antecedência mínima de 30 (trinta) dias.
+CLÁUSULA QUINTA – DA PUBLICAÇÃO
+5.1 O MPDFT providenciará a publicação deste T ermo de
+Adesão, em extrato, no Diário Ocial da União, o qual
+também deverá ser publicado no sítio eletrônico ocial de
+cada partícipe, no prazo de 10 (dez) dias, a contar da
+assinatura.
+CLÁUSULA SEXTA – DA CONCILIAÇÃO E DO FORO
+6.1 Na hipótese de haver divergências que não possam
+ser solucionadas diretamente por consentimento, os
+partícipes solicitarão à Câmara de Mediação e de
+Conciliação da Administração Pública Federal — CCAF,
+órgão da Advocacia-Geral da União, a avaliação da
+admissibilidade dos pedidos de resolução de conitos,
+por meio de conciliação.
+Subcláusula única. Não logrando êxito a tentativa de
+conciliação e solução administrativa, o foro da Justiça
+Federal da Seção Judiciária do Distrito Federal será o
+competente para dirimir as questões decorrentes deste
+Acordo de Cooperação, nos termos do inciso I do art. 109
+da Constituição Federal.
+E, por assim estarem plenamente de acordo, os
+partícipes obrigam-se ao total e irrenunciável
+cumprimento dos termos do presente instrumento, o qual
+lido e achado conforme, assinam eletronicamente por
+meio de seus representantes, para que produza seus
+legais efeitos, em Juízo ou fora dele.
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 13
+
+--- [Página 36] ---
+Brasília, ... de .... de .... 2026
+GEORGES CARLOS FREDDERICO MOREIRA
+SEIGNEUR
+Coordenador Geral do Comitê Gestor
+Procurador-Geral de Justiça de XX
+ANEXO I
+ACT...
+Documento assinado eletronicamente porVanessa
+Wendhausen Cavallazzi,Procuradora-Geral de Justiça, em
+05/03/2026, às 12:40, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porCLAURO ROBERTO
+DE BORTOLLI,Usuário Externo, em 05/03/2026, às 12:52,
+conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porGLAUCIO PINTO
+GARCIA,Usuário Externo, em 09/03/2026, às 12:31, conforme
+§ 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+Documento assinado eletronicamente porNilzir Soares Vieira
+Junior,Procurador-Geral de Justiça, em 09/03/2026, às
+14:49, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 14
+
+--- [Página 37] ---
+Documento assinado eletronicamente porLeonardo Quintans
+Coutinho,Procurador-Geral de Justiça, em 09/03/2026, às
+16:15, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porJOSÉ PAULO
+CAVALCANTI XAVIER FILHO,Procurador-Geral de Justiça,
+em 10/03/2026, às 17:45, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porLEAN ANTONIO
+FERREIRA DE ARAUJO,Usuário Externo, em 11/03/2026, às
+09:49, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porOSWALDO D
+ALBUQUERQUE LIMA NETO - 000182/25,Procurador-Geral
+de Justiça, em 11/03/2026, às 14:26, conforme § 3º do art. 4º
+do Decreto nº 10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porROMAO AVILA
+MILHAN JUNIOR,Procurador-Geral de Justiça, em
+11/03/2026, às 18:44, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porHerbet Gonçalves
+Santos,Procurador-Geral de Justiça, em 12/03/2026, às
+14:25, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porCYRO TERRA PERES,
+Usuário Externo, em 12/03/2026, às 17:06, conforme § 3º do
+art. 4º do Decreto nº 10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porGEORGES CARLOS
+FREDDERICO MOREIRA SEIGNEUR,Procurador-Geral de
+Justiça, em 13/03/2026, às 15:17, conforme § 3º do art. 4º do
+Decreto nº 10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porCLÁUDIA PESSOA
+MARQUES DA ROCHA SEABRA,Procuradora-Geral de
+Justiça, em 18/03/2026, às 15:50, conforme § 3º do art. 4º do
+Decreto nº 10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porPEDRO MAIA SOUZA
+MARQUES,Usuário Externo, em 18/03/2026, às 17:21,
+conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porPaulo Sérgio de
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 15
+
+--- [Página 38] ---
+Oliveira e Costa,Usuário Externo, em 19/03/2026, às 18:28,
+conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+Documento assinado eletronicamente porAlexandre Marcus
+Fonseca Tourinho,Procurador-Geral de Justiça, em
+20/03/2026, às 16:56, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porAntonio José
+Campos Moreira,Procurador-Geral de Justiça, em
+27/03/2026, às 11:36, conforme § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente porDANILO JOSÉ DE
+CASTRO FERREIRA,Usuário Externo, em 08/04/2026, às
+10:46, conforme § 3º do art. 4º do Decreto nº 10.543, de 13 de
+novembro de 2020.
+A autenticidade do documento pode ser conferida no site
+https://sei.mpdft.mp.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0
+informando o código verificador3247163e o código CRC
+24524AC2.
+19.04.3250.0081427/2025-64 3247163v3
+Termo Aditivo 1°TA ao ACT 024/2025 (3247163)         SEI 19.04.3250.0081427/2025-64 / pg. 16

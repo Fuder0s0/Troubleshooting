@@ -1,0 +1,55 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\FLuxo processos judiciais 1ª Instância.docx
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.01 MB
+
+1. Entrada e Autuação:
+
+Um processo judicial, como um Inquérito Policial (IP), é recebido pelo Ministério Público.
+
+O Centro de Apoio Administrativo (CAAD) recebe o protocolo de forma centralizada e o autua.
+
+O sistema SIMP atribui um número de registro ao processo, como por exemplo, "001205-035/2024".
+
+O CAAD, então, atua na triagem e no encaminhamento do expediente para o gabinete competente (Promotoria/Procuradoria de Justiça).
+
+2. Distribuição:
+
+O coordenador do CAAD distribui as tarefas entre os servidores auxiliares.
+
+O processo é encaminhado para um membro do Ministério Público, como o Dr. Arivaldo Guimarães da Costa Júnior, da 1ª Promotoria de Justiça Criminal de Campo Verde.
+
+A distribuição pode ser realizada em lote, caso exista mais de um procedimento, agilizando o processo.
+
+3. Análise e Gerenciamento no Gabinete Virtual:
+
+O processo aparece na "Área de Trabalho" do Dr. Arivaldo no "Gabinete Virtual".
+
+Ele pode visualizar os detalhes do processo, como o "Resumo", a "Área" (Criminal), a "Classe" (Inquérito Policial) e os "Últimos movimentos".
+
+O sistema exibe “cards” informativos como o número de "Expedientes" (1 aberto), "Prazos" (0 atrasados) e "Relacionados" (2).
+
+O Dr. Arivaldo pode consultar informações sobre as "Partes e Vítimas" envolvidas, como "Daniel Ribeiro Soares" e "WELLINGTON DA SILVA".
+
+Ele também pode utilizar o "Assistente Virtual" com Inteligência Artificial (IA) para obter um resumo do processo ou gerar documentos.
+
+A IA do assistente virtual pode fornecer respostas sobre o processo e até mesmo elaborar uma petição ou minuta com base no contexto.
+
+4. Ações e Movimentações:
+
+O Promotor pode realizar diversas ações no processo, como "Alterar Sigilo", "Incluir Alerta", "Imprimir Etiqueta", "Distribuir", "Movimentar", "Criar minuta" e "Arquivar".
+
+Para o peticionamento de documentos, o SIMP, a partir do SIMP3, é integrado com o PJe e permite que todas as etapas processuais sejam realizadas sem que o usuário precise acessar o PJe em uma aba secundária.
+
+Caso a decisão seja arquivar o processo, o Dr. Arivaldo pode selecionar a opção de arquivamento na análise. O SIMP permite o arquivamento em lote, mas um fluxo específico precisaria ser criado para atender a Resolução CNMP 289/2024.
+
+Para finalizar, o sistema possui um módulo que permite a "Criação, edição, aprovação e utilização de minutas de peças processuais".
+
+5. Finalização e Relatórios:
+
+Após a finalização do processo (ajuizamento ou arquivamento), a informação é registrada no sistema.
+
+O SIMP gera relatórios que permitem analisar os processos enviados, movimentações, inventário de protocolos e dados estatísticos.
+
+O sistema também tem um "Painel de Gestão" com indicadores e filtros próprios.
+
+***

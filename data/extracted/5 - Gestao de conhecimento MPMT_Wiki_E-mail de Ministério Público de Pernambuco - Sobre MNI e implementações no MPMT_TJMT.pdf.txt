@@ -1,0 +1,95 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - Sobre MNI e implementações no MPMT_TJMT.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.29 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Sobre MNI e implementações no MPMT/TJMT
+4 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 25 de setembro de 2025 às 08:51
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, tudo bem?
+Para confirmação sobre a versão do MNI utilizada pelo MPMT/TJMT, a versão utilizada é a 2.2.2, correto?
+Poderia confirmar pra gente quais foram as implementações e mudanças realizadas pelo TJMT no MNI?
+Começaremos a mapear os pontos de integração e chamada do MNI pelo SIMP4. 
+Uma preocupação nossa é se existe compatibilidade do SIMP4 com o MNI do TJ de Pernambuco tal como existe com o TJ do Mato Grosso, e quais eventuais adaptações precisaremos realizar.
+Em breve, estabeleceremos uma agenda com o TJ-PE para alinhamento do novo procedimento de integração também.
+Desde já, ficamos gratos pela atenção.
+Atenciosamente
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 29 de setembro de 2025 às 10:36
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto <enrique.carlotto@mpmt.mp.br>
+Bom dia Lucio. Joia?
+Correto, estamos usando a versão 2.2.2.
+Basicamente as implementações foram:
+1- Consulta de avisos (1o e 2o grau)
+Ao realizarmos a consulta, passamos um parâmetro adicional (PC ou PR). 
+Sendo que, PC retorna apenas os avisos pendentes de ciência.
+E PR, retornar apenas os avisos pendentes de resposta.
+Pelo "MNI puro" não é possível obter essa informação.
+2- Separação por localidades (2o grau)
+Foram criadas localidades (para cada comarca) e assim possibilitar a divisão das comunicações. Ou seja, existe a localidade padrão PGJ, em que os
+Procuradores de Justiça atuam.
+E existem as localidades por comarca ( Cuiabá, Várzea Grande, Colíder... ) em que os Promotores atuam. 
+26/01/2026, 10:08 E-mail de Ministério Público de Pernambuco - Sobre MNI e implementações no MPMT/TJMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-2886509414281442768&simpl=msg-a:r-2878246993903054832&simpl=msg-f:1844605616892152167&simpl=msg-a:r761… 1/3
+
+--- [Página 2] ---
+Destacando que essa mudança reflete em mudança de atuação até mesmo do TJ. Pois, quando a câmara intima o MP, precisam escolher a
+localidade correta.
+3- Login por CNPJ (1o e 2o grau)
+Não sei se seria uma mudança em si, mas hoje utilizamos o CNPJ da PGJ para login no MNI.
+E outra coisa tão importante, quanto. Indicamos ao nosso TJ para que entrassem em contato com o TJDFT, visto que lá possuem um novo
+webservice com informações adicionais.
+E assim fizeram. Estamos na fase final de validação desse novo webservice que copiaram do TJDFT.
+Qualquer dúvida, basta retornar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quinta-feira, 25 de setembro de 2025 07:51
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: Sobre MNI e implementações no MPMT/TJMT
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 29 de setembro de 2025 às 12:18
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Julio Maravitch Mauricio Neto
+<julio@mppe.mp.br>, Mauro La Salette Costa Lima De Araujo <maraujo@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Rudiney
+De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+PSC
+26/01/2026, 10:08 E-mail de Ministério Público de Pernambuco - Sobre MNI e implementações no MPMT/TJMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-2886509414281442768&simpl=msg-a:r-2878246993903054832&simpl=msg-f:1844605616892152167&simpl=msg-a:r761… 2/3
+
+--- [Página 3] ---
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 15 de dezembro de 2025 às 13:21
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto <enrique.carlotto@mpmt.mp.br>
+Prezado  Daniel, como vai?
+Seria possível ajudar a gente com alguns esclarecimentos adicionais sobre esse tema da integração?
+Estamos enfrentando um possível problema na consulta de avisos oriundos do TJ e precisamos diagnosticar o que precisamos ajustar junto ao TJ de Pernambuco,
+(1) Consulta de Avisos
+Você mencionou anteriormente que:
+“1- Consulta de avisos (1o e 2o grau)
+Ao realizarmos a consulta, passamos um parâmetro adicional (PC ou PR). Sendo que, PC retorna apenas os avisos pendentes de ciência. E PR, retornar apenas os avisos pendentes de resposta.”
+Poderia explicar em linhas gerais como esse parâmetro adicional é passado na consulta?
+Como o SIMP trata o retorno desta consulta?
+Existe alguma parametrização ou configuração no SIMP para tratar o retorno desta consulta?
+Saberia informar o que foi implementado no PJe pelo TJMT para viabilizar o recebimento deste parâmetro PC/PR?
+Você tem algum contato no TJMT que possamos consultar sobre a possibilidade de uma eventual cessão deste código do PJE/MNI ao TJPE?
+#####
+(2) Localidades do PJE
+Você mencionou que:
+“2- Separação por localidades (2o grau)
+Foram criadas localidades (para cada comarca) e assim possibilitar a divisão das comunicações. Ou seja, existe a localidade padrão PGJ, em que os Procuradores de Justiça atuam. E existem as
+localidades por comarca ( Cuiabá, Várzea Grande, Colíder... ) em que os Promotores atuam.  Destacando que essa mudança reflete em mudança de atuação até mesmo do TJ. Pois, quando a câmara
+intima o MP, precisam escolher a localidade correta.”
+Como o SIMP trata o código de localidade que retorna na consulta de avisos?
+#####
+Desde já, fico grato pela atenção e aproveito o ensejo para desejar Feliz Natal a todos vocês!
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:08 E-mail de Ministério Público de Pernambuco - Sobre MNI e implementações no MPMT/TJMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-2886509414281442768&simpl=msg-a:r-2878246993903054832&simpl=msg-f:1844605616892152167&simpl=msg-a:r761… 3/3

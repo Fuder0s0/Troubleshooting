@@ -1,0 +1,28 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena 2\Cena 02 completa e bruta.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Menu "meus downloads"
+
+Lembra quando, ao clicar em "baixar o expediente no PJe", surgiu mensagem indicando onde pode ser visualizado o documento? Pois é, vou te mostrar ond eele está aqora. Você deverá clicar na logo do SIMP (canto superior esquerdo) onde abrirá a área de trabalho principal do SIMP. Ali vc dever clicar na opção "Ferramentas de apoio" e em "Meus donwloads". Em seguida, aparecerá a listagem de arquivos trazidos pelo SIMP diretamente do PJe. Basta então clicar no ícone "baixar arquivos". O SIMP salvará na pasta downloads da sua máquina física.
+
+Painel Superior
+
+NO canto esquerdo superior do processo, existe a opção "Exibir painel" onde são listados um resumo de todas as informações do processo no SIMP. Clicando em "exibir movimentos", são listado no lado esquerdo da tela, o histórico de movimentos do SIMP4 e PJe (e seu respectivos documentos, se anexados), quando selecionadas as respectivas abas SIMP4 e PJe.
+
+O botão "Alterar sigilo" é de uso exclusivo de alguns tipos de usuário, sendo possível, assim como o próprio nome diz, alterar o sigilo do processo.
+
+No sistema SIMP, o botão "Incluir Alerta" serve para inserir pequenos lembretes ou anotações em um protocolo específico.  As principais características dessa funcionalidade são:Finalidade: Auxiliar no controle de prazos internos e organização, funcionando como um sistema de avisos personalizados.  Independência: Diferente de outros prazos do sistema, o alerta não é vinculado a nenhum movimento processual.
+
+Criar minuta
+
+Acesse a tela de detalhe do protocolo desejado.  Clique no botão "Criar minuta", localizado na barra de ferramentas superior.  Qualquer usuário pode criar uma minuta para um protocolo.  Na tela de edição, preencha o título da minuta, selecione o movimento de referência e redija o texto no editor HTML.  A minuta será salva como um rascunho "Pendente" até que o membro responsável a revise e aprove. 
+
+Movimentação e peticionamento
+
+Na tela de detalhes do protocolo, o usuário clica em "Movimentar" , seleciona o movimento adequado e preenche o conteúdo da manifestação (ou utiliza uma minuta aprovada).  "Movimentar com assinatura digital". O sistema solicitará a senha PIN do certificado digital para garantir a autenticidade e realizar a transmissão imediata dos documentos para o tribunal. Pode-se conferir as informações e o envio nas aba disponíveis no SIMP4 - PJe, não sendo necessário ao mmebro abrir a aplicação PJe ára confirmação de envio.
+
+Arquivamento do Protocolo
+
+Ocorre após o peticionamento e a eventual conclusão do processo no Judiciário. Serve para que o protocolo receba a baixa interna e seja movido definitivamente para o arquivo. Retorno Externo: Condição de Exibição: Esta opção fica disponível quando o protocolo está localizado em um órgão externo à instituição, como fóruns ou delegacias.
+

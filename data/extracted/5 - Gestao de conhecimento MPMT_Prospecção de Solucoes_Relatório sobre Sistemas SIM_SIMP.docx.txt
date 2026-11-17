@@ -1,0 +1,507 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Relatório sobre Sistemas SIM_SIMP.docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.23 MB
+
+SISTEMA ÚNICO - MPPE
+
+Relatório Detalhado do Sistema SIMP para Possível Utilização pelo Ministério Público
+
+O Sistema Integrado do Ministério Público (SIMP) do Ministério Público do Estado de Mato Grosso (MPMT) é uma solução tecnológica abrangente, projetada para otimizar a gestão de procedimentos judiciais e extrajudiciais. A análise de sua implementação no Ministério Público de Pernambuco (MPPE) exige uma compreensão aprofundada de suas características, benefícios e desafios.
+
+1. Visão Geral do Sistema SIMP
+
+O Sistema Integrado do Ministério Público (SIMP) é a principal ferramenta utilizada para o controle dos protocolos judiciais e extrajudiciais não administrativos que tramitam pelo Ministério Público do Mato Grosso. Sua abrangência se estende desde a entrada dos processos e sua distribuição, até o fornecimento de relatórios que permitem avaliar a qualidade da atuação da instituição em todo o estado e a tomada de decisões estratégicas. O SIMP integra e organiza as diversas atividades e informações relacionadas aos procedimentos do Ministério Público, proporcionando maior eficiência, transparência e controle. 
+
+O acesso ao sistema é efetuado por intermédio do Portal de Aplicativos, mediante autenticação por login e senha, o qual infere-se ser o ambiente que congrega todas as aplicações utilizadas pelo Ministério Público do Mato Grosso (MPMT). 
+
+Os testes do sistema foram executados na plataforma de teste disponibilizada pelo Ministério Público de origem. O presente relatório fundamenta-se até a versão 4.0.6 (SIMP4), com a nota desta versão disponibilizada em 28/04/2025. Tanto o Manual online do SIMP quanto as notas de versão de atualização do sistema podem ser facilmente  acessadas através do clique no ícone "?", disponível na tela inicial do sistema. Também por este ícone pode-se consultar a Tabela Taxonômica existente no sistema.
+
+2. Arquitetura e Componentes
+
+O SIMP é estruturado em diferentes módulos e funcionalidades, que abrangem desde o cadastro e a tramitação dos procedimentos até a geração de relatórios e a comunicação com o público externo.
+
+2.1. Perfis de Usuários:
+
+Usuários do sistema:
+
+Auxiliares:
+
+Função do Auxiliar: Os auxiliares estão envolvidos em tarefas como:
+
+Cadastros (registro de informações no sistema)  
+
+Retorno Externo (processamento de documentos ou itens devolvidos de locais externos)
+
+Encaminhamento dos protocolos/expedientes aos gabinetes (forwarding documents or cases to the appropriate offices)  
+
+Trabalham com protocolos recebidos pelo CAAD.
+
+O manual também especifica que as funções para este perfil seguem as mesmas regras de utilização do Gabinete Virtual. Ou seja, eles atuam nos protocolos recebidos, sem diferenças nas operações em relação a outros perfis, exceto pelas permissões de acesso. 
+
+Em essência, os auxiliares parecem ser a equipe que lida com o processamento inicial e o encaminhamento de casos e documentos dentro do sistema SIMP, sob a supervisão do coordenador.
+
+Coordenador:
+
+Função do Coordenador:
+
+O coordenador no SIMP desempenha um papel de gestão e organização do trabalho dentro do CAAD(Centro de Apoio Administrativo). Suas principais funções são:
+
+Supervisão e Coordenação: O coordenador atua como supervisor das atividades realizadas no CAAD.  
+
+Distribuição de Tarefas: Uma das funções centrais do coordenador é distribuir as tarefas e atividades entre os servidores auxiliares. Isso inclui o controle sobre quem irá realizar cadastros, retornos externos e encaminhamentos de protocolos/expedientes.
+
+Membros:
+
+São os Promotores ou Procuradores de Justiça, responsáveis pela atuação finalística.
+
+Administradores:
+
+Usuários com permissões para configurar e manter o sistema.
+
+
+Notas importantes:
+
+Em relação aos usuários, o SIMP diferencia o acesso dos usuários de acordo com o tipo de cadastro. Cada um dos diferentes tipos de cadastro exige permissão específica. Assim como, cada instância exige um perfil diferente, ou seja, usuários com perfil de cadastro na 1ª Instância não necessariamente possuem permissão para cadastrar protocolos de 2ª Instância.Os tipos de cadastro possíveis são:
+
+Protocolo (1ª e 2ª Instância): todos os protocolos judiciais e extrajudiciais que não se enquadrarem nos tipos Ouvidoria e Atendimento ao Público;
+
+Ouvidoria: denúncias registradas pela Ouvidoria Geral da capital e encaminhadas às promotorias;
+
+Atendimento ao Público: protocolos para registrar atendimentos realizados aos cidadãos e outras entidades da sociedade. No caso do atendimento ser vinculado a um protocolo já existente, basta lançar um movimento de Atendimento dentro desse protocolo;
+
+Atividade não procedimental: atividades realizadas por promotores que não são referentes a processos específicos.
+
+O Manual de Uso do SIMP indica a existência de Assessores Multifuncionais (assessores de membros [Servidores] e assessores do Procurador Geral de Justiça [membros]) que possivelmente possuem acesso diferenciado ao sistema. No entanto, essa funcionalidade não pôde ser testada devido à falta de acesso para esses perfis durante os testes.
+
+2.2. Função do CAAD:
+
+O Centro de Apoio Administrativo (CAAD), por sua vez, é um setor com funções administrativas dentro do Ministério Público, e o SIMP possui funcionalidades específicas para otimizar o trabalho nesse setor. As funções do CAAD no contexto do SIMP incluem:
+
+Recebimento de Protocolos: O SIMP permite que o CAAD receba protocolos de forma centralizada, em vez de direcionados a usuários específicos.  
+
+Triagem, Distribuição e Encaminhamento: O CAAD atua na triagem e no encaminhamento dos protocolos e expedientes para os gabinetes competentes.  
+
+Gerenciamento de Expedientes PJe: O SIMP auxilia no gerenciamento dos expedientes eletrônicos (intimações) recebidos do Poder Judiciário (PJe de 1ª Instância).  
+
+Notas importantes:
+
+No âmbito do MPMT, para intimações e protocolos a nível de Gabinete do Procurador Geral de Justiça e intimações do PJe de 2ª Instância, as funções do CAAD são desempenhadas pelo DAEXP (Departamento de atendimento e expediente).
+
+Estrutura do CAAD:
+
+
+
+Coordenação Administrativa das Promotorias de Justiça de Cuiabá
+
+│
+
+└─── 1. CAAD (Centro de Apoio Administrativo)
+
+      │
+
+      ├───1.A) Núcleo de Apoio Administrativo
+
+           ├─── 1.A.1) Secretaria Criminal 
+
+               └───  Recebe/autua/distribui expedientes criminais; recebe feitos criminais para medidas administrativas)
+
+           ├───  1.A.2)Secretaria Cível Judicial
+
+                        └─── (Recebe/autua/distribui expedientes cíveis judiciais; recebe feitos cíveis judiciais para medidas administrativas)
+
+           └─── 1.A.3)Secretaria Cível Extrajudicial 
+
+                   └─── (Recebe/autua/distribui expedientes cíveis   extrajudiciais; recebe feitos cíveis extrajudiciais para medidas administrativas)
+
+     │
+
+     └─── 1.B)Núcleo de Diligências
+
+                └─── (Recebe/cumpre diligências externas em Cuiabá e Comarcas contíguas; recebe processos para devolução)
+
+
+
+Detalhes de cada nível:
+
+Coordenação Administrativa das Promotorias de Justiça de Cuiabá: Nível hierárquico superior, responsável pela supervisão geral do CAAD.
+
+
+CAAD (Centro de Apoio Administrativo): O órgão central, responsável por centralizar e organizar as atividades de apoio às Promotorias de Justiça de Cuiabá.
+
+
+Núcleo de Apoio Administrativo: Subdivide as atividades de recebimento, autuação e distribuição de expedientes.
+
+
+Secretaria Criminal: Especializada em expedientes e feitos da área criminal.
+
+Secretaria Cível Judicial: Especializada em expedientes e feitos da área cível e judicial.
+
+Secretaria Cível Extrajudicial: Especializada em expedientes e feitos da área cível extrajudicial.
+
+Núcleo de Diligências: Responsável pelo cumprimento de diligências externas e pelo trânsito de processos físicos.
+
+3. Funcionalidades Detalhadas
+
+A seguir, apresentamos uma descrição mais detalhada das principais funcionalidades do SIMP:
+
+3.1. Área de Trabalho
+
+A Área de Trabalho é o ambiente principal de interação do usuário com o SIMP, onde são apresentadas as ferramentas e informações necessárias para a execução de suas tarefas.
+
+Gabinete Virtual (Protocolos): Este módulo permite o gerenciamento dos protocolos (processos, procedimentos) de forma organizada, simulando um ambiente de trabalho físico. Os usuários podem criar pastas, definir prioridades, realizar ações em lote e visualizar informações relevantes sobre cada protocolo.  
+
+Painéis de Gestão: Dividido em Painel Judicial (PJe e PJe Eleitoral), Painel Extrajudicial e Expedientes Pje/SEEU. Este módulo oferece uma visão geral do gabinete, com informações sobre os protocolos em andamento, prazos a vencer, e outras estatísticas relevantes para a gestão.  
+
+Autos de Prisão e Apreensão em Flagrante: Este módulo permite o gerenciamento dos Autos de Prisão e Apreensão em Flagrante (APs) remetidos pela Polícia Civil.
+
+Favoritos (Push): Este módulo permite que os usuários marquem protocolos como favoritos e recebam notificações sobre suas movimentações.  
+
+Calendário de Prazos: Este módulo auxilia no controle dos prazos dos protocolos e atividades, com visualização em calendário e alertas.  
+
+Recebimento em Lote: Este módulo permite o recebimento de múltiplos protocolos de uma só vez, agilizando o trabalho.  
+
+Peticionamento em lote PJe/SEEU: Este módulo agrupa os protocolos que serão peticionados em lote no PJe.  
+
+Peticionamentos Externos Pendentes: Este módulo gerencia os peticionamentos realizados por usuários externos (cidadãos, advogados) através do site do MP.  
+
+Monitoramento das Partes: responsável pelo acompanhamento de partes conforme a necessidade do usuário, compilando os protocolos em andamento em desfavor da parte adicionada neste módulo.
+
+Minutas: Este módulo permite a criação, edição, aprovação e utilização de minutas de peças processuais.
+
+Advogados: Permite o cadastro do advogado possibilitando sua habilitação nos autos de um processo.
+
+3.1.1. Gabinete Virtual (Protocolos)
+
+O Gabinete Virtual é a principal interface para o gerenciamento de protocolos. Suas principais funcionalidades são:
+
+Organização em Pastas: Permite a criação de pastas para organizar os protocolos de acordo com critérios definidos pelo usuário (e.g., tipo de procedimento, área temática).
+
+Visualização e Listagem: Apresenta os protocolos em formato de lista (grid), com informações como número, classe, assunto, detentor, prazos, etc.
+
+Ações em Lote: Permite a execução de ações em múltiplos protocolos simultaneamente, como distribuição, movimentação, impressão de etiquetas e arquivamento.
+
+Filtros, Ícones e Pesquisa: Oferece filtros para refinar a busca de protocolos, ícones coloridos para várias informações do protocolo (prazo, réu preso, menor, etc) e um campo de pesquisa para localizar protocolos por número, palavra-chave, etc.
+
+Compartilhamento de Pastas: Permite o compartilhamento de pastas com outros locais (promotorias, procuradorias), facilitando o acesso e a colaboração.
+
+Operações em Lote: O Gabinete Virtual facilita a execução de ações em vários protocolos simultaneamente, aumentando a eficiência. Exemplos incluem distribuição, movimentação e impressão de etiquetas para vários protocolos simultaneamente.
+
+Exibição de informações: apresenta protocolos em formato de grade, mostrando detalhes importantes como número do protocolo, tipo, data e responsável.
+
+Personalização: Os usuários podem personalizar sua visualização do Gabinete Virtual selecionando temas (cores), usando um modo escuro e ajustando o zoom.
+
+Acessibilidade: A partir do SIMP 3.0 incluiu-se recursos de acessibilidade no Gabinete Virtual para atender usuários com diferentes necessidades.
+
+Assistente virtual: O Assistente de IA é uma ferramenta inteligente integrada ao SIMP, a partir de sua versão SIMP4. Ele foi desenvolvido para auxiliar Promotores, Procuradores de Justiça e suas assessorias na sua atuação, oferecendo suporte em diversas tarefas relacionadas aos processos judiciais, tais como, resumo do processo, geração de documentos e chatbot sobre detalhes dos autos processuais. A princípio, está disponível apenas para processos judiciais criminais.
+
+Multitramitação: A partir do SIMP 3.0 é possível tramitar um protocolo eletrônico (e apenas eletrônico) para mais de uma pessoa através de um movimento.
+
+3.1.2. Painéis de Gestão
+
+Os Painéis de Gestão fornecidos pelo sistema apresentam uma visão geral do gabinete, com informações sobre os protocolos em andamento, prazos, e outras estatísticas relevantes para a gestão.
+
+Listagem de Expedientes: Apresenta a lista de intimações recebidas do PJe, com informações como número do processo, data limite para ciência, etc.
+
+Filtros: Permite filtrar os expedientes por comarca, órgão julgador, situação do processo, bem como informações por área de atuação, classe de protocolo, etc.
+
+Ações: Permite realizar ações como tomar ciência de intimações e realizar o retorno externo de processos.
+
+Cards Informativos: Apresenta cards com o número de protocolos em andamento por classe, prazos vencidos, etc.
+
+Membros do local: Listagem dos membros designados para o gabinete.
+
+ 3.1.3. Autos de Prisão e Apreensão em Flagrante
+
+Este módulo gerencia os Autos de Prisão e Apreensão em Flagrante (APs) remetidos pela Polícia Civil.
+
+3.1.4. Favoritos (Push)
+
+Este módulo permite que os usuários marquem protocolos como favoritos e recebam notificações sobre suas movimentações.
+
+Lista de Favoritos: Apresenta a lista de protocolos marcados como favoritos.
+
+Notificações (Push): Envia notificações aos usuários quando ocorrem movimentações nos protocolos favoritados.
+
+3.1.5. Prazos
+
+Este módulo auxilia no controle dos prazos dos protocolos e atividades.
+
+Calendário: Exibe os prazos em um calendário, facilitando a visualização e o acompanhamento.
+
+Listagem de Prazos: Apresenta a lista de prazos, com informações como número do protocolo, data de vencimento, etc.
+
+Filtros: Permite filtrar os prazos por tipo (protocolo, movimento, alerta, atividade), situação (aberto, vencido), etc.
+
+Configuração de Monitoramento: Permite configurar os tipos de prazos a serem monitorados e a forma de notificação (e-mail, avisos na tela).
+
+3.1.6. Recebimento em Lote
+
+Este módulo permite o recebimento de múltiplos protocolos de uma só vez, agilizando o trabalho.
+
+Lista de Protocolos a Receber: Apresenta a lista de protocolos que serão recebidos.
+
+Ações em Lote: Permite selecionar vários protocolos e realizar o recebimento de todos de uma vez.
+
+3.1.7. Peticionamento em Lote PJe
+
+Este módulo agrupa os protocolos que serão peticionados em lote no PJe.
+
+Lista de Protocolos para Peticionar: Apresenta a lista de protocolos pendentes de peticionamento em lote.
+
+Ações em Lote: Permite selecionar vários protocolos e realizar o peticionamento eletrônico de todos de uma vez.
+
+3.1.8. Peticionamentos Externos Pendentes
+
+Este módulo gerencia os peticionamentos realizados por usuários externos (cidadãos, advogados) através do site do MP.
+
+Lista de Peticionamentos: Apresenta a lista de peticionamentos recebidos.
+
+Detalhes do Peticionamento: Exibe informações sobre o peticionamento, como tipo, data, autor, documentos anexados, etc.
+
+Ações: Permite incluir o peticionamento no protocolo ou descartá-lo.
+
+3.1.9. Minutas
+
+Este módulo permite a criação, edição, aprovação e utilização de minutas de peças processuais.
+
+Criação de Minutas: Permite a elaboração de rascunhos de documentos, com formatação de texto e inserção de dados do protocolo.
+
+Aprovação de Minutas: Permite que o membro responsável pelo protocolo aprove ou devolva a minuta para correção.
+
+Utilização de Minutas: Permite inserir o conteúdo da minuta em um movimento do protocolo.
+
+3.2. Entrada de demandas via Registro de Protocolos no SIMP.
+
+O cadastro de protocolos no SIMP é o registro de processos extrajudiciais, judiciais e atividades não procedimentais no sistema. Tais entradas podem ser feitas tanto pelas promotorias, procuradorias e Ouvidoria, quanto pela plataforma da Promotoria Virtual. 
+
+          3.2.1.Ouvidoria
+
+Como canal direto de comunicação com o cidadão, a Ouvidoria do Ministério Público de Mato Grosso recebe, examina e encaminha diversas manifestações sobre a atuação de seus membros (Procuradores e Promotores de Justiça) e servidores – incluindo reclamações, denúncias, críticas, apreciações, comentários, elogios, pedidos de informação e sugestões. O registro dessas demandas ocorre diretamente  pela Ouvidoria no SIMP, seja no atendimento presencial, seja através da integração de dados do formulário online disponível no sítio eletrônico do MPMT.
+
+          3.2.2.Promotoria Virtual
+
+A Promotoria Virtual é um componente dos serviços online do Ministério Público do Mato Grosso, projetado para facilitar a comunicação e o intercâmbio de documentos com entidades externas envolvidas em procedimentos extrajudiciais.
+
+Seu objetivo principal é permitir que cidadãos e outras partes externas, como advogados, interajam eletronicamente com o Ministério Público, realizando ações como enviar documentos, solicitar atendimento ou cópias de autos, emitir certidões e participar de sustentações orais nos órgãos colegiados.
+
+A Promotoria Virtual busca agilizar os processos de atendimento e consulta, potencialmente reduzindo a necessidade de comparecimento físico ao Ministério Público. O acesso é feito por meio de login com o sistema gov.br, que também permite a assinatura digital.
+
+3.3. Consulta e Relatórios
+
+O SIMP oferece diversas ferramentas para a consulta de informações e geração de relatórios, incluindo:
+
+Consulta Simples e Avançada: Permitem a busca de protocolos por diferentes critérios.  
+
+Consulta de Documentos: Facilita a localização de documentos específicos dentro dos protocolos.  
+
+Consulta de Atividades Não Procedimentais:  tem como finalidade consultar os atos praticados pelos promotores, ou seja, atividades que não resultam de promoção ministerial em procedimento instaurado. 
+
+Relatórios: O sistema gera diversos relatórios para auxiliar na gestão e no acompanhamento dos procedimentos:
+
+Os relatórios, juntamente com suas finalidades e permissões de acesso, são:
+
+3.4. Controle de Sigilo no SIMP
+
+O SIMP (Sistema Integrado do Ministério Público) possui recurso de controle de sigilo que permite restringir o acesso a determinados protocolos, garantindo a confidencialidade das informações.  
+
+O controle de sigilo funciona da seguinte forma:
+
+Atribuição de Sigilo: O sigilo é atribuído ao protocolo como um todo, não a partes específicas dele.  
+
+Autorização de Acesso: Apenas usuários com a autorização apropriada podem acessar protocolos sigilosos.  
+
+Níveis de Sigilo: O sistema pode ter diferentes níveis de sigilo, cada um com diferentes restrições de acesso.  O Sistema divide o sigilo em 3 níveis, quais são:
+
+Nível 1:
+
+Promotor distribuído e substituto    
+
+Assessor distribuído    
+
+Detentor atual    
+
+Detentor anterior    
+
+Promotor ou Procurador de um protocolo migrado    
+
+Promotor substituto    
+
+Conselheiro (se o protocolo estiver em votação no Plenário Virtual)    
+
+Servidores do local (excepto estagiários, terceirizados)    
+
+Permission for Corregedor and Procurador-Geral    
+
+Nível 2:
+
+Promotor distribuído e substituto    
+
+Assessor distribuído    
+
+Detentor atual    
+
+Detentor anterior    
+
+Promotor ou Procurador de um protocolo migrado    
+
+Promotor substituto    
+
+Conselheiro (se o protocolo tiver em votação no Plenário Virtual)    
+
+Corregedor-Geral e Procurador-Geral de Justiça    
+
+Nível 3 (implementado na versão SIMP4):
+
+Promotor distribuído e substituto    
+
+Detentor atual (apenas movimentos em que for destinatário ou remetente)    
+
+Quem pode alterar o nível de sigilo:
+
+Apenas usuários com o nível de acesso adequado (membros) podem alterar o nível de sigilo de um protocolo. 
+
+Informações exibidas para protocolos sigilosos:
+
+Para usuários sem a autorização de acesso, as informações exibidas são limitadas, geralmente incluindo apenas o número do protocolo, número único e observações.Todas as informações de um protocolo sigiloso só são exibidos ao seu detentor atual, ao membro para o qual ele está distribuído, ao Gerente de Atendimento e Expediente, ao Procurador-Geral de Justiça e ao Corregedor-Geral do Ministério Público. Para outros usuários, apenas informações básicas são exibidas.  
+
+Registro de alterações:
+
+Todas as alterações no nível de sigilo são registradas no sistema, incluindo quem alterou, quando, o nível anterior e o novo nível, e a justificativa para a alteração. 
+
+Nota importante: O sistema possibilita a ocultação de dados das partes para exibição na internet, independentemente da classificação de sigilo. Em cada protocolo, o usuário pode especificar quais partes terão suas informações suprimidas na consulta pública disponibilizada no sítio eletrônico do MPMT.
+
+3.5. Fluxos
+
+O Sistema SIMP emprega fluxos de trabalho preestabelecidos para organizar tarefas em uma ordem lógica. Esses fluxos direcionam o usuário através das etapas requeridas para a conclusão de um procedimento, podendo, inclusive, impedir a progressão caso alguma etapa essencial não seja executada. Tais fluxos são definidos pelo órgão correicional do MPMT (Corregedoria Geral do MP) e implementados pelo DTI (Departamento de Tecnologia e Informação) podendo habilitar ou desabilitar os fluxos criados no sistema, conforme a determinação superior.
+
+3.6. Atividade Não procedimental
+
+O SIMP permite o registro de Atividade não procedimental com o objetivo de armazenar os atos praticados pelos membros e que atendem o que é determinado pelo CNMP através das tabelas taxonômicas, tais como: audiência de custódia, reuniões,  representação institucional em palestras ou participações em grupos de trabalho/comissões, eventos, projetos ou órgão colegiado. Também é possível o registro da participação do membro em Audiências Públicas.
+
+As atividades não-procedimentais geram um número de registro no formato do número SIMP, mas não são movimentadas como os protocolos convencionais.
+
+3.7. Atuação dos órgãos colegiados, Conselho Superior e Corregedoria.
+
+          3.7.1. Corregedoria 
+
+A atuação da Corregedoria no SIMP tanto ocorre diretamente, com a coleta de dados direto no sistema como por meio da “Corregedoria Digital” que utiliza o sistema E-CONTROL, que faz uso dos dados do SIMP, com funcionalidades voltadas principalmente para a realização de correições, além de inspeções eletrônicas de rotina e gestão das movimentações na carreira. 
+
+          3.7.2. Órgãos colegiados e Conselho Superior
+
+Tanto a Secretaria de Órgãos Colegiados quanto a Secretaria de CSMP possuem atuação no SIMP na recepção e distribuição ao relator (procurador/conselheiro) dos protocolos remetidos pelas Promotorias de Justiça, bem como a devida devolução destes à sua origem após o julgamento pelo Colegiado. O protocolo Extrajudicial eletrônico do SIMP deve ser tramitado para a Secretaria do órgão colegiado/CSMP.
+
+O MPMT faz uso do sistema Plenário Virtual (GEACOR), que foi criado para que as Reuniões/Julgamento do Conselho Superior do Ministério Público do Estado de Mato Grosso fossem feitas de forma virtual. A partir do sistema Plenário Virtual o(a) Procurador(a) Conselheiro(a) será responsável por definir à qual tipo de reunião/julgamento quer que o protocolo Extrajudicial eletrônico do SIMP seja vinculado, podendo ser uma reunião/julgamento Presencial ou Virtual. Essa escolha é feita no sistema SIMP.
+
+Notas importantes:
+
+Devido à não disponibilização pelo MPMT do acesso ao ambiente de teste desses setores, não foi possível realizar testes específicos. Consequentemente, este relatório limita-se às informações presentes no Manual SIMP e aos dados obtidos através de colaboradores do MPMT.
+
+4. Vantagens e Desvantagens da Implementação do SIMP no MPPE
+
+Com base nos documentos fornecidos, aqui estão algumas diferenças nos trâmites e tipos de procedimentos extrajudiciais entre o MPPE e o MPMT:
+
+MPPE (Sistema SIM):
+
+SIM / Procedimentos Eletrônicos: O MPPE utiliza o sistema SIM para trâmite de procedimentos extrajudiciais cíveis e alguns fluxos de procedimentos extrajudiciais criminais.
+
+Fluxos de Trabalho: O SIM do MPPE atua por meio de  fluxos específicos e fechados para diversas atividades, como registro de atendimento presencial e telefônico, recebimento de documentos, registro de notícia de fato e conversão em procedimento preparatório etc. A forma que está projetado o sistema,  impossibilita a alteração ou modificação de fluxos de tarefas de forma mais simplificada, o que dificulta modernizações nos ritos dos procedimentos quando decorrer alterações normativas relevantes.
+
+Foco em Atendimento e Registro: Há uma ênfase clara no registro de atendimentos ao público e no manuseio de documentos físicos e eletrônicos, conhecidos pela nomenclatura de Documento Protocolado (DP).
+
+Setores de atividade meio: No SIM há a atuação direta de setores de atividade meio, como GEMAT, NAF (Núcleo da Família), NAV (Núcleo de apoio às Vítimas) e etc. As análises técnicas tramitam por dentro do sistema em fluxo distinto e específico dos setores técnicos.
+
+MPMT (Sistema SIMP):
+
+Promotoria Virtual: O MPMT implementou a "Promotoria Virtual," uma ferramenta que permite a interação eletrônica com cidadãos e outras partes externas como os advogados, incluindo o envio de documentos, solicitação de atendimento e participação em plenários virtuais. 
+
+SIMP e SIMP3/SIMP4: O MPMT utiliza o sistema SIMP, com evoluções para SIMP3 e SIMP4, que abrangem tanto a gestão extrajudicial quanto a judicial. Há um esforço em integrar e automatizar diversas atividades, incluindo o uso de inteligência artificial para auxiliar na elaboração de minutas e outras tarefas. Todavia, setores como Núcleos de apoio e Centros de Apoio Operacional (CAO) não tem atuação dentro do sistema. Tais setores se utilizam do Sistema GEDOC (Sistema de Gestão Eletrônica de Documentos) que é a principal ferramenta utilizada para o controle dos protocolos administrativos que tramitam pela instituição. Por este sistema também são geridos os conflitos de atribuição destinados ao Procurador-Geral de Justiça.
+
+Fluxos de Trabalho: Fluxos de tarefas gerenciáveis e com flexibilidade de modificação, sendo a tramitação de protocolos se baseando na inserção de movimentos predefinidos conforme a tabela taxonômica pré-estabelecida no sistema.
+
+Foco em cadastro e tramitação de protocolos: Todo e qualquer registro inserido no SIMP é cadastrado como Notícia de fato (Classe e Código 910002 predefinido) mesmo sendo iniciado como Atendimento ao público. Não há expedientes ou documentos inespecíficos como opção de cadastramento inicial.
+
+Setores de atividade meio: Não existem setores específicos de área meio para fins de atuação nos procedimentos em trâmite no SIM, sendo quaisquer solicitações de análise técnicas requeridas aos CAAD onde estão lotados os servidores técnicos do MPMT.
+
+4.1. Vantagens
+
+Centralização e Organização: O SIMP centraliza as informações e os procedimentos, facilitando o acesso, a localização e o gerenciamento dos dados.
+
+Eficiência e Agilidade: A automação de tarefas e as funcionalidades de lote agilizam o fluxo de trabalho e reduzem o tempo gasto em atividades repetitivas.
+
+Controle de Prazos: O sistema auxilia no controle dos prazos, evitando perdas e atrasos.
+
+Acessibilidade e Transparência: A Promotoria Virtual facilita a comunicação com o público externo, aumentando a transparência da instituição.
+
+Relatórios e Dados: O SIMP gera relatórios que fornecem informações para a gestão e a tomada de decisões.
+
+Padronização: O sistema padroniza os procedimentos e os documentos, garantindo a uniformidade e a qualidade do trabalho.
+
+Acessibilidade: Os recursos de acessibilidade facilitam o uso do sistema por pessoas com deficiência.
+
+4.2. Desvantagens e Desafios
+
+Complexidade: A implementação do SIMP é um projeto complexo, que exige planejamento, análise de requisitos e adaptação de alguns fluxos de trabalho, como, por exemplo, do tipo Documento Protocolado, muito utilizado no sistema SIM e inexistente no SIMP.
+
+Resistência à Mudança: A introdução de um novo sistema pode gerar resistência por parte dos usuários.
+
+Integração com Sistemas Existentes: A integração com outros sistemas, tanto do MPPE quanto dos demais órgãos estaduais, será a parte mais desafiadora.
+
+Segurança: É fundamental garantir a segurança dos dados e o controle de acesso às informações, inclusive quando da possibilidade de migração de dados entre sistemas SIM-SIMP.
+
+Estudo comparativo entre os sistemas SIM e SIMP3, apresentado em formato de tabela, destacando as vantagens e desvantagens de cada um, com base nas informações colhidas:
+
+[Tabela] Relatório | Finalidade | Permissões necessárias para gerar
+
+[Tabela] Remessa/Devolução | Certificar o recebimento e envio de remessas de processos. | Disponível a todos os usuários.
+
+[Tabela] Protocolos Enviados para Local | Analisar os processos enviados a um local. | Disponível a todos os usuários.
+
+[Tabela] Movimentações | Aferir a produtividade dos membros, de uma promotoria ou de uma comarca. | Disponível a todos os usuários.
+
+[Tabela] Inventário | Relatar os protocolos que encontram-se numa promotoria ou procuradoria neste instante. | Disponível a todos os usuários.
+
+[Tabela] Distribuição | Listar distribuições de membros realizadas em um período. | Disponível a todos os usuários.
+
+[Tabela] Maria da Penha | Gerar dados estatísticos de protocolos da área Violência Doméstica. | Disponível a todos os usuários.
+
+[Tabela] Protocolos CSMP e CPJ | Listar distribuições realizadas aos conselheiros e membros do Colégio de Procuradores de Justiça e do Conselho Superior do MP. | Servidores e membros da Secretaria dos Órgãos Colegiados.
+
+[Tabela] Distribuição para Assessores | Contabilizar os diferentes tipos de distribuições realizadas para assessores de vários gabinetes, atendendo regras específicas para cada gabinete. | Servidores e assessores ligados a esses tipos de distribuições.
+
+[Tabela] Movimentos em Protocolos Não-reclassificados | Aferir a produtividade dos membros (após 16/01/2012) em processos ainda não-reclassificados. | Disponível a todos os usuários.
+
+[Tabela] Entrada e Saída | Auxiliar na correição. | Servidores e membros da Corregedoria.
+
+[Tabela] Termos de Ajustamento de Conduta | Analisar os TACs celebrados (abertos, cumpridos e não cumpridos) pelo Ministério Público e outras partes. | Disponível a todos os usuários.
+
+[Tabela] Controle de prazo | Exibir os prazos em protocolos, movimentos e atividades não procedimentais. | Disponível a todos os usuários.
+
+[Tabela] Substituição de Promotores | Listar as substituições de Promotores | Corregedoria.
+
+[Tabela] Avaliação de Membros | Listar as avaliações dos Membros | Membros e Corregedoria.
+
+[Tabela] Numeradores | Listar os documentos com numeradores vinculados a movimentos | Disponível a todos os usuários.
+
+[Tabela] Característica | SIM | SIMP3
+
+[Tabela] Objetivo Principal | Realizar o registro de notícia de fato e outros procedimentos. | Controlar os protocolos judiciais e extrajudiciais.
+
+[Tabela] Público-alvo | Promotor de Justiça, assessores, servidores e estagiários da área jurídica. | Todos os integrantes do Ministério Público.
+
+[Tabela] Facilidade de Uso | Manual descreve os fluxos de trabalho de forma simples. | Possui manual online acessível na tela de uso, além de dicas e atalhos.
+
+[Tabela] Agilidade | Permite realizar algumas ações em lote, como assinatura. | Permite diversas operações em lote, como distribuição e movimentação.
+
+[Tabela] Interface | Interface mais simples e focada em tarefas específicas. | Interface remodelada com conceito de Gabinete Virtual, visando organização e controle dos protocolos.
+
+[Tabela] Gerenciamento de Protocolos | Permite o registro de atendimentos, documentos e notícias de fato. | Permite o agrupamento de protocolos em pastas, facilitando a organização.
+
+[Tabela] Prazos e Tarefas | Permite o uso de agenda e o acompanhamento de tarefas prioritárias. | Possui controle de prazos mais completo, com alertas e configurações de monitoramento.
+
+[Tabela] Integração com Outros Sistemas | Integração com o PJe unicamente para o fluxo de ajuizamento de ação. | Integrado com o PJe e SEEU (SIMP4), permitindo o gerenciamento de intimações, peticionamento eletrônico e acompanhamento em aba própria das movimentações nos autos judiciais
+
+[Tabela] Acessibilidade | Não possui funcionalidades de acessibilidade detalhadas ou ajustes. | Possui opções de temas, modo escuro e ajuste de zoom.
+
+[Tabela] Integração com IA | Não possui essa funcionalidade | Possui assistente virtual com IA para auxiliar nas tarefas
+
+[Tabela] Relatórios | Relatórios mais focados em tarefas e procedimentos, destinados a atividade correicional. | Relatórios mais abrangentes, com painel de gestão e insights do protocolo.

@@ -1,0 +1,531 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\MPMT\A71_PE90078_2024_Publicação_do_RESULTADO_e_HOMOLOGAÇÃO_no_DOE_MPMT DocsTCEHom.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.04 MB
+
+--- [Página 1] ---
+TERMO DE HOMOLOGAÇÃO
+PREGÃO ELETRÔNICO Nº 90078/2024
+ 
+A Procuradoria-Geral de Justiça do Estado de Mato Grosso, por intermédio do seu Pregoeiro Oﬁcial, designado pela Portaria nº
+1.060/2024-PGJ/MP-MT, de 16 de dezembro de 2024, publicada no D.O.E. de 17 de dezembro de 2024, ﬁnalizou o procedimento
+licitatório e a 
+Subprocuradora-Geral de Justiça Administrativa
+, no uso de suas atribuições e em conformidade com o contido nos
+autos do processo administrativo autuado sob o Gedoc nº 20.14.0001.0000461/2022-28, 
+ADJUDICA 
+o objeto e
+  
+HOMOLOGA
+ o
+resultado do procedimento licitatório 
+Pregão Eletrônico nº
+  
+90078/2024
+, o qual tem por objeto
+ REGISTRO DE PREÇOS PARA
+FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO DESENVOLVIMENTO E SUSTENTAÇÃO DE
+SISTEMAS DE INFORMAÇÃO, DE ACORDO COM AS CONDIÇÕES, ESPECIFICAÇÕES E QUANTIDADES DESCRITAS NO
+TERMO DE REFERÊNCIA ANEXO I DO EDITAL.
+Cuiabá/MT, 16 de janeiro de 2025.
+ 
+Januária Dorilêo
+Subprocuradora-Geral de Justiça Administrativa
+RESULTADO DE LICITAÇÃO
+ 
+A 
+PROCURADORIA-GERAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+, por intermédio do seu Pregoeiro Oficial, designado pela
+Portaria nº 1.060/2024-PGJ/MP-MT, de 16 de dezembro de 2024, publicada no D.O.E. de 17 de dezembro de 2024, torna público o
+resultado da licitação, conforme abaixo:
+ 
+Processo Administrativo
+20.14.0001.00000461/2022-28
+Edital
+90078/2024
+Modalidade
+Pregão Eletrônico
+Data 
+da abertura e julgamento
+02/12/2024 às 09h30
+Objeto:
+ REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO 
+DE EMPRESA ESPECIALIZADA NO
+DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS DE 
+INFORMAÇÃO, DE ACORDO COM AS CONDIÇÕES,
+ESPECIFICAÇÕES E QUANTIDADES 
+DESCRITAS NO TERMO DE REFERÊNCIA ANEXO I DO EDITAL.
+ 
+EMPRESA VENCEDORA:
+ G4F 
+SOLUCOES CORPORATIVAS LTDA - 
+CNPJ: 
+07.094.346/0001-45
+GRUPO
+DESCRIÇÃO
+UND
+QTD
+VALOR (R$)
+ITEM
+UNITÁRIO
+TOTAL
+01
+1 Posto de Trabalho: Desenvolvedor 
+Java - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+22.180,91
+R$
+532.341,84
+02
+1 Posto de Trabalho: Desenvolvedor 
+Java - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+22.180,91
+R$
+532.341,84
+03
+1 Posto de Trabalho: Desenvolvedor 
+Java - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+22.180,91
+R$
+532.341,84
+04
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+05
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+06
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+07
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+08
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+09
+1 Posto de Trabalho: Desenvolvedor 
+Java - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.007,44
+R$
+432.178,56
+10
+1 Posto de Trabalho: Desenvolvedor 
+PHP - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do Edital
+Posto/Mês
+24
+R$
+16.781,55
+R$
+402.757,20
+11
+1 Posto de Trabalho: Desenvolvedor 
+PHP - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+16.781,55
+R$
+402.757,20
+12
+1 Posto de Trabalho: Desenvolvedor 
+PHP - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+16.781,55
+R$
+402.757,20
+13
+1 Posto de Trabalho: Desenvolvedor 
+PHP - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do Edital
+Posto/Mês
+24
+R$
+16.781,55
+R$
+402.757,20
+14
+1 Posto de Trabalho: Desenvolvedor 
+PHP - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+16.781,55
+R$
+402.757,20
+15
+1 Posto de Trabalho: Desenvolvedor 
+Python - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+23.236,49
+R$
+557.675,76
+                DOE-MPMT
+Ano 2025 - N.: 1351 (17/01/2025)
+5 de 8                
+
+--- [Página 2] ---
+16
+1 Posto de Trabalho: Desenvolvedor 
+Python - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+23.236,49
+R$
+557.675,76
+17
+1 Posto de Trabalho: Desenvolvedor 
+Python - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+17.785,65
+R$
+426.855,60
+18
+1 Posto de Trabalho: Desenvolvedor 
+Python - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+17.785,65
+R$
+426.855,60
+19
+1 Posto de Trabalho: Desenvolvedor 
+Python - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+17.785,65
+R$
+426.855,60
+20
+1 Posto de Trabalho: Desenvolvedor 
+Python - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+17.785,65
+R$
+426.855,60
+21
+1 Posto de Trabalho: Desenvolvedor 
+Python - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+17.785,65
+R$
+426.855,60
+22
+1 Posto de Trabalho: Desenvolvedor 
+Rails - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+16.351,23
+R$
+392.429,52
+23
+1 Posto de Trabalho: Analista de 
+Sistemas - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+22.268,25
+R$
+534.438,00
+24
+1 Posto de Trabalho: Analista de 
+Sistemas - Sênior - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+22.268,25
+R$
+534.438,00
+25
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+26
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+27
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+28
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+29
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+30
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+31
+1 Posto de Trabalho: Analista de 
+Sistemas - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+16.498,81
+R$
+395.971,44
+32
+1 Posto de Trabalho: Analista de 
+Qualidade - Sênior - Especificação do cargo
+conforme Termo de Referência 
+Anexo I do Edital
+Posto/Mês
+24
+R$
+20.565,28
+R$
+493.566,72
+33
+1 Posto de Trabalho: Analista de 
+Qualidade - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+15.324,17
+R$
+367.780,08
+34
+1 Posto de Trabalho: Analista de UX 
+- Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+19.255,95
+R$
+462.142,80
+35
+1 Posto de Trabalho: Scrum Master - 
+Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do Edital
+Posto/Mês
+24
+R$
+20.273,90
+R$
+486.573,60
+36
+1 Posto de Trabalho: Arquiteto de 
+software - Pleno - Especificação do cargo
+conforme Termo de Referência Anexo 
+I do Edital
+Posto/Mês
+24
+R$
+23.602,27
+R$
+566.454,48
+37
+1 Posto de Trabalho: Analista PL/SQL 
+- Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.510,05
+R$
+444.241,20
+38
+1 Posto de Trabalho: Analista PL/SQL 
+- Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I do 
+Edital
+Posto/Mês
+24
+R$
+18.510,05
+R$
+444.241,20
+39
+1 Posto de Trabalho: Analista de 
+Business Intelligence - Pleno - Especificação do
+cargo conforme Termo de 
+Referência Anexo I do Edital
+Posto/Mês
+24
+R$
+15.872,70
+R$
+380.944,80
+40
+1 Posto de Trabalho: Cientista de 
+Dados - Pleno - Especificação do cargo conforme
+Termo de Referência Anexo I 
+do Edital
+Posto/Mês
+24
+R$
+22.439,18
+R$
+538.540,32
+VALOR 
+TOTAL REGISTRADO/CONTRATADO
+R$ 
+17.871.103,20
+ 
+Valor Total Registrado: 
+R$ 17.871.103,20 (dezessete milhões e oitocentos e setenta e um mil e cento e três reais e vinte
+centavos)
+.
+ 
+Cuiabá/MT, 15 de janeiro de 2025.
+ 
+THIAGO ATAIDE DE OLIVEIRA RODRIGUES
+PREGOEIRO OFICIAL - PORTARIA 1060/2024 PGJ
+RECOMENDAÇÕES
+RECOMENDAÇÃO Nº 002/2025-CGMP
+                DOE-MPMT
+Ano 2025 - N.: 1351 (17/01/2025)
+6 de 8                

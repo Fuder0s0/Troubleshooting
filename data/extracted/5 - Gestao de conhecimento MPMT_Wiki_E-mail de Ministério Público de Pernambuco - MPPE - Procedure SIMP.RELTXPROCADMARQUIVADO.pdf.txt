@@ -1,0 +1,51 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPE - Procedure SIMP.RELTXPROCADMARQUIVADO.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.29 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPE - Procedure SIMP.RELTXPROCADMARQUIVADO
+2 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 14 de novembro de 2025 às 11:36
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, como vai?
+Identificamos a falta da procedure  SIMP.RELTXPROCADMARQUIVADO no banco de dados SIMP que é necessária para uma consulta de relatório.
+Seria possível enviar essa procedure pra gente?
+Grato desde já!
+Atenciosamente
+Detalhes Técnicos
+A aplicação retorna o seguinte erro de execução:
+ORA-06550: linha 1, coluna 7:
+PLS-00201: o identificador 'SIMP.RELTXPROCADMARQUIVADO' deve ser declarado
+Análise Realizada
+Foi executada a seguinte validação no banco de dados para confirmar a existência do objeto:
+SELECT OWNER, OBJECT_NAME, STATUS
+FROM ALL_OBJECTS
+WHERE OBJECT_NAME = 'RELTXPROCADMARQUIVADO'
+AND OWNER = 'SIMP';
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 14 de novembro de 2025 às 14:44
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Junio Cesar Ferreira <junio.cesar@mpmt.mp.br>
+Boa tarde Lucio.
+Muito estranho, porque quando enviamos a estrutura do BD, todas as procs vão junto.
+Mas pra agilizar, segue essa em específico.
+26/01/2026, 10:18 E-mail de Ministério Público de Pernambuco - MPPE - Procedure SIMP.RELTXPROCADMARQUIVADO
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-949578901225529109&simpl=msg-a:r-3691738340166060321&simpl=msg-f:1848788674206043447 1/2
+
+--- [Página 2] ---
+Qualquer coisa, é só retornar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: sexta-feira, 14 de novembro de 2025 10:36
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: MPPE - Procedure SIMP.RELTXPROCADMARQUIVADO
+ 
+[Texto das mensagens anteriores oculto]
+RELTXPROCADMARQUIVADO-20251114P1.zip
+3K
+26/01/2026, 10:18 E-mail de Ministério Público de Pernambuco - MPPE - Procedure SIMP.RELTXPROCADMARQUIVADO
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-949578901225529109&simpl=msg-a:r-3691738340166060321&simpl=msg-f:1848788674206043447 2/2

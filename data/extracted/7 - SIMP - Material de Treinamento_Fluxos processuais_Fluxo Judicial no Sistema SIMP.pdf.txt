@@ -1,0 +1,311 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\Fluxo Judicial no Sistema SIMP.pdf
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.21 MB
+
+--- [Página 1] ---
+Fluxo Judicial no Sistema SIMP 
+ 
+ 
+O Fluxo Judicial no Sistema SIMP  automatiza a tramitação de 
+expedientes, desde a entrada (via integração PJe ou Cadastro Manual) até o 
+peticionamento eletrônico final pelo Membro do Ministério Público.  
+ 
+Sequência de Atividades 
+ 
+ 
+Início 
+ 
+Entrada via integração PJe (Aba Expedientes) ou Cadastro Manual 
+ 
+ 
+Recepção do Protocolo 
+ 
+Validação dos dados taxonômicos e Registro no Sistema 
+ 
+ 
+Receber no Gabinete Virtual 
+ 
+Ação em lote para dar carga ao protocolo na Unidade 
+ 
+ 
+Distribuir ao Membro 
+ 
+Atribuição da responsabilidade funcional ao Promotor de Justiça 
+(Automática, Manual / Impedimento, Com Tramitação) 
+ 
+ 
+Criar Minuta 
+ 
+Elaboração do rascunho da Peça  
+ 
+ 
+Revisar Minuta 
+ 
+Decisão do Membro entre Aprovar ou Devolver para Correção 
+ 
+ 
+Peticionamento no PJe 
+ 
+Ato final para encaminhar em lote as manifestações ao Judiciário 
+ 
+ 
+
+--- [Página 2] ---
+Responsáveis pelas Tarefas 
+ 
+▪ Servidor/Assessor: Realiza o cadastro, recebimento, distribuição e 
+criação da minuta 
+▪ Membro (Promotor): Realiza a revisão da minuta, aprovação, assinatura 
+e o peticionamento em lote 
+ 
+Após o usuário acessar o espaço na tela com login e senha é apresentado 
+o painel do Sistema SIMP. 
+ 
+ 
+Início 
+ 
+Entrada via integração PJe (Aba Expedientes) ou Cadastro Manual 
+ 
+ 
+Expedientes PJe/SEEU (REGRA): Ambiente responsável pelo recebimento de 
+aviso eletrônico do Tribunal de Justiça, o qual consta uma lista de intimações 
+para conhecimento do Ministério Público, com a data limite para a ciência e a 
+data limite para resposta, como forma de comunic ação ao usuário do sistema, 
+acerca do vencimento de prazos judiciais. 
+ 
+Cadastro (EXCEÇÃO): Para recebimento de processo no formato físico, deve o 
+usuário inserir a Numeração Processual Única (NPU), e na sequência preencher 
+Classificação Taxonômica (Área e Classe), Dados Gerais e Vínculo de Partes.  
+ 
+1) Expediente do PJe  
+ 
+O usuário acessa a Área de Trabalho, para localizar e selecionar a aba 
+Expedientes PJe/SEEU, em seguida deve clicar no item Situação Expediente, 
+que está no lado direito da tela, para selecionar o item Ciência de Recebimento, 
+e seguir com duas opções no Fluxo Judicial, a depender da fase do processo.  
+ 
+Opção A - Recebimento de Processo em Tramitação no Sistema SIMP 
+ 
+
+--- [Página 3] ---
+Quando a ciência se refere a Processo em Tramitação, deve o usuário 
+selecionar o respectivo processo no Sistema SIMP, em seguida clicar no item 
+Retorno Externo , que está no lado direito da tela, selecionar Dados Aviso , 
+clicar em confirmar e na sequência fechar a tela.  
+ 
+Opção B - Recebimento de aviso de Novo Processo no Sistema SIMP 
+ 
+Quando a ciência se refere a Novo Processo, deve o usuário clicar no item 
+SIMP Cadastrar , que está no lado esquerdo da tela e também acima da 
+Numeração Processual Única (NPU), para a recepção do Novo Processo, 
+momento em que o sistema passa a fornecer o número SIMP associado.  
+ 
+Após, repete o mesmo movimento acima para conferir a ciência, deve o 
+usuário selecionar o respectivo processo no Sistema SIMP, em seguida clicar no 
+item Retorno Externo, que está no lado direito da tela, selecionar Dados Aviso, 
+clicar em confirmar e na sequência fechar a tela.  
+ 
+2) Processo no Formato Físico 
+ 
+  
+ 
+ 
+ 
+Recepção do Protocolo 
+ 
+
+
+--- [Página 4] ---
+Validação dos dados taxonômicos e Registro no Sistema 
+ 
+ 
+Nessa fase,  é importante ressaltar que apenas o usuário que detém a 
+carga atual consegue movimentar o processo e, caso seja de sua atribuição, 
+deve clicar no item Repassar, para ter acesso ao expediente.  
+Ainda, é necessário enfatizar na ocasião que, ao efetivar o cadastro do 
+processo, o usuário deve informar obrigatoriamente Classificação Taxonômica, 
+Dados Gerais e Vínculo de Partes para que o expediente tenha o devido registro 
+e seja confirmado com êxito. 
+ 
+ 
+Receber no Gabinete Virtual 
+ 
+Ação em lote para dar carga ao protocolo na Unidade 
+ 
+ 
+O usuário acessa a Área de Trabalho, para localizar e selecionar a aba 
+Gabinete Virtual, com as possibilidades de recepção de processos situadas no 
+lado esquerdo da tela, o qual realizam o gerenciamento de todos protocolos, 
+determinam rapidamente a localização de cada processo, permitem que sejam 
+realizadas operações em lote, além de possibi litar a criação de pastas extras 
+para uma melhor organização do ambiente.  
+ 
+Recebidos: protocolos que estão com o usuário. 
+ 
+(Para distribuição em lote , basta clicar no item Recebidos, 
+selecionar os protocolos que serão compartilhados e, no lado 
+direito da tela, selecionar o item Ações em lote, o qual apresentará 
+o item Distribuição, para que o usuário remeta os protocolos ao 
+Promotor de Justiça competente, após essa etapa, a lista de 
+protocolos no gabinete é atualizada) 
+ 
+(Para movimento em lote , basta clicar no item Recebidos, 
+selecionar os protocolos que serão gerenciados e, no lado direito 
+
+--- [Página 5] ---
+da tela, selecionar o item Ações em lote, o qual apresentará o item 
+Movimento, para que o usuário acesse a página dos protocolos e 
+elabore Atos Comuns , como apensamento, atendimento, 
+autuação, certidão, informação, diligências, entrada da carga e 
+outros, em seguida, o sistema exibe o item Gerar Relatórios que 
+permite a emissão de relatórios de remessa e de relatórios de 
+devolução para o acompanhamento dos processos, após essa 
+etapa, a lista de protocolos no gabinete é atualizada)  
+ 
+ 
+À receber: protocolos que estão em trânsito para o usuário. 
+ 
+(Para recebimento em lote , basta clicar no item À receber , 
+selecionar os protocolos que serão aceitos no local e, no lado 
+direito da tela, selecionar o item Ações em lote, o qual apresentará 
+o item Receber Protocolo , para que o usuário realize o 
+recebimento dos processos, após essa etapa, a lista de protocolos 
+no gabinete é atualizada) 
+ 
+ 
+No meu local : compreende todos os protocolos que estão 
+recebidos e os protocolos que estão em trânsito para o usuário. 
+ 
+(Para repassar em lote , basta clicar no item No meu local , 
+selecionar os protocolos que serão remetidos para si mesmo e, no 
+lado direito da tela, selecionar o item Ações em lote , o qual 
+apresentará o item Repassar, para que o usuário efetue a 
+recepção dos processos, passando a ter a responsabilidade sobre 
+estes expedientes, após essa etapa, a lista de protocolos no 
+gabinete é atualizada) 
+ 
+ 
+ 
+Distribuir ao Membro 
+
+--- [Página 6] ---
+ 
+Atribuição da responsabilidade funcional ao Promotor de Justiça 
+(Automática, Manual / Impedimento, Com Tramitação) 
+ 
+ 
+A etapa apresenta com clareza a necessidade de distribuir o expediente 
+ao Promotor de Justiça competente, ainda que seja um protocolo individual, 
+devendo o usuário selecionar o respectivo processo, para encaminhar no 
+sistema conforme as seguintes possibilidades: 
+ 
+▪ Automática: Para distribuição aleatória entre Membros. 
+ 
+▪ Manual / Impedimento : Seleção direta do Membro ou exclusão de 
+Membros impedidos. 
+ 
+▪ Com Tramitação: O protocolo é efetivamente encaminhado para caixa 
+do destinatário na ocasião. 
+ 
+ 
+1) Por que não devo movimentar os protocolos, antes de realizar a 
+distribuição para o Promotor de Justiça competente? 
+ 
+A distribuição é o procedimento realizado no sistema que define quem é o 
+Promotor de Justiça competente. Após a distribuição, o sistema associa cada 
+movimento realizado com o membro responsável, sendo imprescindível essa 
+sequência para que os relatórios se jam emitidos adequadamente, ou seja, não 
+é possível contabilizar os movimentos realizados nos protocolos, sem que haja 
+uma distribuição prévia. No entanto, existe uma exceção à esta regra: os 
+servidores da Ouvidoria Geral do MP podem movimentar processos ainda não 
+distribuídos, com a finalidade de remeter os protocolos adequadamente, com 
+todas as informações necessárias, para a respectiva comarca. 
+ 
+ 
+2) Quais operações do sistema exigem que os protocolos, naquele 
+momento, estejam com apenas uma pessoa como coordenadora? 
+
+--- [Página 7] ---
+ 
+▪ Distribuição 
+▪ Movimentar, com envio do protocolo para local externo. 
+▪ Autuar 
+▪ Migrar instância 
+▪ Apensar 
+▪ Arquivar 
+▪ Incluir em Pauta 
+ 
+ 
+Criar Minuta 
+ 
+Elaboração do rascunho da Peça  
+ 
+ 
+O Assessor/Servidor localiza o protocolo na opção de busca do sistema, que 
+está no lado esquerdo da tela, após seleciona o respectivo processo, em seguida 
+clica em Criar minuta, que está na parte superior do sistema, para a elaboração 
+do texto ainda pendente de revisão do Membro.  
+ 
+ 
+Revisar Minuta 
+ 
+Decisão do Membro entre Aprovar ou Devolver para Correção 
+ 
+ 
+ 
+Na aba  Minutas apresenta as minutas que foram redigidas e que estão na 
+situação de pendentes, devolvidas e aprovadas, o qual segue a sequência:  
+ 
+▪ Revisão do Membro: O Promotor acessa a aba Minutas e seleciona o 
+item Pendentes para analisar o rascunho da Peça. 
+▪ Devolução: Se houver erros, clica em Salvar e Devolver para correção, 
+retornando a minuta ao Assessor/Servidor. 
+▪ Aprovação: Se a minuta estiver correta, clica em Salvar e Aprovar. 
+Após a aprovação, é efetivado o movimento oficial no Sistema SIMP, que 
+passa a atuar conforme as seguintes etapas:  
+
+--- [Página 8] ---
+ 
+Opção A - Criar movimento agora  
+Quando o Membro realiza a movimentação imediatamente. 
+ 
+Opção B - Assinar e retornar 
+Quando o Membro assina a minuta e o Assessor/Servidor finaliza a 
+movimentação em momento posterior. 
+ 
+Após a conferência final dos dados, o Membro deve marcar a opção 
+Movimentar com assinatura digital , inserindo a senha PIN de seu certificado 
+no assinador digital, este passo garante a inviolabilidade e autenticidade da 
+manifestação inserida no sistema.  
+ 
+Em seguida, com as minutas assinadas, os protocolos passam a constar na 
+Fila de Peticionamento , nesse contexto, na tela de movimentação deve ser 
+selecionado o item salvar o movimento para peticionar em lote. 
+ 
+ 
+Peticionamento no PJe 
+ 
+Ato final para encaminhar em lote as manifestações ao Judiciário 
+ 
+ 
+O usuário acessa a Área de Trabalho , para localizar e selecionar a aba 
+Peticionamento em lote  PJe/SEEU, que agrupa os protocolos que foram 
+movimentados no sistema.  
+ 
+Por ser uma atividade exclusiva do Membro, deve o Promotor de Justiça 
+selecionar as minutas aprovadas e em seguida clicar no item Peticionar em lote, 
+para encaminhar as manifestações para o Tribunal de Justiça, ocasião em que 
+o sistema fornece uma página, com cards para conferência do tipo de documento 
+antes da confirmação final, informando se houve êxito na ação. 
+  
+Após o peticionamento e a eventual conclusão do processo no Judiciário, 
+para o Assessor/Servidor, a etapa é finalizada no Gabinete Virtual, a partir do 
+
+--- [Página 9] ---
+acesso no item Recebidos, ocasião em que deve selecionar os protocolos 
+encaminhados e, no lado direito da tela, selecionar o item Ações em lote, o qual 
+apresentará o item Arquivamento, para preencher as informações solicitadas 
+no sistema e confirmar a atividade, com o objetivo de que os protocolos sejam 
+movidos definitivamente e, com a retirada da carga de protocolos do usuário, 
+encerra o processo no âmbito ministerial. 
+ 

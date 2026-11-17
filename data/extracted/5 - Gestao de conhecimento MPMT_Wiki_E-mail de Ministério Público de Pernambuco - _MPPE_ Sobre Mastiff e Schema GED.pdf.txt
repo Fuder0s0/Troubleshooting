@@ -1,0 +1,247 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.61 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+[MPPE] Sobre Mastiff e Schema GED
+15 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 1 de setembro de 2025 às 13:42
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Olá, Daniel, tudo bem?
+Gostaria de tirar 2 dúvidas rápidas com você. 
+(1) identificamos um schema GED sendo chamado no código-fonte do MASTIFF.
+Esse schema faz parte de algum sistema específico, como o GEDOC e afins?
+(2) Para o Mastiff, seria possível informar os perfis utilizados para o SIMP4?
+Estamos fazendo uma análise para compatibilização da lógica dos perfis do SIMP4 com os sistemas internos,
+Grato desde já!
+Atenciosamente
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 2 de setembro de 2025 às 11:36
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Prezado Daniel, em complemento ao email anterior, surgiram as seguintes dúvidas também:
+Poderia liberar acesso para algum de nossos usuários à ferramenta de gestão de designação de membros no SIMP4?
+Não identificamos essa funcionalidade/ módulo no sistema.
+Grato desde já
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 2 de setembro de 2025 às 20:03
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Boa noite Lucio.
+(1) Sim, é um schema para o sistema Gedoc. Não há dependência entre ele e o Simp.
+(2) Segue a planilha anexa sobre os perfis utilizados.
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 1/8
+
+--- [Página 2] ---
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: segunda-feira, 1 de setembro de 2025 12:42
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Assunto: [MPPE] Sobre Mastiﬀ e Schema GED
+ 
+[Texto das mensagens anteriores oculto]
+PerfisSimp.xlsx
+11K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 3 de setembro de 2025 às 08:39
+Para: Carlos Dias <carlos.dias@netra.global>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, "Nathália Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>, Simony Oliveira
+<msimony@mppe.mp.br>, Danielle Maria Lopes <danielle.maria@mppe.mp.br>, Mario Vieira da Silva Neto <mario.silva@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+Cc: Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Felipe Maciel Ramos Vieira
+<felipe.ramos@mppe.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>
+PSC
+Segue lista dos perfis criados no Mastiff para o SIMP4.
+Também coloquei na pasta 2 - ANALISE SIMP4
+https://drive.google.com/drive/folders/1W3rb0FXDoSFjsT9GFTvhhGIiMWPHo_3Q?usp=drive_link
+[Texto das mensagens anteriores oculto]
+PerfisSimp.xlsx
+11K
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 3 de setembro de 2025 às 15:20
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 2/8
+
+--- [Página 3] ---
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Boa tarde Lucio. Joia?
+Acredito que esteja falando do Sistema Tabelas Básicas, onde cadastramos os Promotores/Procuradores e as promotorias que estão vinculados.
+Fiz liberação para o login luciosmppe .
+Infelizmente ainda não temos ambiente de desenvolvimento e homologação separados.
+Então eu pediria para não realizar nenhuma alteração, porque pode afetar todo nosso ambiente de teste.
+Qualquer dúvida basta retornar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: terça-feira, 2 de setembro de 2025 10:36
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Assunto: Re: [MPPE] Sobre Mastiﬀ e Schema GED
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 3 de setembro de 2025 às 17:29
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Considerando os casos abaixo, como essa operação ocorre no MPMT?
+Seria apenas por meio do Tabelas Básicas? O Athenas ou o SIMP4 seria utilizado para isso? 
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 3/8
+
+--- [Página 4] ---
+Pergunto para entendermos as integrações que faremos entre o SIMP4 e os sistemas internos.
+A título de exemplos que ocorrem no MPPE:
+# caso 1#
+O promotor de justiça 01 da cidade A saiu de férias. 
+O promotor de justiça 02 da cidade B assume temporariamente a promotoria da cidade A.
+Neste caso, o promotor 02 é designado, por meio de atualização de seu cadastro em um sistema específico, para atuar na cidade A.
+Essa designação ficará registrada na ficha funcional do promotor 02 e este receberá uma remuneração extra por ter atuado na cidade A.
+# caso 2#
+O promotor da cidade B é promovido para a cidade C.
+Então, ele será designado para a cidade C, perdendo sua designação para a cidade B.
+Utilizamos um sistema específico para designar o membro para um cargo e, consequentemente, de forma automática, ele terá acesso aos procedimentos da cidade C.
+Em ambos os casos, é mantido o registro histórico de todas as designações.
+Por exemplo, nosso assessor de TI, possui as seguintes designações ativas, podendo acessar os processos da 23º e da 42º Promotor de Justiça de Defesa da Cidadania da Capital.
+Quanto ao acesso em produção, talvez não seja necessário acessarmos este ambiente.
+Grato desde já pelas informações!
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 3 de setembro de 2025 às 17:49
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Seguem as respostas:
+Ponto de atenção:
+Gestão da vida funcional do Membro é sempre no Athenas. Principalmente em se tratando de pagamentos.
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 4/8
+
+--- [Página 5] ---
+Simp e Tabelas Básica focam em produtividade e responsabilidade pelos Protocolos / Movimentos lançados.
+Caso 1: 
+Aqui no MPMT, separamos o conceito de designação e substituição.
+Designação: quando um promotor entra para acumular/assumir uma promotoria por tempo específico ou indeterminado.
+Substituição: atuar no lugar de outro Promotor em razão de afastamento (férias, licenças, etc).
+As designações e férias sempre são registradas no Athenas.
+Nas designações, há alteração no cadastro do Promotor no sistema Tabelas Básicas.
+Nas férias, há lançamento do período de férias e substituto no Simp.
+Caso 2:
+A designação é lançada no Athenas, controlando todo seu histórico (vida funcional).
+Lança-se a designação, alterando o cadastro do Promotor no Tabelas Básicas. Neste caso, não há histórico de designações (para fins de vida
+funcional).
+É possível levantar todos lançamentos/movimentos que Promotor fez em qualquer tempo. Visto que, neste caso o objetivo é controlar a
+produtividade.
+No exemplo do assessor, é possível ter mais de uma designação (no nosso caso, lotação), porém não há data de início e fim.
+Sobre o acesso do Tabelas Básicas que comentei, é no ambiente de teste mesmo.
+Se ainda ficou confuso é só responder ou podermos reunir, a qualquer momento.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quarta-feira, 3 de setembro de 2025 16:29
+[Texto das mensagens anteriores oculto]
+ 
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 5/8
+
+--- [Página 6] ---
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 3 de setembro de 2025 às 21:19
+Para: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, "Nathália Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>, Danielle Maria Lopes
+<danielle.maria@mppe.mp.br>, Mario Vieira da Silva Neto <mario.silva@mppe.mp.br>, Simony Oliveira <msimony@mppe.mp.br>, Carlos Dias <carlos.dias@netra.global>, Haglay Alice Nunes Da Silva
+<haglay@mppe.mp.br>
+Pessoal, 
+As informações enviadas pelo Daniel são suficientes para entendimento da gestão de designações?
+Vejam a thread de email abaixo.
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 3 de setembro de 2025 às 21:22
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+E no caso de "Nas férias, há lançamento do período de férias e substituto no Simp."
+Qual seria a funcionalidade do Simp que permite o lançamento dessa informação?
+Grato mais uma vez!
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 9 de setembro de 2025 às 11:59
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>
+Prezado @Daniel Ribeiro Soares Como vai?
+Temos uma nova dúvida 
+ No MPPE, temos promotores de justiça que acumulam designações (ex: um cargo fixo e uma atuação específica, como em audiências de custódia). 
+Gostaríamos de entender como o SIMP4 lida com isso. O sistema permite que o membro tenha mais de uma designação ativa? 
+Por exemplo, o Promotor João ocupa o cargo de 1º Promotor de Justiça da cidade de Sinop (portanto, ele possui a designação de cargo "1º Promotor de Justiça da cidade de Sinop"), e também atua nas
+audiências de custódia da cidade de Sinop, tendo sido designado para o cargo "Atuação nas Audiências de Custódia do Polo 04 - Sinop"
+Desde já, ficamos gratos pela atenção.
+Atenciosamente
+  
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 14 de novembro de 2025 às 11:13
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 6/8
+
+--- [Página 7] ---
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, Tudo bem?
+Estamos preparando a parametrização do sistema Mastiff.
+Essa tabela enviada, com os nomes e descrições dos perfis será muito útil.
+Seria possível enviar também as tabelas PERMISSAOACESSO e PERFILPERMISSAOACESSO?
+Essas tabelas complementam o cadastro dos dados básicos do Mastiff para os perfis do SIM.
+Grato desde já mais uma vez!
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 14 de novembro de 2025 às 14:30
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Boa tarde Lucio.
+Seguem os dados referentes aos sistemas: Tabelas Básicas, Simp, Portal, Hermes e Mastiff.
+Qualquer dúvida, basta retornar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: sexta-feira, 14 de novembro de 2025 10:13
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: Re: [MPPE] Sobre Mastiﬀ e Schema GED
+ 
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 7/8
+
+--- [Página 8] ---
+[Texto das mensagens anteriores oculto]
+PermissaoMastiff.xlsx
+27K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 14 de novembro de 2025 às 15:04
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Felipe Maciel Ramos Vieira
+<felipe.ramos@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Carlos Dias <carlos.dias@netra.global>
+PSC
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+[Texto das mensagens anteriores oculto]
+PermissaoMastiff.xlsx
+27K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 12 de janeiro de 2026 às 11:55
+Para: Thyago Magalhães <thyago.oliveira@mppe.mp.br>
+[Texto das mensagens anteriores oculto]
+PermissaoMastiff.xlsx
+27K
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 12 de janeiro de 2026 às 11:55
+Para: Thyago Magalhães <thyago.oliveira@mppe.mp.br>
+[Texto das mensagens anteriores oculto]
+PerfisSimp.xlsx
+11K
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - [MPPE] Sobre Mastiff e Schema GED
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r1989212153886809558&simpl=msg-a:r-3449278255498302924&simpl=msg-a:r-5955527268728263344&simpl=msg-f:184… 8/8

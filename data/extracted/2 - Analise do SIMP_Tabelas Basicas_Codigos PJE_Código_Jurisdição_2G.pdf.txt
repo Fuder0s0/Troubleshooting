@@ -1,0 +1,17 @@
+DOCUMENTO: 2 - Analise do SIMP\Tabelas Basicas\Codigos PJE\Código_Jurisdição_2G.pdf
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.39 MB
+
+--- [Página 1] ---
+Jurisdição Código
+Caruaru - Câmara Regional 9480
+Caruaru - Turmas Recursais - Cíveis 9005
+Garanhuns - Turmas Recursais - Cíveis 9006
+Petrolina - Turmas Recursais - Cíveis 9007
+Recife - TJPE 9000
+Recife - TJPE Plantão Judiciário 9901
+Recife - Turma Estadual de Uniformização 9008
+Recife - Turma Recursal - Cível 9003
+Recife - Turma Recursal - Fazendária e Criminal 9004
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO

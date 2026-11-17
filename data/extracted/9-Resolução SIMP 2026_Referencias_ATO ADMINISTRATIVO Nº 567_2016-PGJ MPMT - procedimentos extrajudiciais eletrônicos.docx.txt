@@ -1,0 +1,129 @@
+DOCUMENTO: 9-Resolução SIMP 2026\Referencias\ATO ADMINISTRATIVO Nº 567_2016-PGJ MPMT - procedimentos extrajudiciais eletrônicos.docx
+PASTA: 9-Resolução SIMP 2026
+TAMANHO: 0.01 MB
+
+ATO ADMINISTRATIVO Nº 567/2016-PGJ - procedimentos extrajudiciais eletrônicos.
+
+sexta-feira, 02 de dezembro de 2016, 10h20
+
+ATO ADMINISTRATIVO Nº 567/2016-PGJ
+
+Institui e disciplina os procedimentos extrajudiciais eletrônicos no âmbito do Ministério Público do Estado de Mato Grosso.
+
+O PROCURADOR-GERAL DE JUSTIÇA ADJUNTO DO ESTADO DE MATO GROSSO, no uso de suas atribuições,
+
+CONSIDERANDO a atuação extrajudicial dos órgãos de Administração do Ministério Público do Estado de Mato Grosso, integrados pelas Procuradorias e Promotorias de Justiça, nos termos do artigo 6º, incisos I e II, da Lei Federal nº 8.625/1993, e do artigo 6º, incisos I e II, da Lei Complementar Estadual nº 416/2010;
+
+CONSIDERANDO os mecanismos extrajudiciais de solução de conflitos que consistem no inquérito civil, recomendações dirigidas a órgãos e entidades dispostos nos incisos do artigo 27 da Lei Federal nº 8.625/1993, audiências públicas, termos de ajustamento de conduta, entre outras atividades extrajudiciais à disposição do Ministério Público;
+
+CONSIDERANDO a existência de outros instrumentos de natureza administrativa instaurados no âmbito interno da Instituição, a exemplo dos procedimentos administrativos afetos às áreas cível e criminal;
+
+CONSIDERANDO a necessidade de dotar as Procuradorias e Promotorias de Justiça com materiais tecnológicos que assegurem a eficiência e a celeridade na tramitação dos procedimentos extrajudiciais;
+
+CONSIDERANDO o que prevê a Lei Federal nº 11.419/2006, que dispõe sobre a informatização do processo judicial, aplicada por analogia aos procedimentos extrajudiciais de que trata este Ato Administrativo;
+
+CONSIDERANDO os benefícios de amplo e rápido acesso a dados e informações procedimentais por membros e servidores do Ministério Público;
+
+CONSIDERANDO a deliberação do Comitê Estratégico de Tecnologia da Informação no sentido de expandir o procedimento extrajudicial eletrônico a todas as Procuradorias e Promotorias de Justiça;
+
+RESOLVE:
+
+Art. 1º. Implantar, a partir de 01 de dezembro de 2016, o procedimento extrajudicial eletrônico como método de apuração e solução dos conflitos no âmbito do Ministério Público de Mato Grosso, iniciado na 6ª Promotoria de Justiça Cível de Cuiabá.
+
+§1º. Os procedimentos extrajudiciais tratados neste ato administrativo compreendem as seguintes classes da tabela taxonômica: Carta Precatória do Ministério Público (910015), Inquérito Civil (910004), Notícia de Fato (910002), Procedimento Administrativo (910005), Procedimento Preparatório (910003), Procedimento Preparatório Eleitoral (910018) e Procedimento Investigatório Criminal (PIC-MP) (1733).
+
+§2º. Havendo necessidade da remessa da investigação ao Conselho Superior do Ministério Público - CSMP, os autos serão encaminhados pelo Sistema Integrado do Ministério Público - SIMP, na forma exclusivamente eletrônica, assim permanecendo naquele colegiado.
+
+§3º. Durante a fase de implantação dos procedimentos extrajudiciais eletrônicos, as remessas dos autos ao CSMP serão comunicadas à Secretaria dos Órgãos Colegiados, preferencialmente, por meio eletrônico.
+
+§4º. Os votos dos Conselheiros serão inseridos, por arquivo digital, no SIMP.
+
+Das disposições gerais
+
+Art. 2º. O procedimento extrajudicial eletrônico caracteriza-se pela existência de autos virtuais, com tramitação exclusivamente eletrônica e pelo acesso rápido e seguro a todo o seu conteúdo.
+
+Art. 3º. As funcionalidades do SIMP serão adequadas gradualmente para atender os requisitos de usabilidade, seguindo as orientações e determinações do Comitê Estratégico de Tecnologia da Informação - CETI.
+
+Art. 4º. O procedimento eletrônico extrajudicial será implantado em todas as Procuradorias e Promotorias de Justiça do Estado, a partir de 01 de dezembro de 2016, em caráter facultativo.
+
+§1º. A partir de 01 de março de 2017, todos os procedimentos extrajudiciais deverão, obrigatoriamente, ser cadastrados e distribuídos de forma exclusivamente eletrônica.
+
+§2º. Os procedimentos extrajudiciais cadastrados de forma física até o dia 28 de fevereiro de 2017 assim tramitarão até o seu arquivamento.
+
+Do acesso aos procedimentos extrajudiciais eletrônicos
+
+Art. 5º. O acesso aos procedimentos do SIMP para integrantes do MPMT dar-se-á por meio de prévio cadastramento do usuário pelo Departamento de Tecnologia da Informação - DTI, observando-se as diretrizes da Política de Segurança Institucional da Instituição.
+
+§1º. A senha cadastrada para o usuário é de uso pessoal, intransferível e de inteira responsabilidade de seu detentor.
+
+§2º. Os membros e servidores utilizarão os logins de usuário e senha que já possuem.
+
+Da assinatura eletrônica
+
+Art. 6º. As manifestações e documentos constantes no procedimento extrajudicial eletrônico serão admitidos mediante uso de assinatura eletrônica.
+
+Parágrafo único. A assinatura eletrônica será considerada como forma de identificação inequívoca do signatário, mediante certificado digital emitido por Autoridade Certificadora credenciada ou login e senha previamente cadastrados nos moldes do art. 5º deste ato administrativo.
+
+Das rotinas internas
+
+Art. 7º. Os documentos elaborados pelas Procuradorias e Promotorias de Justiça ou recebidos de terceiros deverão ser inseridos nos autos eletrônicos do respectivo procedimento, respeitando o Art. 6º deste ato administrativo.
+
+Art. 8º. Incumbirá ao Membro Coordenador da Promotoria de Justiça e ao Procurador-Geral de Justiça, nos respectivos âmbitos de atuação, disciplinar a rotina de arquivo dos documentos físicos, digitalizados e insuscetíveis de digitalização, e determinar o local de guarda, o tempo de descarte dos objetos arquivados, entre outras ocorrências específicas, respeitando os atos e resoluções que regulamentam a gestão documental da área-fim do Ministério Público do Estado de Mato Grosso.
+
+Art. 9º. A destinação conferida aos documentos e objetos, na forma do art. 8º, deverá ser certificada no histórico de movimentos do procedimento extrajudicial eletrônico, mediante descrição específica do ato.
+
+Art. 10. Nas requisições e solicitações encaminhadas a órgãos, entidades, pessoas jurídicas e/ou pessoas físicas, será recomendado que a resposta seja efetuada, preferencialmente, na forma digital, podendo ser feita pelo Portal de Peticionamento, CD, DVD, pen drive, entre outros meios eletrônicos.
+
+Parágrafo único. A veracidade dos documentos enviados pelo Portal de Peticionamento será garantida pelo preenchimento dos dados pessoais e aceite da declaração de responsabilidade, sob as penas da legislação vigente.
+
+Art. 11. O protocolo ou comprovante de recebimento das correspondências em geral, encaminhadas pelos órgãos de execução, deve ser digitalizado para inclusão nos autos virtuais.
+
+Art. 12. Os pedidos de cópia de um procedimento físico ou eletrônico poderão ser realizados às Procuradorias e Promotorias de Justiça responsáveis, por meio do Portal de Peticionamento e, excepcionalmente, devido a problemas técnicos ou outros casos determinados pelo órgão de execução, por e-mail.
+
+§1º. Caberá às Procuradorias e Promotorias de Justiça checar, periodicamente, os e-mails institucionais, com a finalidade de avaliar eventuais pedidos de cópia dos procedimentos extrajudiciais.
+
+§2º. Caso o pedido de cópia seja deferido, um e-mail contendo link para download do arquivo PDF será encaminhado ao interessado.
+
+§3º. Caberá ao interessado entrar em contato com a Procuradoria ou Promotoria de Justiça responsável caso não receba qualquer informação quanto ao peticionamento em até 7 (sete) dias corridos, contados a partir da data do pedido.
+
+§4º. O arquivo de que trata o parágrafo anterior estará disponível para download por até 7 (sete) dias corridos, contados a partir da data do envio do e-mail ao interessado.
+
+§5º. Os arquivos enviados eletronicamente poderão ser validados por meio de código hash no Portal de Peticionamento.
+
+§6º. Extrapolada a limitação tecnológica para o envio de arquivos, o interessado deverá ser comunicado, por e-mail, acerca da impossibilidade de atendimento do seu pedido por esta mesma via, e de que o arquivo digital se encontra disponível para retirada na Coordenação Administrativa, mediante apresentação de qualquer meio de armazenamento eletrônico para essa finalidade ou recolhimento das custas de impressão do material, caso opte por retirá-lo em meio físico.
+
+§7º. A comunicação a que se refere o §6º persistirá após a implantação do Portal de Peticionamento até eventual superveniência de sistema que atenda essa mesma finalidade, devendo a Coordenação Administrativa indicar o nome e extensão do arquivo, valor para impressão e dados para depósito na conta do FUNAMP.
+
+§8º. O valor para impressão do material equivalerá ao montante cobrado para a extração de fotocópias de procedimentos extrajudiciais físicos, correspondendo cada página de documento do protocolo eletrônico a uma folha dos autos físicos.
+
+§9º. Fica a critério das Procuradorias e Promotorias de Justiça determinarem, de forma fundamentada, que o peticionamento não poderá ser realizado de forma eletrônica, sendo efetivado de maneira física e/ou presencial.
+
+Da indisponibilidade
+
+Art. 13. Caberá ao DTI disponibilizar uma ferramenta que apresente as indisponibilidades do Sistema Integrado do Ministério Público e do Portal de Peticionamento.
+
+Dos softwares e equipamentos de apoio
+
+Art. 14. Caberá ao Departamento de Tecnologia da Informação homologar e autorizar os sistemas que auxiliarão no manuseio, edição e gerenciamento dos documentos eletrônicos envolvidos no procedimento extrajudicial eletrônico.
+
+Art. 15. As Procuradorias e Promotorias de Justiça envolvidas na virtualização dos procedimentos deverão ter a sua disposição, em quantidade suficiente:
+
+I - monitor duplo ou de tamanho apropriado para se trabalhar com dois textos simultaneamente;
+
+II - certificação digital para os membros envolvidos;
+
+III - equipamento de digitalização de alto desempenho.
+
+Das disposições finais
+
+Art. 16. O Sistema Integrado do Ministério Público será utilizado para gerenciar os procedimentos físicos e eletrônicos, distinguindo-os de maneira apropriada, de modo a permitir a correta identificação.
+
+Art. 17. Este Ato Administrativo entra em vigor na data de sua publicação.
+
+Art. 18. Ficam revogadas as disposições em contrário, em especial os Atos Administrativos nº 494/2015-PGJ e nº 533/2016-PGJ.
+
+Cuiabá/MT, 01 de dezembro de 2016.
+
+MAURO DELFINO CESAR
+
+Procurador-Geral de Justiça Adjunto

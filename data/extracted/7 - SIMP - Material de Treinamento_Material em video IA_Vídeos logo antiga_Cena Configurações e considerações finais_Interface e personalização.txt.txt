@@ -1,0 +1,28 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena Configurações e considerações finais\Interface e personalização.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+Roteiro de Narração: Interface e Personalização
+[00:00 - 00:05]
+
+"Ao acessar o sistema, o usuário é apresentado a uma interface limpa e intuitiva, projetada para otimizar a produtividade diária."
+
+[00:05 - 00:12]
+
+"No canto superior direito, o menu de perfil permite o gerenciamento rápido de contas e o acesso direto às configurações de acessibilidade."
+
+[00:13 - 00:20]
+
+"Dentro do painel de Configurações Pessoais, é possível selecionar diferentes temas. O sistema oferece paletas variadas, como Azul, Verde e Púrpura, adaptando-se à preferência de cada colaborador."
+
+[00:21 - 00:26]
+
+"Para maior conforto visual em diferentes ambientes de iluminação, o usuário pode alternar instantaneamente entre os modos Claro e Escuro."
+
+[00:27 - 00:34]
+
+"A flexibilidade continua no detalhamento dos protocolos. É possível escolher entre o padrão de exibição Novo ou o Antigo, conforme a necessidade de leitura."
+
+[00:35 - 00:48]
+
+"Por fim, o sistema oferece três opções de layout: Fino, Moderno e Clássico. Esses ajustes alteram a densidade de informações na tela, permitindo que o usuário organize seu fluxo de trabalho de maneira personalizada e eficiente."

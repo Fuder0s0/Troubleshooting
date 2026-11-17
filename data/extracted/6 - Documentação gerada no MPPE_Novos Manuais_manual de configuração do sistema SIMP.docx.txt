@@ -1,0 +1,521 @@
+DOCUMENTO: 6 - Documentação gerada no MPPE\Novos Manuais\manual de configuração do sistema SIMP.docx
+PASTA: 6 - Documentação gerada no MPPE
+TAMANHO: 7.17 MB
+
+SUMÁRIO:
+
+MÓDULO 1: IMERSÃO 23/02 (MANHÃ E TARDE)
+
+Estruturação de Unidades e Gestão de Acessos
+
+Motor de Distribuição Automática (Contadores)
+
+Regras de Prevenção e Triagem (CAAD)
+
+Rotina de Gabinete Virtual e Produção
+
+Tramitação, Remessa e Anexos
+
+Gestão de Dados, Integração e Auditoria
+
+Especialização de Fluxos: Diferenciação NPP e ANPP
+
+Gestão Avançada de Contadores (Equalização e Afastamentos)
+
+Operação de Triagem e Distribuição em Lote (CAAD)
+
+Integração MNIP (SIMP x PJE) e Mapeamento de Classes
+
+Auditoria e Segurança de Dados (Super Mastiff)
+
+MÓDULO 2: IMERSÃO 24/02 (MANHÃ E TARDE) 
+
+Gestão da Notícia de Fato (NF) e Triagem Extrajudicial 
+
+Fluxo de Investigação: Procedimento Preparatório e Inquérito Civil
+
+Realização de Atos e Audiências Extrajudiciais
+
+Instrumentos de Resolutividade: Recomendações e TAC
+
+Conclusão e Remessa ao Conselho Superior (CSMP)
+
+Integração Judicial: Ajuizamento de ACP (Ação Civil Pública)
+
+Gestão de Acervos e Redistribuição por Saída de Membro
+
+Configuração de Substituição e Acúmulo (Férias/Licenças)
+
+Segurança da Informação e Níveis de Sigilo
+
+Gerenciamento de Documentos Não Estruturados (Anexos Externos)
+
+Consultas Gerenciais para a Corregedoria
+
+MÓDULO 3: IMERSÃO 25/02 (MANHÃ E TARDE) 
+
+Recebimento de Inquéritos (Integração Polícia Civil)
+
+Gestão de Medidas Cautelares e Sigilo (PIC)
+
+Módulo de Infância e Juventude (Área Protetiva)
+
+Execução Penal: Guia de Execução e Cálculo
+
+Personalização de Fluxos e "Minhas Pastas"
+
+Relatórios Dinâmicos de Gestão (Business Intelligence)
+
+MÓDULO 1: IMERSÃO 23/02/2026
+
+1. Estruturação de Unidades e Gestão de Acessos Nesta fase, define-se "onde" o trabalho acontece e "quem" pode ver o quê.
+
+A. Cadastro de Unidades Administrativas (CAAD/Secretaria)
+
+Caminho: Tabelas Básicas > Tabelas Auxiliares > Local.
+
+Tipo de Local: Selecione obrigatoriamente "Departamento" para Centrais de Inquéritos e Secretarias.
+
+Regra: O tipo "Órgão" é reservado para a Promotoria (atividade-fim). O tipo "Departamento" permite a triagem sem a carga de assinatura processual.
+
+Vínculo de Comarcas: No cadastro do CAAD, adicione todas as comarcas da região na aba "Locais Vinculados". Isso dá ao CAAD o poder de "enxergar" e puxar protocolos de múltiplas cidades para a distribuição centralizada.
+
+B. Vinculação de Usuários (Super Mastiff)
+
+Caminho: Sistema Super Mastiff > cadastro de Usuário.
+
+Multivínculo: O usuário que faz a triagem (ex: Supervisor do CAAD) deve ser vinculado a todos os Locais que ele gerencia (Cível, Criminal, Juizados).
+
+Impacto no SIMP: Sem este vínculo no Mastiff, as pastas de "Recebidos" e "A Distribuir" no SIMP aparecerão vazias para o usuário, mesmo que existam processos.
+
+2. Motor de Distribuição Automática (Contadores) Configuração da inteligência que decide para qual Promotor o processo será enviado.
+
+A. Configuração do Contador de Distribuição
+
+Caminho: Tabelas Básicas > Tabelas de Fluxo > Contador de Distribuição.
+
+Lógica do Sorteio: O sistema utiliza um somatório acumulado. O sorteio prioriza o membro com o menor valor no contador. Em caso de empate absoluto, o desempate é por ordem alfabética.
+
+Tipos de Filtro:
+
+Por Área: O contador engloba todos os assuntos de uma área (ex: Criminal).
+
+Por Classe: O contador foca apenas em tipos específicos de documentos (ex: Inquéritos Policiais).
+
+B. Gestão de Membros e Pesos
+
+Pesos de Distribuição:
+
+Peso 100: Recebe 100% da carga de novos sorteios.
+
+Peso 50: Recebe metade da carga (usado para promotores em substituição ou comarcas híbridas).
+
+Peso 0: O membro não entra no sorteio de "novos", mas o sistema ainda o considera para casos de Prevenção.
+
+Saldo Inicial (Equalização): Ao cadastrar um promotor em uma unidade que já está em andamento, calcule a média de processos dos colegas e insira este valor como "Saldo Inicial". Isso evita que o novo membro receba todos os próximos processos sozinho.
+
+3. Regras de Prevenção e Triagem (CAAD) Procedimento para garantir que o mesmo promotor acompanhe casos conexos.
+
+Ação no CAAD: Antes de distribuir, o operador deve clicar no botão "Verificar Prevenção".
+
+Lógica de Busca: O sistema varre o histórico pelo CPF do réu/investigado. Se houver atuação anterior de um membro, o sistema sugere o nome dele e ignora o sorteio.
+
+Confirmação: O operador deve confirmar a prevenção para manter a unidade da persecução penal.
+
+4. Rotina de Gabinete Virtual e Produção Fluxo de trabalho da assessoria e do promotor após o recebimento do processo.
+
+A. Priorização e Alertas
+
+Identificação Visual: Fique atento aos ícones na pasta "Recebidos":
+
+Exclamação Vermelha: Réu Preso (Prioridade Máxima).
+
+Ícones de Calendário: Processos com prazos de metas do CNMP.
+
+Alertas Internos: Utilize a função "Incluir Alerta" (bandeira) para anotações de gabinete que não aparecem no PJE (ex: "Verificar prescrição em 10 dias").
+
+B. Lançamento de Movimentos e Taxonomia
+
+Botão "Lançar Movimento": Utilize o código ou nome (ex: 9200 - Manifestação).
+
+Taxonomia Obrigatória: O movimento deve ser compatível com a Área e o Assunto. Movimentos errados bloqueiam a integração com o Tribunal de Justiça.
+
+Editor de Documentos: Use sempre "Carregar Modelo". O sistema preenche automaticamente cabeçalhos e nomes das partes, reduzindo erros de digitação.
+
+C. Controle de Prazos e Diligências
+
+Campo "Controle de Prazo": Defina o tempo de espera (ex: 30 dias para diligência policial).
+
+Interromper Fluxo: Ative esta opção para o processo sair da sua caixa principal e ir para a pasta "Aguardando Prazo", limpando o visual do gabinete.
+
+Prazos Vencidos: O sistema move o processo automaticamente para a pasta de "Vencidos" caso o retorno não ocorra no prazo estipulado.
+
+5. Tramitação, Remessa e Anexos Como o processo se move entre as unidades e para fora do MP.
+
+Diferença Técnica:
+
+Movimentar: Lançar uma peça (Denúncia, Cota).
+
+Tramitar (Remeter): Enviar o processo para outro local (Tribunal, Secretaria, Outra Promotoria).
+
+Remessa Interna (Declinação): Para enviar processos entre promotorias, use "Remessa Interna" para preservar todo o histórico de movimentos anteriores.
+
+Sigilo de Anexo: Arquivos sensíveis (vídeos de depoimentos, dados bancários) devem ser marcados individualmente como "Sigilosos" na aba de anexos, mesmo que o processo seja público.
+
+6. Gestão de Dados, Integração e Auditoria Ferramentas de controle e comunicação externa.
+
+Relatório de Saneamento: Gere mensalmente o relatório de "Processos sem Movimentação > 45 dias" para identificar expedientes "esquecidos" no gabinete.
+
+Integração PJE (MNIP):
+
+Sinal Verde: Protocolo realizado com sucesso.
+
+Sinal Vermelho: Erro de integração. Verifique se o CPF das partes está correto no SIMP.
+
+Contingência: Se houver urgência, baixe o PDF assinado do SIMP e faça o upload manual no portal do PJE.
+
+Log de Auditoria: Em caso de erros de tramitação, utilize Administração > Logs para rastrear exatamente qual usuário e qual IP realizou a última movimentação ou exclusão de documento.
+
+7. Especialização de Fluxos: Diferenciação NPP e ANPP Nesta fase, discutiu-se como o sistema deve tratar os acordos de não persecução penal para não "poluir" a distribuição criminal comum.
+
+A. Criação de Áreas Especializadas
+
+Caminho: Tabelas Básicas > Tabelas Auxiliares > Área.
+
+Configuração: Deve-se criar áreas distintas, por exemplo: Criminal - NPP e Criminal - ANPP.
+
+Regra de Negócio: Isso permite que o CAAD, no momento da triagem inicial, já direcione o expediente para o fluxo correto, evitando que o promotor receba um ANPP em um contador de denúncias comuns.
+
+Vínculo com Assuntos: No cadastro da Área, vincule os assuntos específicos do CNMP relacionados a acordos para que a extração de relatórios seja automática.
+
+B. Segregação de Contadores por Núcleo
+
+Caminho: Tabelas Básicas > Tabelas de Fluxo > Contador de Distribuição.
+
+Configuração de Filtro: Ao criar o contador para o Núcleo de Acordos, selecione no filtro de entrada apenas a área Criminal - ANPP.
+
+Impacto: Isso garante que o saldo de processos do "Promotor A" no criminal comum não seja afetado pela carga de processos que ele recebe no Núcleo de Acordos.
+
+8. Gestão Avançada de Contadores (Equalização e Afastamentos) Procedimentos para quando um membro sai de licença ou retorna para a unidade.
+
+A. Ferramenta "Igualar Contador" (Uso Administrativo)
+
+Caminho: Administração > Distribuição > Igualar Contadores.
+
+Cenário: Membro retornando de licença prêmio ou férias longas.
+
+Procedimento:
+
+Selecione o membro que está retornando.
+
+Selecione um "Membro Espelho" (aquele que tem a carga de trabalho atual desejada).
+
+Clique em "Igualar". O sistema atribuirá o mesmo valor numérico ao contador do membro que retorna.
+
+Nota Técnica: Isso impede que o sistema tente "compensar" o tempo parado enviando todos os novos processos apenas para quem voltou.
+
+B. Exclusão Temporária de Contador
+
+Configuração: No cadastro do Membro dentro do Contador, utilize a opção "Participa da Distribuição: Não".
+
+Consequência: O membro para de receber novos sorteios, mas o sistema mantém a prevenção. Se chegar um processo onde ele já atuou, o sistema o encontrará mesmo estando "fora" do contador de novos.
+
+9. Operação de Triagem e Distribuição em Lote (CAAD) Técnicas para o servidor que gerencia grandes volumes de entrada.
+
+Caminho: Área de Trabalho > CAAD Virtual > A Distribuir.
+
+Seleção em Lote: Marque a caixa de seleção no topo da lista para selecionar todos os expedientes da página (ex: 20 inquéritos).
+
+Ação: Clique em "Distribuir em Lote".
+
+Critério: Selecione o Contador correspondente. O sistema fará o cálculo sequencial: o primeiro processo vai para o Membro A, o segundo para o B, e assim por diante, mantendo o equilíbrio imediato dos saldos.
+
+10. Integração MNIP (SIMP x PJE) e Mapeamento de Classes Resolução de problemas quando o documento assinado no MP não aparece no Tribunal.
+
+A. Verificação de Tabelas de Classes
+
+Conceito: Para a integração funcionar, a "Classe" no SIMP (ex: Inquérito Policial) deve ter o mesmo código da "Classe" no PJE.
+
+Diagnóstico de Erro: Se ao remeter aparecer a mensagem Classe não mapeada, o administrador deve:
+
+Acessar Tabelas Básicas > Integração > Mapeamento MNIP.
+
+Localizar a classe do SIMP e inserir o ID correspondente do PJE (fornecido pelo Tribunal).
+
+B. Gestão de Protocolos Externos
+
+Caminho: Aba Documentos > Status de Integração.
+
+Ação de Correção: Se o envio falhou por "Divergência de Partes", o usuário deve corrigir o CPF/CNPJ na capa do processo no SIMP e clicar em "Reprocessar Envio". Isso evita que o promotor tenha que assinar o documento novamente.
+
+11. Auditoria e Segurança de Dados (Super Mastiff) Controle sobre quem acessou informações sigilosas.
+
+Logs de Acesso ao Documento:
+
+Caminho: Administração > Logs > Consulta de Visualização.
+
+Filtro: Insira o número do protocolo.
+
+Resultado: O sistema exibe o nome do usuário, a data, a hora exata e o IP da estação de trabalho que abriu o arquivo.
+
+Restrição de Visibilidade por Local: Se um processo é movido para o "Local" Sigiloso - PGJ, somente usuários que possuam esse local específico vinculado no Super Mastiff conseguirão encontrá-lo na busca, mesmo que tenham perfil de administrador.
+
+MÓDULO 2: IMERSÃO 24/02/2026
+
+12. Gestão da Notícia de Fato (NF) e Triagem Extrajudicial A Notícia de Fato é o ponto de entrada de demandas externas (Ouvidoria ou Balcão).
+
+A. Autuação e Classificação Inicial
+
+Caminho: Área de Trabalho > Cadastrar Protocolo Extrajudicial.
+
+Configuração de Assunto: É obrigatório selecionar o assunto conforme a Taxonomia do CNMP.
+
+Regra de Negócio: Se o assunto for genérico, o sistema não habilitará os campos específicos de metas e prioridades.
+
+Prazo de Apreciação: O sistema bloqueia a NF após 30 dias (prorrogáveis por mais 90 em casos excepcionais). O alerta visual muda de amarelo para vermelho 48 horas antes do vencimento.
+
+B. Decisões na Notícia de Fato
+
+Arquivamento Direto: Deve ser lançado o movimento de arquivamento com a fundamentação anexada.
+
+Conversão em Procedimento: No botão Ações, selecione "Converter em Procedimento Preparatório (PP)" ou "Inquérito Civil (IC)".
+
+Nota Técnica: Ao converter, o número do protocolo original (NF) é mantido para fins de rastreabilidade, mas a classe processual é alterada.
+
+13. Fluxo de Investigação: Procedimento Preparatório e Inquérito Civil Detalhamento da instrução processual e controle de prazos.
+
+A. Portaria de Instauração
+
+Caminho: Lançar Movimento > Instauração.
+
+Uso do Modelo: Deve-se utilizar o modelo de Portaria do sistema. Ao assinar a Portaria, o SIMP publica automaticamente o extrato (se configurado para integração com o Diário Oficial).
+
+Objeto da Investigação: O campo "Objeto" deve ser sucinto e preciso, pois ele compõe o cabeçalho de todos os ofícios emitidos no bojo do IC.
+
+B. Prorrogação de Prazos (Controle do Conselho Superior)
+
+Regra de Sistema: Inquéritos Civis têm prazo de 1 ano. PP tem prazo de 90 dias.
+
+Procedimento de Prorrogação:
+
+Antes do vencimento, lance o movimento de Prorrogação.
+
+O sistema exigirá o anexo da "Justificativa de Prorrogação".
+
+O status do processo mudará para Aguardando Homologação (se a regra local exigir envio ao Conselho para validar a prorrogação).
+
+14. Realização de Atos e Audiências Extrajudiciais Procedimentos para registro de oitivas e reuniões.
+
+Agendamento: No menu lateral do processo, acesse Agenda > Novo Evento.
+
+Termo de Declaração / Ata de Reunião:
+
+Utilize o editor interno para gerar o termo.
+
+Coleta de Assinatura Externa: O sistema gera um QR Code ou link para que o cidadão/testemunha assine digitalmente via portal, sem necessidade de certificado digital (assinatura eletrônica simples).
+
+Anexo de Áudio/Vídeo: Depoimentos gravados devem ser subidos na aba Anexos com a tag Mídia de Audiência.
+
+15. Instrumentos de Resolutividade: Recomendações e TAC Configuração do monitoramento de obrigações.
+
+A. Expedição de Recomendação
+
+Movimento: Selecione 9215 - Expedição de Recomendação.
+
+Controle de Resposta: O sistema abre um campo de "Prazo de Resposta do Destinatário". Se não houver confirmação de leitura via portal ou resposta em X dias, o processo retorna para a fila de Pendências.
+
+B. Celebração de TAC (Termo de Ajustamento de Conduta)
+
+Configuração de Cláusulas: No módulo de TAC, o usuário deve cadastrar as Obrigações de Fazer/Não Fazer.
+
+Fiscalização: Para cada obrigação, insira uma data de vencimento. O sistema cria um "sub-processo" de fiscalização que avisa o gabinete quando o prazo do compromissário expira.
+
+16. Conclusão e Remessa ao Conselho Superior (CSMP) O fluxo final para homologação de arquivamentos ou declínios.
+
+Promoção de Arquivamento: Lance o movimento final e anexe a fundamentação.
+
+Remessa Física/Digital: Clique em Remeter para Conselho Superior.
+
+Checklist Automático: O sistema impedirá a remessa se houver:
+
+Prazos de diligência abertos.
+
+Documentos pendentes de assinatura.
+
+Falta de vinculação com o assunto principal do CNMP.
+
+Publicidade: O sistema gera automaticamente o edital de ciência aos interessados, com prazo para recurso.
+
+17. Integração Judicial: Ajuizamento de ACP (Ação Civil Pública) Quando a investigação extrajudicial vira processo judicial.
+
+Caminho: No Inquérito Civil, selecione Ações > Ajuizar Ação Judicial.
+
+Vínculo MNIP: O sistema "empacota" o IC completo (todas as peças e anexos) em um único arquivo estruturado e o envia ao PJE do Tribunal.
+
+Resultado: O número do processo judicial gerado no PJE retorna automaticamente para a capa do IC no SIMP, alterando seu status para Ajuizado.
+
+18. Gestão de Acervos e Redistribuição por Saída de Membro Procedimento técnico para quando um Promotor deixa a unidade definitivamente ou por longo período.
+
+A. Redistribuição de Processos "No Local"
+
+Caminho: Administração > Movimentação em Lote > Redistribuição de Acervo.
+
+Operação:
+
+Selecione o Membro de Origem (quem está saindo).
+
+Selecione o Membro de Destino ou a opção "Distribuir entre Colegas da Unidade".
+
+Regra de Sistema: O sistema permite filtrar por Classe ou Final de Protocolo.
+
+Dica Técnica: Recomenda-se redistribuir primeiro os processos com "Prazo Vencido" para garantir que a nova carga de trabalho chegue ao destino com os alertas de prioridade atualizados.
+
+B. Baixa de Vínculo no Contador
+
+Caminho: Tabelas Básicas > Tabelas de Fluxo > Contador de Distribuição.
+
+Ação: Remova o membro do contador ou insira uma "Data de Fim" no vínculo.
+
+Impacto: Isso impede que novos processos sejam sorteados para o membro, mas não altera o histórico de prevenção dos processos que já passaram por ele.
+
+19. Configuração de Substituição e Acúmulo (Férias/Licenças) Como configurar o sistema para que um Promotor responda por outra unidade temporariamente.
+
+A. Habilitação de Substituição Automática
+
+Caminho: Configurações > Gestão de Pessoas > Designações/Substituições.
+
+Configuração:
+
+Informe o Membro Substituto e o Membro Substituído.
+
+Defina a Data de Início e Data de Fim.
+
+Resultado no SIMP: Durante este período, o Substituto passará a visualizar a pasta "Gabinete do Substituído" em sua tela inicial, podendo assinar peças em nome daquela unidade sem precisar trocar de login.
+
+B. Distribuição Proporcional (Peso de Acúmulo)
+
+Se o substituto for receber processos novos das duas unidades, ajuste o Peso no contador da unidade acumulada.
+
+Regra de Peso: Geralmente utiliza-se Peso 50 ou Peso 30 para o substituto, para que a carga de trabalho não se torne insustentável.
+
+20. Segurança da Informação e Níveis de Sigilo Detalhamento de como restringir o acesso a investigações sensíveis.
+
+A. Atribuição de Sigilo ao Protocolo
+
+Caminho: Na capa do processo, acesse Informações Complementares > Nível de Sigilo.
+
+Níveis Disponíveis:
+
+Público: Visível para todos os membros do MP e via consulta externa.
+
+Sigiloso (Nível 1): Visível apenas para os membros e servidores daquela Promotoria específica.
+
+Sigilo Absoluto (Nível 2): Visível apenas para o Promotor Titular e assessores diretos por ele autorizados no Mastiff.
+
+Justificativa: O sistema exige obrigatoriamente a fundamentação legal (ex: Lei de Abuso de Autoridade ou Proteção de Dados) para ativar o sigilo.
+
+B. Quebra de Sigilo para Órgãos Superiores
+
+Quando um processo sigiloso é remetido ao Conselho Superior ou Procuradoria, o sigilo "acompanha" o arquivo.
+
+Regra: Somente usuários com o perfil de "Auditor de Sigilo" conseguem visualizar quem acessou o arquivo enquanto ele estava em trânsito.
+
+21. Gerenciamento de Documentos Não Estruturados (Anexos Externos) Tratamento de arquivos que não são gerados pelo editor do SIMP.
+
+Upload de Peças de Informação:
+
+Use a aba Anexos > Adicionar Arquivo.
+
+Tipo de Documento: Classifique corretamente (ex: Relatório Policial, Extrato Bancário).
+
+Indexação: Marque a opção "Tornar Pesquisável (OCR)". O sistema processará o PDF para que você possa buscar palavras-chave dentro do anexo na ferramenta de busca global.
+
+Ordenação: Utilize a função "Reordenar Peças" para que o PJE receba o processo na ordem cronológica correta dos fatos, e não na ordem de upload.
+
+22. Consultas Gerenciais para a Corregedoria Configurações de extração de dados para fins de inspeção.
+
+Relatório de Movimentação por Período:
+
+Caminho: Relatórios > Corregedoria > Mapa de Atividades.
+
+Uso: Extrai a lista de todas as cotas, denúncias e arquivamentos realizados em um intervalo de datas.
+
+Filtro de "Processos em Carga": Identifica processos que foram retirados do CAAD mas ainda não foram "Aceitos" pelo Gabinete, gerando um vácuo de responsabilidade.
+
+MÓDULO 3: IMERSÃO 25/02/2026
+
+23. Recebimento de Inquéritos (Integração Polícia Civil) Procedimento para validar a entrada de novos Inquéritos Policiais (IP) sem redigitação.
+
+Caminho: Área de Trabalho > Integração > Pendentes de Validação.
+
+Ação de Conferência: O sistema apresenta o espelho do IP vindo da Polícia Civil. O operador do CAAD deve conferir:
+
+Capitulação Delitiva: Se o crime cadastrado pela polícia condiz com as tabelas do MP.
+
+Vínculo de Partes: Verificar se o investigado já possui registro no sistema para evitar duplicidade de nomes (homônimos).
+
+Conversão: Clique em "Validar e Protocolar". O sistema gera automaticamente o número de protocolo SIMP e já o direciona para o contador de distribuição criminal.
+
+24. Gestão de Medidas Cautelares e Sigilo (PIC) Configuração de Procedimentos Investigatórios Criminais (PIC) e pedidos de quebra de sigilo.
+
+Instauração de PIC:
+
+Caminho: Cadastrar Protocolo > PIC.
+
+Regra de Sigilo: Todo PIC nasce com Sigilo Nível 1 (Interno) por padrão.
+
+Vínculo de Cautelar: Para vincular um pedido de Intercepção Telefônica ou Busca e Apreensão a um PIC existente:
+
+No PIC principal, acesse a aba Processos Conexos.
+
+Clique em Adicionar Dependência e informe o número do pedido cautelar.
+
+Nota Técnica: Isso garante que, ao arquivar o PIC, o sistema avise sobre cautelares ainda ativas.
+
+25. Módulo de Infância e Juventude (Área Protetiva) Configuração de fluxos para acolhimento e medidas socioeducativas.
+
+Cadastro de Entidades:
+
+Caminho: Tabelas Básicas > Cadastro de Entidades de Acolhimento.
+
+Operação: Vincule a entidade ao local (comarca). Isso permite que o Promotor extraia a lista de crianças acolhidas diretamente no processo administrativo da unidade.
+
+Controle de Prazos Protetivos:
+
+Nesses processos, o sistema utiliza o campo "Revisão de Medida". Configure o alerta para 180 dias.
+
+O SIMP disparará um aviso no Gabinete Virtual 15 dias antes do prazo de reavaliação obrigatória da medida de acolhimento.
+
+26. Execução Penal: Guia de Execução e Cálculo Tratamento de processos de execução vindo do SEEU/PJE.
+
+Importação de Guia:
+
+Caminho: Módulos > Execução Penal > Importar Guia.
+
+Regra de Negócio: O sistema "lê" a pena imposta e sugere o movimento de "Manifestação - Cálculo de Pena".
+
+Monitoramento de Benefícios: Configure etiquetas automáticas para Livramento Condicional ou Progressão de Regime. O sistema cruzará os dados da guia com a data atual e destacará o processo quando o requisito objetivo for atingido.
+
+27. Personalização de Fluxos e "Minhas Pastas" Técnica para organizar o trabalho individual dentro do Gabinete.
+
+Criação de Subpastas:
+
+Caminho: Gabinete Virtual > Configurações > Minhas Pastas.
+
+Uso Operacional: Crie pastas por tema (ex: Para Denunciar, Aguardando Perícia).
+
+Regras de Movimentação Automática:
+
+É possível configurar que, ao lançar o movimento de "Cota de Diligência", o processo seja movido automaticamente para a pasta Aguardando Perícia.
+
+Impacto: Limpa a fila de "Recebidos" e foca o trabalho no que depende apenas da análise do Promotor/Assessor.
+
+28. Relatórios Dinâmicos de Gestão (Business Intelligence) Extração de dados para relatórios de gestão da Promotoria.
+
+Caminho: Relatórios > Gerenciais > Painel Dinâmico.
+
+Configuração de Filtros: Permite cruzar dados de Tempo de Tramitação vs Assunto.
+
+Uso para Corregedoria: Extraia o "Termo de Inspeção" consolidado, que agrupa automaticamente todas as portarias, editais e manifestações do período selecionado em um único PDF estruturado.
+
+***

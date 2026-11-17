@@ -1,0 +1,107 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - Relatórios SIMP.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.37 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Relatórios SIMP
+6 mensagens
+Haglay Alice Nunes Da Silva <haglay@mppe.mp.br> 26 de novembro de 2025 às 11:20
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: lucios <lucios@mppe.mp.br>
+Caro Daniel,
+Identificamos a ausência dos arquivos .jasper necessários para a geração dos relatórios “Relatório de Processos Administrativos Arquivados” e “Relatório de Numeradores”. Esses artefatos são
+indispensáveis para que possamos concluir a integração e validar corretamente o módulo de relatórios.
+Dessa forma, solicitamos, por gentileza, o envio dos referidos arquivos ou a indicação de onde podem ser obtidos, a fim de assegurarmos a completude do ambiente.
+Att,
+Haglay Alice Nunes da Silva
+Gerente do Departamento de Soluções de TI
+DEMSTI - CMTI
+Tel.: (81) 99200-0373
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 27 de novembro de 2025 às 17:37
+Para: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Cc: lucios <lucios@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Boa tarde Haglay.
+Realmente, teve uma falha nesse export do Relatorio-api.
+Aproveitamos e enviamos todos os arquivos que faltaram.
+Atenciosamente,
+26/01/2026, 10:12 E-mail de Ministério Público de Pernambuco - Relatórios SIMP
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-f:1849862998408423256&simpl=msg-f:1849862998408423256&simpl=msg-f:1849977343820158051&simpl=msg-f:18503028… 1/4
+
+--- [Página 2] ---
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Enviado: quarta-feira, 26 de novembro de 2025 10:20
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: lucios <lucios@mppe.mp.br>
+Assunto: Relatórios SIMP
+ 
+[Texto das mensagens anteriores oculto]
+relatorios.zip
+64K
+Haglay Alice Nunes Da Silva <haglay@mppe.mp.br> 1 de dezembro de 2025 às 07:50
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: lucios <lucios@mppe.mp.br>
+Daniel, bom dia!
+   Obrigada pelos arquivos enviados! Poderia nos enviar também as classes java que leem esses arquivos jasper e montam os seus respectivos relatórios?
+Grata,
+Haglay Alice Nunes da Silva
+Gerente do Departamento de Soluções de TI
+DEMSTI - CMTI
+Tel.: (81) 99200-0373
+Em sex., 28 de nov. de 2025 às 08:22, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br> escreveu:
+Haglay Alice Nunes da Silva
+Gerente do Departamento de Soluções de TI
+DEMSTI - CMTI
+Tel.: (81) 99200-0373
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 1 de dezembro de 2025 às 12:58
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Manoel Heleno Ramos de
+Mendonca <manoelh@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+PSC
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Date: qui., 27 de nov. de 2025 às 17:37
+26/01/2026, 10:12 E-mail de Ministério Público de Pernambuco - Relatórios SIMP
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-f:1849862998408423256&simpl=msg-f:1849862998408423256&simpl=msg-f:1849977343820158051&simpl=msg-f:18503028… 2/4
+
+--- [Página 3] ---
+Subject: RE: Relatórios SIMP
+To: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Cc: lucios <lucios@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+relatorios.zip
+64K
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 2 de dezembro de 2025 às 17:41
+Para: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Cc: lucios <lucios@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Boa tarde Haglay.
+A equipe fez uma correção no export.
+Segue link para download completo:
+https://portal.mpmt.mp.br/temp/relatorio-api-1.91.zip
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Enviado: segunda-feira, 1 de dezembro de 2025 06:50
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: lucios <lucios@mppe.mp.br>
+Assunto: Re: Relatórios SIMP
+ 
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:12 E-mail de Ministério Público de Pernambuco - Relatórios SIMP
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-f:1849862998408423256&simpl=msg-f:1849862998408423256&simpl=msg-f:1849977343820158051&simpl=msg-f:18503028… 3/4
+
+--- [Página 4] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 3 de dezembro de 2025 às 08:18
+Para: Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Manoel Heleno Ramos de
+Mendonca <manoelh@mppe.mp.br>, Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+PSC
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:12 E-mail de Ministério Público de Pernambuco - Relatórios SIMP
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-f:1849862998408423256&simpl=msg-f:1849862998408423256&simpl=msg-f:1849977343820158051&simpl=msg-f:18503028… 4/4

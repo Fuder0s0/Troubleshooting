@@ -1,0 +1,24 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em video IA\Vídeos logo antiga\Cena Configurações e considerações finais\Cena configurações.txt
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.0 MB
+
+[0:00 - 0:05]
+"Nesta etapa de implantação, apresentamos as funcionalidades de personalização do Gabinete Virtual, projetadas para oferecer uma experiência de trabalho mais ergonômica e eficiente."
+
+[0:05 - 0:10]
+"Ao acessar o menu de Configurações Pessoais no canto superior direito, o usuário tem total controle sobre a interface do sistema."
+
+[0:10 - 0:20]
+"No campo Tema, é possível alternar instantaneamente entre diferentes paletas de cores, como Azul, Verde ou Vermelho, permitindo que cada profissional adapte o sistema à sua preferência visual."
+
+[0:20 - 0:26]
+"O sistema também oferece a alternância entre o Modo Escuro e o Modo Claro, garantindo o conforto visual necessário para longas jornadas de trabalho em diferentes ambientes de iluminação."
+
+[0:26 - 0:32]
+"Além disso, o usuário pode definir o nível de Detalhe do Protocolo, escolhendo entre a visualização 'Nova' ou a 'Antiga', mantendo a compatibilidade com fluxos de trabalho já estabelecidos."
+
+[0:32 - 0:45]
+"Para otimizar o espaço em tela, disponibilizamos três opções de Layout: o modo Fino, para maior densidade de informações; o Moderno, com espaçamento equilibrado; e o Clássico, para uma navegação tradicional."
+
+[0:45 - Fim]
+"Com essas ferramentas, entregamos um sistema não apenas potente, mas totalmente adaptável às necessidades individuais de cada integrante da equipe."

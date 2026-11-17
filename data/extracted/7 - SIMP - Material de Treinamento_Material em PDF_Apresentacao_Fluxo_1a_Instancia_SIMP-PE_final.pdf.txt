@@ -1,0 +1,255 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Material em PDF\Apresentacao_Fluxo_1a_Instancia_SIMP-PE_final.pdf
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 1.02 MB
+
+--- [Página 1] ---
+SIMP-PE
+Fluxo judicial
+da 1ª instância
+Da entrada do processo ao peticionamento e arquivamento
+ENTRADA
+PJe / SEEU
+ou cadastro manual
+→
+TRAMITAÇÃO
+Receber • distribuir
+minutar • 
+movimentar
+TREINAMENTO OPERACIONAL
+
+--- [Página 2] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Um único fluxo conecta cinco momentos decisivos
+02
+1
+Entrada
+PJe/SEEU ou 
+cadastro manual
+→
+2
+Recepção
+Cadastro, vínculo e 
+recebimento
+→
+3
+Distribuição
+Definição do 
+membro 
+responsável
+→
+4
+Atuação
+Ciência, minuta e 
+movimento
+→
+5
+Saída
+Peticionamento e 
+arquivo
+Ponto de controle
+O número único e o vínculo correto com o expediente judicial acompanham o processo do 
+início ao fim.
+SIMP-PE • Módulo Judicial
+
+--- [Página 3] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Cada perfil atua em um trecho — e entrega ao próximo
+03
+01
+Secretaria
+Cadastrar ou associar
+Receber o protocolo
+Distribuir ao membro
+02
+Assessoria
+Criar a minuta
+Anexar documentos
+Devolver para análise
+03
+Membro
+Tomar ciência após distribuição
+Revisar e decidir
+Peticionar em lote
+Regra prática Quem conclui uma etapa deve deixar o processo íntegro, classificado e pronto para o 
+próximo perfil.
+SIMP-PE • Módulo Judicial
+
+--- [Página 4] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+A entrada preferencial ocorre pela fila de expedientes do 
+PJe
+04
+O que conferir
+✓ Instância e jurisdição
+✓ Número único e aviso
+✓ Comunicação e órgão julgador
+✓ Limite para ciência
+Monitore o prazo, mas não tome ciência 
+antes da distribuição ao membro.
+SIMP-PE • Módulo Judicial
+
+--- [Página 5] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Antes de prosseguir, identifique o cenário correto de 
+cadastro
+05
+Processo novo
+Cadastrar o protocolo, validar classe e assuntos e 
+marcar o assunto principal.
+Processo já existente
+Localizar o número único e associar o expediente 
+ao protocolo correto — sem duplicar cadastro.
+Exceção: processo físico
+Usar o cadastro manual.
+SIMP-PE • Módulo Judicial
+
+--- [Página 6] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Primeiro, distribua o procedimento ao membro responsável
+06
+Escolha do tipo
+1 Automática
+O sistema seleciona um promotor apto.
+2 Manual
+O usuário escolhe o promotor.
+3 Impedimento
+Registra a impossibilidade de atuação.
+A ciência somente ocorre depois da 
+distribuição.
+SIMP-PE • Módulo Judicial
+
+--- [Página 7] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Depois da distribuição, o membro toma ciência no PJe
+07
+01
+Confirmar a distribuição
+Verifique se o procedimento está atribuído 
+ao membro responsável.
+02
+Tomar ciência
+Somente o membro registra a ciência e 
+acessa o documento.
+Regra: capacidade técnica do sistema 
+não altera a ordem correta do fluxo.
+SIMP-PE • Módulo Judicial
+
+--- [Página 8] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+A minuta reúne conteúdo, movimento e documentos em 
+uma só etapa
+08
+Checklist da assessoria
+01 Título claro e identificável
+02 Movimento compatível
+03 Texto revisado no editor
+04 Anexos na ordem correta
+05 Salvar para aprovação
+SIMP-PE • Módulo Judicial
+
+--- [Página 9] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+A análise do membro fecha o ciclo ou devolve para 
+correção
+09
+APROVAR
+Salvar e aprovar
+→ segue para movimento
+CORRIGIR
+Salvar e devolver
+→ retorna à assessoria
+DESCARTAR
+Exclui a minuta
+→ exige confirmação
+SIMP-PE • Módulo Judicial
+
+--- [Página 10] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+Movimentar prepara os documentos para a integração 
+judicial
+10
+01
+Conferir destino
+Comarca, destinatário e tramitação externa 
+quando aplicável.
+02
+Revisar anexos
+Sequência, sigilo, descrição e limites de 
+arquivo.
+03
+Definir assinatura
+Movimentar sem assinatura ou assinar 
+digitalmente.
+SIMP-PE • Módulo Judicial
+
+--- [Página 11] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+O peticionamento em lote concentra o envio no perfil do 
+membro
+11
+Antes de enviar
+Selecionar os protocolos
+Confirmar avisos pendentes
+Definir o tipo de documento PJe
+Revisar descrição e sigilo
+Excluir do lote quando necessário
+Peticionar em lote no PJe
+SIMP-PE • Módulo Judicial
+
+--- [Página 12] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+O encerramento precisa confirmar sucesso — ou apontar a 
+exceção
+12
+Sucesso
+O sistema lista os protocolos enviados 
+com êxito e permite retornar à Área de 
+Trabalho.
+Atenção
+Protocolos sem expediente podem seguir 
+como petição avulsa; revise o alerta 
+antes de continuar.
+Não considere concluído sem a 
+mensagem final de confirmação.
+SIMP-PE • Módulo Judicial
+
+--- [Página 13] ---
+FLUXO JUDICIAL • 1ª INSTÂNCIA
+O fluxo termina com rastreabilidade e próximo passo 
+definido
+13
+Fechamento operacional
+✓ Petição confirmada no PJe
+✓ Movimento registrado no SIMP
+✓ Documentos íntegros e acessíveis
+✓ Prazo ou expediente atualizado
+✓ Arquivamento quando cabível
+Resultado: processo pronto para a 
+próxima atuação — ou corretamente 
+encerrado.
+SIMP-PE • Fluxo completo da 1ª instância
+
+--- [Página 14] ---
+SIMP-PE
+Créditos
+DEMSTI — Departamento Ministerial de Soluções de TI
+COORDENAÇÃO GERAL DA CMTI
+Luiz Guilherme da
+Fonseca Lapenda
+COORDENAÇÃO E GESTÃO TÉCNICA
+Eugênio José Batista Antunes
+Coordenador • eantunes@mppe.mp.br
+Haglay Alice Nunes da Silva
+Gerente DEMSTI • haglay@mppe.mp.br
+EQUIPE CPE
+Danielle Maria Lopes
+danielle.maria@mppe.mp.br • Suporte CPE
+Maria Simony Oliveira
+msimony@mppe.mp.br • Suporte CPE
+Mario Vieira da Silva Neto
+mario.silva@mppe.mp.br • Suporte CPE
+Nathália Fernanda C. Leite de Assis
+nathalia.assis@mppe.mp.br • Suporte CPE
+Tarcísio Rodrigues de Lima
+tlima@mppe.mp.br • Suporte CPE e servidor DEMSTI
+Ministério Público de Pernambuco 14

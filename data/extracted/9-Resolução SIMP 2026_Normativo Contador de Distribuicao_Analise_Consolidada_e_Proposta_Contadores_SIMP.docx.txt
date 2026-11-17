@@ -1,0 +1,381 @@
+DOCUMENTO: 9-Resolução SIMP 2026\Normativo Contador de Distribuicao\Analise_Consolidada_e_Proposta_Contadores_SIMP.docx
+PASTA: 9-Resolução SIMP 2026
+TAMANHO: 0.47 MB
+
+Distribuição de procedimentos e contadores no SIMP
+
+Análise institucional consolidada e proposta de criação e padronização
+
+Instituição: Ministério Público de Pernambuco (MPPE)
+
+Data de referência: 8 de setembro de 2026
+
+Natureza: documento técnico propositivo para validação institucional
+
+1. Objetivo, escopo e método de consolidação
+
+A consolidação abrange distribuição inicial, prevenção, impedimento, substituição, redistribuição, cálculo e equalização de contadores, organização por comarca e atribuição, auditoria, ciclo de vida cadastral e implantação. O conteúdo comum foi reunido por tema; afirmações divergentes foram preservadas com indicação de seu grau de comprovação, evitando transformar ausência de documentação em prova de ausência de funcionalidade.
+
+Adota-se “SIMP” para a solução examinada e preservam-se “SIM”, “SIMP-PE” e “SIMP4” quando associados a atos, ambientes ou denominações das fontes. Essas expressões não comprovam identidade de versão, configuração ou comportamento. “PJ” significa Promotoria de Justiça. “Área” corresponde ao conceito de área de atuação; o tipo técnico correspondente é ATUAÇÃO. “Classe de atuação”, expressão do esquema visual, designa neste documento um conjunto de classes jurídicas/processuais, distinto do tipo ATUACAO.
+
+2. Síntese institucional e diretriz proposta
+
+A distribuição deve combinar atribuição material, impessoalidade, prevenção e equilíbrio entre destinatários efetivamente concorrentes. O contador implementa uma regra de seleção e compensação; isoladamente, não representa todo o trabalho realizado, a complexidade dos feitos, o acervo pendente ou a produtividade individual.
+
+3. Regras institucionais da distribuição
+
+3.1. Princípios, atribuição e modalidades
+
+A impessoalidade e a paridade orientam a distribuição entre membros com atribuições concorrentes. Especialidade, prevenção, conexão, continência, impedimento e suspeição condicionam a elegibilidade conforme o regime aplicável. A configuração deve preservar o promotor natural; referências das fontes ao juiz natural não autorizam transpor atribuições judiciais para os órgãos ministeriais.
+
+Distribuição automática. A versão fornecida da Resolução PGJ nº 001/2020, art. 8º, determina distribuição automática pelo SIM. A Resolução CSMP nº 003/2019, art. 20, estabelece distribuição automática quando houver mais de um membro com iguais atribuições. A Resolução CPJ nº 11/2024, arts. 3º e 20, disciplina distribuição informatizada e, no cenário sem Central de Inquéritos, automática e equitativa entre promotores com atribuição criminal.
+
+Distribuição vinculada ou natural. Havendo um único destinatário competente, a vinculação resulta da atribuição. O art. 8º, parágrafo único, da versão da Resolução PGJ nº 001/2020 trata da Promotoria com atribuição única. O art. 20 da Resolução CSMP nº 003/2019 atribui ao Coordenador Administrativo a distribuição vinculada quando houver múltiplos promotores com atribuições distintas. A fonte F2 denomina “natural” a distribuição automática imediatamente após o cadastro, configurada pela área de TI. Essa execução imediata depende de confirmação na versão local.
+
+Distribuição por impedimento. F2 descreve uma interface com candidatos habilitados à esquerda e membros ou assessores impedidos deslocados à lista de restrição à direita; a seleção ocorre entre os remanescentes. Trata-se de exclusão motivada de candidatos, e não de livre escolha do destinatário. A interface e a aplicação a assessores devem ser verificadas no módulo correspondente.
+
+Distribuição manual ou excepcional. F1 restringe a modalidade à contingência; F2 descreve funcionalidade excepcional de escolha manual, justificativa obrigatória e ausência de incremento do contador. Os dispositivos de contingência não demonstram, sozinhos, que a única hipótese possível de encaminhamento excepcional seja a indisponibilidade. Tampouco a existência de um botão manual autoriza sua utilização sem atribuição e fundamento. Devem ser distinguidos o ato urgente fora da plataforma, a distribuição vinculada por competência, a redistribuição fundamentada e a seleção manual excepcional dentro do sistema.
+
+3.2. Contingência, motivação e integridade documental
+
+O art. 14 da versão da Resolução PGJ nº 001/2020 admite atos urgentes em indisponibilidade ou situações excepcionais justificadas, prioritariamente por documentos produzidos manualmente, com inclusão após o restabelecimento e certificação. A Resolução PGJ nº 12/2026, art. 7º, prevê atos urgentes por e-mail funcional ou sistemas virtuais subsidiários em indisponibilidade excepcional, com regularização obrigatória no SIMP-PE. Não se deve reduzir a contingência de 2026 a atos físicos.
+
+Há motivação normativa expressa para hipóteses específicas: a Resolução CSMP nº 003/2019, art. 29, exige despacho fundamentado na redistribuição por falta de atribuição, com envio de cópia ao CSMP e à CGMP em três dias. Portanto, a afirmação de F1 de ausência total de justificativa normativa deve ser corrigida. Permanece sem comprovação documental suficiente uma validação universal, obrigatória e estruturada em tela para todas as modalidades excepcionais.
+
+Os arts. 10 da versão da Resolução PGJ nº 001/2020 e 6º da Resolução PGJ nº 12/2026 vedam excluir processos ou tramitações diretamente da base. A norma de 2026 exige chamado formal e justificado para documento eletrônico inserido indevidamente. Essa vedação não descreve automaticamente o ciclo de vida da entidade técnica “Contador de Distribuição”, que exige especificação própria.
+
+3.3. Auditoria, relatórios e competências
+
+A versão da Resolução PGJ nº 001/2020, art. 9º, § 3º, prevê registro de auditoria pela STI. A Resolução PGJ nº 12/2026, art. 5º, atribui ao CGSAF governança, aprovação de melhorias, qualidade da informação e gestão de acessos; ao NTI, condições de uso, manutenção, segurança e preservação documental. Esse art. 5º não explicita um histórico de cada alteração de contador, corrigindo a extensão atribuída a ele em F1.
+
+Nas Centrais de Inquéritos, a Resolução CPJ nº 11/2024, art. 8º, IX e § 2º, exige relatório mensal à PGJ e à Corregedoria, publicado até o dia 10 do mês seguinte, com recepção, distribuição e devolução por membro. Na Procuradoria Cível, os arts. 7º e 8º do Ato PROCCV nº 02/2014 estabelecem registros de tipo de ação, natureza do recurso e conclusão da manifestação, além da responsabilidade pela elaboração de relatórios. Esses dispositivos não fixam, por si, a mesma periodicidade e publicidade das Centrais.
+
+F2 descreve histórico permanente com a modalidade de distribuição e Relatório de Correições Permanentes analítico com coluna de justificativa, exemplificando “Declínio de atribuição”, “Prevenção” e “Matéria não exige intervenção”. O texto e a efetiva obrigatoriedade dos campos, sua presença nos relatórios locais e a associação ao evento precisam de demonstração no SIMP do MPPE. F2 também aponta ausência de especificação de tamanho mínimo da justificativa e de eventual vocabulário de motivos permitidos.
+
+4. Fluxos e particularidades por cenário de atuação
+
+4.1. Primeira instância
+
+O fluxo básico compreende recebimento, triagem, cadastro, autuação, identificação da atribuição e distribuição. A triagem deve verificar procedimento anterior, prevenção e duplicidade antes da primeira tramitação, conforme art. 5º da versão da Resolução PGJ nº 001/2020 e art. 1º, § 2º, da Resolução PGJ nº 12/2026. F2 menciona apoio administrativo e automações, inclusive Assistente de IA, cuja disponibilidade não foi demonstrada nas fontes técnicas anexas.
+
+Na PJ única, o encaminhamento é integralmente vinculado dentro de sua atribuição. Em unidade com múltiplos membros de atribuição idêntica, há seleção automática e equitativa dentro do mesmo grupo. Em atribuições distintas, o recorte material precede qualquer comparação de carga. Não se deve distribuir entre membros sem competência apenas para equilibrar totais numéricos.
+
+Nas localidades sem Central de Inquéritos, a Resolução PGJ nº 006/2011, arts. 1º e 2º, prevê distribuição automática e equitativa de inquéritos e peças informativas e acompanhamento da ação penal pelo promotor atuante perante a vara competente. A Resolução CPJ nº 11/2024, art. 20 e parágrafo único, também disciplina esse fluxo, situando o acompanhamento da ação após o recebimento da denúncia. As etapas investigatória e judicial não implicam necessariamente o mesmo destinatário ou contador.
+
+O PIC integra o escopo da Resolução CPJ nº 002/2018. Seu art. 3º, § 2º, remete a distribuição de peças informativas à Instrução Normativa conjunta PGJ/CGMP nº 001/2011, inclusive na instauração de ofício. Essa instrução é referência adicional a obter quando necessária à parametrização; não foi identificada como arquivo autônomo no conjunto.
+
+4.2. Centrais de Inquéritos e afastamentos
+
+A Resolução CPJ nº 11/2024, arts. 10 e 11, organiza a Capital em Núcleo de Acordo de Não Persecução Penal, Núcleo de Persecução Penal e Núcleo de Investigação Criminal, com grupo ofício próprio no sistema de gestão de autos e observância da prevenção. A sigla “NUSP”, usada em F1 para o núcleo de ANPP, não é adotada como denominação normativa confirmada. O grupo ofício do sistema de origem requer tradução para locais, vínculos e contadores do SIMP; não se presume equivalência cadastral direta.
+
+No núcleo de ANPP, ausência de requisitos objetivos implica devolução à entrada de autos para redistribuição aos demais núcleos; ausência de requisitos subjetivos mantém o feito no próprio núcleo (art. 12, §§ 2º e 3º). O ato também exclui do núcleo hipóteses especificadas, como sonegação fiscal e crimes praticados por militar. A atribuição deve observar o conjunto das regras dos arts. 12 a 16. A adequação anual da composição dos núcleos considera número e complexidade dos feitos, e o modelo pode ser adaptado às demais Centrais mediante normatização interna (arts. 16 e 17).
+
+A regra geral do art. 7º, § 1º, da Resolução CPJ nº 11/2024 mantém a responsabilidade pelos procedimentos de indiciados presos e medidas cautelares recebidos durante a designação, mesmo após seu término; o § 2º permite disciplina própria pelas Centrais. As regras locais de afastamento precisam ser cadastradas por âmbito e período, sem generalização automática:
+
+Os atos de Paulista de 2019 e 2024 e de Jaboatão de 2024 mencionam três promotorias criminais vinculadas às respectivas Centrais: 2ª, 3ª e 7ª em Paulista; 7ª, 8ª e 12ª em Jaboatão. Esses quantitativos são os dos atos, não uma certificação do cadastro atual. A compatibilidade entre regras locais de 2019 e normas posteriores deve integrar a validação jurídica da configuração.
+
+4.3. Segunda instância e órgãos colegiados
+
+Na Procuradoria de Justiça Cível, o Ato PROCCV nº 02/2014 determina distribuição pelo Arquimedes, com paridade e ressalvas de impedimento, suspeição e conexão. A prevenção recai sobre quem já atuou e, havendo mais de uma manifestação, sobre quem interveio por último. Em afastamento, o feito segue ao substituto; inexistindo substituto, retorna ao sorteio (art. 6º, §§ 1º e 2º).
+
+A vedação de retenção para aguardar férias ou licença contém ressalva expressa por determinação da Coordenação (art. 6º, § 3º), omitida em F1. O art. 5º admite exceções à distribuição imediata por problemas no sistema, espera de modificação das designações, último dia útil do mês ou ausência de servidor qualificado. São regras do ato e de seu contexto tecnológico, cuja aplicação ao SIMP demanda enquadramento institucional. F2 informa contadores de segundo grau vinculados ao local de lotação e separados em situações de multivínculo; faltam detalhes sobre localidade, câmara e interação entre vínculos.
+
+No CPJ e no Órgão Especial, a Resolução CPJ nº 009/2016 estabelece rodízio, paridade e compreensão, com exclusão dos impedidos e retorno do sorteado à composição somente após o sorteio dos demais elegíveis. Prevê sorteio eletrônico parametrizado, vinculação do relator ao feito e nova distribuição após o término de mandato quando houver feito remanescente. O revisor é o membro mais moderno na ordem de antiguidade em relação ao relator; havendo impedimento, assume quem o segue nessa ordem, conforme o dispositivo. Não se trata de sorteio genérico de revisor. PGJ e Corregedor-Geral não participam da relatoria ou revisão nas hipóteses descritas. A suspeição gera novo sorteio e reinclusão do substituído nos sorteios futuros. Emprega-se “membro” em lugar de “magistrado”, utilizado indevidamente em F1.
+
+Esse rodízio colegiado não deve ser equiparado, sem validação, ao algoritmo de menor escore descrito para a primeira instância.
+
+4.4. Secretarias compartilhadas
+
+Secretarias executam recebimento, cadastro, distribuição, tramitação e apoio; promotores e assessores vinculam-se aos órgãos e aos locais de exercício pertinentes. F7 registra que o conceito de grupo ofício do Arquimedes não se aplica diretamente ao SIMP. A distribuição finalística e a alocação de tarefas administrativas devem ser modeladas separadamente.
+
+A lacuna não é ausência absoluta de previsão normativa: a Resolução CPJ nº 11/2024, art. 9º, § 1º, permite setorização da secretaria, e o art. 19 prevê regimento interno para a divisão das tarefas dos servidores na Capital. O que permanece sem especificação suficiente nas fontes é a implementação de filas, prioridades, rateio, redistribuição e carga de assessorias/servidores nas secretarias compartilhadas do SIMP.
+
+5. Modelo técnico dos contadores
+
+5.1. Tipos e unidade de contagem
+
+O catálogo F4 relaciona cinco tipos. A expressão “um contador por área” designa um recorte lógico; quando houver vários destinatários concorrentes, o sistema precisa manter seus vínculos e saldos individualizados nesse recorte, conforme o modelo descrito em F5.
+
+5.2. Escore, seleção e pesos
+
+Para cada candidato elegível, F5 descreve:
+
+escore = qtdInicial / peso
+
+“qtdInicial” é a denominação técnica do saldo utilizado na comparação; embora contenha a palavra “inicial”, é atualizado pelas operações descritas. Seleciona-se o menor escore e incrementa-se em uma unidade o contador escolhido. Com pesos iguais, equivale a escolher o menor saldo. F2 situa o incremento após a confirmação do recebimento, com ou sem tramitação imediata; o ponto transacional exato deve ser conferido no código, sem pressupor comportamento diferente do resultado numérico de F5.
+
+Peso 100 é a referência de participação integral; peso 50 representa participação relativa reduzida. Não significa que um candidato de peso 100 receba 100% dos feitos do grupo: o peso expressa proporção em relação aos demais elegíveis. F2 associa pesos reduzidos a acúmulos e comarcas híbridas. A decisão de redução deve ter fundamento administrativo e não decorrer apenas da preferência do cadastrador. Nos dispositivos examinados das resoluções do MPPE citadas pelas análises, não se identificou definição da fórmula, do peso 100 ou da operação “Igualar Contador”; a descrição matemática provém do material técnico.
+
+F2 informa que peso zero exclui novos sorteios e mantém prevenção. Como a fórmula não admite divisão por zero, essa hipótese exige filtro anterior ao cálculo e validação da prevenção e das regras locais de afastamento. Não deve ser liberada como regra técnica comprovada apenas pela descrição secundária.
+
+F5 informa desempate por peso e ordem de classificação; F2 afirma ordem alfabética. A equivalência entre classificação e nome não está demonstrada, nem o comportamento com nomes iguais. Também não está comprovado que a seleção por menor escore inclua aleatoriedade estatística. Assim, utiliza-se “distribuição automática e equitativa” e reserva-se “sorteio aleatório” aos casos cuja implementação tenha sido demonstrada.
+
+5.3. Hierarquia sequencial e exclusiva
+
+O primeiro nível que retorna candidatos encerra a busca. Somente então os escores desse grupo são comparados. O preenchimento de atuação na classe permite tentar ATUAÇÃO, mas não garante resultado: se a consulta retornar vazia, o sistema continua para CLASSE_ESPECIFICA e, se necessário, DEMAIS_CLASSES. A simplificação de F2 que passa diretamente de ATUAÇÃO para DEMAIS_CLASSES deve ser lida considerando o nível intermediário.
+
+Risco de concentração, denominado “efeito funil”. No cenário de F5, A possui ATUAÇÃO e DEMAIS_CLASSES, enquanto B e C possuem apenas DEMAIS_CLASSES. Se a classe tem atuação e ATUAÇÃO retorna somente A, apenas A concorre e seu contador ATUAÇÃO cresce. O saldo DEMAIS_CLASSES de A não corrige essa concentração. Se a classe não tem atuação e nenhum outro nível superior retorna candidatos, A, B e C concorrem no residual. Os dois contadores de A crescem independentemente.
+
+F5 informa que todas as classes do ambiente retratado têm atuação preenchida. Mantidas as premissas do exemplo, sem seleção anterior por vara ou outro impedimento:
+
+O percentual de 100% é consequência do cenário demonstrativo, não estatística medida de toda a instituição. A existência de atuação em todas as classes precisa ser reconfirmada no ambiente de implantação.
+
+6. Operações, equalização e exemplos numéricos
+
+6.1. Distribuição ordinária
+
+O exemplo de F5 utiliza primeira instância, A, B e C, um contador DEMAIS_CLASSES para cada um, peso 100 e saldo inicial 1. A sequência reproduz a ordem do exemplo e não comprova, por si, desempate alfabético.
+
+6.2. Substituição e redistribuição
+
+Na substituição administrativa cadastrada no simp-front e refletida em Tabelas Básicas, F5 informa que o contador não é transferido automaticamente: o vínculo permanece no titular B, e o histórico do protocolo registra D como substituto. Partindo de A=5, B=4 e C=4, uma distribuição ao vínculo de B resulta em A=5, B=5 e C=4, mesmo com D em exercício.
+
+F2 menciona contabilização retroativa de processos e movimentos para o substituto e, em outro trecho, preservação do vínculo original do contador. A interpretação conciliável é distinguir autoria/produção funcional dos movimentos de titularidade do contador; a retroatividade e seus relatórios precisam de validação. Preservar vínculo de contador não dispensa identificar quem atua nem as responsabilidades posteriores à designação previstas nos atos das Centrais.
+
+Para o protocolo P-123 originalmente distribuído a A, F5 descreve:
+
+Na segunda hipótese, a soma dos contadores cresce sem criação de novo protocolo: a contagem preserva a passagem anterior e registra a nova. Isso impede utilizar a soma como quantidade de protocolos únicos. “Movimento externo” é o critério técnico descrito; a lista de movimentos que o caracteriza precisa ser especificada pela TI.
+
+A ausência de incremento em distribuição manual é afirmação de F2 não demonstrada em F5. Se confirmada, poderá deixar carga efetivamente recebida fora do saldo que orienta a seleção automática. O uso frequente da modalidade, inclusive para rodízio semanal, pode distorcer a distribuição futura, conforme preocupação registrada em F7. Não se presume que deixar de incrementar seja sempre uma medida de equilíbrio.
+
+6.3. Equalização e saldo inicial
+
+A operação “Igualar Contador” modifica apenas o contador alvo, conforme F5:
+
+novaQtd = (qtdReferencia × pesoAlvo) / pesoReferencia
+
+A referência é descrita como o menor contador do grupo. F2 denomina “Membro Espelho” a referência escolhida pelo administrador. Com pesos distintos, é necessário confirmar se a escolha do menor utiliza saldo absoluto ou escore normalizado e quais restrições impedem referência inadequada. Os demais contadores permanecem inalterados.
+
+O cálculo usa Long e divisão inteira, com truncamento quando o resultado não é exato. Para valores não negativos, a fração é descartada para baixo. Os exemplos confirmam que equalizar pode reduzir o saldo ou mantê-lo; não significa necessariamente zerar. A operação ajusta a base de seleção e não apaga trabalho histórico.
+
+F2 associa a equalização ao retorno prolongado de férias ou licença e informa cerca de um minuto para sincronização dos servidores. Esse tempo é relato documental, não prazo garantido para a versão local. F1 também propõe discutir remoção, licença-maternidade, licença-saúde prolongada e alteração de atribuição. As hipóteses permitidas, o autorizador e o critério de referência precisam de formalização.
+
+Para ingresso de novo membro em grupo já ativo, F2 recomenda saldo inicial igual à média dos colegas, evitando concentração de entradas por saldo zero. Essa regra é distinta de igualar ao menor. A média bruta pode ser inadequada com pesos heterogêneos; propõe-se submeter à aprovação institucional um critério proporcional ao escore do grupo, com fórmula, arredondamento, data-base e justificativa definidos. Não se deve substituir silenciosamente uma regra pela outra.
+
+7. Auditabilidade, ciclo de vida e divergências consolidadas
+
+7.1. Cadastro, inativação e rastreabilidade
+
+F2 descreve inativação ou “Data de Fim” em Tabelas Básicas > Tabelas de Fluxo > Contador de Distribuição para suspender novas entradas, preservando histórico de prevenção. F1 registra ausência de especificação sobre exclusão lógica ou física. Preserva-se a funcionalidade relatada, mas a efetiva manutenção dos identificadores, saldos, relações e prevenções deve ser verificada na implementação.
+
+A exclusão física definitiva, inclusive em aposentadoria ou exoneração, permanece sem procedimento e impacto suficientemente demonstrados. Propõe-se desativação lógica com preservação de histórico; eventual eliminação exige política institucional de retenção e integridade referencial, sem confundir regras de descarte documental com autorização para eliminar registros de contadores.
+
+F2 atribui ao Super Mastiff logs com login, data, hora e IP, além de procedimento formal homologado pela Corregedoria para ajustes em produção. A própria fonte ressalva que auditoria de acesso e de documentos sigilosos não comprova tabelas específicas de evolução dos contadores. F7 relata que apenas o saldo atual é mantido e que a reconstrução depende dos movimentos. Não foi demonstrada trilha completa de valores anteriores e posteriores, peso, executor, justificativa e autorização para cada mutação. A exigência de homologação pela Corregedoria, tal como narrada em F2, precisa ser vinculada ao ato local competente.
+
+7.2. Matriz de cobertura e tratamento das diferenças
+
+O diagnóstico não constitui certificação de conformidade nem pontuação de maturidade. Distingue cobertura documental, divergência entre fontes e requisitos propostos, sem declarar inexistente uma capacidade apenas por falta de evidência.
+
+8. Proposta de criação e padronização dos contadores
+
+8.1. Princípios de configuração
+
+Cada recorte de distribuição deve ter universo de procedimentos, órgão competente, candidatos elegíveis, tipo técnico, precedência, pesos, saldos, vigência, exceções e fundamento registrados. O grupo deve ser completo para a atribuição e excluir destinatários sem competência. A distribuição judicial e extrajudicial pode compartilhar contador quando a atribuição e o modelo aprovado coincidirem; essa agregação não elimina a classificação de origem necessária aos relatórios.
+
+A proposta F3 recomenda separação cível/criminal de modo “irrevogável”. Consolida-se a diretriz como separação obrigatória enquanto persistirem atribuições distintas, sujeita a alteração formal de competência e configuração. Uma parametrização não pode impedir futura reorganização institucional válida.
+
+8.2. Modelo A — comarca com PJ única
+
+Criar um recorte único para a comarca, abrangendo procedimentos judiciais e extrajudiciais, independentemente de área ou classe, desde que todos pertençam à atribuição da única PJ. A distribuição é vinculada. Evita-se fracionamento que não produza distinção real de competência ou de concorrência [F3, F6 e F7].
+
+O tipo DEMAIS_CLASSES é candidato técnico para a cobertura geral, condicionado à validação da distribuição natural e à ausência de configuração superior que desvie o fluxo. O esquema exige um contador único, mas não determina seu identificador técnico. Substituições devem conservar o vínculo conforme o comportamento validado e registrar o membro em exercício.
+
+8.3. Modelo B — comarca por área de atuação
+
+Criar um recorte para cada área formalmente distinta, usando ATUACAO quando a associação entre classe e atuação representar integralmente a atribuição. Exemplos conceituais: PJ Área X e PJ Área Y; na organização relatada, cível e criminal. Cada destinatário concorrente deve possuir vínculo elegível no mesmo recorte lógico.
+
+A simetria exigida refere-se aos membros com a mesma atribuição, não a todas as PJs indiscriminadamente. Não se deve cadastrar contador criminal para membro exclusivamente cível com a finalidade de criar “contrapeso”. Se uma área contém especialidades distintas que ATUACAO não diferencia, adota-se recorte compatível por classes ou configuração mista validada.
+
+8.4. Modelo C — classes específicas e conjunto complementar
+
+Seja U o universo de classes da comarca ou área e S o subconjunto atribuído a uma PJ ou grupo especializado. A proposta é criar um recorte CLASSE_ESPECIFICA para S e um recorte para o complemento U \ S, destinado às demais PJs com atribuição. Ambos podem abranger procedimentos judiciais e extrajudiciais dentro das classes e competências definidas [F3 e F6].
+
+Regras de cobertura: S deve estar contido em U; a união de S com U \ S cobre U; a interseção entre esses dois conjuntos é vazia. Se houver especialidades concorrentes, a concorrência deve ser expressamente definida, sem exclusão artificial de membro competente.
+
+A expressão do esquema “independentemente da classe processual” não pode ser lida como ausência de filtro no modelo por classes. Consolida-se como agregação do judicial e extrajudicial dentro do conjunto de classes selecionado. O conjunto especializado não compreende classes fora de S.
+
+DEMAIS_CLASSES pode implementar o complemento como residual planejado, desde que sua consulta respeite o âmbito. Não é suficiente supor que ele contenha automaticamente a expressão U \ S. Se ATUACAO retornar candidatos antes de CLASSE_ESPECIFICA, o recorte especializado poderá nunca ser atingido. Nessa situação, devem ser ajustados tipos, filtros ou a lógica homologada para garantir a precedência pretendida.
+
+8.5. Modelo D — configuração mista
+
+Aplicar quando houver coexistência justificada de varas/juizados, áreas, núcleos e classes específicas. Elaborar matriz por grupo de procedimentos com tipo esperado, candidatos, precedência e exceções; testar os caminhos em que um nível anterior retorna resultado e aqueles em que retorna vazio. Cada tipo mantém seu saldo próprio, salvo regra de agregação expressamente demonstrada.
+
+O modelo misto oferece adaptação à complexidade, mas aumenta o risco de sobreposição, lacunas e concentração. Deve decorrer de atribuições regimentais, não de conveniência isolada do cadastro. O tipo Denúncia permanece vinculado ao Controle de Denúncias e deve ser validado separadamente, sem presumir sua inserção na hierarquia de F5.
+
+DEMAIS_CLASSES pode ser regra ordinária em PJ única ou grupo homogêneo sem resultado em nível superior, conforme F5. Isso corrige a recomendação absoluta de F3 de usá-lo somente como rede de segurança. Em configurações especializadas, sua utilização deve corresponder a um residual deliberadamente definido.
+
+8.6. Modelo cadastral mínimo proposto
+
+Propõe-se nome descritivo no padrão “COMARCA | ÁREA | SUBÁREA | ÁREA/RECORTE | TIPO”, acompanhado de identificador estável. O nome não substitui os filtros técnicos e não deve ser o único elemento de vinculação. Exemplos ilustrativos: “COMARCA A | 1ª | GERAL | DEMAIS_CLASSES”; “COMARCA B | 1ª | CÍVEL | ATUACAO”; “COMARCA B | 1ª | CLASSES S | CLASSE_ESPECIFICA”. Os exemplos não representam cadastros existentes.
+
+9. Governança proposta e controles sistêmicos
+
+O instrumento deverá disciplinar fórmula de escore, pesos e hipóteses de redução, tratamento de peso zero, saldo de ingresso, equalização, critérios de referência, truncamento, desempate, substituições, redistribuição, afastamentos, transição entre modelos e efeitos das modalidades excepcionais sobre a contagem.
+
+Motivação e autorização. Exigir motivo estruturado, justificativa textual, assinatura eletrônica do executor e vínculo ao ato ou procedimento autorizador para distribuição manual, redistribuição atípica, alteração de peso, saldo inicial excepcional e equalização. Definir alçadas e, quando aprovado para eventos sensíveis, segregação entre solicitação, aprovação e execução. O fluxo não pode impedir atendimento urgente legitimamente previsto em contingência.
+
+Histórico específico. Registrar eventos de criação, alteração, equalização, bloqueio, reativação e encerramento com contador, vínculo, protocolo quando houver, tipo de operação, data/hora, usuário, origem técnica disponível, valores anteriores e posteriores, peso, referência e fundamento. A consulta correicional deve permitir reconstrução direta sem depender exclusivamente de inferência a partir dos movimentos. Proteger o histórico contra alteração indevida e definir retenção e acesso conforme a política institucional.
+
+Perfis e ciclo de vida. Restringir alterações de Tabelas Básicas aos perfis necessários; preservar a consulta para fiscalização; adotar desativação lógica e controle de vigência; impedir perda de associação com protocolos históricos; conservar prevenção e responsabilidade conforme o ato aplicável.
+
+Relatórios. Manter as obrigações existentes e propor visão gerencial por comarca, área, classe, vara, órgão, membro, vínculo e modalidade, com distribuições e redistribuições, bloqueios, pesos, equalizações e exceções. Diferenciar saldo de seleção, total de entradas, protocolos únicos, produção do substituto e acervo. Incluir alertas para concentração inesperada, candidato indevidamente ausente e uso recorrente de distribuição manual.
+
+Referências e rastreabilidade documental
+
+F1. Parecer Técnico: Distribuição de Procedimentos e Contadores no Sistema SIM/SIMP. Arquivo Markdown fornecido e repetido nos ZIPs, com conteúdo idêntico. Base de princípios, fluxos, cálculo, riscos e recomendações.
+
+F2. Gestão de Distribuição e Contadores no Sistema SIMP. Markdown incluído nos ZIPs. Segunda análise integrada, com descrições de interface, peso zero, ingresso, auditoria, sincronização e riscos de substituição.
+
+F3. Proposta_Padronizacao_Contadores.docx e Proposta_Padronizacao_Contadores(1).docx. Cópias idênticas. A proposta foi integrada e suas citações internas não resolvidas foram substituídas por referências identificáveis neste documento.
+
+F4. TIPOS DE CONTADOR NO SISTEMA SIMP. Markdown fornecido separadamente e nos ZIPs. Catálogo de cinco tipos.
+
+F5. Exemplo prático: distribuição de protocolos, substituição e igualar contadores. PDF de 11 páginas, com impressão indicada em 30/07/2026. Cenário e distribuição: pp. 1–3; substituição/redistribuição: pp. 3–5; equalização: pp. 5–6; hierarquia e concentração: pp. 6–11.
+
+F6. Esquema visual anexado, reenviado na segunda mensagem. Modelos de PJ única, área de atuação e conjunto específico com complemento. A representação conceitual foi traduzida nas seções 5 e 8.
+
+F7. SIM Daily — 2026/09/08, 08h33 GMT-03:00 — Anotações do Gemini. Registro de reunião e encaminhamentos, sujeito à confirmação pelos participantes. Foram incorporados os elementos pertinentes à distribuição, contadores e dependências de implantação.
+
+N1. Resolução PGJ nº 001/2020 — SIM, cópia Word intitulada “Alterações validadas pelo CGSAF”: arts. 5º, 8º, 9º, § 3º, 10, 12 a 14. O status das alterações dessa cópia deve ser confirmado antes de sua citação como redação publicada.
+
+N2. Resolução PGJ nº 12/2026, publicação fornecida de 09/06/2026: piloto judicial na 23ª PJ de Defesa da Cidadania da Capital, com integração ao PJe; arts. 1º a 9º. Prevê avaliação após 30 dias e possibilidade de prorrogação por igual período. O ato de piloto não comprova, isoladamente, autorização irrestrita de implantação definitiva em todas as unidades.
+
+N3. Resolução CPJ nº 11/2024, de 11/07/2024: normas das Centrais de Inquéritos, especialmente arts. 3º, 7º a 17 e 19 a 23. Duas reproduções foram fornecidas; utilizou-se a cópia com texto recuperável para a conferência dos dispositivos.
+
+N4. Resolução CSMP nº 003/2019, especialmente arts. 2º, § 1º, 20 e 28 a 29, considerada com a Resolução CSMP nº 03/2025, que altera os arts. 31 e 32 relativos aos prazos de inquérito civil e procedimento preparatório. Essa alteração não estabelece fórmula de contadores. Foram fornecidas versões de 2019 e texto consolidado em anexo ao ato de 2025.
+
+N5. Resolução CPJ nº 002/2018 — instauração e tramitação do PIC; referência à Instrução Normativa conjunta PGJ/CGMP nº 001/2011 na distribuição de peças informativas.
+
+N6. Resolução CPJ nº 009/2016 — alterações do Regimento Interno do CPJ: distribuição, relatoria, revisão, impedimento e suspeição.
+
+N7. Resolução PGJ nº 006/2011 — distribuição de inquéritos policiais e procedimentos de investigação criminal onde há múltiplos promotores criminais e não há Central de Inquéritos; arts. 1º e 2º.
+
+N8. Ato PROCCV nº 02/2014 — funcionamento do Setor de Distribuição da Procuradoria de Justiça Cível; arts. 5º a 8º, no contexto do Arquimedes.
+
+N9. Resoluções locais: CENTINQCAP nº 01/2024; CINQ Jaboatão nº 01/2024; CINQ Paulista nº 01/2024; Coordenação Administrativa da Sede de PJs de Paulista nº 001/2019 e nº 002/2019. Regras e alcance diferenciados na seção 4.2.
+
+N10. Aviso CGMP nº 031/2020 — recepção de feitos do TJPE digitalizados e encaminhados eletronicamente, no contexto da decisão do CNJ e da pandemia indicado no aviso. Referência de fluxo documental, sem disciplina matemática de contadores.
+
+N11. Atos Administrativos MPMT nº 567/2016 e nº 694/2018 — procedimentos extrajudiciais eletrônicos e gestão documental. Utilizados como referências comparadas de registro eletrônico, autenticidade, integridade e preservação. Não demonstram os parâmetros locais de distribuição, o minuto de sincronização nem os logs específicos de alteração de saldo atribuídos a manuais em F2. O manual completo do usuário e os relatórios de homologação mencionados nas análises não foram identificados como anexos autônomos, além do exemplo F5.
+
+[Tabela] Local e ato | Regra documentada | Consequência para a configuração
+
+[Tabela] Paulista, Coordenação Administrativa nº 001/2019, art. 2º | Bloqueio nos três dias úteis anteriores a férias, afastamento voluntário ou término da designação | Considerar calendário de dias úteis e data efetiva do afastamento
+
+[Tabela] Paulista, nº 002/2019, art. 1º | Presos e cautelares preventos à PJ bloqueada são redistribuídos nesse intervalo; no retorno posterior dos autos, observa-se a primeira distribuição | Conservar referência à distribuição originária e registrar a redistribuição
+
+[Tabela] Paulista, CINQ nº 01/2024, art. 1º | Responsabilidade por devolver apreciados os procedimentos distribuídos persiste após a designação | Distinguir fim do vínculo de novas entradas da responsabilidade por feitos recebidos
+
+[Tabela] Jaboatão, CINQ nº 01/2024, art. 1º | Mesma responsabilidade após designação, inclusive substituição automática conforme tabela | Validar tabela de substituição e responsável pelo procedimento
+
+[Tabela] Capital, CENTINQCAP nº 01/2024, art. 1º | Exercício simultâneo em substituição por até 30 dias mantém responsabilidade pelos procedimentos recebidos, mesmo após o período | Preservar histórico e responsabilidade; eficácia indicada a partir de 01/12/2024
+
+[Tabela] Tipo | Finalidade documentada | Observação de aplicação
+
+[Tabela] Denúncia | Contar documentos distribuídos pelo Controle de Denúncias | Fluxo próprio; F5 não informa sua posição na hierarquia geral
+
+[Tabela] Varas/Juizados — VARAS_JUIZADOS | Contar distribuições por vara/juizado, considerando classes vinculadas | Prioridade anterior aos demais tipos do fluxo descrito
+
+[Tabela] Atuação — ATUAÇÃO | Contar por tipo de atuação | Corresponde ao tipo “ÁREA” do esquema, sujeito ao mapeamento cadastral
+
+[Tabela] Classe Específica — CLASSE_ESPECIFICA | Contar por classe jurídica, considerando classes vinculadas | Permite delimitar conjunto explícito de classes
+
+[Tabela] Demais Classes — DEMAIS_CLASSES | Contar as demais classes jurídicas | Pode ser residual planejado ou regra geral quando não há resultado em nível superior
+
+[Tabela] Prioridade em F5 | Tipo | Condição e resultado
+
+[Tabela] 1–2 | VARAS_JUIZADOS | Protocolo com vara vinculada; as duas prioridades internas não são detalhadas
+
+[Tabela] 3 | ATUAÇÃO | Classe com atuação preenchida e consulta com candidatos elegíveis
+
+[Tabela] 4 | CLASSE_ESPECIFICA | Avaliação pelas classes vinculadas, sem pré-condição adicional indicada em F5
+
+[Tabela] 5 | DEMAIS_CLASSES | Alternativa residual quando os níveis anteriores não retornam candidatos
+
+[Tabela] Configuração | Contador efetivo | Efeito
+
+[Tabela] Todos os concorrentes com ATUACAO aplicável | ATUACAO | Seleção pelo escore; DEMAIS_CLASSES permanece estático nesse fluxo
+
+[Tabela] Apenas A com ATUACAO aplicável | ATUACAO de A | A recebe 100% das distribuições desse universo; B e C ficam excluídos
+
+[Tabela] Nenhum com ATUACAO e sem resultado em CLASSE_ESPECIFICA | DEMAIS_CLASSES | Distribuição normal entre A, B e C, mesmo com atuação preenchida nas classes
+
+[Tabela] Distribuição | A | B | C
+
+[Tabela] Inicial | 1 | 1 | 1
+
+[Tabela] 1 | 2 | 1 | 1
+
+[Tabela] 2 | 2 | 2 | 1
+
+[Tabela] 3 | 2 | 2 | 2
+
+[Tabela] 4 | 3 | 2 | 2
+
+[Tabela] 5 | 3 | 3 | 2
+
+[Tabela] 6 | 3 | 3 | 3
+
+[Tabela] 7 | 4 | 3 | 3
+
+[Tabela] 8 | 4 | 4 | 3
+
+[Tabela] 9 | 4 | 4 | 4
+
+[Tabela] 10 | 5 | 4 | 4
+
+[Tabela] Evento | Alteração | Exemplo a partir de A=5, B=5, C=5
+
+[Tabela] Destinatário muda de A para B, sem movimento externo desde a última distribuição/redistribuição | A −1; B +1 | A=4, B=6, C=5
+
+[Tabela] Destinatário muda de A para B, com movimento externo | A permanece; B +1 | A=5, B=6, C=5
+
+[Tabela] Redistribuição para o mesmo vínculo de contador | Nenhum incremento ou decremento | A=5, B=5, C=5
+
+[Tabela] Situação | Cálculo | Resultado
+
+[Tabela] A=12, B=5, C=5; todos peso 100; igualar A por B | 5 × 100 / 100 | A=5, B=5, C=5
+
+[Tabela] Alvo A: saldo 20, peso 100; referência B: saldo 10, peso 50 | 10 × 100 / 50 | A permanece 20
+
+[Tabela] Alvo B: saldo 30, peso 50; referência A: saldo 20, peso 100 | 20 × 50 / 100 | B passa a 10
+
+[Tabela] Tema | Evidência consolidada | Tratamento
+
+[Tabela] Escore, incremento, redistribuição e fórmula de equalização | Detalhados em F5 e convergentes nas análises | Adotar como referência técnica; validar na versão executada
+
+[Tabela] Desempate | Peso/classificação em F5; nome alfabético em F2 | Conferir código, estabilidade e nomes iguais
+
+[Tabela] Justificativa manual | F1 aponta ausência; F2 descreve campo e relatório; art. 29 da CSMP exige motivação em hipótese específica | Preservar obrigação normativa específica; comprovar validação em tela
+
+[Tabela] Distribuição manual sem incremento | Somente F2 descreve o efeito numérico | Testar e avaliar repercussão na carga
+
+[Tabela] Substituição | F5 mantém vínculo; F2 menciona retroatividade de produção | Separar titularidade, exercício e autoria; validar retroatividade
+
+[Tabela] Peso zero, saldo inicial médio e sincronização de um minuto | Relatados em F2 | Não presumir implementação nem normatização local
+
+[Tabela] Auditoria de saldo e permissões de equalização | Auditoria genérica prevista; trilha de mutação não demonstrada; F7 relata limitação | Definir campos, perfis, retenção, fiscalização e histórico específico
+
+[Tabela] Inativação lógica e exclusão física | F2 descreve Data de Fim; impactos definitivos não comprovados | Validar integridade, prevenção e preservação dos vínculos
+
+[Tabela] Segunda instância e multivínculo | Regras institucionais próprias; detalhes técnicos parciais | Homologar por órgão, local e câmara
+
+[Tabela] Mais de três membros simultâneos | F2 relata instabilidade acima de 03; F7 relata problema de substituição múltipla sem fixar limite | Tratar como risco a reproduzir, não limite oficial comprovado
+
+[Tabela] Secretarias compartilhadas | Há previsão de organização interna; filas do SIMP não especificadas | Documentar separadamente a distribuição administrativa
+
+[Tabela] Grupo de dados | Campos mínimos para aprovação e implantação
+
+[Tabela] Identificação | Código estável, nome, comarca, instância, órgão/PJ, secretaria e local de trabalho
+
+[Tabela] Recorte | Tipo técnico, área, classes incluídas, conjunto residual, varas/juizados, núcleo e módulo de origem
+
+[Tabela] Participação | Membros e vínculos elegíveis, titularidade, substitutos, restrições e pesos
+
+[Tabela] Contagem | Saldo inicial, data-base, critério adotado, referência de equalização e regra de arredondamento
+
+[Tabela] Vigência | Início, fim, situação ativa, afastamentos, bloqueio e calendário aplicável
+
+[Tabela] Governança | Ato de atribuição, justificativa, solicitante, aprovador, executor, evidência de teste e versão
+
+[Tabela] Auditoria | Identificador do evento, data/hora, valores antes/depois, motivo e procedimento autorizador

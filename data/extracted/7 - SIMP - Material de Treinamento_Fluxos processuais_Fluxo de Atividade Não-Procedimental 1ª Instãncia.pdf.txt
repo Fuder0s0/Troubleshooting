@@ -1,0 +1,143 @@
+DOCUMENTO: 7 - SIMP - Material de Treinamento\Fluxos processuais\Fluxo de Atividade Não-Procedimental 1ª Instãncia.pdf
+PASTA: 7 - SIMP - Material de Treinamento
+TAMANHO: 0.56 MB
+
+--- [Página 1] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+1 
+ 
+História de usuário: Fluxo Atividade Não-Procedimental 1ª Instância 
+ 
+ 
+Etapa 1: O Cadastro da Atividade 
+O fluxo se inicia quando uma nova tarefa (que não é um protocolo formal) precisa ser registrada no 
+sistema, especificamente para controle de prazo. 
+Quem Atua: Servidor ou Membro. 
+Ação (Clicar): O usuário clica na opção de menu "Cadastrando Protocolo ou Atividade não 
+procedimental". 
+O que Acontece (Nova Tela): O sistema abre a tela de cadastro, que é um fluxo guiado dividido em 
+etapas sequenciais. 
+Detalhe do Fluxo Guiado: 
+Tela "Etapa Tipo de cadastro": O usuário seleciona a opção "Atividade não procedimental". 
+Telas seguintes: O usuário preenche as etapas "Etapa Classificação Taxonômica", "Etapa Dados 
+Gerais" e "Etapa vínculo de Partes e Vítimas". 
+Tela "Etapa Atividade não procedimental": O usuário preenche os campos finais específicos da 
+atividade. 
+Resultado: Ao confirmar, a Atividade Não Procedimental é oficialmente cadastrada. O sistema 
+automaticamente gera um prazo para seu gerenciamento. 
+ 
+ 
+Etapa 2: Acompanhamento na "Aba Prazos" 
+Diferente de um protocolo, a atividade não tramita para a pasta "A Receber". Ela passa a ser 
+gerenciada diretamente pelo seu prazo de vencimento no calendário da Área de Trabalho. 
+Quem Atua: Servidor ou Membro. 
+Ação (Acessar Tela): O usuário acessa a Área de Trabalho > Aba Prazos (localizada no menu lateral 
+esquerdo do SIMP). 
+O que Acontece (Tela Calendário): O sistema exibe um calendário. O usuário pode (e deve) filtrar a 
+visualização clicando no botão-filtro "Atividade não procedimental" no topo da tela. 
+Ação (Clicar Dia): O usuário clica no dia desejado. O sistema exibe, na parte inferior do calendário, 
+uma lista das atividades com prazo vencendo naquele dia. 
+Ação (Clicar Atividade): O usuário clica no número de registro da atividade desejada. 
+O que Acontece (Popup): Uma janela "Informações do protocolo" (popup) é exibida sobre a tela. 
+Detalhe do Popup: O popup exibe as informações específicas deste tipo de prazo: 
+Tipo do Protocolo: "Atividade Não Procedimental" 
+Número de Registro no SIMP 
+Dias para o vencimento 
+Data de vencimento 
+Atividade: (O nome/descrição da tarefa cadastrada) 
+Usuário criador 
+Descrição do prazo 
+ 
+Etapa 3: Manuseio e Finalização da Atividade (Fim do Fluxo) 
+O "manuseio" de uma Atividade Não Procedimental consiste essencialmente em gerenciar seu prazo. 
+As ações são acessadas diretamente pela "Aba Prazos". 
+Quem Atua: Servidor ou Membro. 
+
+--- [Página 2] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+2 
+ 
+Opção A: Prorrogar 
+Ação (Clicar): O usuário localiza o prazo (conforme Etapa 2) e utiliza a função "Prorrogar". 
+Resultado: O sistema executa uma "redesignação" automática, permitindo que o usuário defina uma 
+nova data de vencimento. 
+ 
+Opção B: Redesignar 
+Ação (Clicar): O usuário utiliza a função "Redesignação". 
+Resultado: O sistema permite a alteração do prazo que foi estipulado para a atividade. 
+Opção C: Encerrar (Finalização do Fluxo) 
+Ação (Clicar): Quando a tarefa é concluída, o usuário localiza o prazo (conforme Etapa 2) e deve 
+encerrar o prazo manualmente (ex: clicando em "Encerrar"). 
+Resultado: O prazo é finalizado e removido da lista de pendências. 
+Importante: Se o usuário não encerrar o prazo manualmente, a atividade continuará "aberta" no 
+sistema. O SIMP continuará gerando avisos e e-mails sobre o vencimento de uma tarefa que, na 
+prática, já foi executada. 
+ 
+Etapa 4: Consulta (Pós-Fluxo) 
+Para localizar Atividades Não Procedimentais que já foram encerradas ou que estão fora do calendário 
+visível, o usuário utiliza o módulo de consulta. 
+Quem Atua: Servidor ou Membro. 
+Ação (Acessar Tela): O usuário acessa a funcionalidade "Consultando informações". 
+O que Acontece (Nova Tela): O sistema exibe a tela específica "Consulta de Atividade Não 
+Procedimental". 
+Resultado: O usuário pode pesquisar o histórico de todas as atividades cadastradas. 
+ 
+Etapa Ação Principal Quem Atua Detalhes e Diferença do Fluxo 
+1 O Cadastro da Atividade Servidor ou Membro 
+Diferenciação Principal:  O usuário clica em 
+"Cadastrando Protocolo ou Atividade não 
+procedimental" e seleciona a opção 
+"Atividade não procedimental" . O sistema 
+gera um prazo automático. 
+2 Acompanhamento e Visualização Servidor ou Membro 
+Diferenciação Principal: O fluxo não utiliza o 
+"Gabinete Virtual"  (pastas A 
+Receber/Recebidos). O gerenciamento é feito 
+exclusivamente pela "Área de Trabalho > Aba 
+Prazos", filtrando pelo botão "Atividade não 
+procedimental". 
+3 
+Manuseio e 
+Finalização (Fim do 
+Fluxo) 
+Servidor 
+ou 
+Membro 
+Diferenciação Principal: O fluxo não envolve 
+"Distribuição ao Membro", "Criação de Minuta" 
+ou "Peticionamento PJe". A finalização ocorre 
+
+--- [Página 3] ---
+ 
+Ministério Público de Pernambuco 
+Coordenadoria Ministerial de Tecnologia da Informação 
+Departamento Ministerial de Soluções de TI 
+ 
+ 
+3 
+ 
+Etapa Ação Principal Quem Atua Detalhes e Diferença do Fluxo 
+quando o usuário encerra o prazo 
+manualmente na "Aba Prazos". 
+4 Consulta (Pós-Fluxo) 
+Servidor 
+ou 
+Membro 
+O usuário localiza o histórico de atividades 
+através da tela "Consulta de Atividade Não 
+Procedimental". 
+ 
+ 
+ 
+ 
+*** 

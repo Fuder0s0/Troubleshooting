@@ -1,0 +1,207 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.52 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+12 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 15 de outubro de 2025 às 09:29
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>
+Como parte de nosso planejamento, gostaríamos de entender o procedimento de configuração e implantação de uma Promotoria de Justiça no sistema.
+Imagine o cenário de uma promotoria de justiça que tenha sido criada.
+Qual seria o passo a passo para que essa PJ apareça no SIMP4 e os usuários possam acessar o gabinete dessa PJ?
+Gostaríamos de saber:
+Existe um procedimento ou um passo a passo sequencial que envolve o SIMP, o Mastiff, Tabelas Básicas, scripts e/ou outras configurações realizadas para viabilizar a implantação de uma nova
+promotoria?
+Se sim, vocês poderiam compartilhar esse procedimento conosco?
+Há alguma documentação disponível que detalhe os passos, as atividades, os dados e os perfis envolvidos nesse processo?
+Agradecemos a colaboração mais uma vez!
+Atenciosamente
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 20 de outubro de 2025 às 12:45
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>
+Prezado Daniel, como vai?
+Em complemento ao email anterior, seria possível agendarmos uma reunião com a área dos CAADs?
+Pode ser algum líder do CAAD que você conheça ou que possa indicar. 
+Nosso time de negócio gostaria de realizar alguns entendimentos sobre as rotinas do CAAD. O objetivo é concluirmos nossa avaliação sobre se precisaremos criar uma área semelhante, ou se poderemos
+adequar nossa área interna de Protocolo para esta finalidade.
+Grato desde já!
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 20 de outubro de 2025 às 19:04
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto
+<enrique.carlotto@mpmt.mp.br>, Edson dos Santos Bom Despacho <edson.bomdespacho@mpmt.mp.br>
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 1/7
+
+--- [Página 2] ---
+Boa tarde Lucio.
+Como essa criação é muito tranquila e de conhecimento geral, não temos um passo a passo.
+Mas posso citar alguns passos aqui:
+- Tabelas Básicas > Local: Criação do local (ex: 1ª Promotoria de Justiça Criminal)
+- Mastiff: Criação dos usuários e respectivo vínculo ao local criado
+- Mastiff: vincular permissões adicionais para cadastro de processos (simp-protocolo e simp-distribuicao-1a)
+- Tabelas Básicas > Promotor de justiça: cadastrar o promotor que atuará nesse local
+Vinculando áreas, locais e contadores
+Estas são as etapas básicas, mas que podem derivar a depender da situação.
+Se precisar de mais detalhes, é só falar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quarta-feira, 15 de outubro de 2025 08:29
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>
+Assunto: MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+ 
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 20 de outubro de 2025 às 19:05
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Claro Lucio.
+Consegue sugerir uns 3 dias e horários a tarde?
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 2/7
+
+--- [Página 3] ---
+Que vejo com o pessoal de lá.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: segunda-feira, 20 de outubro de 2025 11:45
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>
+Assunto: Re: MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 21 de outubro de 2025 às 09:29
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>, Julio Maravitch Mauricio Neto
+<julio@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>,
+Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Simony Oliveira <msimony@mppe.mp.br>, "Nathália Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>, Mario Vieira da Silva Neto
+<mario.silva@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>
+PSC
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 21 de outubro de 2025 às 12:19
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Olá, Daniel. Tudo bem?
+Seguem as sugestões de data: 
+22/10 (quarta), 
+23/10 (quinta), 
+24/10 (sexta), 
+27/10 (segunda)
+Pode ser em qualquer horário no período da tarde, o que for melhor pra vocês.
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 3/7
+
+--- [Página 4] ---
+Grato pelo retorno!
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 21 de outubro de 2025 às 12:33
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto
+<enrique.carlotto@mpmt.mp.br>, Edson dos Santos Bom Despacho <edson.bomdespacho@mpmt.mp.br>
+Prezado Daniel, 
+Grato pelo retorno mais uma vez.
+Surgiu uma nova dúvida aqui sobre o processo de implantação:
+Vocês acham que seria necessário alterar os fluxos existentes ou cadastrar novos fluxos?
+Qual é a lógica de execução das 'Ações adicionadas' em relação às 'Condições adicionadas' dentro de um fluxo? 
+As 'Ações adicionadas' (como LANCAR_MOVIMENTO_1A_INSTANCIA) são executadas somente se todas as 'Condições adicionadas' forem verdadeiras (lógica AND), ou existe uma forma de definir regras
+de execução mais complexas (lógica OR ou condicionais encadeadas)?"
+Atenciosamente
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 21 de outubro de 2025 às 15:32
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Lucio, confirmei com a responsável: Raquel Dioz.
+No dia 27/10 emendou com o facultativo do dia 28.
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 4/7
+
+--- [Página 5] ---
+Pode ser no dia 29/10 às 16h (Brasília) ?
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: terça-feira, 21 de outubro de 2025 11:19
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>; Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 21 de outubro de 2025 às 15:52
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Dia 29/10 às 16h (Brasília) está ótimo.
+Enviarei o convite na agenda. Muito obrigado!
+[Texto das mensagens anteriores oculto]
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 21 de outubro de 2025 às 18:41
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto
+<enrique.carlotto@mpmt.mp.br>, Edson dos Santos Bom Despacho <edson.bomdespacho@mpmt.mp.br>
+Olá Lucio.
+Acredito que não precisa alterar os fluxos.
+Mas é bom repassar um a um, para saber se possuem a mesma necessidade.
+A funcionalidade de fluxos é uma das mais complexas que temos e tem pouco manutenção/melhoria justamente para não prejudicar as regras
+atuais.
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 5/7
+
+--- [Página 6] ---
+Passo para validação de fluxo;
+- Cria-se um Bloco para ser acionado
+- No código fonte, é implementado a chamada desse bloco
+- Então cria-se um fluxo desse bloco
+No exemplo citado, no código fonte do "Movimentar" tem uma implementação chamando o bloco LANCAR_MOVIMENTO_1A_INSTANCIA .
+Que então acionará a validação das Condições adicionadas. 
+Neste caso, todas as condições devem ser atendidas para que o fluxo seja executado.
+Não há condição lógica OR, nem condições encadeadas.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: terça-feira, 21 de outubro de 2025 11:33
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>; Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>; Enrique
+Carlotto <enrique.carlotto@mpmt.mp.br>; Edson dos Santos Bom Despacho <edson.bomdespacho@mpmt.mp.br>
+Assunto: Re: MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 21 de outubro de 2025 às 21:50
+Para: Lamartine Almeida Teixeira <lalmeida@mppe.mp.br>, Rudiney De Lacerda Barbosa <rudiney.lacerda@mppe.mp.br>, Felipe Maciel Ramos Vieira <felipe.ramos@mppe.mp.br>, Danilo Da Costa Pereira
+<danilo.costa@mppe.mp.br>, Julio Maravitch Mauricio Neto <julio@mppe.mp.br>, Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Tarcisio
+Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Mario Vieira da Silva Neto <mario.silva@mppe.mp.br>, Simony Oliveira <msimony@mppe.mp.br>, "Nathália
+Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>, Carlos Dias <carlos.dias@netra.global>, Danielle Maria Lopes <danielle.maria@mppe.mp.br>
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 6/7
+
+--- [Página 7] ---
+PSC
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Date: ter., 21 de out. de 2025 às 18:41
+Subject: RE: MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+To: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+[Texto das mensagens anteriores oculto]
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 14 de janeiro de 2026 às 10:10
+Para: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Danilo Da Costa Pereira <danilo.costa@mppe.mp.br>
+---------- Forwarded message ---------
+De: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Date: seg., 20 de out. de 2025 às 19:04
+Subject: RE: MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+To: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Manoel Heleno Ramos de Mendonca <manoelh@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>, Enrique Carlotto
+<enrique.carlotto@mpmt.mp.br>, Edson dos Santos Bom Despacho <edson.bomdespacho@mpmt.mp.br>
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:05 E-mail de Ministério Público de Pernambuco - MPPE - Sobre roteiro para implantação de uma PJ no SIMP4 do MPMT
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r-8052030001492328928&simpl=msg-a:r-3075191934288655961&simpl=msg-a:r-974867417964722100&simpl=msg-f:1846… 7/7

@@ -1,0 +1,438 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\DESMTI - SIMP - Relatório de Avaliação.docx
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.03 MB
+
+AVALIAÇÃO 
+
+DE VIABILIDADE DE 
+
+ADOÇÃO DO SISTEMA SIMP
+
+O diagrama apresentado, ele descreve a arquitetura do Sistema SIMP (MPMT), detalhando seus módulos principais e adjacentes, integrações com sistemas internos e serviços de infraestrutura, componentes e serviços externos.
+
+Relatório dos Componentes do Sistema SIMP (MPMT):
+
+O sistema SIMP (MPMT) é composto por diversas partes interconectadas, que podem ser agrupadas nas seguintes categorias:
+
+1. Módulos Principais e Adjacentes:
+
+Esta seção representa as funcionalidades centrais e os módulos de apoio do sistema.
+
+EJ Cível (Execução Judicial Cível): Módulo responsável pela gestão dos processos de execução judicial na área cível.
+
+Gabinete Virtual: Ferramenta para o trabalho virtual dos gabinetes dos magistrados.
+
+Protocolo Virtual (CARD): Sistema para registro e controle eletrônico de documentos e processos.
+
+EJ Criminal (Execução Judicial Criminal): Módulo para a gestão dos processos de execução penal na área criminal.
+
+Assistente IA: Indica a presença de um assistente baseado em Inteligência Artificial para auxiliar em tarefas.
+
+Distribuição: Módulo para a distribuição eletrônica de processos.
+
+JUD Cível (Judicial Cível): Módulo principal para a tramitação de processos judiciais na área cível.
+
+Configuração de Fluxos: Ferramenta para a definição e gerenciamento dos fluxos de trabalho dentro do sistema.
+
+T. Eletrônica (Tramitação Eletrônica): Refere-se à funcionalidade de tramitação de processos de forma eletrônica.
+
+PROC JUD (Processo Judicial): Módulo genérico para a gestão de processos judiciais.
+
+Inquéritos: Módulo específico para a gestão de inquéritos policiais.
+
+JUD Criminal (Judicial Criminal): Módulo principal para a tramitação de processos judiciais na área criminal.
+
+Relatórios: Funcionalidade para geração de relatórios diversos sobre os processos e atividades do sistema.
+
+Corregedoria: Módulo relacionado às atividades da corregedoria.
+
+PROC EXE PEN (Processo de Execução Penal) - MNI CNJ: Módulo para a gestão dos processos de execução penal, integrado ao MNI (Monitoramento Nacional de Indicadores) do CNJ (Conselho Nacional de Justiça).
+
+Controle de Prazos: Funcionalidade para o monitoramento e controle dos prazos processuais.
+
+PROC ELEITORAL - MNI TRE: Módulo para a gestão dos processos eleitorais, integrado ao MNI do TRE (Tribunal Regional Eleitoral).
+
+Eleitoral: Módulo principal para a tramitação de processos na área eleitoral.
+
+Sistemas Externos (que interagem com o SIMP):
+
+PJC - (Sistema GEIA): Indica uma integração com o sistema GEIA da Polícia Judiciária Civil.
+
+TJMT: Tribunal de Justiça de Mato Grosso (origem ou destino de informações/processos).
+
+SEEU CNJ: Sistema Eletrônico de Execução Unificada do Conselho Nacional de Justiça.
+
+PJE TRE: Processo Judicial Eletrônico dos Tribunais Regionais Eleitorais.
+
+APFD: Auto de Prisão em Flagrante Delito (possível integração para recebimento de informações).
+
+2. Integrações com Sistemas Internos:
+
+Esta seção lista outros sistemas internos que se integram com o SIMP para troca de dados e funcionalidades.
+
+Procuradoria Virtual: Ferramenta virtual para as atividades da procuradoria.
+
+Banco de Projetos (BAPRE): Sistema para gestão de projetos.
+
+Tabelas Gerais: Refere-se a tabelas de dados utilizadas pelo sistema.
+
+Serviço de Relatório: Serviço interno para geração de relatórios específicos.
+
+SISPLAN: Sistema de planejamento.
+
+Massif (Gestão de usuários): Sistema para gestão de usuários e suas permissões.
+
+Serviço de BI (Business Intelligence) - Data Lake/Datena: Serviço de inteligência de negócios utilizando um Data Lake (repositório de dados) e possivelmente a ferramenta Datena.
+
+Hermes (Notificações): Sistema para envio e gestão de notificações eletrônicas.
+
+ESCRITA (Manuscritos): Possível sistema para gestão de documentos manuscritos ou digitalizados.
+
+JMLC (Laudos e investigações): Sistema para gestão de laudos e informações de investigações.
+
+3. Serviços de Infraestrutura, Componentes & Serviços Externos:
+
+Esta seção descreve a infraestrutura de TI, componentes de hardware/software e serviços externos que suportam o funcionamento do SIMP.
+
+Assinatura Digital SERV: Serviço de assinatura digital.
+
+Mini Storage: Solução de armazenamento de dados de menor escala.
+
+Outros provedores de armazenamento importantes: Indica a utilização de outros serviços de armazenamento relevantes.
+
+Google GEMINI: Possível integração ou utilização de serviços do Google Gemini (uma IA conversacional).
+
+Diversas rotinas em batch (COMPLEMENTO ao sistema): Execução de tarefas automatizadas em lote para complementar o sistema.
+
+Workstation com NVIDIA RTX 2080: Estações de trabalho com placas gráficas NVIDIA RTX 2080, sugerindo o uso de aplicações que exigem poder de processamento gráfico.
+
+HELP DESK (COMPLEMENTO): Serviço de suporte técnico para o sistema.
+
+BAMBOO (BUILD): Ferramenta de integração contínua e entrega contínua (CI/CD) para a construção e implantação do sistema.
+
+Atlassian Confluence Management: Utilização do Confluence da Atlassian para gestão do conhecimento e colaboração.
+
+Em resumo, o Sistema SIMP (MPMT) é uma plataforma complexa e integrada, que abrange diversos módulos para a gestão processual em diferentes áreas do direito, além de se conectar com outros sistemas internos e externos e contar com uma infraestrutura tecnológica robusta. Os "triângulos vermelhos com exclamação" no diagrama podem indicar alertas, problemas ou pontos de atenção em relação a essas integrações ou módulos, mas sem mais contexto, sua interpretação precisa seria especulativa.
+
+O diagrama ilustra a arquitetura do Sistema SIMP (MPMT), detalhando seus módulos principais e adjacentes, as integrações com sistemas internos e serviços de infraestrutura, bem como componentes e serviços externos.
+
+Relatório dos Componentes do Sistema SIMP (MPMT):
+
+O SIMP (MPMT) é um sistema composto por diversas partes interconectadas, que se agrupam nas seguintes categorias:
+
+1. Módulos Principais e Adjacentes:
+
+Esta seção descreve as funcionalidades centrais e de apoio do sistema:
+
+EJ Cível (Execução Judicial Cível): Gerencia os processos de execução judicial cível.
+
+Gabinete Virtual: Facilita o trabalho virtual dos magistrados.
+
+Protocolo Virtual (CARD): Registra e controla eletronicamente documentos e processos.
+
+EJ Criminal (Execução Judicial Criminal): Gerencia os processos de execução penal criminal.
+
+Assistente IA: Indica a presença de inteligência artificial para auxílio em tarefas.
+
+Distribuição: Realiza a distribuição eletrônica de processos.
+
+JUD Cível (Judicial Cível): Módulo principal para a tramitação de processos judiciais cíveis.
+
+Configuração de Fluxos: Permite definir e gerenciar fluxos de trabalho.
+
+T. Eletrônica (Tramitação Eletrônica): Funcionalidade de tramitação eletrônica de processos.
+
+PROC JUD (Processo Judicial): Módulo genérico para gestão de processos judiciais.
+
+Inquéritos: Módulo específico para gestão de inquéritos policiais.
+
+JUD Criminal (Judicial Criminal): Módulo principal para a tramitação de processos judiciais criminais.
+
+Relatórios: Gera relatórios sobre processos e atividades do sistema.
+
+Corregedoria: Módulo relacionado às atividades da corregedoria.
+
+PROC EXE PEN (Processo de Execução Penal) - MNI CNJ: Gerencia processos de execução penal, integrado ao MNI do CNJ.
+
+Controle de Prazos: Monitora e controla prazos processuais.
+
+PROC ELEITORAL - MNI TRE: Gerencia processos eleitorais, integrado ao MNI do TRE.
+
+Eleitoral: Módulo principal para a tramitação de processos eleitorais.
+
+Sistemas Externos (com interação com o SIMP):
+
+PJC - (Sistema GEIA): Integração com o sistema GEIA da Polícia Judiciária Civil.
+
+TJMT: Tribunal de Justiça de Mato Grosso (origem ou destino de informações/processos).
+
+SEEU CNJ: Sistema Eletrônico de Execução Unificada do Conselho Nacional de Justiça.
+
+PJE TRE: Processo Judicial Eletrônico dos Tribunais Regionais Eleitorais.
+
+APFD: Auto de Prisão em Flagrante Delito (possível integração para recebimento de informações).
+
+2. Integrações com Sistemas Internos:
+
+Esta seção lista sistemas internos que trocam dados e funcionalidades com o SIMP:
+
+Procuradoria Virtual: Ferramenta virtual para atividades da procuradoria.
+
+Banco de Projetos (BAPRE): Sistema para gestão de projetos.
+
+Tabelas Gerais: Tabelas de dados utilizadas pelo sistema.
+
+Serviço de Relatório: Serviço interno para geração de relatórios específicos.
+
+SISPLAN: Sistema de planejamento.
+
+Massif (Gestão de usuários): Sistema para gerenciar usuários e permissões.
+
+Serviço de BI (Business Intelligence) - Data Lake/Datena: Serviço de inteligência de negócios com Data Lake e possível uso da ferramenta Datena.
+
+Hermes (Notificações): Sistema para envio e gestão de notificações eletrônicas.
+
+ESCRITA (Manuscritos): Possível sistema para gestão de documentos manuscritos ou digitalizados.
+
+JMLC (Laudos e investigações): Sistema para gestão de laudos e informações de investigações.
+
+3. Serviços de Infraestrutura, Componentes & Serviços Externos:
+
+Esta seção descreve a infraestrutura de TI, hardware/software e serviços externos que suportam o SIMP:
+
+Assinatura Digital SERV: Serviço de assinatura digital.
+
+Mini Storage: Solução de armazenamento de dados de menor escala.
+
+Outros provedores de armazenamento importantes: Utilização de outros serviços de armazenamento relevantes.
+
+Google GEMINI: Possível integração ou uso dos serviços do Google Gemini (IA conversacional).
+
+Diversas rotinas em batch (COMPLEMENTO ao sistema): Execução de tarefas automatizadas em lote para complementar o sistema.
+
+Workstation com NVIDIA RTX 2080: Estações de trabalho com placas gráficas NVIDIA RTX 2080, sugerindo uso de aplicações com alta demanda gráfica.
+
+HELP DESK (COMPLEMENTO): Serviço de suporte técnico para o sistema.
+
+BAMBOO (BUILD): Ferramenta de CI/CD para construção e implantação do sistema.
+
+Atlassian Confluence Management: Uso do Confluence para gestão do conhecimento e colaboração.
+
+Em resumo, o Sistema SIMP (MPMT) é uma plataforma complexa e integrada, com diversos módulos para gestão processual em várias áreas do direito, conectada a sistemas internos e externos, e sustentada por uma infraestrutura tecnológica robusta. Os "triângulos vermelhos com exclamação" no diagrama podem indicar alertas ou pontos de atenção em relação a essas integrações ou módulos, cuja interpretação exata dependeria de mais informações.
+
+ÍNDICE
+
+OBJETIVO DO DOCUMENTO
+
+Este documento tem como objetivo apresentar o relatório de avaliação de opções para implementação do projeto SISTEMA ÚNICO no MPPE.Relatório de avaliação das opções de implementação do projeto SISTEMA ÚNICO no MPPE.
+
+SUMÁRIO EXECUTIVO (RESUMO)
+
+SOBRE O PROJETO SISTEMA ÚNICO
+
+O Objetivo do projeto SISTEMA ÚNICO é viabilizar uma única plataforma de trabalho para atuação finalística do MPPE de modo que todas as capacidades de negócio estejam disponíveis por meio de um único sistema de informação, minimizando a utilização de sistemas satélites ou paralelos.
+
+Ao longo dos últimos 20 anos, o MPPE pôde observar diversas mudanças em sua forma de trabalhar e nos sistemas disponíveis para realização do trabalho. Por questões de natureza técnica, estratégia de trabalho ou indisponibilidade de recursos humanos e financeiros, não foi possível à CMTI viabilizar um único sistema.
+
+Atualmente, o MPPE utiliza os seguintes serviços de TI: ARQUIMEDES, SIM, CONSENSUS, PJE JUDICIAL, PJE ELEITORAL, SISTEMA DE EXECUÇÕES PENAIS (SEEU).
+
+Esta problemática é pertinente a todas as unidades do MP brasileiro, sobretudo após os recentes avanços na tecnologia de nuvem, na possibilidade de utilização de IA, na melhoria das capacidades de tramitação do INQUÉRITO POLICIAL e do PROCESSO JUDICIAL de modo totalmente eletrônico, além da própria maturidade das unidades do MP brasileiro.
+
+Considerando a estratégia institucional para viabilização de sistema unificado com foco na qualidade de trabalho dos membros e servidores, integração dos fluxos de dados de ponta a ponta, aumento da eficiência operacional… entende-se que a utilização de plataforma de trabalho unificada e integrada é fundamental para o alcance desta estratégia. 
+
+O projeto SISTEMA ÚNICO visa consolidar as funcionalidades essenciais do MPPE em uma plataforma unificada, dispensando o uso de sistemas paralelos. Esta questão é relevante para todo o MP brasileiro, impulsionada pelos avanços em nuvem, IA, tramitação eletrônica do Inquérito Policial e Processo Judicial, e pela evolução das unidades do MP. Em consonância com a estratégia institucional de implementar um sistema único focado na qualidade do trabalho, integração de dados e eficiência operacional, a adoção de uma plataforma unificada e integrada é crucial.
+
+<imagem: Arquitetura Corporativa de alto nível planejada para o MPPE> 
+
+SOBRE OS ATUAIS SISTEMAS DO MPPE
+
+ARQUITETURA CORPORATIVA ATUAL DO MPPE
+
+ESTRATÉGIA DE IMPLANTAÇÃO DE SISTEMA ÚNICO
+
+EXPLICAÇÃO DO QUE PRECISA SER FEITO
+
+CRITÉRIOS: VIABILIDADE DE NEGÓCIO, VIABILIDADE TÉCNICA, ESFORÇO DE IMPLEMENTAÇÃO, PRAZO DE IMPLEMENTAÇÃO, RISCOS, PONTOS DE ATENÇÃO.
+
+ANÁLISE DE OPÇÕES - SIM 2.0 (MPRS)
+
+	TABELAS DE ANÁLISE
+
+	AVALIAÇÃO DOS CRITÉRIOS
+
+ANÁLISE DE OPÇÕES - SAJ SOFPLAN (MPRS)
+
+	TABELAS DE ANÁLISE
+
+	AVALIAÇÃO DOS CRITÉRIOS
+
+ANÁLISE DE OPÇÕES - EVOLUÇÃO DO CONSENSUS (PITANG)
+
+	TABELAS DE ANÁLISE
+
+	AVALIAÇÃO DOS CRITÉRIOS
+
+ANÁLISE DE OPÇÕES - EVOLUÇÃO DO SIM (INTERNO)
+
+	TABELAS DE ANÁLISE
+
+	AVALIAÇÃO DOS CRITÉRIOS
+
+ANÁLISE DE OPÇÕES - SIMP3+
+
+	TABELAS DE ANÁLISE
+
+	AVALIAÇÃO DOS CRITÉRIOS
+
+AVALIAÇÃO FINAL
+
+Características gerais do sistema e utilização
+
+Quais as resoluções e instruções normativas do MPMT que regulamentam o uso do SIMP?
+
+Informação não disponível
+
+Qual o total aproximado de usuários que utilizam o SIMP? 
+
+Qual o total aproximado de procedimentos em tramitação no SIMP?
+
+Qual a média de chamados (solicitações de serviço) mensal associado ao SIMP?
+
+Quais os perfis de usuários existentes dentro do SIMP?
+
+Servidores terceirizados e estagiários acessam o sistema?
+
+Utilizado por membros, servidores, terceirizados e estagiários.
+
+O SIMP abrange 100% das comarcas do Estado?  
+
+Sim
+
+Além do SIMP, outro sistema é utilizado para atuação de uma promotoria de justiça e  controle de processos judiciais e extrajudiciais? 
+
+Não.
+
+Quais os tipos de procedimentos extrajudiciais que tramitam no SIMP?
+
+Todos os tipos de procedimentos extrajudiciais.
+
+O sistema SIMP atende às necessidades dos diferentes setores envolvidos?
+
+Procuradoria Geral de Justiça
+
+Promotorias Judiciais
+
+Promotorias Extrajudiciais
+
+Promotorias Especializadas
+
+Juizados Especiais
+
+Promotorias Eleitorais
+
+Núcleos (Núcleo de Defesa da Cidadania, Núcleo de Defesa do Meio Ambiente, etc)
+
+Promotorias com Atuação Infracional
+
+Procuradorias de Justiça
+
+Centros de Apoio Operacional (CAO)
+
+Centrais de Inquérito
+
+Corregedoria
+
+Conselho Superior
+
+Colégio de Procuradores
+
+Setor de Protocolo
+
+Ouvidoria Institucional
+
+Gestão de Pessoas e Designações
+
+Núcleo de Inteligência e Grupo de Atuação Especial de Combate ao Crime Organizado
+
+Outros setores.
+
+SIMP utilizado no MPPA, MPRO (SIM 2), MPMA (Utiliza SIMP3, com SIMP3+ em implantação).
+
+Equipe e Dimensionamento dos Times de suporte 
+
+Quantos colaboradores existem atualmente atuando no processo de desenvolvimento (evolução e/ou manutenção) e sustentação do sistema SIMP?  Existe contratação de serviço de fábrica de software para atuação no SIMP ou em seus componentes?
+
+Total de 17 pessoas. Existe uma equipe dedicada de 13 colaboradores do MPMT, 3 colaboradores terceirizados em regime de fábrica de software (modalidade posto de trabalho) e 1 colaborador terceirizado exclusivo para atendimento (ITSM). 
+
+Possivelmente, a equipe de Infraestrutura de TIC do MPPE esteja subdimensionada para apoiar o projeto.
+
+Existe equipe especializada que atua no relacionamento com o Tribunal de Justiça para gestão de designações de cargo ou função para atuação dos Membros?
+
+A gestão de designações e de alocação dos membros é realizada pelo Gabinete/RH do MPMT. Ocorre replicação dos dados. Não há integração entre o sistema de gestão de pessoas e o SIMPT.
+
+Tecnologia do sistema SIMP
+
+Qual a plataforma e linguagens de programação (backend e frontend) utilizadas no desenvolvimento do SIMP? Quais frameworks de desenvolvimento web (ex: React, Angular, Vue.js, Django, Spring) são empregados no SIMP? Quais ferramentas o MPMT utiliza para controle de versão e código-fonte do SIMP?
+
+Java 16;
+
+Angular 15.2.9;
+
+ORACLE 12.2;
+
+REDIS;
+
+SOLR;
+
+Storage MINIO versão open source;
+
+Dependência de Bamboo (sistema de Build) e Confluence;
+
+Graylog para gestão de logs;
+
+Cloudera para DataLake;
+
+O SIMP utiliza algum plugin de terceiros para alguma funcionalidade específica? 
+Não utiliza plugins específicos, mas utiliza template front-end adquiridos, para facilitar o processo de construção de telas..
+
+Seria possível prover uma visão de alto nível da arquitetura do sistema?
+
+<IMAGEM DA ARQUITETURA> 
+
+Qual a plataforma de Business Intelligence (Power BI, Qlik, Tableau, etc) do Mato Grosso? TABLEAU, com repositórios de dados sendo migrados para Cloudera
+
+Infraestrutura de TI do sistema e dados sobre utilização de recursos
+
+Quais os SGBD utilizados pelo SIMP?
+
+ORACLE 12.2
+
+O produto opera em Kubernetes/ Docker?
+
+DOCKER e VMWARE
+
+O SIMP possui alguma dependência de infraestrutura de TI específica para seu funcionamento? Seria possível prover uma visão de alto nível da infraestrutura do sistema?
+
+<IMAGEM DA ARQUITETURA> 
+
+É possível prover um dimensionamento dos recursos de hardware estabelecidos para o funcionamento do produto?
+
+Informação ainda não disponível
+
+O sistema está em conformidade com as exigências e os requisitos da LGPD?
+
+Sim
+
+Integrações 
+
+Como se dá a integração do SIMP com o PJE do TJ Estadual? Qual a versão do MNI utilizada?
+
+Como se dá a integração do SIMP com o PJE do TRE Estadual? Qual a versão do MNI utilizada?
+
+Como se dá a integração do SIMP com o SEEU do CNJ? Qual a versão do MNI utilizada?
+
+Como se dá a integração do SIMP com o sistema GEIA da Polícia Civil do Estado do Mato Grosso?
+
+O SIMP tem integração (via banco de dados, ETL, webservices, API e afins) com quais sistemas e serviços internos?
+
+O SIMP tem integração (via banco de dados, ETL, webservices, API e afins) com quais sistemas e serviços externos?

@@ -1,0 +1,85 @@
+DOCUMENTO: 2 - Analise do SIMP\Comparativos\Modelo unificado - gestão de cadastros básicos (SIMP4).docx
+PASTA: 2 - Analise do SIMP
+TAMANHO: 0.01 MB
+
+Modelo unificado - gestão de cadastros básicos (SIMP4)
+
+Por Simony Oliveira e Mário Neto
+
+Atualmente, o Ministério Público de Pernambuco se vale de 03 (três) sistemas prioritários para gestão e processamento de seus procedimentos judiciais e extrajudiciais. São eles: Arquimedes; SIM; e Consensus.
+
+Cada um desses trabalha com lógicas diferentes de divisão de tarefas e dados reputados enquanto obrigatórios, o que dificulta de sobremaneira a utilização cotidiana, principalmente no que tange a novos usuários e servidores lotados em Promotorias de Justiça únicas - compelidos a utilizar todos esses sistemas ao mesmo tempo.
+
+O sistema Arquimedes, o mais antigo deles, trabalha com uma lógica de Grupo Ofício (GO), sem subdivisões internas. Nele, dado servidor poderá ter acesso aos procedimentos vinculados ao seu GO com poderes de leitura e edição, não havendo qualquer distinção aparente entre aqueles lotados no gabinete e na secretaria.
+
+Situação diversa ocorre quando se tenta pesquisar procedimentos constantes em outro Grupo, de atuação diversa da sua. Nesse momento, o sistema bloqueia a permissão de editor e apenas habilita o modo leitura - com exceção daqueles procedimentos reputados sigilosos.
+
+Por sua vez, o sistema SIM atua com uma lógica mais segregada, trazendo perfis dentro de um único GO. Nele não basta a sinalização do GO, o usuário precisa ser habilitado em um dos seguintes perfis: cartório, gabinete ou secretaria.
+
+É de se perceber, portanto, que a divisão de tarefas e responsabilidades da área fim e da área administrativa nesse sistema é feita com maior zelo. Havendo uma clara divisão de tarefas, inclusive no que tange a visualização de procedimentos dentro de um mesmo GO.
+
+Por fim, o sistema Consensus retorna a lógica unificada de Grupos Ofícios do Arquimedes, trazendo, contudo, uma clara divisão de papéis no tocante aos seus cards.
+
+Por aqui, a lógica é condensar a atuação finalística dos Membros ministeriais num campo denominado de card Análise, cabendo a área meio realizar a triagem dos procedimentos remetidos ao Ministério Público de forma prévia (cards: triagem e pesquisa e distribuição) e posterior (cards: tramitação e controle, intimação, audiência/acordo/oitiva, termo de encaminhamento e cumprimento de acordo) a manifestação ministerial.
+
+Vejamos agora de que forma o sistema SIMP 4, que deve unificar todos esses no âmbito ministerial pernambucano, faz essa divisão de tarefas:
+
+O SIMP4, é uma ferramenta robusta para a gestão de processos, integrando  várias funcionalidades importantes que otimizam o trabalho em diferentes instâncias e para diversos públicos.
+
+Algumas das características:
+
+Movimentação de Procedimentos: O SIMP lida com a tramitação de processos em 1ª e 2ª instância judicial, além de procedimentos extrajudiciais.
+
+Peticionamento Virtual: Permite que o público externo, como advogados e cidadãos, protocole documentos e petições de forma eletrônica.
+
+Uma das funcionalidades mais críticas e inovadoras do SIMP é a sua integração nativa com os sistemas eletrônicos do Poder Judiciário, Eleitoral e Execução Penal. Essa integração permite a comunicação direta e segura, eliminando a necessidade de acesso externo a plataformas como o PJe (Processo Judicial Eletrônico). O sistema facilita a consulta de andamentos processuais, o envio de petições e documentos, e o recebimento de intimações e citações diretamente na interface do SIMP, garantindo a sincronização de dados e a automação de tarefas, o que resulta em uma operação mais fluida e na centralização das atividades em um único ambiente de trabalho.
+
+Elaboração de Minutas: O sistema oferece a opção de criar minutas de documentos diretamente na plataforma, simplificando a preparação de peças processuais.
+
+O SIMP oferece uma funcionalidade de atuação em massa, que permite movimentar ou atuar em vários procedimentos ao mesmo tempo. Essa capacidade de processar ações em lote é essencial para otimizar o fluxo de trabalho e aumentar a produtividade.
+
+O sistema também conta com um repositório de modelos de documentos já existentes. Essa funcionalidade agiliza a elaboração de minutas e outras peças processuais, pois elimina a necessidade de redigir o conteúdo do zero, além de economizar tempo na rotina de trabalho.
+
+Essa integração direta com o sistema do Judiciário é um diferencial significativo, pois centraliza o trabalho em uma única plataforma, o que pode aumentar a eficiência e a produtividade.
+
+Dados obrigatórios para cadastramento de procedimentos:
+
+Percebe-se, portanto, que em que pese seja um sistema mais robusto e integrado, o SIMP4 precisa de pequenas adições no tocante a cadastramento de usuários, dados e leis visando sua compatibilização com a liberdade atual facultada pelo Consensus aos usuários deste Ministério Público.
+
+Contudo, o ganho de produtividade e de tempo ao se unificar a atuação finalística do órgão nos procedimentos extra e judiciais e primeiro e segundo grau num único sistema realmente unificador compensam qualquer tipo de esforço por tal compatibilização.
+
+[Tabela] SIMP | CONSENSUS | ARQUIMEDES
+
+[Tabela] NPU | NPU | NPU
+
+[Tabela] TAXONOMIA POR ÁREA ATUAÇÃO | TAXONOMIA CRIMINAL | TAXONOMIA POR ÁREA ATUAÇÃO
+
+[Tabela] SELEÇÃO POR CLASSES DE DOCUMENTOS (flagrantes, IP, etc…) | SELEÇÃO POR CLASSES DE DOCUMENTOS (flagrantes, IP, etc…) | SELEÇÃO POR CLASSES DE DOCUMENTOS (flagrantes, IP, etc…)
+
+[Tabela] 1ª/2ª INSTÂNCIA | JUDICIAL (não foi criado o fluxo 2ª instância) | 1ª/2ª INSTÂNCIA
+
+[Tabela] SELEÇÃO POR ASSUNTO (tipo penal ou assunto) | SELEÇÃO DO CRIME (tipo penal) | ASSUNTO (TAXONOMIA)
+
+[Tabela] VARA DE TRAMITAÇÃO | VARA DE TRAMITAÇÃO | VARA DE TRAMITAÇÃO
+
+[Tabela] ÓRGÃO DE ORIGEM (delegacia) | ÓRGÃO DE ORIGEM (Cadastro de delegacia/ vara) | ÓRGÃO DE ORIGEM (vara)
+
+[Tabela] REGISTRO DO USUÁRIO QUE REALIZOU O CADASTRADO | REGISTRO DO USUÁRIO QUE REALIZOU O CADASTRADO | REGISTRO DO USUÁRIO QUE REALIZOU O CADASTRADO
+
+[Tabela] CADASTRO DE USUÁRIO | CADASTRO DE USUÁRIO
+
+[Tabela] CADASTRO DE PAPÉIS | NÃO TEM
+
+[Tabela] CADASTRO DAS PROMOTORIAS | CADASTRO DE GRUPO OFÍCIO | CADASTRO DE GRUPO OFÍCIO
+
+[Tabela] CADASTRO DE SERVIÇOS E MATERIAIS (USANDO PARA ANPP, EXTRAJUDICIAL) | NÃO TEM
+
+[Tabela] CADASTRO DE INSTITUIÇÕES (USANDO PARA ANPP, EXTRAJUDICIAL) | NÃO TEM
+
+[Tabela] CADASTRO DE PROJETOS (USANDO PARA ANPP, EXTRAJUDICIAL) | NÃO TEM
+
+[Tabela] SOLICITAÇÃO DE SERVIÇOS E MATERIAIS (USANDO PARA ANPP, EXTRAJUDICIAL) | NÃO TEM
+
+[Tabela] CADASTRO DE LEIS | CADASTRO DE LEIS
+
+[Tabela] CADASTRO DE ASSUNTOS | USADO NA TAXONOMIA

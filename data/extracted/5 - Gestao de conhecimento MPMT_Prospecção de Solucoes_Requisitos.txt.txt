@@ -1,0 +1,18 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Prospecção de Solucoes\Requisitos.txt
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.0 MB
+
+CREATE TABLESPACE TS_WHISPER
+DATAFILE   'caminho-do-datafile/ts_whisper.001.dbf' SIZE 104857600
+AUTOEXTEND ON 
+NEXT 64M 
+MAXSIZE 32767M;
+
+create user WHISPER IDENTIFIED BY "SENHA"
+  default tablespace TS_WHISPER
+  temporary tablespace TEMP
+  profile DEFAULT
+  quota unlimited on ts_whisper;
+-- Grant/Revoke system privileges 
+grant create any table to WHISPER;
+grant create session to WHISPER;

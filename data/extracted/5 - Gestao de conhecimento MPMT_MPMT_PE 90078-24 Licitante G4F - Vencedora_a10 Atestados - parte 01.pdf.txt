@@ -1,0 +1,2432 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\MPMT\PE 90078-24 Licitante G4F - Vencedora\a10 Atestados - parte 01.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 1.7 MB
+
+--- [Página 1] ---
+QUALIFICAÇÃO TÉCNICA
+
+--- [Página 2] ---
+ 
+Praça Marechal Deodoro - Bairro Centro - CEP 90010-300 - Porto Alegre - RS - www.al.rs.gov.br
+ 
+ATESTADO - SAF
+ATESTADO DE CAPACIDADE TÉCNICA
+ 
+Atestamos para os devidos fins que a empresa  G4F SOLUÇÕES CORPORATIV AS LTDA., inscrita
+no CNPJ sob o n.º 07.094.346/0001-45, situada no SRTVS 701, Bloco O, Sala 548, Asa Sul, Brasília - DF, executou para
+a Assembleia Legislativa do Estado do Rio Grande do Sul, inscrita no CNPJ sob o n.º 88.243.688/0001-81, com sede na
+Praça Marechal Deodoro, n.º 101, Centro Histórico, Porto Alegre - RS,  por meio do Contrato n.º 14/2020, os serviços abaixo
+especificados:
+ 
+VIGÊNCIA
+Contrato n.º 14/2020: 24/03/2020 a 23/03/2021                                                                                                      
+                                                                                                                                                                                     
+OBJETO
+Execução de atividades técnicas especializadas pertinentes a programação e design para sistemas e portais,
+através da alocação de profissionais qualificados e certificados, nas seguintes quantidades e especializações:
+03 programadores .NET/ASP
+01 Web designer
+ 
+ATIVIDADES GERAIS
+Programação de Sistemas de Informações através de atividades técnicas necessárias ao desenvolvimento
+de sistemas computacional, Entre as principais atividades destacam-se, codificação em linguagem de
+programação, realização de testes e documentação das implementações.
+Manutenção corretiva através de alteração de código-fonte com o objetivo de disponibilizar
+funcionalidades parcial ou totalmente indisponível e/ou incompatibilidade do sistema com os demais
+componentes de software ou hardware existentes no ambiente onde é executado.
+Manutenção Evolutiva através de alterações de código-fonte realizada nos sistemas, com o objetivo de
+disponibilizar novas funcionalidades devido a alterações de requisitos, adequação a novas necessidades
+do usuário e/ou adaptações necessárias para permitir o funcionamento do sistema com outras versões de
+software de apoio, linguagem de programação ou sistema de gerenciamento de banco de dados.
+ 
+ATIVIDADES ESPECÍFICAS PROGRAMADORES .NET/ASP
+Serviços de manutenção corretiva e evolutiva em sistemas existentes utilizando a plataforma .Net com
+linguagem C# em aplicações cliente/servidor e web, bem como a linguagem de banco de dados Transact-
+SQL com SGBD Microsoft SQL Server 2012 ou superior.
+Serviços de manutenção corretiva e evolutiva em sistemas ASP existentes utilizando as linguagens de
+programação VBScript, JavaScript e linguagem de banco de dados Transact-SQL com SGBD Microsoft
+SQL Server 2012 ou superior.
+Verificação do funcionamento dos sistemas e portais, bem como o cumprimento dos requisitos,
+funcionalidades e comportamentos especificados. Inclui a busca por defeitos e falhas de implementação
+e/ou especificação visando garantir a funcionalidade, confiabilidade, usabilidade, eficiência,
+manutenibilidade e portabilidade dos sistemas e portais.
+ 
+ATIVIDADES ESPECÍFICAS WEB DESIGNER
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+....,. ~;.. 
+~ 
+Assembleia 
+Legislativa _ _ ,........:, 
+Estado do Rio Grande do Sul 
+
+--- [Página 3] ---
+Atividades técnicas referentes aos aspectos visuais e interfaces de sistemas e portais. Consiste em
+construir interfaces de sistemas e portais de acordo com as especificações existentes na análise,
+considerando questões de usabilidade, acessibilidade, responsividade e facilidade de uso, bem como,
+construir e editar material gráfico (banners, imagens, logos etc.) e multimídia (animações, vídeos etc.)
+para veiculação nos portais.
+Construção e/ou atualização de páginas dos portais institucionais, intranet e sistemas, bem como realizar
+tratamento de imagens e documentos para veiculação na internet com a utilização de ferramentas como
+Pacote Adobe Creative 2020, entre outras, garantindo a navegabilidade e funcionalidade das páginas
+desenvolvidas nos diversos navegadores e dispositivos móveis utilizados no ambiente de internet.
+ 
+TECNOLOGIA UTILIZADA
+Plataforma .NET, Sistema ASP, Pacote Adobe Creative 2020
+ 
+PERFIL TÉCNICO
+ 
+Perfil Profissional Requisitos Técnicos
+Programador
+.NET/ASP
+Curso superior completo na área de Informática e Certificação oficial Microsoft relacionada ao desenvolvimento de
+aplicações .Net
+2 (dois) anos de experiência de programação pleno/sênior .NET comprovados em CTPS;
+2 (dois) anos de experiência de programação pleno/sênior ASP comprovados em CTPS.
+ 
+Perfil Profissional Requisitos Técnicos
+Web Designer
+Curso superior completo na área de Informática, Design ou Marketing; 
+200 (duzentas) horas de curso(s) relacionado(s) a ferramentas de tratamento de imagens, padrões de internet, criação
+de animações, marketing digital, nos últimos 5 (cinco) anos.                            
+5 anos de experiência, comprovados em CTPS como web designer.
+ 
+METODOLOGIAS, TÉCNICAS, NORMAS E PADRÕES UTILIZADOS NA EXECUÇÃO DOS
+SERVIÇOS
+Plataforma .NET;
+Sistemas ASP;
+Transact- SQL com SGBD Microsoft SQL Server 2012 ou superior;
+Java script;
+VBScript.
+Para a execução dos serviços foram contratados um total de 04 (quatro) profissionais, com alocação de 5
+dias/semana, 8 horas/dia, 40 horas/semana por um período total de 12 (doze) meses, ressaltando-se que a aludida quantidade de
+profissionais não esteve alocada no contrato concomitantemente ao longo de todo o período, tendo os serviços sido executados
+nos termos supra descritos.
+Considerando que o gestor da contratação atesta  que os serviços foram realizados de forma satisfatória, não
+existindo, nos registros desta Assembleia Legislativa, até a presente data, fatos que desabonem a conduta e a responsabilidade
+da empresa com as obrigações assumidas, emite-se o presente atestado de capacidade técnica.
+Porto Alegre, 25 de agosto de 2021.
+ 
+ 
+Daniela Machado,
+Superintendente Administrativa e Financeira.
+Documento assinado eletronicamente por Daniela Machado, Superintendente Administrativo e Financeiro, em
+26/08/2021, às 10:07, conforme o art. 4º, § 3º, da Resolução nº 3.145/2015.
+A autenticidade do documento pode ser conferida clicando aqui ou acessando https://sei.al.rs.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&id_orgao_acesso_externo=0 , informando o código verificador 2951552 e
+o código CRC 4039D162.
+000007424-01.00/21-6 2951552v5
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+--- [Página 4] ---
+ 
+Setor Bancário Norte - Quadra 02 - bloco N - nº 14 - Edifício CNC 03 Edifício ANM SEDE 
+telefone (61) 3312-6862/(61) 3312-6828 e-mail cpl@anm.gov.br 
+ 
+ 
+ATESTADO DE CAPACIDADE TÉCNICA 
+ 
+Atestamos para os devidos fins, que a empresa G4F SOLUÇÕES CORPORATIVAS 
+LTDA., inscrita sob o CNPJ n° 07.094.346/0001 -45, estabelecida no SCN QD. 02, Bloco "A", 
+Salas 602-603  Asa Norte, Corporate Financial Center, Brasília- DF, CEP: 70.712-900, est  
+executando junto a AGÊNCIA NACIONAL DE MINERAÇÃO , inscrita sob o CNPJ n° 
+29.406.625/0001-3, por meio do Contrato n° 11/2022, serviços técnicos especializados de 
+desenvolvimento e manutenção de software utilizando metodologias e equipes ágeis  a fim de 
+atender às demandas da ANM. 
+ 
+N. º do Contrato: CTO112022 
+Vigência: 26/05/2022 a 26/05/2025 (Em Execução) 
+ 
+MACRO ATIVIDADES/SERVIÇOS PRESTADOS: 
+ Utilização dos princípios e práticas de desenvolvimento de software ágil, incluindo o 
+Manifesto Ágil, Scrum, Extreme Programming (XP) e Kanban; 
+ Análise de requisitos funcionais, não-funcionais e requisitos ágeis utilizando Estórias 
+de Usuário (User Stories) ou outro artefato de requisito ágil; 
+ Modelagem de dados relacional; 
+ Arquitetura de aplicações em três camadas e modelo MVC com autenticação SSO; 
+ Arquitetura de aplicações utilizando microsserviços e contêineres (Docker e 
+Kubernetes); 
+ S erviços de definição de arquitetura de solução utilizando nuvem pública e/ou privada; 
+ .NET Framework 2.0 e superiores, .NET Core 2.0 e superiores, JavaScript, Ajax, 
+JQuery, Bootstrap 3 e superiores, HTML 5, XML e CSS; 
+ Integração contínua (continuous integration), Jenkins, refactoring, entrega contínua 
+(continuous delivery); 
+ Utilização conceitos de User Experience (UX) e conceitos de usabilidade no 
+desenvolvimento de aplicações; 
+ Utilização de linguagem SQL (DDL e DML); 
+ Azure DevOps; 
+ Versionamento de código com GIT; 
+ Automação de deploy de aplicações com Jenkins; 
+ Implementação de contêineres com Docker; 
+ Orquestração de contêineres com Kubernetes; 
+ Microsoft Power BI; 
+ Integração de dados de diferentes fontes (bancos de dados, planilhas, APIs, etc.); 
+ Elaboração de Dashboards e Cockpits; 
+ Aplicações de geoprocessamento nas plataformas ESRI/ArcGIS com Phyton, Google 
+e softwares de geoprocessamento de código aberto; 
+ Bancos de dados espaciais, Geodatabase e PostGreSQL; 
+
+--- [Página 5] ---
+ 
+Setor Bancário Norte - Quadra 02 - bloco N - nº 14 - Edifício CNC 03 Edifício ANM SEDE 
+telefone (61) 3312-6862/(61) 3312-6828 e-mail cpl@anm.gov.br 
+ 
+ A nálise de requisitos funcionais e não-funcionais, implementar padrões de projeto 
+(enterprise integration patterns, design patterns, microservices patterns) e modelagem 
+de dados relacional. 
+ 
+PROFISSIONAIS ALOCADOS NA EXECUÇAO: 
+MÊS QNTD PROFISSIONAIS/MÊS QNTD DE HORAS TOTAIS DEV - FULL-STACK SCRUM 
+jun/22 7 5 2.112 
+jul/22 23 9 5.632 
+ago/22 24 9 5.808 
+set/22 24 8 5.632 
+out/22 25 8 5.808 
+nov/22 25 8 5.808 
+dez/22 25 8 5.808 
+jan/23 26 8 5.984 
+fev/23 26 8 5.984 
+mar/23 28 9 6.512 
+abr/23 31 8 6.864 
+mai/23 35 9 7.744 
+jun/23 35 11 8.096 
+jul/23 35 10 7.920 
+ago/23 35 10 7.920 
+set/23 38 10 8.448 
+out/23 41 10 8.976 
+nov/23 39 11 8.800 
+dez/23 42 11 7.420 
+jan/24 40 11 8.053 
+fev/24 40 11 7.163 
+mar/24 40 11 7.614 
+abr/24 42 11 8.451 
+mai/24 42 11 7.871 
+jun/24 42 11 7.702 
+jul/24 44 10 8.522 
+ago/24 43 10 8.272 
+set/24 43 10 8.148 
+TOTAL EXECUTADO EM 40 MESES  
+*8 horas por dia x 22 dias úteis no mês 
+Do total executado, cerca de 30% com Microsoft .NET, 20% com Tecnologia Mobile (React), 
+15% com angular, 10% com Node.js, 10% com Testes, 12% com UX (User Experience), 10% 
+com DevOps e 3% com Geoprocessamento. 
+ 
+SISTEMAS JÁ DESENVOLVIDOS E EM DESENVOLVIMENTO, SEPARANDO OS POR TIPO 
+DE SERVIÇO PROVIDO: 
+SISTEMA TIPO DE SERVIÇO 
+AMB (Anuário Mineral Brasileiro) Sustentação e Manutenção 
+Arrecadação Sustentação e Manutenção 
+CADIN (Cadastro de Inadimplentes) Sustentação e Manutenção 
+
+--- [Página 6] ---
+ 
+Setor Bancário Norte - Quadra 02 - bloco N - nº 14 - Edifício CNC 03 Edifício ANM SEDE 
+telefone (61) 3312-6862/(61) 3312-6828 e-mail cpl@anm.gov.br 
+ 
+CBMA (Cadastro de Bens Minerais Apreendidos) Sustentação e Manutenção 
+CNCD (Cadastro Nacional de Comércio de Diamantes) Sustentação, Manutenção e Desenvolvimento 
+COPAL (Controle da Pesquisa Paleontológica) Sustentação e Manutenção 
+DIPEM (Declaração de Pesquisa Mineral) Sustentação e Manutenção 
+Dívida Ativa Sustentação e Manutenção 
+e-Carta (Postagens Eletrônicas) Sustentação e Manutenção 
+Participa ANM Sustentação e Manutenção 
+Protocolo Digital Sustentação e Manutenção 
+RAL (Relatório Anual de Lavra) Sustentação, Manutenção e Desenvolvimento 
+REPEM (Requerimento de Pesquisa Mineral) Sustentação e Manutenção 
+RPM (Relatório de Pesquisa Mineral) Desenvolvimento 
+SAD (Sistema de Avaliação de Desempenho) Sustentação e Manutenção 
+SCA (Sistema de Controle de Acesso) Sustentação e Manutenção 
+SCGQ (Sistema de Gratificação de Qualificação) Sustentação e Manutenção 
+SCM (Sistema de Cadastro Mineiro) Sustentação e Manutenção 
+SDC (Sistema de Dados Cadastrais) Sustentação e Manutenção 
+SDM (Sistema de Dados Minerários) Sustentação e Manutenção 
+SigÁreas (Sistema de Gestão de Áreas) Sustentação, Manutenção e Desenvolvimento 
+SIGBM (Sistema Integrado de Gestão de Barragens de 
+Mineração) Sustentação, Manutenção e Desenvolvimento 
+SINARC (Sistema Nacional de Arrecadação, Receita e 
+Cobrança) Desenvolvimento 
+SINOP (Sistema de Notificação de Publicação) Sustentação e Manutenção 
+SOPLE (Sistema de Oferta Pública e Leilão de Áreas) Sustentação e Manutenção 
+SSM (Sistema de Substâncias Minerais) Sustentação e Manutenção 
+ 
+METODOLOGIAS, FERRAMENTAS E PADRÕES UTILIZADOS NA EXECUÇÃO DOS  
+SERVIÇOS: 
+ QUALIDADE TÉCNICA 
+As entregas seguem as características de qualidade previstas na ISO/IEC 25010 - 
+Qualidade de Produto de Software: Adequação Funcional, Eficiência de Desempenho, 
+Compatibilidade, Usabilidade, Confiabilidade, Segurança, Manutenção e Portabilidade. 
+Frameworks de desenvolvimento ágil em escala conforme a necessidade da ANM: 
+Scaled Agile Framework (SAFe), Large-Scale Scrum (LeSS), Scrum at Scale 
+(Scrum@Scale), Nexus ou Disciplined Agile Delivery (DAD); 
+ 
+ ARTEFATOS ENVOLVIDOS NA EXECUÇÃO: 
+o Código fonte/script, Evidência de execução, Modelo de banco de dados, Nota 
+técnica, Relatório/Extração de Dados, Termo de Abertura do Projeto, 
+Documento de Oficialização de Demanda, Documento de Visão, Especificação 
+das Regras de Negócio, Caso de Uso, Casos de Testes, Matriz de 
+Rastreabilidade, Critério de Aceitação, História de Usuário, Feature, Epic, 
+Código-Fonte dos Compon entes de Software, Código -Fonte dos Testes, 
+Diagrama de Caso de Uso, Dicionário de Dados, Modelo de Dados, Documento 
+de Arquitetura, Documento de Implantação, Glossário, Manual de Instalação e 
+Configuração do Sistema, Documento de Implantação, Manual do Usuário, 
+Plano de Capacitação, Implantação, Testes, Protótipo não funcional , Relatório 
+
+--- [Página 7] ---
+ 
+Setor Bancário Norte - Quadra 02 - bloco N - nº 14 - Edifício CNC 03 Edifício ANM SEDE 
+telefone (61) 3312-6862/(61) 3312-6828 e-mail cpl@anm.gov.br 
+ 
+de Homologação, Relatório de testes, Solução de Software Executável, Termo 
+de conclusão do projeto.  
+ DESENVOLVIMENTO FRONT-END 
+o React v18 
+o Angular v10 
+o Node.js v16 
+ 
+ DESENVOLVIMENTO BACK-END 
+o Microsoft .NET Framework 2.0 e superiores (VB.NET e C#) 
+o Microsoft .NET Core 2.0 e superiores 
+ 
+ BANCO DE DADOS 
+o Microsoft SQL Server v2016 e superiores 
+o Bancos de dados espaciais: ArcGIS Enterprise Geodatabases e PostgreSQL 
+v15 + PostGIS Extension 
+ 
+ TECNOLOGIAS DE GEOPROCESSAMENTO  
+o ESRI ArcGis Server/ArcObjects V11.0 
+o ESRI/ArcGIS V11.0 com Phyton V3.11 
+o Google Maps API e softwares de geoprocessamento de código aberto 
+ 
+ TECNOLOGIAS COMUNS 
+o Versionamento de códigos com GIT v1.8.3 e SVN v1.7 
+o DevOps (TFS, Integração Contínua, Jenkins V2.382, Azure, etc.) 
+o Conteinerização de aplicações com Docker V2.0 e Kubernetes V1.26 
+o Microsoft Power BI e Google Looker Studio 
+o HTML V5 
+o XML v1.1 - eXtensible Markup Language  
+o CSS v2.1 
+o JavaScript (ECMAScript 2022) 
+o Ajax 
+o JQuery v3.6 
+o Bootstrap V3 
+ 
+Os serviços estão sendo executados satisfatoriamente, de acordo com os níveis de 
+serviços definidos em contrato, não existindo em nossos registros, até a presente data, fatos 
+que desabonem a conduta da empresa, bem como sua responsabilidade com as obrigações 
+contratuais assumidas. 
+Brasília, 28 de outubro de 2024. 
+ 
+______________________________________ 
+Leonardo de Almeida Bernardo 
+Coordenador de Desenvolvimento e Manutenção de Sistemas da Informação 
+leonardo.bernardo@anm.gov.br - (61) 3312-6859 
+ 
+
+
+--- [Página 8] ---
+ATESTADO DE CAPACIDADE TÉCNICA  
+ 
+Declaramos para os devidos fins que a empresa G4F SOLUÇÕES CORPORATIVAS LTDA. , 
+CNPJ 07.094.346/0001-45, situada no SRTVS 701, Bloco O, Sala 548, Asa Sul, Brasília/DF, está 
+executando para a BB TECNOLOGIA E SERVIÇOS S.A., CNPJ 42.318.949/0013-18 através do 
+contrato nº 0071/2020, os serviços abaixo especificados. 
+ 
+QUANTIDADE DE PROFISSIONAIS ALOCADOS: 91 (noventa e um). 
+ 
+OBJETO: apoio às atividades de Tecnologia da Informação executadas pela BB TECNOLOGIA 
+E SERVIÇOS S.A.  
+ 
+DETALHAMENTO DOS SERVIÇOS:  os serviços executados  contemplam as atividades e 
+tecnologias abaixo. 
+ 
+PLATAFORMA ALTA 
+ 
+Atividades: 
+ análise, desenvolvimento e manutenção de aplicações On-line e Batch; 
+ elaboração de documentação dos sistemas; 
+ acompanhamento e resolução de erros; 
+ produção de manuais de operação; 
+ participação em reuniões técnicas; 
+ codificação e testes de programas de computador, baseando -se nas definições 
+fornecidas na fase de análise de sistemas e valendo -se de métodos e técnicas 
+adequadas aos equipamentos e aplicações a que se destinam; 
+ modificação de programas, alterando o processamento, a codificação e demais 
+elementos, visando corrigir falhas e/ou atender alterações de sistemas e novas 
+funcionalidades; 
+ execução de testes unitários e de integração em condições operacionais simuladas, 
+visando verificar se o programa executa corretamente dentro do especificado e com 
+desempenho adequado; 
+ execução de testes de integração; 
+ otimização consultas de banco de dados; 
+ monitoramento de aplicações On-line e Batch. 
+ 
+Tecnologias Empregadas: 
+ banco de dados DB2 e Adabas; 
+ arquivos sequenciais e VSAM; 
+ Cobol/SQL; 
+ Cobol/CICS; 
+ Cobol/GRI; 
+ Natural; 
+ JCL (Job Control Language); 
+ SQL (Structured Query Language). 
+ 
+PLATAFORMA BAIXA 
+ 
+Atividades: 
+ desenvolvimento de atividades de análise e diagnóstico das necessidades dos usuários; 
+
+--- [Página 9] ---
+ elaboração de projetos de sistemas informatizados conforme metodologia   de 
+desenvolvimento de sistemas aplicada na empresa; 
+ levantamento e especificação de diagramas de casos de uso, utilizando  artefatos 
+definidos na metodologia; 
+ elaboração, implementação e testes os códigos de programas, de acordo com  o plano 
+de teste dos sistemas; 
+ produção de documentação necessária para os usuários dos sistemas;  
+ realização de manutenções e adequações necessárias ao  bom funcionamento dos 
+sistemas; 
+ integração e suporte de aplicações (java, .Net) com mainframe (cobol e natural); 
+ acompanhamento e avaliação do desempenho dos sistemas implantados, identificando 
+e providenciando as medidas corretivas necessárias; 
+ aplicação dos padrões de análise e programação definidos pela empresa; 
+ estimativa de esforço para manutenção dos aplicativos da empresa;  
+ otimização de consultas aos bancos de dados da empresa. 
+ 
+Tecnologias Empregadas 
+ Java; 
+ J2EE; 
+ .Net 
+ Javascript; 
+ Angular; 
+ React Native; 
+ aplicativos: Eclipse, JBoss, SQL developer; 
+ Segurança da Informação; 
+ Usabilidade e acessibilidade na web; 
+ Padrões web: HTML, XML e CSS; 
+ SQL (Structured Query Language); 
+ Banco de dados: Oracle, MySQL, PostgreSQL, SQL Server. 
+ 
+DESENVOLVIMENTO DE APLICATIVOS MÓVEIS 
+Atividades 
+ desenvolvimento de atividades de análise e diagnóstico das necessidades dos usuários; 
+ elaboração de projetos de sistemas informatizados conforme metodologia de  
+desenvolvimento de sistemas aplicada na empresa; 
+ levantamento e especificação de diagramas de casos de uso, utilizando  artefatos 
+definidos na metodologia; 
+ elaboração, implementação e testes os códigos de programas, de acordo com  
+o plano de teste dos sistemas; 
+ produção de documentação necessária para os usuários dos sistemas; 
+ realização de manutenções e adequações necessárias ao bom  funcionamento dos 
+sistemas; 
+ acompanhamento e avaliação do desempenho dos sistemas implantados,  identificando 
+e providenciando as medidas corretivas necessárias; 
+ aplicação dos padrões de análise e programação definidos pela empresa;  
+ estimativa de esforço para manutenção dos aplicativos da empresa;  
+ otimização de consultas aos bancos de dados da empresa. 
+ 
+Tecnologias Empregadas: 
+ Java; 
+ J2EE; 
+
+--- [Página 10] ---
+ Javascript; 
+ Angular; 
+ Eclipse, JBoss, SQL developer; 
+ SQL (Structured Query Language); 
+ Banco de dados: Oracle, MySQL, PostgreSQL, SQL Server. 
+ Android (Java e/ou Kotlin); 
+ IOS (ObjectveC e Swift); 
+ React Native; 
+ Ionic; 
+ Apache Cordova; 
+ Phonegap; 
+ Android Studio; 
+ Eclipse; 
+ XCode. 
+ 
+DATA ANALYTICS 
+Atividades 
+ gestão de dados estruturados (SQL, XML, etc); 
+ gestão de dados não estruturados (bancos de dados NoSql);  
+ desenvolvimento de algoritmos de aprendizado supervisionado e não supervisionado;  
+ processamento de Linguagem Natural; 
+ Machine Learning (árvore de decisão, redes neurais, clustering); 
+ técnicas de Information Retrieval e Estatística (Bayes, Markov Chain, etc.);  
+ modelagem conceitual para data warehouses; 
+ Modelagem de Dados Relacionais (MER). 
+ 
+Tecnologias Empregadas 
+ Hadoop; 
+ MapReduce; 
+ Spark; 
+ Linguagens de programação de análise de dados (R, Python e SQL);  
+ MongoDB; 
+ ElasticSearch; 
+ Redis Linux; 
+ GitHub; 
+ Machine Learning (SVM, Deep Learning, Azure Machine Learning); 
+ SQL Power Architect; 
+ Pentaho; 
+ PowerBI; 
+ Postgres, SQLServer, Oracle, MySQL, DB2; 
+ Data Warehouse; 
+ Arquivos VSAM e Sequenciais; 
+ JAVA/J2EE; 
+ Javascript; 
+ JCL (Job Control Language); 
+ SAS Guide/miner; 
+ Spotfire; 
+ Cognos; 
+ Google Analytics; 
+ Piwik Analytics. 
+
+--- [Página 11] ---
+ 
+Atestamos ainda, que tais serviços estão sendo  executados de acordo com os parâmetros 
+técnicos de qualida de exigidos no Contrato acima referenciado, cumprindo prazos pactuados, 
+não existindo, em nossos registros, até a presente data, fatos que desabonem a conduta e 
+responsabilidade com as obrigações assumidas pela Contratada. 
+ 
+Brasília (DF), 26/11/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________ 
+Alan Lopes da Silveira 
+Superintendente 
+Dites/Suden 
+
+--- [Página 15] ---
+ 
+ 
+ 
+ATESTADO DE CAPACIDADE TÉCNICA 
+ 
+Atestamos que a empresa G4F SOLUÇÕES CORPORATIVAS LTDA , inscrita no CNPJ sob nº 
+07.094.346/0001-45, estabelecida na Brasília - 
+Edifício Novo Centro Multiempresarial, Asa Sul, CEP: 70.340-000 , mantém contrato com o BANCO DO 
+NORDESTE DO BRASIL S.A.  BNB, CNPJ sob o nº 07.237.373/0001 -20, conforme Pregão Eletrônico nº  
+2022/140. 
+ 
+Nº do Contrato: 068/2023 
+Vigência: 20/03/2023 a 19/03/2025 
+Período de Realização dos Serviços: 20/03/2023 a 26/06/2024 (Em Execução) 
+Valor Global do Contrato: R$ 89.492.666,52 (Oitenta e nove milhões quatrocentos  e noventa e dois mil 
+seiscentos e sessenta e seis reais e cinquenta e dois centavos). 
+ 
+1.0 DETALHAMENTO DO OBJETO 
+ 
+Contratação de serviços de desenvolvimento e resolução de incidentes de sistemas de informação do Banco 
+do Nordeste do Brasil S/A (BNB), no tocante ao provimento de novas soluções tecnológicas bem como à 
+evolução e sustentação dos sistemas de informação existentes, no  contexto da utilização de práticas ágeis, 
+conforme especificações técnicas constantes do Edital e seus anexos. 
+ Item 1  Serviços de desenvolvimento e manutenção de software com ênfase em práticas ágeis 
+ 
+ Item 2  Resolução de incidentes. 
+ 
+2.0 DESCRIÇÃO DOS SERVIÇOS REALIZADOS 
+Prestação de serviços técnicos especializados de desenvolvimento, manutenção e documentação de sistemas 
+de informação existentes (legados) e novos, englobando todo o ciclo de desenvolvimento em consonância com 
+as metodologias abaixo: 
+ 
+ Ágil-BNB, customizado para o BNB e utilizando com base o SCRUM e KANBAN contemplando todas as 
+fases do processo de desenvolvimento de software; 
+ 
+Em 15 meses de contrato, foram executados os s erviços de desenvolvimento, homologação técnica e 
+manutenção (preventiva, corretiva, evolutiva, adaptativa legal e tecnológica) de processos automatizados e 
+sistemas aplicados aos negócios bancários: transações de empréstimos, Open Finance e PIX, envolvendo a 
+seguinte equipe: 
+ 
+PERFIL LÍDER TÉCNICO ANALISTA DESENVOLVEDOR  ARQUITETO DESIGNER UX TOTALIZADOR MENSAL REQUISITOS TESTES  PLENO SÊNIOR 
+jun/23 5 5 5 4 11 5 1 36 
+jul/23 6 5 5 4 10 4 1 35 
+ago/23 5 7 7 7 12              5 2 45 
+set/23 5 8 10 8 17 7 2 57 
+out/23 6 9 10 8 20 7 2 62 
+nov/23 7 12 12 9 23 7 2 72 
+dez/23 6 12 14 9 26 7 2 76 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 16] ---
+ 
+ 
+jan/24 7 12 13 9 26 9 2 78 
+fev/24 7 12 12 9 25 8 2 75 
+mar/24 8 13 14 11 28 8 2 84 
+abr/24 8 13 14 11 29 8 2 85 
+mai/24 8 13 14 14 31 8 2 90 
+ 
+Serviços de sustentação de produtos de software no período de 20/03/2023 a 26/06/2024 envolvem, 
+incidentes, nas atividades de análise de requisitos e testes, contendo planejamento e execução de testes 
+manuais e automatizados de produtos de software, levantamento e documentação de requisitos de produto de 
+software, arquitetura no desenvolvimento de produtos de software, suportando uma baseline com os seguintes 
+tamanhos funcionais: 
+ 
+SERVIÇO DE RESOLUÇÃO DE INCIDENTES 
+  jun/23 jul/23 ago/23 set/23 out/23 nov/23 dez/23 
+Baselin
+e Total 
+(PF)  
+16.677 16.677 19.139 21.461 21.461 24.874 26.129 
+jan/24 fev/24 mar/24 abr/24 mai/24   
+25.514 25.514 25.514 29.710 29.710   
+ 
+Relação de sistemas e tamanho funcional: 
+COD DESCRIÇÃO 
+BASELINE 
+(PONTOS DE 
+FUNÇÃO) 
+TECNOLOGIA 
+10 Cadastro e emitentes de cheques S/fundos 23,00  COBOL, EASYTRIEVE 
+18 Entrada de dados 28,00  COBOL 
+24 Sistema de controle de cartões 821,00  ASP.NET; C#; COBOL; CICS; JAVA 
+34 Controle de contra-ordem de cheques 70,00  COBOL; COBOL-CICS; 
+48 Contas correntes / cheque especial 4.547,00  COBOL; COBOL-CICS; EASYTRIEVE 
+109 Convenios de folha de pagamento 335,00  COBOL;  
+128 Fone / Fax 53,00  COBOL; COBOL-CICS;  
+129 Titulos de capitalização 153,00  ASP; COBOL; COBOL-CICS; HTML 
+130 Domicilio bancário 245,00  ASP.NET; C#; REPORT.NET 
+131 Personalização de cheques 83,00  COBOL 
+134 Sistema de automação bancária 1.524,00  COBOL; COBOL-CICS; VISUAL BASIC; Microsoft .net C#; JAVA; grails; transact SQL 
+159 POUPANÇA CORRENTE 492,00  COBOL; 
+160 Internet banking BNB 3.648,00  ASP; ASP.NET; COBOL; COBOL - CICS; VISUAL BASIC 
+186 Compensação de cheques 2.782,00  COBOL 
+194 Poupança Banco do Nordeste 75,00  COBOL 
+265 Sistema de pagamentos instantaneos 2.011,00  JAVA 
+276 Digitalização de assinaturas 64,00  VISUAL BASIC 
+277 Site das centrais de apoio as agencias 18,00  ASP; VISUAL BASIC 
+283 Sistemas de seguros 569,00  COBOL; VISUAL BASIC 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 17] ---
+ 
+ 
+302 Pagamentos de benefícios do INSS 798,00  ASP.NET; COBOL; COBOL - CICS 
+408 Credito comercial 378,00  ASP.NET 
+410 Poupança  1.462,00  POWER BUILDER 
+420 Cobrança de tarifas 396,00  JAVA 
+432 Controle de ordens judiciais - SIMBA 466,00  ASP.NET; C#; HTML; VISUAL BASIC 
+445 Transferencia de arquivos 224,00  ASP.NET; C#; 
+469 Sistema de tramitação de propostas 209,00  ASP.NET; 
+483 Data Mart de produtos e serviços bancários* 147,00  DATA MANAGER 
+511 Sistema de integrações ao Portal de convenios 246,00  C#; COBOL; DATA MANAGER; HTML; JAVA 
+515 Informações consolidadas 231,00  COBOL; JAVA 
+518 Credenciais de cartões 87,00  COBOL - CICS; JAVA 
+519 Cartões de débito VISA ELECTRON 560,00  ASP.NET; C#; COBOL; COBOL - CICS; JAVA 
+526 Plataforma centralizada de cobrança 1.353,00  JAVA 
+531 Correspondente bancário 888,00  COBOL;  JAVA 
+562 Cartão de crétito 2.146,00  JAVA 
+593 Solução E-financeira 579,00  JAVA 
+623 Sistema de simuladores de credito na Internet 310,00  C# 
+643 Sistema financeiro aberto (Open Banking) * 1.559,00  JAVA 
+720 Gerenciamento de tarifas 130,00  ASP 
+TAMANHO TOTAL: 29.710,00  
+ 
+PROCESSO DE TRATAMENTO DE INCIDENTES 
+ O escopo do processo de tratamento de incidentes abrange as macro-atividades seguintes: 
+Registro de incidentes 
+Classificação de incidentes; 
+Investigação e diagnóstico 
+Resolução e recuperação 
+Encerramento de incidentes 
+Monitoramento, acompanhamento e comunicação 
+ 
+3.0 METODOLOGIAS UTILIZADAS 
+ 
+METODOLOGIA DE DESENVOLVIMENTO UTILIZANDO ÁGIL - BNB: 
+O Processo de Desenvolvimento Ágil de Software do BNB, se baseia nos valores e princípios do Manifesto 
+para o Desenvolvimento Ágil de software. O processo foi proposto e amadurecido através de discussões 
+internas, treinamentos e experimentações em projetos pilotos. 
+Este processo se destina aos projetos de desenvolvimento de software de serviços especializados de 
+desenvolvimento, evolução e manutenção de sistemas, utilizando práticas e princípios  ágeis. 
+Etapas da Metodologia: 
+ 
+PRÉ-GAME; GAME - Sprint Zero; GAME  SPRINTS; PÓS-GAME; GESTÃO 
+ 
+Técnicas e métodos utilizados durante a aplicação da metodologia ágil: 
+Priorização baseada em valor de negócio; Prototipação; Quadro Kanban; Reunião de Refinamento; Revisão 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 18] ---
+ 
+ 
+Técnica e de negócio; User Story Mapping; WIP  Work in Progress: T-SHIRT SIZE: 
+ 
+4.0 AMBIENTE COMPUTACIONAL 
+ 
+ 
+FAMÍLIA DE PRODUTOS IBM RATIONAL 
+PRODUTO PLATAFORMA PROPÓSITO 
+Rational Software Architect v7.53* e 9.1 
+Windows 
+Modelagem UML de Análise, Design, Implementação e 
+Requisitos. 
+Rational Modeling Extension for 
+Microsoft .NET v7.0 
+Extensão do RSA para modelagem UML para a plataforma 
+.NET 
+Rational ClearCase v8.0 
+Repositório de códigos fontes e todos os artefatos 
+produzidos no processo de desenvolvimento. 
+Gerenciamento de requisições de mudanças e controle 
+de baselines de maturidade do software. 
+Rational Functional Tester (RFT) v9.1 Criação dos Scripts de Testes Automatizados 
+Rational MethodComposer v7.5 Configuração, manutenção e publicação do processo de desenvolvimento de software RUP-BNB. 
+Rational Performance Tester v9.1 Testes de desempenho, carga e escalabilidade de aplicações. 
+Rational Performance Test Pack 
+Virtual Testers v9.1 
+Pacote de usuários virtuais para execução de testes de 
+performance 
+Rational Test Workbench (RTW) v9.2 Ferramenta para teste de API, teste funcional de UI, teste de desempenho e virtualização de serviço 
+Rational Developer for System z v7.1, 
+7.5 e 8.5 Desenvolvimento COBOL. 
+Rational Business Developer v7.5 e 
+8.0 Desenvolvimento EGL 
+Rational Quality Management (QM) 
+v6.0.4 Ferramenta de gerenciamento de testes 
+Rational Asset Manager (RAM) v7.5.2 Repositório de ativos de software 
+Rational Team Concert (RTC) v6.0.4 Gestão de Configuração e Mudança e Gestão de atividades 
+Rational DOORS Next Generation 
+(RM)  v6.0.4 Gerenciamento de Requisitos 
+FAMÍLIA DE PRODUTOS IBM WEBSPHERE 
+PRODUTO PLATAFORMA PROPÓSITO 
+WebSphereMQ v6.0.2, 7.0.1, 7.5, 8.0 z/OS &   Red Hat Linux Middleware de mensagens 
+WebSphere Message Broker / IBM 
+Integration Bus v6.0, 7.0, 9.0 e 10.0 Red Hat Linux Barramento corporativo de serviços (ESB) 
+Websphere Service Registry and 
+Repository (WSRR) v8.5.6 Repositório e Registro de Serviços 
+WebSphere Message Broker Toolkit / 
+IBM Integration Toolkit v6.0.2, 7.0, 9.0 
+e 10.0 Windows 
+Desenvolvimento de fluxos de integração de serviços e 
+aplicações para o WebSphere MessageBroker (ESB). 
+Websphere Service Registry and 
+Repository Studio v8.5.6 
+Desenvolvimento de perfis de configuração para o 
+WSRR (Repositório e Registro de Serviços)   
+WebSphere Application Server v6.14*, Windows & z/OS Servidor J2EE/SOA de Aplicação 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 19] ---
+ 
+ 
+ 
+ 
+ 
+7.05* e 8.5.5 
+Business Monitor v7.5 e 8.5.5 Windows & Red 
+Hat Linux 
+Monitoração de indicadores de processos de negócios 
+Process Server v6.2, 7.5.1 8.5.7 Servidor de execução de processos de negócios (BPM/SOA) 
+Process Center v8.5.7 Red Hat Linux Centro de Gerenciamento da Solução BPM 
+WebSphere Business Modeler v6.2 e 
+7.0 
+Windows 
+ 
+Modelagem de processos de negócio WebSphere Business Modeler 
+Advanced v6.2 e 7.0 
+WebSphere Business Modeler 
+Publishing v6.0 
+Modelagem e desenvolvimento cooperativo de processos 
+de negócio 
+WebSphere Business Modeler 
+Publishing Server v7.5 
+Servidor de modelagem cooperativa de processos de 
+negócios (BPM/SOA) 
+WebSphere Business Compass v7.5 Modelagem cooperativa de processos de negócios (BPM/SOA) 
+Process Designer v8.5.7 Modelagem de processos de negócio. 
+Integration Designer v7.5.1 e 8.5.7 Integração de processos de negócios baseado em Arquitetura Orientada a Serviços (SOA). 
+FAMÍLIA DE PRODUTOS IBM DB2 E INFORMATION MANAGEMENT 
+PRODUTO PLATAFORMA PROPÓSITO 
+DB2 for z/OS v11.1 z/OS Sistema de Gerenciamento de Banco de Dados 
+DB2 Connect Enterprise Edition v 
+8.1, 9.5, 9.7 e 10 
+Windows 
+Conectividade entre o aplicativo e o IBM DB2 for z/OS 
+InfoSphere Federation Server v10.1 
+Federação de Dados 
+Classic Architect (Cliente Server) v9.5 
+Classic Data Architect 11.3 Windows Administração e Desenvolvimento InfoSphere Classic 
+WebSphere Classic Federation 
+(WSIICF) v11.3 z/OS Integração VSAM 
+DB2 Data Server Client. Conexão direta 
+v9.7 e 10.5 Windows 7, 10, 
+11 Conectividade entre o aplicativo e o IBM DB2 for z/OS DB2 Driver Package. Conexão via 
+Gateway v10.5 
+DB2 Data Studio v3.0 e 4.1.2 e 
+4.1.3 Windows Gerenciamento e interface com o DB2 
+FAMÍLIA DE PRODUTOS MICROSOFT 
+PRODUTO PLATAFORMA PROPÓSITO 
+Microsoft Visual Studio .NET v2003*, 
+2005*, 2008*, 2010*, 2013*, 2015*, 
+2017 e 2019 Windows 
+Desenvolvimento de aplicações ASP.NET e C#.NET 
+(Framework e Core) 
+Microsoft SQL Server v2005*, 2008*, 
+2012*, 2014 e 2016 Sistema de Gerenciamento de Banco de Dados 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 20] ---
+ 
+ 
+Microsoft SQL Server Tools v2005*, 
+2008*, 2012*, 2014 e 2016 Administração e Desenvolvimento Microsoft SQL Server 
+Microsoft Visual Studio e Visual Basic 
+v6.0 (SP6) 
+Desenvolvimento de aplicações cliente - servidor e 
+componentes COM, COM+, DLL e OCX 
+Microsoft Visual InterDev v6.0 (SP6) Desenvolvimento de aplicações WEB Active Server Pages (ASP) 
+Microsoft Host Integration Server v2000 Integração computador (COMTI) com central 
+Microsoft Internet Information Services 
+(IIS) v5.0*, 6.0*, 7.0*, 
+7.5*, 8.0, 8.5 e 10 
+Servidor WEB 
+Microsoft Message Queuing (MSMQ) 
+v2.0 e 3.0 Middleware de mensagens 
+Microsoft Access v2000 Desenvolvimento departamental 
+Microsoft SQL Server 
+SGBD OLAP 
+Analysis Services 
+Reporting Services 
+Integration Services 
+Master Data Services 
+R Services (no banco de dados) 
+Power BI Visualização de Dados 
+Microsoft .Net Framework 1.1 Windows Server 2000 Microsoft Visual Studio 2003 
+Microsoft .Net Framework 2.0  Windows Server 2003 e 2008 Microsoft Visual Studio 2010 
+Microsoft .Net Framework 3.6 Windows Server 2003 e 2008 Microsoft Visual Studio 2010 
+Microsoft .Net Framework 4.0, 4.5 e 4.6 
+Windows Server 
+2008 R2 SP1, 
+Windows Server 
+2012 R2 
+Microsoft Visual Studio 2010, 2013, 2015, 2017 e 2019 
+Microsoft .Net Framework 4.8 Windows Server 2016 Microsoft Visual Studio 2017, 2019 
+Microsoft .Net Core 2.1 Windows Server 2016+ Microsoft Visual Studio 2016 
+Microsoft .Net Core 3.1 Windows Server 2016+ Microsoft Visual Studio 2019 
+CrystalReports 8.5 
+Visual Basic 
+Framework para construção de relatórios nas plataformas 
+Visual Basic 6 e ASP 
+FarPoint Spread 3.0 Componente para implementação de aplicações baseadas em planilhas de dados 
+Microsoft Web Services Enhancements 
+(WSE) 3.0 .NET Framework para suporte às especificações WS-* na plataforma Microsoft .NET 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 21] ---
+ 
+ 
+ 
+ 
+ASP.NET AJAX Extensions 1.0 Framework ASP.NET AJAX para aplicações desenvolvidas no Microsoft .NET Framework 2.0 
+ASP.NET AJAX Control Toolkit .NET 
+3.5 
+Conjunto de controles para aplicações AJAX no Microsoft 
+.NET Framework 3.5 
+ASP.NET AJAX Control Toolkit .NET 
+4.0 
+Conjunto de controles para aplicações AJAX no Microsoft 
+.NET Framework 4.0 
+jQuery 1.7.1+ Biblioteca Javascript para aplicações Web Microsoft .NET Framework 3.5 e 4.0 
+Microsoft Ajax Minifier 4.0 Otimização (minify) do código Javascript e CSS em aplicações Microsoft .NET Framework 3.5 e 4.0 
+BibWebNET Biblioteca utilitária para aplicações ASP.NET Framework 1.1 e 2.0 
+BN.Seguranca v2.0 Wrapper para integração de aplicações.NET ao SmartKey (Framework 2.0+) 
+NHibernate 3.2+ com Fluent 
+NHibernate 
+Framework de mapeamento objeto  relacional (ORM) 
+para aplicações Microsoft.NET Framework 3.5 e 4. 
+Microsoft ADO.NET Data Providers & 
+Datareaders 
+Framework de acesso a dados para aplicações 
+Microsoft.NET Framework 3.5  e 4.0 sem necessidade 
+mapeamento O/R 
+NLog 2.0+ Bibloteca de log para aplicações Microsoft .NET Framework 3.5 e 4.0 
+Crystal Reports 10.5+ Framework para construção de relatórios em aplicações Microsoft .NET 
+Specflow Framework para definir, gerenciar e executar automaticamente testes de aceitação em projetos .NET. 
+Selenium Web Driver Ferramenta para testes funcionais automatizados 
+Entity Framework Core 2.1+ .Net Core Framework ORM para .Net Core 2.1 e 3.1 
+FAMÍLIA DE PRODUTOS SYBASE 
+PRODUTO PLATAFORMA PROPÓSITO 
+Sybase PowerBuilder v6.5, 10.5 e 11.2 Windows Codificação PowerBuilder. 
+Sybase PowerDesigner v16.6 Windows Modelagem de dados e engenharia reversa de código PowerBuilder com geração de modelos UML 
+FAMÍLIA DE PRODUTOS IBM COGNOS 
+PRODUTO PLATAFORMA PROPÓSITO 
+Cognos Connection v10.2.2 
+Windows 
+Acesso e Gerenciamento ao/do Portal Cognos 
+Report Studio v10.2.2 Desenvolvimento de Relatórios 
+Query Studio v10.2.2 Geração de Relatórios e Consultas Ad-hoc 
+Analyses Studio v10.2.2 Exploração e Análise de Informações Disponíveis em Cubos 
+Event Studio v1.10.2.2 Gerenciamento de Eventos e Tarefas 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 22] ---
+ 
+ 
+ 
+ 
+5.0 AMBIENTE PARA DESENVOLVIMENTO 
+ AMBIENTE PARA APLICAÇÕES JAVA 
+As aplicações Java para ambiente servidor são  compatíveis com o produto IBM 
+WebSphere Application Server z/OS versão 7.0, 8.5.5 e OpenLiberty 20, Tomcat 
+embedded e suas evoluções ao longo da vigência do contrato, sendo observadas as 
+versões de especificações, frameworks e APIs descritas a seguir: 
+ 
+ Aplicativos Gerais: 
+  Java Platform, Standard Edition (Java SE) v6, v7, v8, v11 
+  Java  Platform, Enterprise Edition (Java EE) v5. 6. 8 e 8 
+  Especificações ISO 8859 
+  Spring Boot / Framework v2.6.2 
+ 
+Aplicativos WEB: 
+JSR 154: JavaTM Servlet 2.4 e 3.0; JSR 245: JavaServerTM Pages 2.1; JSR 314: 
+JavaServer Faces 2.0 
+ 
+ Aplicativos de Protocolo: 
+  API de Servlet SIP (Session Initiation Protocol) (JSR 116) 1 
+ 
+ Aplicativos de BEAN Corporativo (EJB): 
+JSR 315: JavaTM Servlet 3.0; JSR 318: Enterprise JavaBeansTM 3.1/Interceptors 
+1.2; API JDBC (Java DataBase Connectivity); JSR 914: JavaTM Message Service 
+(JMS) API; JSR 343: JavaTM Message Service 2.0 
+   
+Aplicativos clientes: 
+  Arquitetura Java Web Start 1.4.1 
+   
+Serviços da WEB (Web Services): 
+ Java Architecture for XML Binding (JAXB) 2.; Java Architecture for XML Binding 
+(JAXB) 2.1; Java API for XML Processing (JAXP) 1.2; Java API for XML-based RPC 
+(JAX-RPC) 1.1; Java API for XML Web Services (JAX-WS) 1.1; Reliable 
+Asynchronous Messaging Profile (RAMP) 1.1; SOAP 1.1/1.2; SOAP with 
+Attachments API for Java (SAAJ) 1.2/1.3; SOAP over Java Message Service (SOAP 
+over JMS) 1.0; SOAP Message Transmission Optimization Mechanism (MTOM) 1.0; 
+Streaming API for XML (StAX) 1.0; Universal Description, Discovery and Integration 
+(UDDI) 3.0; W3C XML Schema 1.0; Web Services Addressing (WS-Addressing) 1.0; 
+Web Services Atomic Transaction (WS-AT) 1.0/1.1; Web Services Business Activity 
+(WS-BA) 1.0/1.1; Web Services Coordination (WS-COOR) 1.0./1.1; Web Services 
+Description Language (WSDL) 1.1; Web Services for Java Platform, Enterprise 
+Edition (Java EE) (JSR 109) 1.2; Web Services Interoperability Organization (WS-I) 
+Basic Profile 1.1; Web Services-Interoperability Attachments Profile 1.0; Web 
+Services Invocation Framework (WSIF); Web Services Metadata for the Java 
+CognosCon figuration v10.2.2 Configuração de Ambiente e Segurança 
+Framework Manager v10.2.2 Modelagem de Metadados e Publicação de Pacotes (cubos) 
+Cognos Transformer v10.2.2 Modelagem e Geração de Cubos 
+Map Manager v10.1.1 Configuração de Mapas para Dashboards 
+Data Manager v10.2.1 Ferramenta de ETL 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 23] ---
+ 
+ 
+Platform (JSR 181); Web Services Notification (WS-Notification) 1.3; Web Services 
+Policy (WS-Policy) 1.5; Web Services Reliable Messaging 1.0; XML-binary 
+Optimized Packaging (XOP) 1.0 
+ 
+Integração de Serviço: 
+ API JDBC (Java DataBase Connectivity) 4.0 
+ 
+Recursos de Acesso a Dados: 
+ Java DataBase Connectivity (JDBC) API 4.0; Java EE Connector Architecture (JCA) 
+resource adapter) 1.5; JavaTM Persistence 2.0  JSR 317 
+ 
+Recursos do Sistema de Mensagens: 
+ JMS (Java MessageService)(JSR914) 1.1; JCA (J2EE 
+ConnectorArchitecture)(JSR112) 1.5 
+ 
+Correio, URLS e Outros Recursos do J2EE: 
+ Gerenciador de Segurança Java 2 1.5; JAAS (Java Authentication and Authorization 
+Service) 2.0; Java ACC (Java Authorization Contract for Containers) 1.1; CSIv2 
+(Common SecureInteroperability) 2.0; SSL (Secure Sockets Layer) 5.0; JGSS (Java 
+Generic Security Service) 1.0; SPNEGO (Simple and Protected GSS-API 
+Negotiation Mechanism) 1.0; JCE (Java CryptographicExtension) 1.0; Java CertPath 
+(Certification Path) 1.1 e 1.0; OpenID Connect (OIDC) 1.0; OAuth 2.0 
+ 
+Segurança de Serviços da WEB (Web Services): 
+ Canonical XML 1.0; Exclusive XML Canonicalization 1.0; API Java Certification Path 
+(JSR 55);  OASIS WS-Security (Web Services Security) 1.0/1.1; OASIS Web 
+Services Security, Kerberos Token Profile 1.1; OASIS Web Services Security, 
+Username Token Profile 1.0/1.1; OASIS Web Services Security, X.509 Token Profile 
+1.0/1.1; Web Services Interoperability Organization (WS-I) Basic Security Profile 
+1.0/1.1; Web Services Interoperability Organization (WS-I) Reliable Secure Profile 
+1.0/1.1; Web Services Secure Conversation (WS- SecureConversation) 1.0/1.3; 
+Web Services Trust 1.1/1.3; XML Signature Syntax and Processing; XML Encryption 
+Syntax and Processing 
+  
+Gestão de Nomenclatura e Diretório: 
+ JNDI (Java Naming and Directory Interface) 1.21;  CORBA (Common 
+ObjectRequestBroker: Architecture) 2.4; Serviço de Nomenclatura Interoperável 
+OMG  CosNaming 
+ 
+Object Request Broker (ORB) & Transações: 
+ CORBA (Common Object Request Broker Architecture) 2.3.1; IDL revisado para 
+mapeamento de linguagem Java; JTA (Java Transaction API) 1.1; JTS (Java 
+Transaction Service) 1.0; CORBA OTS (Object Transaction Service) 1.4; Web 
+Services Atomic Transaction (WS-AT) 1.0/1.1; WS-COOR (Web Services 
+Coordination) 1.0./1.1; WS-BA (Web Services Business Activity) 1.0/1.1; Adaptador 
+de Recursos JCA (J2EE ConnectorArchitecture) 1.5 
+  
+DESENVOLVIMENTO MOBILE 
+  Aplicações Android e iOS 
+Linguagem Java ou Kotlin v1.7, utilizando Android API 11 e Android Studio 4.0 
+Desenvolvimento de aplicações em XCode 11.3, e integração da Apple (IDE) 
+   Utilização do ZBar Bar Code Reader, v1.3.1 para iOS e v0.2 Android 
+   Biblioteca OFD Mobile HeartBeat para iOS e Android v2.4.2 
+   Desenvolvimento React Native com Visal CODE v1.40.2 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 24] ---
+ 
+ 
+Utilização das bibliotecas Typescript v3.83, Axios v0.19.0, React Nativa Paper 
+v4.2.0, React Native Vector Icons v6.6.0, React Native Gesture Handler v1.6.0 
+Utilização da ferramenta Appium  v2.5, para automação de código aberto, 
+execução de scripts e testes de aplicativos nativos e Web    
+ 
+ AMBIENTE P/ INTEGRAÇÃO CONTÍNUA 
+Utilização da solução open source , Jenkins para a orquestração do processo de 
+integração contínua, integrada aos repositórios de fontes e ativos e às ferramentas das 
+plataformas de desenvolvimento .Net, Java, VB6, PB e ASP. 
+Plataforma utilizadas: Jenkins 2.121.3, Maven 3.3.9, MSBuild 2.0, 4.0, 12.0, 14.0, 15.0 
+e 16.0, Artifactory 4.8.0, Nuget, Sonar 6.7.5, Aivosto Project Analyzer 10+, Microsoft 
+FxCop Code Analysis Visual Studio 2010+, Microsoft StyleCop 4.4+, Dotnet CLI, 
+Software Analyzer RSA 7.5, PMD 2.6, FindBugs 3.5, Enterprise Analyzer 3.4, OpenShift 
+3.11, Nexus 3.28.1 
+   
+AMBIENTE PARA DESENVOLVIMENTO DE APLICAÇÕES REACT 
+  Ambiente de Desenvolvimento 
+REACT 1.40.2; Create-react-app 3.3.0; Typescript 3.7.5; Node.js 10.6.0; Material-
+UI 4.5.1; Material-UI-Icons 4.4.1; Keycloak-js 4.8.3; Font Lato 0.0.75; Axios 
+0.14.0; Router 4.3.5; History 4.10.1 
+    
+INFRAESTRUTURA DO AMBIENTE COMPUTACIONAL 
+Ambiente Mainframe 
+Mainframe IBM z/OS v2.1, com os seguintes produtos (SDSF, RACF, RMF, 
+InfoPrint Server, DFSORT, Rmm, HSM) 
+Sistema gerenciador de banco de dados DB2 v11.1, UDB for z/OS 
+Sistema de integração InfoSphere Classic Federation Server v11.3, for z/OS 
+Sistema VSAM (Virtual Storage Access Method) v2.1 
+Sistema Connect Direct v5.2.0 
+Gerenciador de Transações ON-LINE CICS-TS v5.3 
+Controle de produção CONTROL-M v9.0.18 
+Gerenciador de mensagens WebSphere MQ for z/OS v8.0 e MSMQ - Microsoft 
+Message Queue 
+Protocolo de comunicação z/OS Communications Server TCP/IP v2.1 e z/OS 
+Communications Server SNA (VTAM) v2.1 
+Servidor de aplicação Java - Websphere Aplicattion Server for z/OS v7.0 e 8.5 
+Conector WEBSPHERE para CICS via CICS Transaction Gateway v8.1.0 
+Software Stack v3.0 para fitas 
+Software File-aid v17.2 para ETL (extract, transformation e load) 
+Linguagem de programação Easytrieve v6.1.0, Enterprise COBOL for z/OS 
+v4.2.0, Cobol RunTime v.6.01 
+ 
+Ambiente diversos: 
+Ambiente Microsoft composto pela família Windows 2000, 2003, 2008, 20212, 
+2016, 2019 Server. 
+Ambiente de sistemas operacionais Open-Source, composto por Red Hat 
+Enterprise Linux v4/5/6/7/8. 
+Componentes de software par transferência de arquivos via Connect Direct 
+v5.2.0. 
+integração de serviços corporativos e sistemas aplicativos via IBM  
+WebSphereInfoSphere Federation Server v9.7, DB2 Connect v10.1 e Drivers 
+ODBC e OLE DB via DB2 Connect v8.1 / 10.1 / HIS 2009. 
+Software gerenciador de mensagens via IBM  WebSphere Message Broker 
+(Linux) v6.0, IBM MQ (Windows / Linux) v6.0, IBM  Integration Bus 9.0.0.4(Linux) 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 25] ---
+ 
+ 
+v9.0, IBM MQ (Windows / Linux) v7.5. 
+IBM  Integration Bus 9.0.0.4(Linux) v10, IBM WebSphere MQ Distributed 
+(Windows / Linux) v9.5, IBM  Integration Bus 10.0.0.4(Linux) e IBM  App Connect 
+Enterprise 11.0.0.4 (Linux). 
+Software de comunicação/integração via Microsoft Host Integration Server 
+(2000/2004/2006) 
+Software de serviço de componente/aplicação via Microsoft Component Services 
+(2000/2003/2008/2012), JBOSS v4.0.4 e Microsoft Internet Information Services (5 
+/ 6 / 7 / 7.5 / 8 / 8.5 /10). 
+Software de Business Process Management (BPM) via WebSphere Process 
+Server v8.5 e WebSphere Business Monitor v8.5. 
+Software de colaboração/E-mail: 
+ Microsoft Exchange Server 2010 
+  Skype for Business 2015 
+Sistema Gerenciador de Banco de Dados: 
+ Microsoft SQL Server 2000/2005/2008/2012/2014/2016/2017 Enterpise 
+Edition  
+ Microsoft SQL Server 2000/2008/2012/2014/2016/2017 Standard Edition 
+ DB2 UDB v11.1 for z/OS 
+ DB2 Enterprise Server Edition for Windows v8.1/10.5 
+Sistema de Inventário de Software e Hardware: 
+ SCCM - System Center Configuration Manager 2012 R2 e 2019 
+ Microsoft Endpoint Configuration Manager v5.0.x 
+ MicroSystem Center 2019 Orchestrator 
+Sistema de suporte aos processos de service desk, incidentes, 
+problemas e mudanças, CA Service Desk Manager v17.1 
+ 
+Atestamos que os serviços estão sendo prestados, não havendo em nossos registros 
+nenhum fato que desabone sua conduta e responsabilidade em relação as tarefas 
+assumidas. Além disso,  os níveis formais de serviço (SLA ou ANS) estabelecidos no 
+edital e respectivo contrato e propostas, apurados mensalmente, foram executados 
+dentro das especificações contratadas e retratam o bom atendimento na execução do 
+projeto. O percentual acumulado de desconto por SLA é de 17,02%. 
+Adicionalmente, informamos que durante o período do contrato, a rotatividade de 
+pessoal apresenta uma taxa média de 4,34%, indicando uma estabilidade e 
+comprometimento do quadro profissional alocado ao contrato. 
+Ressaltamos também que, até o presente momento, não houve registro de instauração 
+de processo administrativo ou aplicação de sanção contratual. 
+Declaramos que a contratada executa serviços de desenvolvimento de software 
+utilizando as boas práticas da Gerência de Projetos, Gerência de Requisitos e Qualidade, 
+com controles para aferição dos Acordos de Níveis de Serviço e de produtividade. 
+De acordo com o Termo de Compromisso e Confidencialidade assinado entre as partes, 
+fica a Contratada impedida de fornecer documentos, artefatos, telas ou qualquer 
+informação de propriedade do Contratante sem sua autorização expressa. 
+Esclarecimentos de dúvidas, informações adicionais ou documentação que se julgue 
+necessária para validação das declarações aqui prestadas poderão ser obtidos junto ao 
+Sr. Dayvison Chaves Lima, telefone: (85) 3251-5497, e-mail: dayvisoncl@bnb.gov.br. 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 26] ---
+ 
+ 
+Fortaleza/CE, datado e assinado eletronicamente. 
+ 
+Dayvison Chaves Lima 
+Fiscal Administrativo do Contrato 
+Gerente Executivo / Ambiente de Governança de TI 
+dayvisoncl@bnb.gov.br 
+(85) 3251-5497 
+ 
+ 
+DIEGO IVO Campos Costa 
+Gestor do Contrato 
+Gerente de Ambiente / Ambiente de Governança de TI 
+diegoivo@bnb.gov.br  
+(85) 3299-3298 
+ 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 27] ---
+ASSINATURAS DO DOCUMENTO
+_______________________________________________________________________________________
+ATESTADO DE CAPACIDADE TECNICA - G4F
+Este documento foi assinado eletronicamente por: 
+DAYVISON CHAVES LIMA
+CPF: 834.612.053-20
+GERENTE EXECUTIVO-DIRGE
+AMBIENTE DE GOVERNANCA DE TI
+DIEGO IVO CAMPOS COSTA
+CPF: 913.260.793-87
+GERENTE DE AMBIENTE
+AMBIENTE DE GOVERNANCA DE TI
+BANCO DO NORDESTE DO BRASIL S.A
+CNPJ Nº 07.237.373/0001-20
+04/07/2024 13:48
+Verifique em https://validar.iti.gov.br
+Assinatura Digital: 
+Certificado Digitalmente pelo Banco do Nordeste do Brasil S/A - ID: 47836380
+
+--- [Página 28] ---
+CÂMARA DOS DEPUTADOS
+DIRETORIA DE INOVAÇÃO E TECNOLOGIA DA INFORMAÇÃO
+Coordenação de Inovação, Governança e Estratégia Digital
+CT N.º 87/2024 
+ 
+DECLARAÇÃO DE CAPACIDADE TÉCNICA 
+ 
+Declaro, a pedido da parte interessada, que a empresa G4F SOLUÇÕES 
+CORPORATIVAS LTDA, CNPJ 07.094.346/0001-45, estabelecida no SCN 
+Quadra 02, Bloco A, Sala 602, Asa Norte, Brasília-DF, presta à CÂMARA DOS 
+DEPUTADOS, CNPJ 00.530.352/0001-59, satisfatoriamente, os serviços abaixo 
+relacionados, tendo demonstrado capacidade técnica e pontualidade nos 
+compromissos assumidos, nada havendo, até a presente data, que possa 
+desaboná-la. 
+ 
+ESPECIFICAÇÃO DOS SERVIÇOS 
+ 
+Prestação de serviços continuados, por empresa especializada, 
+referentes a apoio a Processos, Tratamento de Dados e Inovação em Tecnologia 
+da Informação, com dedicação exclusiva de profissionais, pelo período de 
+12(doze) meses, conforme processo 422.148/2020 e contrato 171/2022 com 
+vigência de 03/10/2022 à 02/10/2025. 
+ 
+ATRIBUIÇÕES CONTRATADAS 
+Analista de TI – Agile Master – Senior 
+ Ser agente de mudanças diariamente. Aplicar e disseminar a cultura, os valores e 
+os princípios do Manifesto para Desenvolvimento Ágil de Software para toda a 
+organização; 
+ Entender e endereçar as necessidades dos membros dos times, bem como dos 
+clientes, com o objetivo de alcançar resultados alinhados com os valores, princípios 
+e objetivos de negócio; 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 29] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+2
+ Garantir que os times compreendam e busquem a constante e frequente 
+entrega de valor aos clientes; 
+ Apoiar o desenvolvimento dos times e dos indivíduos que os compõem, com 
+foco na mentalidade e no comportamento; 
+ Promover a colaboração e troca de conhecimento e experiências entre 
+diferentes times; 
+ Identificar e atuar adequadamente em cada fase de desenvolvimento dos 
+times, de acordo com os diferentes estágios de desenvolvimento do modelo 
+de Tuckman; 
+ Estimular a comunicação, transparência, auto-organização, sustentabilidade e 
+cooperação entre os membros do time; 
+ Ajudar os times a serem autônomos e alcançarem o máximo de eficiência; 
+ Identificar o mais cedo possível e mediar conflitos, abordando atitudes 
+improdutivas e comportamentos disfuncionais, incentivando o entendimento e 
+a colaboração dos membros dos times. Usar conflitos construtivos para 
+fortalecer o espírito de time; 
+ Remover impedimentos e proteger os times de interferências externas com o 
+objetivo de manter o foco na entrega de valor. Atuar de forma proativa para 
+evitar impedimentos; 
+ Transmitir seus conhecimentos e experiências ágeis para os times, para os 
+Product Owners e para outros Scrum Masters; 
+ Garantir que o Scrum e outros métodos relevantes sejam compreendidos e 
+seguidos pela equipe e que seus membros entendam e valorizem cada 
+evento; 
+ Aplicar diferentes formatos de retrospectivas, utilizando o mais adequado 
+dada a situação do time, buscando ações efetivas que promovam a melhoria 
+contínua do trabalho; 
+ Comunicar e reportar o andamento dos projetos, adequando o vocabulário 
+para os diferentes públicos, inclusive para stakeholders executivos e/ou 
+estratégicos, bem como táticos e operacionais; 
+ Aplicar diferentes técnicas ou práticas ágeis, adequadas ao contexto dos 
+times, ajudando-os a se tornarem mais eficientes; 
+ Empregar métricas de acompanhamento de desempenho do time para ajudá-
+lo a melhorar continuamente e prover visibilidade de sua 
+capacidade/velocidade; 
+ Elicitar, comunicar e garantir a visibilidade das dependências que a equipe 
+possui com outras equipes e trabalhar para que sejam resolvidas; 
+ Colaborar com o Product Owner para manter a visão, os objetivos e o backlog 
+do produto claros e de fácil compreensão pelo time; 
+ Apoiar o Product Owner no planejamento de curto, médio e longo prazos; e 
+ Conduzir ou apoiar workshops, oficinas, reuniões ou encontros aplicando 
+técnicas como Design Thinking, Design Sprint, Lean Inception e outras. 
+ 
+Analista de Design e Cultura Digital – Senior 
+• Apoio às atividades relacionadas ao processo de transformação digital e ao 
+fomento à cultura digital da Câmara dos Deputados; 
+• Produção de guias e tutoriais sobre as soluções digitais produzidas pela Ditec; 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 30] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+3
+• Participação nas equipes de criação e desenvolvimento ágil de produtos e 
+serviços digitais, desde o momento da concepção das soluções; 
+• Design gráfico, layout, formatação e diagramação de materiais de mídia digital; 
+• Design de hotsites, aplicativos e painéis gerenciais no âmbito da inovação e 
+da transformação digital; 
+• Apoio ao planejamento e à execução de ações de comunicação interna da 
+Diretoria de TIC, especialmente as relacionadas ao processo de 
+transformação e cultura digital; 
+• Apoio ao planejamento, à execução e à gestão de redes sociais e mídias 
+online voltadas para a comunidade de tecnologia (nacional e internacional); 
+• Apoio à gestão dos canais de comunicação internos da Diretoria, 
+especialmente as relacionadas ao processo de transformação e cultura digital; 
+• Produção de textos e conteúdo de TIC dentro do contexto de tecnologia da 
+informação ou de transformação e cultura digital da Câmara dos Deputados, 
+divulgação interna e externa à Diretoria; 
+• Apoio ao planejamento, à execução e produção de entrevistas com pessoas 
+internas ou externas à Diretoria com temas técnicos de TI ou relacionados à 
+cultura e transformação digital; 
+• Roteiro e produção de vídeos e tutoriais informativos relacionados aos 
+produtos e serviços de tecnologia ou à transformação e cultura digital da 
+Câmara dos Deputados; e 
+• Apoio à gestão e edição de conteúdos da intranet da Diretoria. 
+ 
+Analista de TI – Planejamento e Processos Digitais – Senior 
+ Apoiar as atividades necessárias à gestão e governança de TIC; 
+ Apoiar as atividades necessárias à gestão de segurança da informação; 
+ Apoiar as atividades necessárias à gestão de riscos e continuidade de 
+negócios em TIC; 
+ Fazer correlação de informações estratégicas e táticas dos diversos 
+instrumentos utilizados pela governança de TIC; 
+ Apoiar as atividades necessárias à gestão de processos de TIC; 
+ Apoiar as atividades necessárias ao planejamento estratégico e tático de TIC; 
+ Apoiar as atividades necessárias à gestão de projetos e gestão de portfólio de 
+projetos de TIC; 
+ Elaborar, tratar e analisar indicadores de desempenho e de resultado de TIC; 
+ Apoiar a verificação do cumprimento de padrões, medições e 
+indicadores; e 
+ Executar outras tarefas de mesma natureza e complexidade, de acordo com 
+as necessidades do serviço. 
+ 
+Analista de TI - Arquiteto de Dados – Senior 
+• Construir, avaliar e manter modelos de dados relacionais, multidimensionais ou 
+NOSQL; 
+• Identificar e mapear correspondências entre modelo de objetos e modelo 
+de dados; 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 31] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+4
+• Implantar e manter catálogo de dados; 
+• Auxiliar na construção e na manutenção da arquitetura corporativa de dados; 
+• Apoiar os diversos profissionais envolvidos na governança de dados, a 
+desempenhar seus papéis (p.ex.: curadores de dados e supervisores de 
+dados); 
+• Desenvolver, implantar e acompanhar indicadores para aferir qualidade de 
+dados; 
+• Propor e implementar melhorias nos processos para aperfeiçoamento da 
+qualidade e da governança dos dados corporativos; 
+• Apoiar a gestão do conhecimento, na documentação de ações, no registro de 
+procedimentos, no mapeamento de processos e na elaboração de rotinas e 
+tutoriais; 
+• Executar outras tarefas de mesma natureza e complexidade, de acordo com 
+as necessidades do serviço; e 
+• Aplicar outras tecnologias em uso ou de interesse da Contratante. 
+ 
+Analista de TI - Analista de Dados – Senior 
+ Apoiar a construção de modelos de aprendizagem de máquina (machine 
+learning) e/ou modelos estatísticos (analytics); 
+ Elaborar análises de dados exploratórias utilizando plataformas analíticas ou 
+linguagens de programação especializadas, tais como Python ou R; 
+ Elaborar análises de dados confirmatórias e/ou preditivas utilizando 
+plataformas analíticas ou linguagens de programação especializadas, tais 
+como Python ou R; 
+ Construir modelos de dados multidimensionais para implementação de 
+“DataMarts” e “DataWarehouse”; 
+ Implementar consultas e relatórios OLAP para “DataWarehouse”; 
+ Construir painéis e outras formas de visualização de dados utilizando 
+ferramenta de “Data Discovery” ou linguagens de programação 
+especializadas, tais como Python ou R; 
+ Elaborar roteiros de procedimentos técnicos inteligíveis, claros e com boa 
+redação; 
+ Executar outras tarefas de mesma natureza e complexidade, de acordo com 
+as necessidades do serviço; e 
+• Aplicar outras tecnologias em uso ou de interesse da Contratante. 
+ 
+Analista de TI - Engenheiro de Dados - Senior 
+• Interpretar, construir, depurar, testar, implantar e manter procedimentos 
+computacionais armazenados e executados por sistemas gerenciadores de 
+bases de dados relacionais, multidimensionais ou NOSQL (Not Only SQL), 
+inclusive dados não estruturados; 
+• Interpretar, construir, depurar, testar, implantar e manter rotinas 
+automatizadas para extração, transformação e carga de dados (ETL); 
+• Interpretar, construir, depurar, testar, implantar e manter integração e acesso 
+a serviços de software (web services); 
+• Interpretar, construir, depurar, testar e manter microsserviços baseado em 
+containers para computação em nuvem (referência tecnológica: docker / 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 32] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+5
+kubernetes); 
+• Automatizar a execução de tarefas de análise de dados (analytics) e 
+aprendizado de máquinas (machine learning) por meio de fluxos (pipelines) 
+utilizando plataformas ou linguagens de programação especializadas, tais 
+como Python ou R; 
+• Implantar, configurar, monitorar e manter plataformas de análise de dados, 
+governança de dados e inteligência de negócios (business intelligence – BI); 
+• Interpretar, construir, depurar, testar, implantar e manter procedimentos 
+computacionais armazenados e executados por plataformas de análise de 
+dados, governança de dados e inteligência de negócios (business intelligence 
+– BI); 
+• Abrir e acompanhar chamados relativos a defeitos, atualizações ou dúvidas 
+relacionadas a softwares e serviços junto ao suporte interno ou externo, 
+quando houver; 
+• Elaborar roteiros de procedimentos técnicos inteligíveis, claros e com boa 
+redação; 
+• Executar outras tarefas de mesma natureza e complexidade, de acordo com 
+as necessidades do serviço; e 
+• Aplicar outras tecnologias em uso ou de interesse da Contratante. 
+ 
+ATIVIDADES EFETIVAMENTE EXECUTADAS E QUE FORAM REGISTRADAS 
+E ATESTADAS POR MEIO DO “SOFTWARE PARA REGISTRO E 
+ACOMPANHAMENTO DOS SERVIÇO. 
+ 
+ATIVIDADES EFETIVAMENTE EXECUTADAS  
+ 
+ANALISTA DE TI – AGILE MASTER – SENIOR 
+• Apoiar a avaliação de viabilidade e indicação de adoção de outras 
+metodologias e ferramentas de inovação; 
+• Apoiar a divulgação do projeto ou produto; 
+• Apoiar a elaboração de relatórios de diagnósticos de problemas/oportunidades; 
+• Apoiar a elaboração de relatórios, apresentações ou outros artefatos 
+relacionados a workshops, oficinas, reuniões ou encontros realizados; 
+• Apoiar a formalização de encerramento de iniciativa (programa, projeto ou 
+atividade); 
+• Apoiar a formalização de iniciativa (programa, projeto ou atividade); 
+• Apoiar a garantia da qualidade dos produtos, focando a aderência de seus 
+atributos, características e funcionalidades aos padrões de qualidade 
+pretendidos; 
+• Apoiar a gestão da comunicação do projeto ou produto; 
+• Apoiar a gestão de escopo; 
+• Apoiar a gestão de riscos de projetos; 
+• Apoiar a gestão de tempo e cronograma; 
+• Apoiar a identificação, análise, priorização e registro do escopo do 
+produto; 
+• Apoiar a realização de workshops, oficinas, reuniões ou encontros; 
+• Apoiar a realização ou participar de reuniões de acompanhamento (ponto 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 33] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+6
+de controle) de iniciativas; 
+• Apoiar a remoção de impedimentos e/ou bloqueios junto às equipes e demais 
+partes interessadas do projeto; 
+• Apoiar medição de desempenho, monitoramento e reporte de iniciativa 
+(programa, projeto ou atividade); 
+• Apoiar na validação dos produtos do projeto quanto ao atendimento às 
+necessidades do negócio; 
+• Apoiar o desenvolvimento do time; 
+• Apoiar o levantamento de necessidades/oportunidades para realização de 
+workshops/atividades de inovação; 
+• Apoiar o planejamento de workshops, oficinas, reuniões ou encontros; 
+• Apoiar o Product Owner (PO) no planejamento de curto, médio e longo 
+prazos; 
+• Apoiar o registro da situação do projeto; 
+• Apoiar o registro de itens em backlog de produto; 
+• Apoiar o registro de lições aprendidas; 
+• Participar da reunião de acompanhamento da iteração/sprint; 
+• Participar da reunião de apresentação da iteração/sprint; 
+• Participar da reunião de planejamento da iteração/sprint; 
+• Participar da reunião de retrospectiva da iteração/sprint; 
+• Participar de reuniões; 
+• Participar de reuniões com o Escritório de Projetos para sincronização das 
+informações das iniciativas; e 
+• Realizar repasse de informações. 
+ 
+ 
+Analista de Design e Cultura Digital – Senior 
+• Apoiar a gestão dos canais de comunicação internos da Diretoria, 
+especialmente as relacionadas ao processo de transformação e cultura digital; 
+• Apoiar as atividades relacionadas ao processo de transformação digital e ao 
+fomento à Cultura Digital da Câmara dos Deputados; 
+• Apoiar o planejamento e execução de ações de comunicação interna da 
+Diretoria de TIC, especialmente as relacionadas ao processo de 
+transformação e cultura digital; 
+• Apoiar o planejamento, execução e gestão de redes sociais e mídias online 
+voltada para a comunidade de tecnologia (nacional e internacional); 
+• Apoiar o planejamento, executar e produzir entrevistas relativas a temas 
+técnicos de TI ou relacionados à cultura e transformação Digital 
+• Efetuar manutenções na intranet da Diretoria; 
+• Elaborar design gráfico, layout, formatação e diagramação de materiais de 
+mídia digital; 
+• Elaborar roteiros e produzir vídeos e tutoriais informativos relacionados aos 
+produtos e serviços de tecnologia ou à transformação e cultura digital da 
+Câmara dos Deputados; 
+• Participar de workshops de ideação e cerimônias de métodos ágeis na 
+concepção e execução de produtos e serviços digitais; 
+• Produzir guias e tutoriais sobre as soluções digitais produzidas pela Ditec; e 
+• Produzir textos e conteúdos de TIC dentro do contexto de tecnologia da 
+informação ou de transformação e cultura digital da Câmara dos Deputados. 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 34] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+7
+ 
+Analista de TI – Planejamento e Processos Digitais – Senior 
+ Acompanhar o andamento de tarefa, metodologia, processo, produto, serviço, 
+projeto, células de inovação; 
+ Apoiar a avaliação da conformidade da segurança digital; 
+ Apoiar a avaliação de viabilidade e indicação de adoção de outras 
+metodologias e ferramentas de inovação;; 
+ Apoiar a elaboração de acordo de nível de serviço; 
+ Apoiar a elaboração de catálogo de processos e serviços; 
+ Apoiar a elaboração de catálogo de projetos; 
+ Apoiar a elaboração de metodologia; 
+ Apoiar a elaboração de minuta de normativo; 
+ Apoiar a participação do servidor representante da Ditec no CGSI; 
+ Apoiar elaboração de reunião, workshops, oficinas, reuniões, encontros, 
+eventos; 
+ Apoiar implantação de ferramenta; 
+ Apoiar implantação de processo ou serviço; 
+ Apoiar implantação de produto; 
+ Apoiar o acompanhamento e a avaliação dos testes de continuidade de 
+negócio; 
+ Apoiar o planejamento, a implantação e a gestão dos riscos de segurança 
+digital; 
+ Apoiar tecnicamente a avaliação de pareceres, acórdãos, relatórios de 
+auditoria, artigos, leis, normativos, documentos oficiais, relatórios técnicos; 
+ Apoiar tecnicamente as atividades de avaliação, análise, tratamento e 
+monitoramento de riscos; 
+ Apoiar tecnicamente atividades de planejamento, implantação e gestão de 
+riscos; 
+ Apoio à análise de impacto de negócios; 
+ Apoio ao planejamento, implantação e gestão da continuidade de 
+negócios na Ditec; 
+ Avaliar conformidade; 
+ Avaliar ferramenta, processo, produto, serviço; 
+ Elaboração de mapa de riscos ou relatórios de riscos; 
+ Elaborar apresentações; 
+ Elaborar estudo sobre tecnologia / método / técnica / framework / 
+legislação / normatização; 
+ Elaborar relatório; 
+ Elaborar relatório de incidente de segurança; 
+ Elaborar relatório de situação de indicadores; 
+ Elaborar roteiro; 
+ Interpretar, construir, depurar, testar, implantar e manter rotinas 
+automatizadas para extração, transformação e carga de dados de métricas e 
+indicadores; 
+ Participar de reuniões; 
+ Realização de simulações e testes; e 
+ Realizar apresentações. 
+ 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 35] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+8
+Analista de TI – Arquiteto de Dados – Senior 
+ Apoiar a construção e manutenção de modelo multidimensional de dados; 
+ Apoiar a construção e manutenção de modelo relacional de dados; 
+ Apoiar a melhoria contínua da qualidade dos dados; 
+ Catalogar nova base de dados; 
+ Construir painéis e visualizações; 
+ Criar scripts de banco de dados; 
+ Elaborar apresentações; 
+ Elaborar linhagem de dados; 
+ Elaborar relatório de prospecção tecnológica; 
+ Fazer engenharia reversa de modelo multidimensional de dados; 
+ Fazer engenharia reversa de modelo relacional de dados; 
+ Participar de reuniões; 
+ Prestar suporte técnico às unidades curadoras de dados; 
+ Realizar apresentações; e 
+ Revisar catalogação de metadados. 
+ 
+Analista de TI – Arquiteto de Dados – Senior 
+• Apoiar a análise confirmatória de dados; 
+• Apoiar a análise exploratória de dados; 
+• Apoiar a análise preditiva de dados; 
+• Apoiar a construção de modelo multidimensional de dados; 
+• Apoiar ações de self-service analytics; 
+• Coletar dados; 
+• Construir painéis e visualizações avançadas; 
+• Construir protótipos e soluções analíticas; 
+• Elaborar apresentações; 
+• Elaborar relatório de prospecção tecnológica; 
+• Limpar e transformar dados; 
+• Participar de reuniões; e 
+• Realizar apresentações. 
+ 
+Analista de TI – Engenheiro de Dados – Senior: 
+• Apoiar a manutenção da infraestrutura tecnológica estável e escalável; 
+• Apoiar desenvolvimento ou manutenção em modelo de aprendizagem de 
+máquina; 
+• Automatizar fluxo de dados (coleta de dados / treinamento / avaliação / 
+deploy); 
+• Configurar ambientes tecnológicos; 
+• Construir API; 
+• Elaborar apresentações; 
+• Elaborar roteiros de procedimentos técnicos; 
+• Explorar dados; 
+• Implantar API; 
+• Interpretar, construir, depurar, testar, implantar e manter procedimentos 
+computacionais armazenados e executados por sistemas gerenciadores de 
+bases de dados relacionais, multidimensionais ou NOSQL; 
+• Limpar e transformar dados; e 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 36] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+9
+• Participar de reuniões. 
+ 
+CONHECIMENTOS TÉCNICOS SOLICITADOS PARA PREENCHIMENTO DOS 
+POSTOS DE TRABALHO 
+Analista de TI – Agile Master – Senior 
+• Scrum; 
+• Product Owner/Product Ownership; 
+• Agile Coaching; e 
+• Método Kanban. 
+ 
+Analista de Design e Cultura Digital – Senior 
+• Técnicas de redação; 
+• Gestão de mídias digitais; 
+• Gestão de redes sociais; 
+• Ilustrator; 
+• In Design; 
+• Photoshop; 
+• Adobe Premier; e 
+• Gestão de conteúdo. 
+   
+    
+Analista de TI – Engenheiro de Dados – Senior    
+• Linguagem SQL; 
+• Talend Data Integration; 
+• Docker; 
+• Cloud storage (p. ex. S3, Google Cloud Storage); 
+• Git; 
+• Linguagem Python; 
+• Jupyter Notebook; 
+• NumPy; 
+• Scikit-learn; 
+• Pandas; 
+• Tensorflow; 
+• Pytorch; 
+• Flask; 
+• Administração Windows Server; e 
+• Administração Linux. 
+  •  
+ 
+Analista de TI – Analista de Dados – Senior 
+• Modelagem relacional e dimensional de dados; 
+• Proficiência em SQL; 
+• Construção de painéis de dados (dashboards) utilizando a plataforma MS-
+Power BI; 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 37] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+10
+• Formas de exploração e visualização avançada de dados utilizando 
+ferramentas de Data Discovery ou assemelhadas; 
+• Formas de visualização avançada de dados usando linguagens de 
+programação especializadas, tais como Python ou R; 
+• Estatística básica; 
+• Linguagem R ou Python; 
+• Proficiência em ao menos uma das bibliotecas de manipulação de dados: 
+dplyr, no caso do R, ou pandas, no caso do Python; e 
+• Proficiência em ao menos uma das bibliotecas de visualização de dados: 
+ggplot2, no caso do R, ou pandas, no caso do Python. 
+ 
+Analista de TI – Arquiteto de Dados – Senior: 
+• Modelagem de dados (modelos entidade-relacionamento e multidimensional); 
+• Proficiência em SQL; 
+• SGBDs Oracle e/ou SQL Server; 
+• Proficiência em alguma ferramenta de integração de dados, preferencialmente 
+o Talend Data Integration; 
+• Ferramenta para modelagem de dados, preferencialmente Power 
+Designer; 
+• Ferramentas de catálogo de dados; e 
+• Ferramenta de qualidade de dados ou gerenciamento de dados mestres 
+(MDM) ou governança de dados. 
+ 
+Analista de TI – Planejamento e Processos Digitais – Senior: 
+ Governança de TIC; 
+ COBIT – Control Objectives for Information and related Technology; 
+ Elaboração e gestão de indicadores; 
+ Experiência com elaboração e acompanhamento de planos estratégico e 
+tático de TIC; 
+ BSC; 
+ Gestão de TIC; 
+ Gestão de Processos de TIC; 
+ BPM – Business Process Management; 
+ Elaboração e gestão de indicadores; 
+ ITIL; 
+ Gestão de Segurança da Informação; 
+ ISO 27001 (Sistema de Gestão de Segurança da Informação); 
+ Conhecimento de framework de segurança da informação CIS Controls; 
+ Gestão de Riscos e Continuidade de Negócios em TIC; 
+ ISO 31000 (Gestão de Riscos) ou COSO; e 
+ ISO 22301 (Gestão da Continuidade de Negócios). 
+ 
+EQUIPE DE EXECUÇÃO 
+QUADRO RESUMO – VOLUMES CONSOLIDADOS 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 38] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+11
+Categorias de 
+Serviços 
+Contratados 
+QUANTIDADE 
+DE POSTOS 
+ 
+HORAS 
+EXECUTADAS 
+MENSAL 
+HORAS 
+EXECUTADAS 
+EM 24 (VINTE E 
+QUATRO) 
+MESES 
+AGILE MASTER 08 1.344 33.600 
+ENGENHEIRO DE 
+DADOS 05 840 21.000 
+ANALISTA DE DADOS 09 1.512 37.800 
+ARQUITETO DE DADOS 06 1.008 25.200 
+ANAISTA DE 
+PLANEJAMENTO E 
+PROCESSOS DIGITAIS 
+04 672 16.800 
+ANALISTA DE DESIGN E 
+CULTURA DIGITAL 02 336 8.400 
+TOTAL EM 24 (VINTE E 
+QUATRO) MESES 34 5.712 142.800 
+*8 horas por dia x 22 dias úteis no mês 
+ 
+ 
+A Tabela 1 apresenta, mês a mês, os valores de todos os índices contratuais 
+apurados até o presente momento1. As células destacadas em vermelho foram as 
+ocorrências em que o índice ficou abaixo do mínimo contratual e houve desconto 
+no valor da respectiva parcela mensal. 
+ 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 39] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+12
+ 
+A Tabela 2 apresenta, mês a mês, o número de cargos ocupados por categoria 
+desde o início da execução contratual. As células em vermelho indicam as 
+ocorrências em que o número de profissionais alocados foi menor do que o 
+mínimo contratual. 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 40] ---
+ 
+            CÂMARA DOS DEPUTADOS 
+             DEPARTAMENTO DE MATERIAL E PATRIMÔNIO 
+Processo n. 1.261.627/2024
+SECPL - Praça dos Três Poderes, Anexo I, Sala 1408 - Fone: (61) 3216-4907 – CEP 70160-900 - Brasília/DF.  
+Assinado eletronicamente, conforme Ato da Mesa n. 80 de 23/3/2016. 
+A autenticidade pode ser conferida via QR-CODE.
+13
+ 
+A Tabela 3 apresenta, mês a mês, o número de Horas de Serviço Técnico (HST) 
+realizadas pela contratada, apuradas e validadas de acordo com as cláusulas 
+contratuais. 
+ 
+A íntegra do contrato supracitado e aditivos pode ser consultada por 
+meio do QR Code ao lado 
+ 
+Lsps/ 
+Brasília-DF, 18 de novembro de 2024. 
+LUCIANE RODRIGUES DE PAIVA FERREIRA 
+Diretora 
+18/11/2024 11:50 - Luciane Rodrigues de Paiva Ferreira
+Documento assinado por:
+Selo digital de segurança: 2024-YVYF-NHVE-RKEE-RWEC
+
+
+--- [Página 41] ---
+MINISTÉRIO DA DEFESA 
+EXÉRCITO BRASILEIRO 
+COMANDO DE COMUNICAÇÕES E GUERRA ELETRÔNICA DO EXÉRCITO 
+COMANDO MARECHAL CÂNDIDO MARIANO DA SILVA RONDON 
+ATESTADO DE CAPACIDADE TÉCNICA 
+Atestamos para os devidos fins, que a empresa G4F SOLUÇÕES CORPORA TIVAS 
+LTDA., inscrita no CNPJ nº 07.094.346/0001-45, estabelecida no SRTVS Quadra 701, 
+Bloco "O", Sala 548 - Asa Sul, Brasflia-DF, executou de FORMA SATISFATÓRIA o 
+contrato celebrado pela Base Administrativa do Cmdo Com GE Ex, com sede na Estrada 
+Parque Contorno, Rodovia DF001, Km 05, Setor Habitacional Taquari, inscrita no CNPJ 
+nº 00.394.452/0467-82, por meio do contrato e respectivos Termos Aditivos os serviços 
+abaixo descritos. 
+■ Contrato nº 10/2019: vigência 23/08/2019 a 31/01/2022 
+■ 1° Aditivo: vigência: 01/02/2022 a 11/02/2022 
+■ 2° Aditivo: vigência: 12/02/2022 a 15/03/2022 
+OBJETO : Contratação de serviços de apoio à gestão e fiscalização do sistema de 
+sensoriamento e apoio à decisão (SAD) do projeto · piloto do sistema integrado de 
+monitoramento de fronteiras (SISFRON). 
+, .. llJM · .. Ci>.TEGOR,_I~ QO S~RVIÇO. ' PERFIL PROFISSION~L QUANTIDADE 1 Administrador de Sistema Sênior 1 
+Júnior 1 
+2 Analista Administrativo Pleno 1 
+Sênior 3 
+3 Analista contábil Júnior 1 
+4 Analista Logística Sênior 1 
+5 Analista de Projetos Pleno 2 
+6 Analista Requisitos Sênior 2 
+Sênior 5 7 Analista Sistemas Master 1 
+8 Arquivista Sênior 1 
+9 Contador Sênior 1 
+10 Economista Sênior 1 
+11 Engenheiro Ambiental Sênior 1 
+12 Engenheiro Civil Sênior 1 
+13 · Engenheiro Eletricista Sênior 2 
+14 Engenheiro Eletrônico Sênior 5 
+15 Engenheiro de Produ ção Sênior 1 
+
+--- [Página 42] ---
+ITEM CATEGORIA DO SERVIÇO PERFIL PROFISSIONAL QUANTIDADE 
+16 Engenheiro Redes Comunicação Sênior 1 
+17 Engenheiro Sistemas 
+Pleno 1 
+Master 2 
+18 Eng Telecomunicações Sênior 3 
+19 Engenheiro Mecânico Sênior 1 
+20 Especialista em Contratos 
+Pleno 1 
+Sênior 1 
+21 Especialista em Gestão de Intangíveis Sênior 1 
+22 Especialista em Segurança da Sênior 1 Informação 
+23 Gerente de Processos 
+Pleno 1 
+Sênior 1 
+Master 1 
+24 Gerente de Projetos Pleno 2 
+Sênior 1 
+TOTAL 51 
+O quadro acima apresenta a quantidade de colaboradores alocados 
+atualmente, porém o contrato prevê a alocação de 55 colaboradores. 
+SERVIÇOS DE APOIO À GESTÃO E FISCALIZAÇÃO: 
+• Apoiou no controle da execução física, financeira e de conformidade, 
+mediante os requisitos fornecidos pelo · Centro de Monitoramento de 
+Fronteiras - CMFron - do contrato 27/2012; 
+• Apoio na fiscalização da execução do Projeto Básico, Projeto Executivo, 
+execução do Plano de Integração, Plano de Engenharia de Sistemas, Planos 
+de Gerenciamento de Projetos, todos os Planos de Trabalho e a transição 
+entre as fases do Sistema de Sensoriamento e Apoio à Decisão do Projeto 
+Piloto do SISFRON e outros planos de interesse do CMFron; 
+• Apoiou na elaboração e validação de planos de projetos: 
+o Projeto Básico, Projeto Executivo, Planos de Gerenciamento de 
+Projetos, todos os Planos de Trabalho e a transição entre as fases do 
+Sistema de Sensoriamento e Apoio à Decisão do Projeto Piloto do 
+Programa SISFRON e outros planos de interesse do CMFron 
+• Apoiou os fiscais do contrato 27/2012 com as informações técnicas e 
+gerenciais para a verificação da conformidade da engenharia de sistemas e 
+dos requisitos de integração aplicados na implantação do sistema já 
+mencionado; 
+• Apoiou aos fiscais do contrato 27/2012 na verificação da conformidade dos 
+requisitos de equipamentos, de software e da infraestrutura para implantação 
+do sistema já mencionado; 
+• Apoiou no controle de configuração dos subsistemas e dos equipamentos 
+aplicados na implantação do sistema já mencionado; 
+• Apoiou aos fiscais do contrato 27/2012 no acompanhamento dos serviços in 
+loco e remoto, dos indicadores e verificação da conformidade do Suporte 
+
+--- [Página 43] ---
+Logístico Integrado (SLI) e quaisquer outros subsistemas previstos para a 
+implantação do sistema já mencionado; 
+• Apoi.ou aos fiscais do contrato 27/2012 no acompanhamento e verificação da 
+conformidade dos entregáveis, dos recebimentos, dos relatórios técnicos, 
+dos parece'rE~s. das soluções apresentadas e dos testes em fábrica e no 
+campo, bem como da integração dos subsistemas, quando for o caso; 
+• Apoiou - na capacitação e treinamento do pessoal militar envolvido no 
+acompanhamento e fiscalização do Termo de Contrato; 
+• Assessorou nas áreas financeira, de custos e tributária; 
+• Assessorou na área de propriedade intelectual; 
+• Assessorou na área de contratos nacionais , internaciona is e acordos de 
+compensação comercial (OFFSET); 
+• Assessorou na área de gerenciamento de projetos na iniciação, 
+planejamento, · execução, monitoramento, controle e encerramento de 
+projetos sob as diretrizes do PMBOK, Prince2 e NEGAPEB; 
+• Assessorou na coordenação e direção dos trabalhos do projeto; no 
+gerenciamento . das partes interessadas; no tratamento dos riscos; na 
+execução da garantia da qualidade; na aquisições das soluções do projeto; 
+na distribuição das informações; na implementação de ações corretivas e 
+preventivas; correções de rumo dos projetos; na coleta e armazenamento 
+. das lições aprendidas; no monitoramento das mudanças do projeto, do 
+escopo, dos recursos materiais, da equipe do projeto, do cronograma, dos 
+recursos e do orçamento, das entregas de soluções do projeto e das 
+comunicações; 
+• Apoiou aos fiscais do contrato 27/2012, tecnicamente, no acompanhamento 
+e verificação da conformidade da qualidade dos sistemas dos equipamentos 
+e ·quaisquer . entregas . relacionadas ao Sistema de Sensoriamento e Apoio à 
+Decisão do Projeto Piloto do SISFRON; 
+• Apoiou aos fiscais do contrato 27/2012 no acompanhamento e verificação da 
+conformidade de quaisquer critérios ambientais adotados, incluindo o 
+atendimento ao Índice de Contratação Sustentável (ICS) previsto na proposta 
+do Consórcio TEPRO; 
+• Apoiou aos fiscais do contrato no acompanhamento e verificação da 
+conformidade das providências, pela Integradora, porventura necessárias, no 
+caso de impacto ambiental (licenças ambientais); 
+• Apoiou aos fiscais do contrato no acompanhamento e verificação da 
+conformidade das providências, pela Integradora, de itens técnicos 
+relacionados a equipamentos e entregas; 
+• Apoiou aos fiscais do contrato no acompanhamento e verificação da 
+conformidade nos contratos de OFFSET, bem como na compensação de 
+créditos de OFFSET decorrentes do Sistema de Sensoriamento e Apoio à 
+Decisão do Projeto Piloto do Programa SISFRON; 
+• Apoiou aos fiscais do contrato 27/2012 na produção, elaboração, 
+armazenamento, sigilo e verificação da conformidade do acervo técnico 
+documental dos sistemas e dos equipamentos do Sistema de Sensoriamento 
+e Apoio à Decisão do Projeto Piloto do SISFRON; 
+• Apoiou aos fiscais do contrato 27 /2012 na constituição e organização etç, 
+acervo documental relacionado aos trabalhos de acompanhamento, gestt, 
+e fiscalização contratual apoiados do ferramentas informatizadas; A\ 
+
+--- [Página 44] ---
+... ' . . ~· 
+l'l ·e -,. 
+-:-:· 
+• Apoiou aos fiscais do contrato 27/2012 na produção de índices econômicos , 
+sociais e de . sustentabilidade que reflitam os benefícios do Sistema de 
+Sensoriamento e Apoio à Decisão <Jo Projeto Piloto do·StSFRON : -
+.~ · Proveu informações técnicas à ·: ·'· e·quipe · · ' de , gestão do 
+contrato/projeto/programa da sua área de ·atuação com a finalidade de 
+estabelecer procedimentos, ações padronizadas; 
+· • Realizou de modelagem de processos (BPM) operacionais, fundamentado 
+nos pilares de Pessoas, Processos e Tecnologia; 
+• Elaborou, análise e acompanhamento de relatórios , políticas, planos, atas e 
+normas; 
+• Apoiou na seleção, manutenção e atualização de quaisquer informações nó 
+repositório e/ou base de dados; 
+• Apoiou ~os fiscais de contratos no cumprimento da fiscalização, no que diz 
+. · · . . ,. . . respeito,às questões .. de conformidade técnicas·; requisitos de qualidade, de 
+.,<.: :.:,•: • · , .. ·. : regras ,contratuais; :normas ,3 legislação,: aos·.recursos orçamentários como 
+às metas físicas estabelecidas; 
+.· ": ·.: ·. ·, • Apoiou nas melhorias dos processos de :trabalho,: sistemas e metodologias 
+para garantir a aderência às demandas do projeto;. · . 
+'•· ·· ··., •• . Apoiou nas análises de cenários, antevê problemas; ·. 
+• Apoiou nas reuniões técnicas de soluções de óbices e problemas e de 
+,,,., ~::· > reuniões de defesa do interesse do Exército; · · ', · .. 
+• Acompanhou das obras e serviços de engenharia civil; 
+• Acompanhou e controle da execução física, financeira e de conformidade, do 
+projeto, da integração e da implantação dos subsistemas, utilizando 
+ferramenta de software específica, via web, a qual possibilite a geração de 
+relatórios periódicos; 
+• Apoiou na análise/elaboração de estudos ·de viabilidade; 
+• Apoiou na análise/elaboração de planilhas; 
+• Apoiou na análise de projetos e elaborar laudos técnicos sobre edificações e 
+imóveis do CMFron/CMDO COM GE EX; 
+• Apoiou à fiscalização de obras e serviços de engenharia civil de todo o 
+Sistema de Sensoriamento e Apoio à Decisão do Projeto Piloto do SISFRON; 
+• Apoiou na verificação de conformidade do cumprimento do Projeto Executivo 
+e do Plano de Trabalho relativos às fundações das torres do subsistema de 
+comunicações estratégicas, da estrutura das torres e das bases dos 
+geradores, emitindo laudos técnicos correspondentes; 
+• Apoiou na verificação de conformidade do acervo técnico documental 
+relacionado aos projetos executivos e planos de trabalho; 
+• Apoiou técnico nos projetos de defesa, adicionadas as atribuições do CBO 
+correspondente à vaga; 
+• Apoiou no acompanhamento e controle da execução física, financeira e de 
+conformidade, do projeto, da integração e da implantação dos subsistemas, 
+utilizando ferramenta de software específica, via web, a qual possibilite a 
+geração de relatórios periódicos a serem definidos pela Contratante; 
+• Apoiou na fiscalização da elaboração e execução do Plano de 
+Gerenciamento de Programa, dos Planos de Trabalho, do Plano de 
+Integração, dos Projetos Executivos e Cadernos de Testes de todos os 
+equipamentos e dos serviços dos subsistemas envolvidos no Projeto em tel(la~ 
+procurando otimizar todos os recursos envolvidos no Sistema de 
+Sensoriamento e Apoio à Decisão do Projeto Piloto do SISFRON; 
+' 
+. '.: . . . .. 
+· ·"• -· --. . · .. 
+
+--- [Página 45] ---
+·: t ~ 
+.. :':- ,· 
+. • t. 
+• Realizou consultoria técnica à equipe de gerenciamento do projeto da 
+Contratante; 
+• Apoiou ne ·acompanhamento da conformidade ' do gerenciamento de offset 
+. realizado. pek> Consórdo TE PRO para os fodos.'os·subsistemas, em parceria 
+·. com os : demais · profissionais da empresa ·Ap0iad0ra;· possibilitando um 
+melhor aproveitamento dos recursos materiais,• humanos e financeiros; 
+• Apoiou ,:,no acompanhamento da conformidade .do gerenciamento da 
+transferência de tecnologia dos fornecedores estrangeiros, prevista · em 
+contratos de offset, conjuntamente com os demais profissionais envolvidos 
+no Sistema de . Sensoriamento e Apoio à Decisão do Projeto Piloto do 
+SISFRON, tanto da Contratante como da Empresa Apoiadora; 
+· • Realizou o acompanhamento da conformidade dos critérios ambientais 
+. adotados,.· incluindo . o atendimento ao Índice :de Contratação Sustentável 
+(IGSrprevisto ·na proposta do Consórcio.TEPRO.; ,quando·.for o e.aso. 
+: .. • • . Rea!·izou·,.·a, verificação da conformidade : das.-etar.:>as;• .. dai industrialização; 
+montagem e integração dos equipamentos .e subsistemas , dos recebimentos 
+. e· testes,:ern fábrica e-no campo, no País;. informando ·:as melhores técnicas 
+na ._padrnnização .. de procedimentos : e .racionalização :· de. recursos, . 
+· coordenando •· ·o · estabelecimento · de ·. um .·::padrão · d~.· qualidade dos 
+equipamentos e dos subsistemas do Sistema _de Sensoriamento e Apoio à 
+Decisão do Projeto Piloto do SISFRON; . :•• . ·-: · ... ~ ··:. : : .. :-.': ~ ·. 
+• Apoiou na definição da melhor gestão na integração da mão-de-obra, em 
+conjunto com os especialistas da empresa CONTRATADA, possibilitando 
+_uma otimização dos recursos humanos e ecqr::iorr:i!a d~ recursos.; 
+• Apoiou na definição dos requisitos necessários à definição dos critérios de 
+. qualidade· dos produtos e equipaíf!entos _eriyqlyic;fos em cada · subsistema, 
+• apoiandct.á '.CONTR,A i ANTE no Plano de G~renciamento da Qualidade e · 
+elaborando·normas de procedimento e auditoria para·a verificação do padrão 
+de qualidade; 
+• Apoiou na projeção, implementação e aperfeiçoamento dos subsistemas, em 
+consonância com o que estiver estabelecido pela CONTRATANTE.; 
+• Realizou apoio técnico nos projetos de defesa, adicionadas as atribuições do 
+CBO;. 
+• Apoiou na elaboração, análise e acompanhamento de relatórios, políticas, 
+planos, atas e normas. 
+• Selecionou, manteve e atualizou informações no repositório e/ou base de 
+dados de sua área de atuação e/ou na sua função. Apoia os fiscais de 
+contratos no cumprimento da fiscalização, no que diz respeito às questões 
+de conformidade técnicas, requisitos de qualidade, de regras contratuais, 
+normas e legislação, aos recursos orçamentários como às metas físicas 
+estabelecidas. 
+• Propôs melhorias nos processos de trabalho, sistemas e metodologias para 
+garantir a aderência às demandas do projeto. Analisa cenários, antevê 
+problemas; 
+• Apoiou no acompanhamento de obras e serviços de engenharia elétrica; 
+análise/elaboração de planilhas; Elaboração de laudos técnicos sobre , 
+edificações e imóveis do CMFron/CMDO COM GE EX, projetos de 
+instalações elétricas de baixa tensão, de telefonia, de som, de cabeamento 
+estruturado, de SPDA, entre outros; Apoio à fiscalização de obras e serviços 
+. ·.:• _, - . 
+. . :-: ,,. 
+• ... r 
+
+--- [Página 46] ---
+·, .. ·-... : · . 
+·' . '- ; 
+de engenharia elétrica de todo o Sistema de Sensoriamento e Apoio à 
+Decisão do Projeto Piloto do SISFRON; 
+• · Apoiou ·na verificação da conformidade d.o cumprimento-do.Projeto Executivo 
+.e do ·Prano. de Trabalho relativos ao fornecimento ·de geradores, nobreaks, 
+quadros ·, de · transferência automáticos, . ·quadros , de distribuição e · 
+aterramento, emitindo . laudos técnicos , correspondentes; · verificação da 
+conformidade do· acervo técnico documental · reJaciqnado aos projetos 
+executivos e planos de trabalho; . . 
+• Apoiou na verificação da conformidade das propostas de cadernos de testes 
+a serem . entregues pelo Consórcio Tepro; destinados aos Testes de 
+Aceitação na Fábrica e aos Testes de Aceitação no Local; realização de 
+inspeçôes e verificação da conformidade dos.Testes em Fábrica/Testes em 
+Campo, bem corno a integração çom os subsisterr:ias; . 
+• · Apoiou na verificação da conformiôad~ dosrecebimE;intos e testes em fábrica 
+e no campo; . . . . . -·.- , 
+•. Apoiou na verificação da conformidade da capacitação dos responsáveis 
+pelamanutenção em-·1° escalão dos geradores. e 0.obreaks, conduzida nas 
+Organizações Militares do Comando Militc:1r do Oeste; 
+• Apoiou a fiscalização da capacitação dos. operadores: dos equipamentos ( on 
+site), conduzida nas Organizações Militares do Comando Militar do Oeste; 
+• Apoiou navermcação da conformidade do Suporte Logístico Integrado (SLI) 
+contratado; 
+• Apoiou na verificação da conformidade da qualidade das malhas de 
+. aterramento dos Sistemas de Sensoriamento e Apoio à Decisão do Projeto 
+Piloto do SISFRON no período de seca, ·com emissão de laudos técnicos; 
+• Apoiou no.recebimento dos equipamentos nas Organizações Militares. . 
+• · ApoíóU para elabora; analisa e acompanha relat6ribs, pôlíticas, planos, atas 
+e normas; 
+• Apoiou para selecionar, manter e atualizar quaisquer informações no 
+repositório e/ou base de dados; 
+• Apoiou aos fiscais de contratos no cumprimento da fiscalização, no que diz 
+respeito às questões de conformidade técnicas, requisitos de qualidade, de 
+regras contratuais, nbrmas e legislação, aos recursos orçamentários como 
+às metas físicas estabelecidas. Propõe melhorias nos processos de trabalho, 
+sistemas e metodologias para garantir a aderência às demandas do projeto. 
+Analisa cenários, antevê problemas; 
+• Apoiou no acompanhamento e controle da execução física, financeira e de 
+conformidade, do projeto, da integração e da implantação dos subsistemas, 
+utilizando ferramenta de software específica , via web, a qual possibilite a 
+geração de relatórios periódicos a serem definidos pela Contratante. 
+SERVIÇOS DE APOIO A GESTÃO TÉCNICA 
+• Realizou a fiscalização da execução e verificação da conformidade do Plano 
+de Trabalho, do Plano de Integração e do Projeto Executivo; 
+• Realizou o acompanhamento e verificação da conformidade das tarefas 
+executadas relativas a cada Etapa prevista no Cronograma Físico-Financeiro 
+(CFF); 
+• Realizou o acompanhamento, verificação e revisão da conformidade d 
+engenharia de sistemas: 
+• :. _ __ , • t 
+•• i· .: ' • • ' 
+
+--- [Página 47] ---
+o concepção do sistema, conformidade dos requisitos do sistema, da 
+integração e da instalação, desenvolvimento .. e ciclo de vida do 
+•. sistema; , ··.. . . .. .. 
+• ·· .Realizou o -acompanhamento e verificação ·da ·conformidade da qualidade 
+dos equipamentos e sistemas; · ... :· ;·, 
+• Realizou o acompanhamento e controle de configuração dos sistemas e 
+equipamentos aplicados na implantação do subsistema; · 
+• . Realizou · o acompanhamento, verificação e- revisão da · conformidade dos 
+requisitos de equipamentos , de software, · de· integração e da infraestrutura 
+para implantação do subsistema. 
+·SERVIÇOS DE APOIO VIGILANCIA, MONITORAMENTO E RECONHECIMENTO 
+• o Realizou a consultoria técnica à equipe · dé·gerertciamento do SVMR da 
+Contratante; ·· · · 
+• Realizou o acompanhamento do desenvolvimento do software (Unidade de 
+Visualização do Radar) do SVMR; . · ..... 
+• Realizou o acompanhamento e controle de · configuração dos sistemas e 
+equipamentos aplicados na implantação d'e .radares: . ::_: · · . · · 
+• Realizou o acompanhamento e verificação da conformidade da qualidade 
+· dos e·quipamentos e sistemas; · ..... : •· · · : .. .e · : 1 · 
+• Experiencia em Câmera de Longo Alcance (CLA); ·· 
+• Realizou o acompanhamento do processo de produção do Radar, da CLA, e 
+de montagem e integração do SVMR; Acompanhar o desenvolvimento e a 
+linha de ·montagem do SVMR; · · · · · 
+• Realizou a verificação . da conformidade da configuração -dos equipamentos 
+e·sistemas; 
+• Realizou a verificação da conformidade da qualidade dos sistemas 
+desenvolvidos, integrados e instalados no SVMR; 
+• Realizou a verificação da conformidade do recebimento dos SVMR nas 
+Organizações Militares; Acompanhamento da implantação da operação e do 
+sistema de manutenção dos sistemas embarcados no SVMR; 
+• Realizou o acompanhamento e verificação da conformidade do Suporte 
+Logístico Integrado (SLI) previsto para a implantação do SVMR; 
+• Colaborou na análise e crítica dos manuais de operação e manutenção, dos 
+equipamentos e sistemas, do SVMR; 
+• Realizou a verificação da conformidade das propostas de cadernos de testes; 
+• Realizou o acompanhamento e validação dos testes de conformidade dos 
+equipamentos e sistemas do SVMR ; 
+• Realizou o acompanhamento e validação dos testes de laboratório e de 
+campo do Radar do SVMR; Acompanhamento e validação dos testes de 
+laboratório e de campo da Câmera de Longo Alcance do SVMR; 
+• Realizou o acompanhamento e validação dos testes de laboratório para 
+certificação/homologação do SVMR; 
+• Realizou o acompanhamento e validação dos FAT e SAT do SVMR e seus 
+equipamentos e sistemas embarcados ; 
+• Acompanhou os testes de verificação e validação do SVMR integrado a 
+Sistema de Sensoriamento e Apoio à Decisão do Projeto Piloto do SISFRON; 
+• Acompanhou o emprego das ferramentas de testes e de qualidade ; 
+· . . ·. 
+·. , •, , .. 
+
+--- [Página 48] ---
+... ·· 
+• Realizou a verificação da conformidade do processo de certificação dos 
+equipamentos e sistemas embarcados do SVMR; 
+• Realizou o àcompanhamento, verificaçã6 -da,conformidade e validação dos 
+· treinamentos ... de capacitação ministrados ·sobre · o ·svMR; conduzida nas 
+Organizações Militares do Comando Militar do Oeste; · , ·. ·;- .· 
+• · Verificoú ·.a conformidade do Suporte Logístico lntegrado ·(SLI) contratado, 
+previsto para a implar1tação e ciclo de vida do SVMR; 
+• Realizou o acompanhamento e verificação da • conformidade do 
+gerenciamento do contrato de offset firmàdo entre n Exército e a empresa 
+fornecedora dos equipamentos e sistemas do SVMR, quando for o caso; 
+• Realizou . o acompanhamento e verificação da • conformidade do 
+gerenciamento . .da .· transferência de :tecnologia · dos fornecedores 
+estrangeiros, prevista em contratos específicos, relativa aos equipamentos e 
+sistemas do SVMR; '· ··· 
+• · Real izou : o assessoramento técnico nas-·áreas de propriedade intelectual e 
+de transferência de tecnologia, quando for o caso; 
+• Realizo ·u .', viagens para verificação · da'· conformidade ·: das etapas, da 
+industrialização, montagem e integração -.dós equipamentos e sistemas, dos 
+· recebimentos e testes em fábrica e no cahip6. , 
+· SERVIÇOS OE APOIO AO SUBSISTEMA DE. COMUNI.CAÇÕES TÁTICAS 
+• Realizou o acompanhamento do processo de produção e montagem dos 
+sistemas móveis; .. 
+• Realizou a verificação da conformidade da configuração dos equipamentos 
+e sistemas; ._, . , 
+• Realizou · a verificação da conformidade da qualidade dos sistemas 
+desenvolvidos, integrados e instalados; 
+• Realizou a verificação da conformidade do recebimento equipamentos e 
+sistemas das Comunicações Táticas nas Organizações Militares; 
+• Realizou o acompanhamento da implantação da operação e do sistema de · 
+manutenção para as Comunicações Táticas; 
+• Realizou o acompanhamento e verificação da conformidade do Suporte 
+Logístico Integrado (SLI) previsto para a implantação das Comunicações 
+Táticas; 
+• Colaborou na análise e crítica dos manuais de operação e manutenção dos 
+equipamentos e sistemas; 
+• Realizou a verificação da conformidade das propostas de cadernos de testes 
+a serem entregues pelo Consórcio Tepro, destinados aos FAT e SAT; 
+• Realizou o acompanhamento, verificação da conformidade e validação dos 
+testes de F A T e SAT dos equipamentos e sistemas das Comunicações 
+Táticas; 
+• Acompanhou os testes de verificação e validação dos equipamentos e 
+sistemas integrados ao Sistema de Sensoriamento e Apoio à Decisão do 
+Projeto Piloto do SISFR0N; 
+• Acompanhou o emprego das ferramentas de testes e de qualidade; 
+• Realizou a verificação da conformidade do processo de certificação dos 
+equipamentos e sistemas, quando for o caso; l 
+• Realizou o acompanhamento, verificação da conformidade e validação dos 
+treinamento s de capacitação ministrados sobre os equipamentos e sistema~ 
+.,: .; ·· .. :. 
+. . . . . ' . ·. ' . 
+• .. :•, :_ . . , : . ' ' 
+. , .. ~ . ' . . 
+• • • • •. 1, • • • •• 
+
+--- [Página 49] ---
+de Comunicações Táticas, conduzida nas Organizações Militares do 
+Comando Militar do Oeste; 
+· .• R _ealizou .a.v.~rificação.a conformidade .. do Suporte .Logístieo Integrado (SLI) 
+· •Contratado,, previsto para a implantação e:Ciclo-de,vida;'dos equipamentos e 
+sistemas; ··• · ., · 
+· • . Rec1lizoa: a verificação ·da execução do contrato de offset firmado entre o 
+Exércibe a empresa fornecedora dos equipamentos e•sistemas; 
+. • Realizou·. o . acompanhamento e · verificação da . conformidade do 
+gerenciamento . da transferência de tecnologia · dos · fornecedores 
+estrangeiros, quando for o caso; 
+• Realizou. o assessoramento técnico nas áreas de propriedade intelectual e 
+de transfer&ncia-de' tecnologia dos equipamentos ·e softwares, quando for o 
+caso; 
+.• HealizolJ · viagens . para verificação da conformidade d8s etapas, da 
+industria!ize:1ção,,,montagem e integração dos-.equipamentos e sistemas, dos 
+recebimentos e testes em fábrica e no campo'. 
+·' ,., · .· ·seRVIÇOS pE.'.A.POIO'AOS SENSORES DE s1Ni1s ELETROMAGNÉTICOS 
+• . R~alizou •'O·,acqmpanhamento da instalaç·ão da -linha :·de montagem do 
+Receptor de Banda Larga; Acompanhamento do desenvolvimento, o 
+processo de produção, montagem e integração do Receptor de Banda Larga 
+ao subsistema. 
+• • Realizou · o · acompanhamento do desenvolvimento ; verificação da 
+conformidad~ e validação do firmware do Receptor de Banda Larga. 
+• Realizou a verificação da conformidade da configur-ação dos equipamentos 
+e sistemas; 
+• Realizou a verificação da conformidade da qualidade dos equipamentos e 
+sistemas desenvolvidos, integrados e instalados no subsistema; 
+• Realizou a verificação da conformidade do recebimento dos equipamentos e 
+sistemas nas Organizações Militares; 
+• Realizou o acompanhamento da implantação da operação e do sistema de 
+manutenção dos equipamentos e sistemas; 
+• Realizou o acompanhamento e verificação da conformidade do Suporte 
+Logístico Integrado (SLI) previsto para a implantação dos equipamentos e 
+sistemas; 
+• Colaborou na análise e crítica dos manuais de operação e manutenção, dos 
+equipamentos e sistemas; 
+• Realizou a verificação da conformidade das propostas de cadernos de testes 
+a serem entregues pelo Consórcio Tepro, destinados aos FAT e SAT; 
+• Realizou o acompanhamento e validação dos testes de laboratório e de 
+campo do Receptor de Banda Larga; Acompanhamento e validação dos 
+testes de laboratório para certificação/homologação dos equipamentos e 
+sistemas; 
+• Realizou o acompanhamento, verificação da conformidade e validação dos 
+FAT e SAT dos equipamentos e sistemas; 
+• Acompanhou os testes de verificação e validação dos sensores integrados 
+ao Sistema de Sensoriamento e Apoio à Decisão do Projeto Piloto do 
+SISFRON; 
+. : .. ...... ·.· 
+. •·· 
+
+--- [Página 50] ---
+:;· 1 .• , 
+. ··•.:· ; .. ' 
+• Acompanhou o emprego das ferramentas de testes e de qualidade; 
+• Realizou a verificação da conformidade do processo . de certificação dos 
+.- · .equiparri'entos: e . sistemas embarcados; · quando.· . for o caso; 
+Acompanhamento, verificaçãO' da conformidade · e · validação dos 
+. treinamentos . :de . capacitação ministrados, conduzida nas Organizações 
+. Militares do Comando Militar do Oeste; ·· 
+• . Realizqu a ve'rificação das conformidades do. Suporte Logístico Integrado 
+(SU) .contratado, previsto para a implantação .·e ·ciclo de vida dos 
+equipamentos e sistemas; 
+• Realizou o acompanhamento e verificação da · conformidade do 
+gerenciamento do contrato de offset firmado entre o Exército e a empresa 
+fornecedora de equipamentos; • · · 
+· • Realizou· · o · acompanhamento · e verificação da conformidade do 
+gere/lciament0 · ··da ·•· transferência. de ·_. .tecnologia:·\ dos·· fornecedores 
+estrangeiros, quando for o caso; :,::·,· ... . ·.:· .. ·, ·· ·.:- : · 
+• Realizbu o assessoramento técnico· nas áreas de propriédade intelectual e 
+· ·. de tr:ansférência .d~ .tecnologia, quando for o caso; Realização de viagens 
+para v.eriJicação. da conformidade das etapas, da industrialização, montagem 
+·e ihte·gra:ção dos·:·equiparnenfos . e sistemà·s;· ·dó's·. recébímentos· e testes em .. 
+fábrica e no campo. 
+SERVIÇÕS DE APOIO AS COMUNICAÇÕES TÁTICAS 
+• · · Realizou o acompanhamento e fiscalização da implantação de sistema de 
+comunicações táticas em HF, VHF, UHFe SHF; · . 
+.•.. 
+• 
+• 
+Realizoa o acompanhamento e fiscalização .dos experimentos para avaliação 
+de desempenho e aderência às diversas normas e padrões dos seguintes 
+equipamentos de comunicações táticas: 
+o Equipamentos de rádio frequência em HF, VHF, UHF e SHF; 
+o Amplificadores de potência em HF, VHF, UHF e SHF; 
+o Antenas em HF, VHF, UHF e SHF; 
+o Roteadores e Switches; 
+Realizou o acompanhamento e fiscalização dos experimentos para avaliação 
+de desempenho e aderência às diversas normas e padrões de roteadores e 
+equipamento de Telefonia IP baseada em protocolos proprietários ou SIP; 
+Realizou o acompanhamento e fiscalização da implantação de estações fixas 
+de HF de grande porte. 
+SERVIÇÕS DE APOIO AS COMUNICAÇÕES SATEUTAIS 
+• Realizou o acompanhamento e fiscalização da implantação de sistema de 
+comunicações por satélite; 
+• Realizou o acompanhamento e fiscalização dos experimentos para avaliação 
+de desempenho e aderência às diversas normas e padrões dos seguintes\ 
+equipamentos de comunicações por satélite: 
+o Equipamentos em banda base que operam no padrão DVB-S2/DVB 
+RCS e DVB-S2/SCPC, de acordo com os padrões ETSI EN 302 307 
+v.1.2.1 (2009-08) e ETSI EN 301 790 v.1.5.1 (200905); 
+
+--- [Página 51] ---
+..... ; • 1 • • 
+o Up-converter (de Hartdâ L para barrd~ X) e Down converter (de banda 
+X para banda L), de acordo com MIL-STD-188-164a Change 3; 
+o·-_.:SSPÀ : (solid-state power amplifier) e LNA (Low-noise amplifier) . em 
+, ';. :bandaX, . de acordo com MIL"'.'STO,,188-164a;.A..nte_nas refletoras que 
+operam com . polarização circula _r em -b.anda )( · de ·acordo com 
+STANAG 4494 Edition 2, ITU-RS.:580; MIL-STD-8l0F; , 
+. ó, .-Sistema de M&C de estações (HUBs), .terminai$ e do_ sistema de 
+. comunicações por satélite que utilizam protocolo SNMP; 
+• Realizou · o acompanhamento e fiscalização do comissionamento de 
+estações de comunicações por satélite de .gra11de porte (HUB) e pequeno 
+porte (terminais fixos); 
+• Realizou o acompanhamento e fiscalização dos-experimentos para avaliação 
+.de desempenho ·e aderência às diversas n_orm_as e padrões de roteadores e 
+equipamento de Telefonia IP baseada. er:ri:PrQtocolos proprietários qu SIP; 
+• -Realj~ou· .. ú acompanhamento e . fi~calizaçf~o. -çla int~graçã.o . de sistema de · 
+comunicações por satélite a sistemas de t~lefon_iq e redes de-dados legados 
+do Ministério da Defesa e do Exército Brasil~Jr-9;,·. ·:,~-_., . '-'·· · 
+• . .Realiz;ou os _cálculos de enlaces (link . buçlgets). ·. ~ntre terminais de 
+comunicações por satélite; - ,, · ·,.: · ,,. -.... ,_, __ .· , .. '. 
+• Realizou o acompanhamen to e fiscalização da realização de exper imentos 
+para ,avaliação de desempe nho de redes de comunicações por satélite. 
+SERVIÇÕS DE APOIO AS COMUNICAÇÕES ESTRATÉGICAS 
+· • - Realizou o aéompanhamento e fiscalização da realiza·ção de estudos da faixa 
+. de frequência disponíve l para a transmissão de uma informação e 
+· · deterrrrinação ··da" potência dos equipamentos; . bem como a. análise do 
+desempenho do sistema de telecomunicações, estudando a topografia e 
+condições ambientais de determinada região; 
+• Realizou o acompanhamento e fiscalização do comissionamento de torres 
+de comunicações para transmissão de dados por micro-ondas; 
+• Realizou o acompanhamento e fiscalização da certificação e homologação 
+de enlaces, junto à ANATEL; 
+• Realizou o acompanhamento e fiscalização dos testes de desempenho de 
+redes MPLS; 
+• Realizou o acompanhamen to e fiscal ização dos testes de aceitação de 
+rádios, antenas, roteadores, switches, nobreaks e computadores. 
+SERVIÇÕS DE APOIO A ENGENHARIA MECÃNICA 
+• Realizou a a nálise de projetos de engenharia mecânica para constr ução, 
+montagem ou manutenção de instalações e equipamentos de funcionamento 
+mecânico, o que inclui a integração de equipamentos em veículos, torres e 
+edificações; 
+• Realizou a análise de projetos de engenharia mecânica, mediante estudo de 
+especificações, desenhos, técnicas de execução, recursos necessários e 
+outros requisitos, para possibilitar a construção, montagem, funcionamento, ~ 
+manutenção e reparo de instalações e equipamentos mecânicos; 
+• Realizou a fiscalização e análise das etapas de fabricação de equipamentos 
+e implantação de sistemas militares; 
+.. " · 
+· .. ; · • •. ·,· t· ,. , · 
+
+--- [Página 52] ---
+· ·3 · 
+' 1i'", • ' : ' _.; 
+• Realizou o estudo dos requisitos operacionais de instalações e equipamentos 
+mecânicos (integrados em veículos, torres ou edificações), com exame de 
+esboços .e . necessidades técnicas, para organizar· . sua execução ou 
+aperfeiço·ame[)to; além da verificação de -como os elementos interag em entre 
+si, ao longo do tempo; 
+· • Realizou o controle do desenvolvimento do projeto · cot'ff· a supervisão e 
+orientação dos aspectos técnicos dos processos de fabricação, montagem e 
+. instalação , para assegurar a observância das especificações e dos padrões 
+de qualidade e segurança de equipamentos militares; 
+• Realizou à ·operação de microcomputador no -sistema CAD/CAM, o que inclui 
+a confecção de desenhos e gráficos; 
+• Realizou -o controle .da qualidade; por meio do acompâr'íharnento, análise e 
+conferência de medidas; 
+41 Rerlli~ou a swpervi.são ·e análise de processos, norh'1as e prÓcêdirnentos de 
+:seguranr; a;pat·a·a·produção e operação de equipamentos ;- como também de 
+sistemas; 
+• · Reà!izou ·os : testes dos equipamentos é sistemás·· a· serem • recebidos nas 
+etapas ·de implantação do Sistema de Sensoriamento e Apoio à Decisão do 
+Projeto Piloto du SISFRON, paréfdeterminar :modificações riecessárias ou 
+aprovar o recebimento de equipamentos e sistemas; 
+• · . Realizou ; a análise das linhas de produção de equipamentos, montagem, 
+automação, manutenção e operação de sistemas mecânicos. 
+,,,. , .:, SERVIÇÕS OE APOIO A REDES DE COMUNICAÇÃO . ,, 
+• ··· Atuou .. m,i:disposit!vos TI, engenharia-de:redes,·: estrutara-, topóiogia; 
+• Montou, configurou e realizou manutenção de redes; 
+• Real izou a certificação de dispositivos e redes de TI; 
+• Realizou os projetos de montagem , configuração e manutenção de redes; 
+• Condução de testes de componentes de TI e montagem, configuração e 
+manutenção de redes. 
+• Realizou a verificação da conformidade do cumprimento do Projeto Executivo 
+e do Plano de Trabalho relativos às redes lógicas dos Centros de Comando 
+e Controle, emitindo relatórios de acompanhamento; 
+• Realizou a verificação da conformidade do recebimento das redes lógicas 
+dos Centros de Comando e Controle Fixos e Móveis nas Organizações 
+Militares; 
+• Realizou a verificação da conformidade da configuração das redes lógicas 
+dos Centros de Comando e Controle; 
+• Realizou a verificação da conformidade do acervo técnico documental das 
+redes lógicas dos Centros de Comando e Controle. 
+SERVIÇÕS DE APOIO AMBIENTAL 
+• Realizou a verificação do cumprimento de todas as normas referentes ao 
+gerenciamento do impacto ambiental das obras relacionadas ao Sistema de 
+Sensoriamento e Apoio à Decisão do Projeto Piloto do SISFRON; 
+• Realizou a verificação da conformidade dos Estudos de Viabilidade 
+Ambiental, Planos de Controle Ambiental e Relatórios de Controle Ambiental; 
+.. :·• '· . 

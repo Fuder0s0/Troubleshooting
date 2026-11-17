@@ -1,0 +1,73 @@
+DOCUMENTO: 5 - Gestao de conhecimento MPMT\Wiki\E-mail de Ministério Público de Pernambuco - MPPE - procedimentos judiciais na caixa _A RECEBER_.pdf
+PASTA: 5 - Gestao de conhecimento MPMT
+TAMANHO: 0.32 MB
+
+--- [Página 1] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+MPPE - procedimentos judiciais na caixa "A RECEBER"
+4 mensagens
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 30 de julho de 2025 às 10:08
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Prezado Daniel, tudo bem? 
+Estamos testando o fluxo do módulo JUDICIAL do SIMP4 e vamos iniciar o detalhamento.
+Existe alguma possibilidade de se incluir uma carga de procedimentos judiciais na caixa "A RECEBER"? 
+Eventualmente, com a possibilidade de 1a e 2a Instância.
+Atualmente, esta caixa "zerada".
+Você acha que o MPMT conseguiria efetuar alguma intervenção no banco de dados ou rotinas que viabilizasse a inclusão de procedimentos nesta caixa?
+Desde já, grato pela atenção e disponibilidade.
+Atenciosamente
+Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br> 30 de julho de 2025 às 16:48
+Para: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Cc: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Olá Lucio.
+26/01/2026, 10:23 E-mail de Ministério Público de Pernambuco - MPPE - procedimentos judiciais na caixa "A RECEBER"
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r4723997585867218724&simpl=msg-a:r3560998235135660912&simpl=msg-f:1839102611925220438&simpl=msg-a:r-7571… 1/3
+
+--- [Página 2] ---
+Ajustei o perfil dos usuários abaixo, configurando-os como Coordenador:
+- Nathália Fernanda C. Leite De Assis 
+- Simony Oliveira 
+- Danielle Maria Lopes 
+- Mario Vieira da Silva Neto 
+Assim, estes usuários conseguem repassar os protocolos da seguinte forma:
+- Acessar a caixa
+"No meu local"
+- Escolher um Simp qualquer,
+e clicar no botão "Repassar"
+- Assim este processo
+entrará na caixa
+"Recebidos"
+- Então esse mesmo usuário poderá movimentar
+esse Simp para qualquer dos usuários de vocês.
+- Nesse momento o processo entrará na
+caixa "A receber" do usuário destino
+Qualquer dúvida basta retornar.
+Atenciosamente,
+Importante:
+Para solicitar serviços de TI, utilize um dos canais de atendimento abaixo:
+- E-mail para suporte@mpmt.mp.br
+- Central de Serviços: (65) 3613-5166
+De: Lucio Jorge Ferreira Santos <lucios@mppe.mp.br>
+Enviado: quarta-feira, 30 de julho de 2025 09:08
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>; Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>
+Assunto: MPPE - procedimentos judiciais na caixa "A RECEBER"
+ 
+[Texto das mensagens anteriores oculto]
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 30 de julho de 2025 às 20:45
+Para: Daniel Ribeiro Soares <daniel.soares@mpmt.mp.br>
+Cc: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Haglay Alice Nunes Da Silva <haglay@mppe.mp.br>, Jeferson Lamartine Boldrin <jeferson.boldrin@mpmt.mp.br>
+Muito obrigado!
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:23 E-mail de Ministério Público de Pernambuco - MPPE - procedimentos judiciais na caixa "A RECEBER"
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r4723997585867218724&simpl=msg-a:r3560998235135660912&simpl=msg-f:1839102611925220438&simpl=msg-a:r-7571… 2/3
+
+--- [Página 3] ---
+Lucio Jorge Ferreira Santos <lucios@mppe.mp.br> 30 de julho de 2025 às 20:46
+Para: Tarcisio Rodrigues De Lima <tlima@mppe.mp.br>, Maurivane Gomes Da Silva <mgsilva@mppe.mp.br>, Danielle Maria Lopes <danielle.maria@mppe.mp.br>, Simony Oliveira <msimony@mppe.mp.br>,
+Mario Vieira da Silva Neto <mario.silva@mppe.mp.br>, "Nathália Fernanda C. Leite De Assis" <nathalia.assis@mppe.mp.br>
+PSC
+[Texto das mensagens anteriores oculto]
+26/01/2026, 10:23 E-mail de Ministério Público de Pernambuco - MPPE - procedimentos judiciais na caixa "A RECEBER"
+https://mail.google.com/mail/u/0/?ik=3306791987&view=pt&search=all&permthid=thread-a:r4723997585867218724&simpl=msg-a:r3560998235135660912&simpl=msg-f:1839102611925220438&simpl=msg-a:r-7571… 3/3
