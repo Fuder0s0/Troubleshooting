@@ -793,6 +793,19 @@
           "ref": "Manual Escriba MPPE / Projeto Documental SIMP"
         }
       ]
+    },
+    "comunidade_whatsapp": {
+      "title": "Comunidade de Usuários WhatsApp (SIMP-PE)",
+      "keywords": [
+        "whatsapp",
+        "dúvida",
+        "problema",
+        "erro",
+        "relato",
+        "solução"
+      ],
+      "docs": [],
+      "issues": []
     }
   }
 }

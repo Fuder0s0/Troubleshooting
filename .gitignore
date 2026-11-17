@@ -7,11 +7,17 @@ env/
 venv/
 .env
 
+# Sessão e Perfil local do WhatsApp/Chrome
+whatsapp_profile/
+
 # Arquivos temporários e logs
 *.log
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Atalhos locais
+*.lnk
 
 # Arquivos pesados de mídia ou dumps (caso colocados localmente)
 *.mp4
